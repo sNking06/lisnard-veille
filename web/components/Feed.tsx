@@ -124,7 +124,7 @@ export default function Feed({ title, entries, children }: { title: string; entr
         ) : (
           <div className="empty">
             <p>Aucune publication ne correspond à ces critères.</p>
-            <button type="button" className="btn" onClick={reset}>Réinitialiser les filtres</button>
+            <button type="button" className="btn btn-secondary" onClick={reset}>Réinitialiser les filtres</button>
           </div>
         )}
       </section>

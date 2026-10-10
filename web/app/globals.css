@@ -1,43 +1,55 @@
 /* =========================================================================
    Veille Lisnard 2027 — feuille de style
-   Ton éditorial sobre : Montserrat (titres serrés, kickers en petites capitales espacées),
-   papier chaud, encre graphite-vert, accent sarcelle, accent brique très discret.
+   Ton éditorial sobre : Montserrat (titres serrés, kickers en petites capitales espacées).
+   Palette inspirée de « Nouvelle Énergie » (couleurs seulement : ni logo, ni photo, ni affiliation) :
+   bleu marine #1d257a / bleu nuit #0f1450, violet d'accent #4a36a3, kaki #aba884 / #b0ad85.
+   Clair : fond #fbfbfd, cartes blanches à filets bleutés, titres et liens marine, boutons pleins marine,
+   boutons secondaires et filets décoratifs kaki. Le kaki n'est JAMAIS une couleur de texte sur fond clair.
+   Sombre : fond bleu nuit, cartes marine, texte #fbfbfd, liens et boutons pleins kaki (texte #0f1450).
    Mise en page « timeline » : colonne centrale, en-tête collant avec onglets, posts en cartes
    arrondies, rails latéraux en bureau, barre basse sur mobile.
    Thème clair par défaut (ou préférence système), thème sombre au choix.
-   Verdicts : même forme, même poids, même libellé typographique ; seule la teinte des repères varie,
-   à contraste équivalent. Le niveau est porté par la forme (points pleins/vides), jamais par la couleur.
-   Contrastes WCAG AA : texte ≥ 4.5:1, contrôles et bordures de contrôles ≥ 3:1.
+   Verdicts : même forme, même poids, même libellé typographique ; seule la teinte des repères varie
+   (bleu / violet / kaki foncé, ni vert ni rouge), à contraste équivalent. Le niveau est porté par la
+   forme (points pleins/vides), jamais par la couleur.
+   Contrastes WCAG AA : texte ≥ 4.5:1, contrôles et bordures de contrôles ≥ 3:1 (ratios notés en regard).
    ========================================================================= */
 
 /* ---------- Jetons (clair par défaut, y compris sans JavaScript) ---------- */
 :root {
-  --paper: #f6f4ef;
-  --surface: #fffdf9;
-  --surface-2: #efece4;
-  --hover: rgb(17 32 29 / 0.05);
-  --ink: #11201d;        /* 15:1 sur le papier */
-  --ink-2: #33433f;      /* 9.5:1 */
-  --muted: #5a6662;      /* 5.4:1 sur le papier, 4.9:1 sur surface-2 */
-  --rule: #e2ded4;
-  --rule-strong: #cfcabd;
-  --control: #7a817c;    /* bordures de contrôles : 3.7:1 sur le papier */
-  --accent: #0e6a66;     /* liens : 5.8:1 sur le papier */
-  --accent-fill: #0e6a66; /* fond des boutons pleins : texte blanc 6.4:1 */
-  --accent-fill-hover: #0b5754;
-  --on-accent: #ffffff;
-  --accent-soft: #e3eeeb;
-  --brick: #b4492f;      /* accent secondaire, très discret : 4.9:1 */
-  --ai-ink: #0e6a66;
-  --notice-bg: #11201d;  /* bandeau d'avertissement : texte 15:1 */
-  --notice-ink: #f6f4ef;
-  --header-bg: rgb(246 244 239 / 0.9);
-  --shadow: 0 1px 2px rgb(17 32 29 / 0.04), 0 10px 28px -14px rgb(17 32 29 / 0.16);
+  --paper: #fbfbfd;
+  --surface: #ffffff;
+  --surface-2: #f0f1f8;
+  --hover: rgb(29 37 122 / 0.06);
+  --ink: #0f1450;        /* texte courant : 16.4:1 sur le papier */
+  --heading: #1d257a;    /* titres : 12.7:1 sur le papier, 11.7:1 sur surface-2 */
+  --ink-2: #2c3270;      /* 10:1 */
+  --muted: #545a88;      /* 6.4:1 sur le papier, 5.8:1 sur surface-2 */
+  --rule: #e1e3f0;       /* filets bleutés (décoratifs) */
+  --rule-strong: #c9cce3;
+  --control: #7c80a8;    /* bordures de contrôles : 3.7:1 sur le papier, 3.4:1 sur surface-2 */
+  --accent: #1d257a;     /* liens : 12.7:1 sur le papier */
+  --accent-2: #4a36a3;   /* accent de titre (kickers, IA) : 8.7:1 sur le papier, 7.9:1 sur surface-2 */
+  --accent-fill: #1d257a; /* fond des boutons pleins : texte #fbfbfd 12.7:1 */
+  --accent-fill-hover: #141a5c; /* texte 15.2:1 */
+  --on-accent: #fbfbfd;
+  --accent-soft: #e6e8f5;
+  --kaki: #aba884;       /* filets et fonds uniquement, jamais en texte sur fond clair */
+  --btn2-bg: #aba884;    /* bouton secondaire : texte #0f1450 7:1 */
+  --btn2-bg-hover: #b9b692; /* texte 8.2:1 */
+  --btn2-ink: #0f1450;
+  --btn2-border: #7a7650; /* 4.5:1 sur le papier */
+  --target: #4a36a3;     /* contour de la publication ciblée par une ancre */
+  --ai-ink: #4a36a3;
+  --notice-bg: #1d257a;  /* bandeau d'avertissement : aplat marine, texte 12.7:1 */
+  --notice-ink: #fbfbfd;
+  --header-bg: rgb(251 251 253 / 0.9);
+  --shadow: 0 1px 2px rgb(29 37 122 / 0.05), 0 10px 28px -14px rgb(29 37 122 / 0.18);
 
-  /* Teintes des repères de verdict : contraste équivalent (≈ 5:1 sur les surfaces). */
-  --v-3: #0f6c68;
-  --v-2: #7d5f0e;
-  --v-1: #a8432b;
+  /* Teintes des repères de verdict : contraste équivalent (≈ 8.2:1 sur blanc, 7.3:1 sur surface-2). */
+  --v-3: #1f4f8f;        /* bleu : 8.2:1 */
+  --v-2: #5a3a9e;        /* violet : 8.3:1 */
+  --v-1: #55502c;        /* kaki foncé : 8.2:1 (repère graphique, pas du texte) */
 
   --sans: var(--font-sans), "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
@@ -53,31 +65,39 @@
 }
 
 :root[data-theme="dark"] {
-  --paper: #0e1715;
-  --surface: #15201d;
-  --surface-2: #1c2926;
-  --hover: rgb(236 235 229 / 0.06);
-  --ink: #ecebe5;        /* 15:1 sur le papier */
-  --ink-2: #c8ccc6;
-  --muted: #97a29e;      /* 7:1 sur le papier, 6:1 sur surface-2 */
-  --rule: #26332f;
-  --rule-strong: #384743;
-  --control: #6d7a76;    /* 4:1 sur le papier, 3.4:1 sur surface-2 */
-  --accent: #5fc4bd;     /* 8.7:1 sur le papier */
-  --accent-fill: #5fc4bd; /* texte sombre 8.9:1 */
-  --accent-fill-hover: #7dd2cc;
-  --on-accent: #0b1a18;
-  --accent-soft: #14302c;
-  --brick: #e9967d;
-  --ai-ink: #5fc4bd;
-  --notice-bg: #5fc4bd;
-  --notice-ink: #0b1a18;
-  --header-bg: rgb(14 23 21 / 0.88);
-  --shadow: 0 1px 0 rgb(255 255 255 / 0.03) inset, 0 12px 28px -16px rgb(0 0 0 / 0.7);
+  --paper: #0f1450;
+  --surface: #1d257a;    /* cartes marine */
+  --surface-2: #161c5e;  /* encarts dans les cartes */
+  --hover: rgb(251 251 253 / 0.07);
+  --ink: #fbfbfd;        /* 16.4:1 sur le papier, 12.7:1 sur les cartes */
+  --heading: #fbfbfd;
+  --ink-2: #dcdef0;      /* 9.9:1 sur les cartes */
+  --muted: #b9bddf;      /* 7.1:1 sur les cartes, 9.2:1 sur le papier */
+  --rule: #2c3590;
+  --rule-strong: #424ca8;
+  --control: #8a90c8;    /* 4.3:1 sur les cartes, 5.6:1 sur le papier */
+  --accent: #c9c69f;     /* liens kaki clair : 7.5:1 sur les cartes, 9.8:1 sur le papier */
+  --accent-2: #c9c69f;
+  --accent-fill: #b0ad85; /* boutons pleins kaki : texte #0f1450 7.4:1 */
+  --accent-fill-hover: #c9c69f; /* texte 9.8:1 */
+  --on-accent: #0f1450;
+  --accent-soft: #28308a;
+  --kaki: #b0ad85;
+  --btn2-bg: transparent; /* bouton secondaire : contour kaki 5.7:1 sur les cartes, texte clair */
+  --btn2-bg-hover: rgb(251 251 253 / 0.07);
+  --btn2-ink: #fbfbfd;
+  --btn2-border: #b0ad85;
+  --target: #c9c69f;
+  --ai-ink: #c9c69f;
+  --notice-bg: #b0ad85;  /* bandeau : aplat kaki, texte #0f1450 7.4:1 */
+  --notice-ink: #0f1450;
+  --header-bg: rgb(15 20 80 / 0.9);
+  --shadow: 0 1px 0 rgb(255 255 255 / 0.04) inset, 0 12px 28px -16px rgb(0 0 0 / 0.6);
 
-  --v-3: #5fc4bd;
-  --v-2: #d4b15a;
-  --v-1: #e9967d;
+  /* Contraste équivalent (≈ 6.6–6.9:1 sur les cartes, ≈ 8:1 sur surface-2). */
+  --v-3: #9db7f5;        /* bleu clair : 6.6:1 */
+  --v-2: #c4b3f2;        /* lavande : 6.9:1 */
+  --v-1: #c0bc92;        /* kaki clair : 6.8:1 */
   color-scheme: dark;
 }
 
@@ -175,7 +195,7 @@ code {
 /* ---------- Hiérarchie éditoriale : kicker > titre > chapô > « en savoir plus » ---------- */
 .kicker {
   margin: 0 0 12px;
-  color: var(--accent);
+  color: var(--accent-2);
   font-size: 0.6875rem;   /* 11 px */
   font-weight: 700;
   line-height: 1.3;
@@ -184,7 +204,7 @@ code {
 }
 .display {
   margin: 0;
-  color: var(--ink);
+  color: var(--heading);
   font-size: clamp(1.875rem, 1.35rem + 2.2vw, 2.75rem);
   font-weight: 700;
   line-height: 1.05;
@@ -192,6 +212,7 @@ code {
 }
 .section-title {
   margin: 0;
+  color: var(--heading);
   font-size: clamp(1.5rem, 1.25rem + 1vw, 2rem);
   font-weight: 700;
   line-height: 1.08;
@@ -383,10 +404,10 @@ code {
   border-radius: var(--radius);
   box-shadow: var(--shadow);
 }
-.panel h2 { margin: 0 0 14px; font-size: 1.375rem; font-weight: 700; line-height: 1.1; letter-spacing: -0.02em; }
+.panel h2 { margin: 0 0 14px; color: var(--heading); font-size: 1.375rem; font-weight: 700; line-height: 1.1; letter-spacing: -0.02em; }
 .panel p { margin: 0 0 14px; color: var(--ink-2); font-size: 0.9375rem; line-height: 1.55; }
 .panel p:last-child { margin-bottom: 0; }
-.panel .kicker { margin-bottom: 10px; color: var(--accent); font-size: 0.6875rem; line-height: 1.3; }
+.panel .kicker { margin-bottom: 10px; color: var(--accent-2); font-size: 0.6875rem; line-height: 1.3; }
 .panel-links { display: flex; flex-wrap: wrap; gap: 0 20px; }
 .panel-note, .panel .panel-note { margin: 0; font-size: 0.8125rem; color: var(--muted); line-height: 1.45; }
 .legend { list-style: none; margin: 0 0 14px; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
@@ -416,10 +437,11 @@ code {
   .col-head { background: var(--header-bg); -webkit-backdrop-filter: blur(14px); backdrop-filter: blur(14px); }
 }
 
-/* Bandeau permanent d'avertissement IA : aplat contrasté, toujours visible. */
+/* Bandeau permanent (IA + non-affiliation) : aplat plein marine (kaki en sombre), toujours visible
+   en haut ; le texte passe à la ligne sur mobile, rien n'est tronqué. */
 .notice {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 10px;
   margin: 0;
   padding: 10px var(--pad);
@@ -427,8 +449,11 @@ code {
   color: var(--notice-ink);
   font-size: 0.8125rem;
   font-weight: 600;
-  line-height: 1.35;
+  line-height: 1.4;
 }
+.notice .ai-tag { margin-top: 0.1em; }
+.notice-text { min-width: 0; }
+.notice-text strong { font-weight: 800; }
 @media (min-width: 45rem) {
   .notice { border-radius: 0 0 var(--radius-sm) var(--radius-sm); }
 }
@@ -456,6 +481,7 @@ code {
 }
 .col-title h1 {
   margin: 0;
+  color: var(--heading);
   min-width: 0;
   font-size: 1.1875rem;
   font-weight: 700;
@@ -552,6 +578,9 @@ code {
   transition: background-color 0.2s var(--ease), border-color 0.2s var(--ease);
 }
 .btn:hover { background: var(--hover); text-decoration: none; }
+/* Secondaire : aplat kaki et texte bleu nuit en clair ; contour kaki et texte clair en sombre. */
+.btn-secondary { border-color: var(--btn2-border); background: var(--btn2-bg); color: var(--btn2-ink); }
+.btn-secondary:hover { background: var(--btn2-bg-hover); color: var(--btn2-ink); }
 .btn-primary { border-color: var(--accent-fill); background: var(--accent-fill); color: var(--on-accent); }
 .btn-primary:hover { background: var(--accent-fill-hover); border-color: var(--accent-fill-hover); color: var(--on-accent); }
 @media (forced-colors: active) {
@@ -688,7 +717,7 @@ code {
   border-radius: var(--radius);
   box-shadow: var(--shadow);
 }
-.post:target { border-color: var(--brick); box-shadow: 0 0 0 1px var(--brick), var(--shadow); }
+.post:target { border-color: var(--target); box-shadow: 0 0 0 1px var(--target), var(--shadow); }
 
 .avatar {
   width: 44px;
@@ -717,6 +746,7 @@ code {
 .post-name { color: var(--ink); font-weight: 700; }
 .post-title {
   margin: 4px 0 6px;
+  color: var(--heading);
   font-size: 1.25rem;
   font-weight: 700;
   line-height: 1.15;
@@ -730,7 +760,7 @@ code {
 .quote {
   margin: 14px 0 0;
   padding: 2px 0 2px 16px;
-  border-left: 2px solid var(--brick);
+  border-left: 3px solid var(--kaki); /* filet kaki décoratif */
   color: var(--ink-2);
 }
 .quote p { margin: 4px 0; }
@@ -806,11 +836,11 @@ code {
 
 .detail-prop { padding: 16px 0; }
 .detail-prop + .detail-prop { border-top: 1px solid var(--rule); }
-.detail-title { margin: 0 0 10px; font-size: 1rem; font-weight: 700; line-height: 1.3; letter-spacing: -0.01em; }
+.detail-title { margin: 0 0 10px; color: var(--heading); font-size: 1rem; font-weight: 700; line-height: 1.3; letter-spacing: -0.01em; }
 .detail-n {
   display: block;
   margin-bottom: 4px;
-  color: var(--accent);
+  color: var(--accent-2);
   font-size: 0.6875rem;
   font-weight: 700;
   letter-spacing: 0.16em;
@@ -909,7 +939,7 @@ code {
 .doc-src { margin-top: 20px; font-size: 0.875rem; }
 
 .prose { line-height: 1.65; }
-.prose h2, .prose h3, .prose h4, .prose h5, .prose h6 { color: var(--ink); line-height: 1.2; font-weight: 700; letter-spacing: -0.015em; }
+.prose h2, .prose h3, .prose h4, .prose h5, .prose h6 { color: var(--heading); line-height: 1.2; font-weight: 700; letter-spacing: -0.015em; }
 .prose h2 { margin: 0 0 20px; font-size: clamp(1.5rem, 1.25rem + 1vw, 2rem); line-height: 1.08; letter-spacing: -0.02em; }
 .prose h3 { margin: 36px 0 10px; font-size: 1.25rem; }
 .prose h4 { margin: 28px 0 8px; font-size: 1.0625rem; }
@@ -919,7 +949,7 @@ code {
 .prose li { margin: 6px 0; }
 .prose li > ul, .prose li > ol { margin: 6px 0 0; }
 .prose li::marker { color: var(--muted); }
-.prose blockquote { margin: 20px 0; padding: 2px 0 2px 16px; border-left: 2px solid var(--brick); color: var(--ink-2); }
+.prose blockquote { margin: 20px 0; padding: 2px 0 2px 16px; border-left: 3px solid var(--kaki); color: var(--ink-2); }
 .prose blockquote p:last-child { margin-bottom: 0; }
 .prose pre {
   margin: 20px 0;
@@ -949,7 +979,7 @@ code {
 }
 .site-footer p { margin: 0 0 12px; }
 .site-footer .kicker { margin-bottom: 8px; font-size: 0.6875rem; }
-.foot-brand { color: var(--ink); font-size: 1.375rem; font-weight: 700; line-height: 1.1; letter-spacing: -0.02em; margin-bottom: 16px !important; }
+.foot-brand { color: var(--heading); font-size: 1.375rem; font-weight: 700; line-height: 1.1; letter-spacing: -0.02em; margin-bottom: 16px !important; }
 .foot-links { list-style: none; display: flex; flex-wrap: wrap; gap: 0 18px; margin: 4px 0 16px; padding: 0; }
 .foot-links li { display: inline-flex; align-items: center; gap: 4px; min-height: 36px; }
 .foot-links a { color: var(--ink-2); font-weight: 500; }
