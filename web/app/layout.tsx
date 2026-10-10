@@ -15,15 +15,13 @@ export const metadata: Metadata = {
   description: "Résumés et analyses de faisabilité (générés par IA) des publications officielles de David Lisnard. Analyses pouvant contenir des erreurs.",
 };
 
+// Sombre par défaut (marine) ; ThemeToggle aligne la balise sur le thème réellement appliqué.
 export const viewport: Viewport = {
-  themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#fbfbfd" },
-    { media: "(prefers-color-scheme: dark)", color: "#0f1450" },
-  ],
+  themeColor: "#0f1450",
 };
 
-// Pose le thème avant le premier rendu (pas de flash) : choix enregistré, sinon préférence du système, sinon clair.
-const THEME_SCRIPT = `(function(){var t="light";try{var s=localStorage.getItem("theme");if(s==="light"||s==="dark")t=s;else if(matchMedia("(prefers-color-scheme: dark)").matches)t="dark"}catch(e){}document.documentElement.dataset.theme=t})()`;
+// Pose le thème avant le premier rendu (pas de flash) : choix enregistré, sinon sombre (quelle que soit la préférence système).
+const THEME_SCRIPT = `(function(){var t="dark";try{var s=localStorage.getItem("theme");if(s==="light"||s==="dark")t=s}catch(e){}document.documentElement.dataset.theme=t})()`;
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (

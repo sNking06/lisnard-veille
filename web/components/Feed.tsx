@@ -75,12 +75,12 @@ export default function Feed({ title, entries, children }: { title: string; entr
       {children}
 
       <section aria-labelledby="fil-titre">
-        <header className="section-head">
+        <div className="section-head">
           <p className="kicker">Le fil</p>
           <h2 id="fil-titre" className="section-title">Publications et analyses</h2>
-        </header>
+        </div>
         <div className="filters">
-          <form role="search" id="recherche" className="search" onSubmit={(e) => e.preventDefault()}>
+          <form role="search" id="recherche" className="search" aria-label="Recherche dans le fil" onSubmit={(e) => e.preventDefault()}>
             <label htmlFor="q" className="sr-only">Rechercher dans les publications</label>
             <div className="search-field">
               <IconSearch className="search-icon" size={18} />

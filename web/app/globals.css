@@ -15,7 +15,8 @@
    Contrastes WCAG AA : texte ≥ 4.5:1, contrôles et bordures de contrôles ≥ 3:1 (ratios notés en regard).
    ========================================================================= */
 
-/* ---------- Jetons (clair par défaut, y compris sans JavaScript) ---------- */
+/* ---------- Jetons : clair ci-dessous, surchargés par le sombre, appliqué par défaut (y compris sans JavaScript)
+   tant que data-theme ne vaut pas "light" ---------- */
 :root {
   --paper: #fbfbfd;
   --surface: #ffffff;
@@ -64,7 +65,7 @@
   color-scheme: light;
 }
 
-:root[data-theme="dark"] {
+:root:not([data-theme="light"]) {
   --paper: #0f1450;
   --surface: #1d257a;    /* cartes marine */
   --surface-2: #161c5e;  /* encarts dans les cartes */
@@ -337,8 +338,8 @@ code {
 
 /* Icônes du bouton de thème : lune en clair (passer au sombre), soleil en sombre. */
 .i-sun { display: none; }
-:root[data-theme="dark"] .i-sun { display: block; }
-:root[data-theme="dark"] .i-moon { display: none; }
+:root:not([data-theme="light"]) .i-sun { display: block; }
+:root:not([data-theme="light"]) .i-moon { display: none; }
 
 /* ---------- Barre de navigation basse (mobile) ---------- */
 .bnav {
@@ -438,24 +439,34 @@ code {
 }
 
 /* Bandeau permanent (IA + non-affiliation) : aplat plein marine (kaki en sombre), toujours visible
-   en haut ; le texte passe à la ligne sur mobile, rien n'est tronqué. */
+   en haut. Mobile : version courte sur 1 à 2 lignes (la pastille IA est masquée, le texte dit déjà « IA ») ;
+   bureau : version complète. Rien n'est tronqué. */
 .notice {
   display: flex;
   align-items: flex-start;
   gap: 10px;
   margin: 0;
-  padding: 10px var(--pad);
+  padding: 7px var(--pad);
   background: var(--notice-bg);
   color: var(--notice-ink);
-  font-size: 0.8125rem;
+  font-size: 0.75rem;
   font-weight: 600;
-  line-height: 1.4;
+  line-height: 1.35;
 }
-.notice .ai-tag { margin-top: 0.1em; }
+.notice .ai-tag { margin-top: 0.1em; display: none; }
 .notice-text { min-width: 0; }
 .notice-text strong { font-weight: 800; }
+.notice-full { display: none; }
 @media (min-width: 45rem) {
-  .notice { border-radius: 0 0 var(--radius-sm) var(--radius-sm); }
+  .notice {
+    padding: 10px var(--pad);
+    border-radius: 0 0 var(--radius-sm) var(--radius-sm);
+    font-size: 0.8125rem;
+    line-height: 1.4;
+  }
+  .notice .ai-tag { display: inline-block; }
+  .notice-short { display: none; }
+  .notice-full { display: inline; }
 }
 .notice .ai-tag { color: inherit; }
 

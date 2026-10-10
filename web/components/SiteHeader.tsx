@@ -7,7 +7,7 @@ import ThemeToggle from "./ThemeToggle";
 /** Rail de navigation gauche (tablette et bureau) ; sur mobile, la barre basse (BottomNav) prend le relais. */
 export default function SiteHeader() {
   return (
-    <header className="lrail">
+    <header className="lrail" aria-label="En-tête du site">
       <div className="lrail-inner">
         <Link href="/" className="lrail-brand" title={SITE_TITLE}>
           <span className="mark" aria-hidden="true">VL</span>

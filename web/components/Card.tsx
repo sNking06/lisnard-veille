@@ -41,14 +41,14 @@ export default function Card({ a }: { a: Analyse }) {
     <article className="post" id={anchor} aria-labelledby={`${anchor}-t`}>
       <div className="avatar" aria-hidden="true"><NetIcon source={a.source} /></div>
       <div className="post-main">
-        <header className="post-head">
+        <div className="post-head">
           <p className="post-meta">
             <span className="post-name">{net.label}</span>
             <span aria-hidden="true">·</span>
             <time dateTime={a.date}>{date}</time>
           </p>
           <h3 id={`${anchor}-t`} className={a.titre ? "post-title" : "sr-only"}>{a.titre ?? `${net.long} du ${date}`}</h3>
-        </header>
+        </div>
 
         {a.statut === "degraded" ? (
           <p className="muted-note">Contenu non collecté (mode dégradé) : consultez la publication d’origine.</p>
@@ -63,7 +63,8 @@ export default function Card({ a }: { a: Analyse }) {
 
         {a.integration && a.integration.type !== "none" && <Embed type={a.integration.type} id={a.integration.id} />}
 
-        <section className="fnote" aria-labelledby={`${anchor}-p`}>
+        {/* div et non section : sinon une région par carte, aux noms répétés (axe landmark-unique) ; le h4 suffit à la structure. */}
+        <div className="fnote">
           <h4 id={`${anchor}-p`} className="fnote-head">
             <span className="ai-tag" aria-hidden="true">IA</span>
             {n > 0 ? <span>Faisabilité · {n > 1 ? `${n} propositions relevées` : "1 proposition relevée"}</span> : <span>Note de l’analyse</span>}
@@ -106,15 +107,15 @@ export default function Card({ a }: { a: Analyse }) {
               )}
             </Disclosure>
           )}
-        </section>
+        </div>
 
-        <footer className="post-foot">
+        <div className="post-foot">
           <p className="ai-flag"><span className="ai-tag" aria-hidden="true">IA</span><span>{a.avertissement}</span></p>
           <ul className="post-actions" role="list">
             <li><a href={a.lien} rel="noopener noreferrer" target="_blank"><IconExternal size={17} />Voir la publication d’origine<span className="sr-only"> sur {net.label}</span>{NEW_TAB}</a></li>
             <li><a href={issue} rel="noopener noreferrer" target="_blank"><IconFlag size={17} />Signaler une erreur{NEW_TAB}</a></li>
           </ul>
-        </footer>
+        </div>
       </div>
     </article>
   );

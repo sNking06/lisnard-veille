@@ -3,7 +3,7 @@ import { CONTACT_EMAIL, CONTACT_HREF, ISSUE_URL, REPO, SITE_TITLE } from "@/lib/
 
 export default function SiteFooter() {
   return (
-    <footer className="site-footer">
+    <footer className="site-footer" aria-label="Pied de page du site">
       <p className="kicker">Veille indépendante</p>
       <p className="foot-brand">{SITE_TITLE}</p>
       <p>Projet indépendant, non affilié. Le projet évalue des <strong>mesures</strong>, jamais la personne.</p>
