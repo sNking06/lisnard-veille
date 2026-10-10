@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/sNking06/lisnard-veille/schema/analysis.schema.json",
+  "title": "Analyse d'une publication",
+  "type": "object",
+  "required": ["id", "date", "source", "lien", "resume", "propositions", "sources", "statut", "analyse_ia", "avertissement"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string"},
+    "date": {"type": "string", "description": "ISO 8601 de la publication d'origine"},
+    "source": {"type": "string", "enum": ["x", "tiktok", "site"]},
+    "lien": {"type": "string", "format": "uri", "description": "Lien vers la publication d'origine"},
+    "titre": {"type": "string"},
+    "statut": {"type": "string", "enum": ["ok", "degraded"], "description": "degraded = collecte impossible : carte avec lien/intégration officielle, sans résumé"},
+    "integration": {
+      "type": "object",
+      "required": ["type", "id"],
+      "properties": {"type": {"enum": ["x", "tiktok", "none"]}, "id": {"type": "string"}}
+    },
+    "resume": {"type": "string", "description": "Résumé fidèle et neutre ; vide si statut=degraded"},
+    "base_du_resume": {"type": "string", "description": "Texte, sous-titres automatiques, légende... (indique la fiabilité de la matière)"},
+    "citations": {"type": "array", "items": {"type": "string", "maxLength": 200}, "maxItems": 3},
+    "analyse_realisee": {"type": "boolean", "description": "false = résumé seul (aucune proposition concrète)"},
+    "propositions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["texte", "cout", "cadre_juridique", "competence", "precedents", "verdict", "conditions"],
+        "additionalProperties": false,
+        "properties": {
+          "texte": {"type": "string"},
+          "cout": {"type": "string", "description": "Coût estimé avec source, ou « non établi »"},
+          "cadre_juridique": {"type": "string"},
+          "competence": {"type": "string", "description": "État / UE / collectivités"},
+          "precedents": {"type": "string", "description": "France / étranger, sourcés, ou « non établi »"},
+          "verdict": {"type": "string", "enum": ["faisable", "faisable_sous_conditions", "difficilement_faisable"]},
+          "conditions": {"type": "array", "items": {"type": "string"}},
+          "fiabilite": {"type": "string", "enum": ["haute", "moyenne", "faible"]},
+          "doutes": {"type": "string"}
+        }
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["titre", "url"],
+        "properties": {"titre": {"type": "string"}, "url": {"type": "string", "format": "uri"}, "consulte_le": {"type": "string"}}
+      }
+    },
+    "analyse_ia": {"const": true},
+    "avertissement": {"type": "string"},
+    "genere_le": {"type": "string"},
+    "genere_par": {"type": "string"}
+  }
+}
