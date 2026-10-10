@@ -17,7 +17,8 @@ export const viewport: Viewport = {
 };
 
 // Pose le thème (préférence enregistrée, sinon système) avant le premier rendu : pas de flash.
-const THEME_SCRIPT = `(function(){try{var s=localStorage.getItem("theme");var d=s==="dark"||(s!=="light"&&window.matchMedia("(prefers-color-scheme: dark)").matches);document.documentElement.dataset.theme=d?"dark":"light"}catch(e){}})()`;
+// La classe « js » ne replie les filtres sur mobile que si le bouton peut fonctionner.
+const THEME_SCRIPT = `(function(){document.documentElement.classList.add("js");try{var s=localStorage.getItem("theme");var d=s==="dark"||(s!=="light"&&window.matchMedia("(prefers-color-scheme: dark)").matches);document.documentElement.dataset.theme=d?"dark":"light"}catch(e){}})()`;
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (

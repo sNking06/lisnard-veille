@@ -27,6 +27,8 @@ export default function Feed({ entries }: { entries: FeedEntry[] }) {
   const [verdict, setVerdict] = useState<VerdictKey | "all">("all");
   const [q, setQ] = useState("");
   const [order, setOrder] = useState<"desc" | "asc">("desc");
+  /** Mobile uniquement : panneau replié par défaut (sans JS ou en bureau, il reste affiché via CSS). */
+  const [open, setOpen] = useState(false);
 
   const counts = useMemo(() => {
     const c: Record<string, number> = {};
@@ -44,7 +46,8 @@ export default function Feed({ entries }: { entries: FeedEntry[] }) {
       .sort((a, b) => (order === "desc" ? b.ts - a.ts : a.ts - b.ts));
   }, [entries, net, verdict, q, order]);
 
-  const active = net !== "all" || verdict !== "all" || q.trim() !== "" || order !== "desc";
+  const nActive = [net !== "all", verdict !== "all", q.trim() !== "", order !== "desc"].filter(Boolean).length;
+  const active = nActive > 0;
   const reset = () => { setNet("all"); setVerdict("all"); setQ(""); setOrder("desc"); };
   const status = shown.length === entries.length && !q.trim()
     ? plural(entries.length, "publication")
@@ -53,7 +56,22 @@ export default function Feed({ entries }: { entries: FeedEntry[] }) {
   return (
     <div className="feed-layout container">
       <aside className="rail" aria-label="Recherche et filtres">
-        <div className="rail-inner">
+        <button type="button" className="btn rail-toggle" aria-expanded={open} aria-controls="filtres" onClick={() => setOpen((o) => !o)}>
+          <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true" focusable="false">
+            <path d="M3 5.5h14M5.5 10h9M8 14.5h4" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+          </svg>
+          <span>Recherche et filtres</span>
+          {active && (
+            <span className="rail-badge">
+              <span aria-hidden="true">{nActive}</span>
+              <span className="sr-only">{`, ${plural(nActive, "critère")} actif${nActive > 1 ? "s" : ""}`}</span>
+            </span>
+          )}
+          <svg className="chev" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+            <path d="M3.5 6l4.5 4.5L12.5 6" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </button>
+        <div id="filtres" className={`rail-inner${open ? " is-open" : ""}`}>
           <form role="search" className="search" onSubmit={(e) => e.preventDefault()}>
             <label htmlFor="q" className="field-label">Rechercher</label>
             <div className="search-field">
@@ -69,7 +87,7 @@ export default function Feed({ entries }: { entries: FeedEntry[] }) {
 
           <fieldset className="facet">
             <legend className="field-label">Réseau</legend>
-            <div className="chips">
+            <div className="chips chips-row">
               <Chip on={net === "all"} onClick={() => setNet("all")} count={entries.length}>Tous</Chip>
               {NETS.map(([k, l]) => (
                 <Chip key={k} on={net === k} onClick={() => setNet(k)} count={counts[k] ?? 0}>{l}</Chip>
