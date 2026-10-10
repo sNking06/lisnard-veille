@@ -1,14 +1,16 @@
 "use client";
-import { useMemo, useState, type ReactNode } from "react";
+import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import { VERDICTS, type Source, type Verdict } from "@/lib/types";
 import { normalize } from "@/lib/search";
+import ColumnHeader from "./ColumnHeader";
+import { IconSearch } from "./Icons";
 import { Dash, Dots } from "./VerdictBadge";
 
 export type VerdictKey = Verdict | "sans_analyse";
-/** Une entrée du fil : métadonnées de filtrage + carte déjà rendue côté serveur. */
+/** Une entrée du fil : métadonnées de filtrage + publication déjà rendue côté serveur. */
 export interface FeedEntry { key: string; source: Source; verdicts: VerdictKey[]; text: string; ts: number; node: ReactNode }
 
-const NETS: [Source, string][] = [["x", "X"], ["tiktok", "TikTok"], ["site", "Site"]];
+const TABS: [Source | "all", string][] = [["all", "Tout"], ["x", "X"], ["tiktok", "TikTok"], ["site", "Site"]];
 const VKEYS: VerdictKey[] = ["faisable", "faisable_sous_conditions", "difficilement_faisable", "sans_analyse"];
 const vLabel = (k: VerdictKey) => (k === "sans_analyse" ? "Sans analyse" : VERDICTS[k].label);
 const plural = (n: number, s: string) => `${n} ${s}${n > 1 ? "s" : ""}`;
@@ -22,16 +24,20 @@ function Chip({ on, onClick, children, count }: { on: boolean; onClick: () => vo
   );
 }
 
-export default function Feed({ entries }: { entries: FeedEntry[] }) {
+export default function Feed({ title, entries, children }: { title: string; entries: FeedEntry[]; children?: ReactNode }) {
   const [net, setNet] = useState<Source | "all">("all");
   const [verdict, setVerdict] = useState<VerdictKey | "all">("all");
   const [q, setQ] = useState("");
   const [order, setOrder] = useState<"desc" | "asc">("desc");
-  /** Mobile uniquement : panneau replié par défaut (sans JS ou en bureau, il reste affiché via CSS). */
-  const [open, setOpen] = useState(false);
+  const input = useRef<HTMLInputElement>(null);
+
+  // Arrivée depuis le lien « Recherche » d'une autre page : focus direct dans le champ.
+  useEffect(() => {
+    if (window.location.hash === "#recherche") input.current?.focus();
+  }, []);
 
   const counts = useMemo(() => {
-    const c: Record<string, number> = {};
+    const c: Record<string, number> = { all: entries.length };
     for (const e of entries) {
       c[e.source] = (c[e.source] ?? 0) + 1;
       for (const v of e.verdicts) c[v] = (c[v] ?? 0) + 1;
@@ -46,84 +52,59 @@ export default function Feed({ entries }: { entries: FeedEntry[] }) {
       .sort((a, b) => (order === "desc" ? b.ts - a.ts : a.ts - b.ts));
   }, [entries, net, verdict, q, order]);
 
-  const nActive = [net !== "all", verdict !== "all", q.trim() !== "", order !== "desc"].filter(Boolean).length;
-  const active = nActive > 0;
+  const active = net !== "all" || verdict !== "all" || q.trim() !== "" || order !== "desc";
   const reset = () => { setNet("all"); setVerdict("all"); setQ(""); setOrder("desc"); };
   const status = shown.length === entries.length && !q.trim()
     ? plural(entries.length, "publication")
     : `${plural(shown.length, "publication")} sur ${entries.length}${q.trim() ? ` pour « ${q.trim()} »` : ""}`;
 
   return (
-    <div className="feed-layout container">
-      <aside className="rail" aria-label="Recherche et filtres">
-        <button type="button" className="btn rail-toggle" aria-expanded={open} aria-controls="filtres" onClick={() => setOpen((o) => !o)}>
-          <svg width="18" height="18" viewBox="0 0 20 20" aria-hidden="true" focusable="false">
-            <path d="M3 5.5h14M5.5 10h9M8 14.5h4" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
-          </svg>
-          <span>Recherche et filtres</span>
-          {active && (
-            <span className="rail-badge">
-              <span aria-hidden="true">{nActive}</span>
-              <span className="sr-only">{`, ${plural(nActive, "critère")} actif${nActive > 1 ? "s" : ""}`}</span>
-            </span>
-          )}
-          <svg className="chev" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
-            <path d="M3.5 6l4.5 4.5L12.5 6" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
-          </svg>
-        </button>
-        <div id="filtres" className={`rail-inner${open ? " is-open" : ""}`}>
-          <form role="search" className="search" onSubmit={(e) => e.preventDefault()}>
-            <label htmlFor="q" className="field-label">Rechercher</label>
-            <div className="search-field">
-              <svg className="search-icon" width="18" height="18" viewBox="0 0 20 20" aria-hidden="true" focusable="false">
-                <circle cx="8.5" cy="8.5" r="5.75" fill="none" stroke="currentColor" strokeWidth="1.6" />
-                <path d="M13 13l4.5 4.5" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
-              </svg>
-              <input id="q" type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder="Titre, résumé, proposition…"
-                autoComplete="off" spellCheck={false} aria-describedby="q-hint" />
-            </div>
-            <p id="q-hint" className="hint">Recherche dans les titres, résumés et propositions.</p>
-          </form>
+    <>
+      <ColumnHeader title={title}>
+        <div className="tabs" role="group" aria-label="Filtrer par réseau">
+          {TABS.map(([k, l]) => (
+            <button key={k} type="button" className="tab" aria-pressed={net === k} onClick={() => setNet(k)}>
+              <span className="tab-label">{l}<span className="sr-only">{`, ${plural(counts[k] ?? 0, "publication")}`}</span></span>
+            </button>
+          ))}
+        </div>
+      </ColumnHeader>
 
-          <fieldset className="facet">
-            <legend className="field-label">Réseau</legend>
-            <div className="chips chips-row">
-              <Chip on={net === "all"} onClick={() => setNet("all")} count={entries.length}>Tous</Chip>
-              {NETS.map(([k, l]) => (
-                <Chip key={k} on={net === k} onClick={() => setNet(k)} count={counts[k] ?? 0}>{l}</Chip>
-              ))}
-            </div>
-          </fieldset>
+      {children}
 
-          <fieldset className="facet">
-            <legend className="field-label">Verdict</legend>
-            <div className="chips chips-stack">
-              <Chip on={verdict === "all"} onClick={() => setVerdict("all")}>Tous les verdicts</Chip>
-              {VKEYS.map((k) => (
-                <Chip key={k} on={verdict === k} onClick={() => setVerdict(k)} count={counts[k] ?? 0}>
-                  {k === "sans_analyse" ? <Dash /> : <Dots n={VERDICTS[k].niveau} />}
-                  {vLabel(k)}
-                </Chip>
-              ))}
-            </div>
-          </fieldset>
+      <div className="filters">
+        <form role="search" id="recherche" className="search" onSubmit={(e) => e.preventDefault()}>
+          <label htmlFor="q" className="sr-only">Rechercher dans les publications</label>
+          <div className="search-field">
+            <IconSearch className="search-icon" size={18} />
+            <input ref={input} id="q" type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder="Rechercher (titre, résumé, proposition)"
+              autoComplete="off" spellCheck={false} aria-describedby="q-hint" />
+          </div>
+          <p id="q-hint" className="sr-only">Recherche dans les titres, résumés et propositions.</p>
+        </form>
+        <div className="chips" role="group" aria-label="Filtrer par verdict">
+          <Chip on={verdict === "all"} onClick={() => setVerdict("all")}>Tous les verdicts</Chip>
+          {VKEYS.map((k) => (
+            <Chip key={k} on={verdict === k} onClick={() => setVerdict(k)} count={counts[k] ?? 0}>
+              {k === "sans_analyse" ? <Dash /> : <Dots n={VERDICTS[k].niveau} />}
+              {vLabel(k)}
+            </Chip>
+          ))}
+        </div>
+      </div>
 
-          <div className="facet">
-            <label htmlFor="sort" className="field-label">Trier par date</label>
+      <section aria-labelledby="fil-titre">
+        <h2 id="fil-titre" className="sr-only">Fil des publications</h2>
+        <div className="feed-bar">
+          <p className="count" role="status" aria-live="polite" aria-atomic="true">{status}</p>
+          <div className="feed-tools">
+            {active && <button type="button" className="link-btn" onClick={reset}>Réinitialiser</button>}
+            <label htmlFor="sort" className="sr-only">Trier par date</label>
             <select id="sort" className="select" value={order} onChange={(e) => setOrder(e.target.value as "desc" | "asc")}>
               <option value="desc">Plus récentes d’abord</option>
               <option value="asc">Plus anciennes d’abord</option>
             </select>
           </div>
-
-          {active && <button type="button" className="btn btn-quiet reset" onClick={reset}>Réinitialiser les filtres</button>}
-        </div>
-      </aside>
-
-      <section className="feed-col" aria-labelledby="fil-titre">
-        <div className="feed-head">
-          <h2 id="fil-titre" className="section-title">Fil des publications</h2>
-          <p className="count" role="status" aria-live="polite" aria-atomic="true">{status}</p>
         </div>
         {shown.length > 0 ? (
           <ol className="feed" role="list">
@@ -132,10 +113,10 @@ export default function Feed({ entries }: { entries: FeedEntry[] }) {
         ) : (
           <div className="empty">
             <p>Aucune publication ne correspond à ces critères.</p>
-            <button type="button" className="btn btn-quiet" onClick={reset}>Réinitialiser les filtres</button>
+            <button type="button" className="btn" onClick={reset}>Réinitialiser les filtres</button>
           </div>
         )}
       </section>
-    </div>
+    </>
   );
 }

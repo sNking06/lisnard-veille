@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import ColumnHeader from "@/components/ColumnHeader";
+import Disclosure from "@/components/Disclosure";
 import { loadDoc } from "@/lib/data";
 import { parseMarkdown, plainText, renderBlocks, renderInline, type Block, type RenderCtx } from "@/lib/markdown";
 import { CONTACT_EMAIL, CONTACT_HREF, ISSUE_URL, REPO } from "@/lib/site";
@@ -30,22 +32,25 @@ export default function Methodologie() {
   const docs = DOCS.map(prepare);
   return (
     <>
-      <section className="hero hero-compact" aria-labelledby="titre">
-        <div className="container">
-          <p className="kicker">Comment ce site fonctionne</p>
-          <h1 id="titre">Méthodologie et neutralité</h1>
-          <p className="lede">
-            Collecte, résumé, analyse de faisabilité et règles de neutralité. Les textes ci-dessous reprennent
-            les documents <code>docs/methodologie.md</code> et <code>docs/neutralite.md</code> du dépôt.
-          </p>
-        </div>
+      <ColumnHeader title="Méthodologie et neutralité">
+        <nav className="tabs" aria-label="Sections de la page">
+          {docs.map((d) => <a key={d.id} href={`#${d.id}`} className="tab"><span className="tab-label">{d.fallback}</span></a>)}
+          <a href="#contact" className="tab"><span className="tab-label">Contact</span></a>
+        </nav>
+      </ColumnHeader>
+
+      <section className="intro" aria-labelledby="intro-titre">
+        <h2 id="intro-titre" className="intro-kicker">Comment ce site fonctionne</h2>
+        <p className="lede">
+          Collecte, résumé, analyse de faisabilité et règles de neutralité. Les textes ci-dessous reprennent
+          les documents <code>docs/methodologie.md</code> et <code>docs/neutralite.md</code> du dépôt.
+        </p>
       </section>
 
-      <div className="container doc-layout">
-        <nav className="toc" aria-label="Sommaire">
-          <div className="toc-inner">
-            <h2 className="eyebrow">Sommaire</h2>
-            <ol role="list">
+      <nav className="doc-toc" aria-label="Sommaire">
+        <div className="fnote">
+          <Disclosure id="sommaire" label="Afficher le sommaire" openLabel="Masquer le sommaire">
+            <ol className="toc" role="list">
               {docs.map((d) => (
                 <li key={d.id}>
                   <a href={`#${d.id}`} className="toc-doc">{plainText(d.title)}</a>
@@ -57,35 +62,33 @@ export default function Methodologie() {
                 </li>
               ))}
             </ol>
-          </div>
-        </nav>
+          </Disclosure>
+        </div>
+      </nav>
 
-        <div className="doc-body">
-          {docs.map((d) => {
-            const ctx: RenderCtx = { shift: 1, prefix: d.id, docs: DOC_IDS };
-            return (
-              <section key={d.id} id={d.id} className="doc-section prose" aria-labelledby={`${d.id}-titre`}>
-                <p className="kicker">docs/{d.file}</p>
-                <h2 id={`${d.id}-titre`}>{renderInline(d.title, ctx)}</h2>
-                {d.body ? renderBlocks(d.body, ctx) : (
-                  <p>Document indisponible lors de la génération du site.</p>
-                )}
-                <p className="doc-src">
-                  <a href={`${REPO}/blob/main/docs/${d.file}`} rel="noopener noreferrer">Voir le fichier source sur GitHub</a>
-                </p>
-              </section>
-            );
-          })}
-          <section id="contact" className="doc-section prose" aria-labelledby="contact-titre">
-            <h2 id="contact-titre">Contact et corrections</h2>
-            <p>
-              Pour toute question ou demande de correction, écrire à{" "}
-              <a href={CONTACT_HREF}>{CONTACT_EMAIL}</a>. Les erreurs peuvent aussi être signalées via le lien{" "}
-              <a href={ISSUE_URL} rel="noopener noreferrer">Signaler une erreur</a> sur GitHub.
+      {docs.map((d) => {
+        const ctx: RenderCtx = { shift: 1, prefix: d.id, docs: DOC_IDS };
+        return (
+          <section key={d.id} id={d.id} className="doc-section prose" aria-labelledby={`${d.id}-titre`}>
+            <p className="doc-file">docs/{d.file}</p>
+            <h2 id={`${d.id}-titre`}>{renderInline(d.title, ctx)}</h2>
+            {d.body ? renderBlocks(d.body, ctx) : (
+              <p>Document indisponible lors de la génération du site.</p>
+            )}
+            <p className="doc-src">
+              <a href={`${REPO}/blob/main/docs/${d.file}`} rel="noopener noreferrer">Voir le fichier source sur GitHub</a>
             </p>
           </section>
-        </div>
-      </div>
+        );
+      })}
+      <section id="contact" className="doc-section prose" aria-labelledby="contact-titre">
+        <h2 id="contact-titre">Contact et corrections</h2>
+        <p>
+          Pour toute question ou demande de correction, écrire à{" "}
+          <a href={CONTACT_HREF}>{CONTACT_EMAIL}</a>. Les erreurs peuvent aussi être signalées via le lien{" "}
+          <a href={ISSUE_URL} rel="noopener noreferrer">Signaler une erreur</a> sur GitHub.
+        </p>
+      </section>
     </>
   );
 }

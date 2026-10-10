@@ -1,13 +1,9 @@
 import Link from "next/link";
 import Card from "@/components/Card";
 import Feed, { type FeedEntry, type VerdictKey } from "@/components/Feed";
-import VerdictBadge, { Dash } from "@/components/VerdictBadge";
 import { loadAnalyses } from "@/lib/data";
 import { normalize } from "@/lib/search";
-import { fmtDate } from "@/lib/site";
-import type { Verdict } from "@/lib/types";
-
-const LEGEND: Verdict[] = ["faisable", "faisable_sous_conditions", "difficilement_faisable"];
+import { SITE_TITLE, fmtDate } from "@/lib/site";
 
 export default function Home() {
   const items = loadAnalyses();
@@ -23,39 +19,23 @@ export default function Home() {
   const last = items[0]?.date;
 
   return (
-    <>
-      <section className="hero" aria-labelledby="titre">
-        <div className="container hero-grid">
-          <div className="hero-main">
-            <p className="kicker">Veille indépendante des publications officielles</p>
-            <h1 id="titre">Veille Lisnard 2027</h1>
-            <p className="lede">
-              Fil des publications des comptes officiels (X, TikTok, site de Nouvelle Énergie) : résumé fidèle,
-              propositions concrètes et analyse de faisabilité. Le projet évalue des <strong>mesures</strong>, jamais la personne.
-            </p>
-            <p className="hero-links">
-              <Link href="/methodologie" className="btn btn-primary">Lire la méthodologie</Link>
-              <Link href="/methodologie#neutralite" className="text-link">Politique de neutralité</Link>
-            </p>
-          </div>
-          <aside className="hero-aside" aria-label="En bref">
-            <dl className="facts-row">
-              <div><dt>Publications</dt><dd>{items.length}</dd></div>
-              <div><dt>Propositions analysées</dt><dd>{nProps}</dd></div>
-              {last && <div><dt>Dernière publication</dt><dd className="fact-date"><time dateTime={last}>{fmtDate(last)}</time></dd></div>}
-            </dl>
-            <div className="legend">
-              <h2 className="eyebrow">Lire les verdicts</h2>
-              <ul role="list">
-                {LEGEND.map((v) => <li key={v}><VerdictBadge v={v} /></li>)}
-                <li><span className="verdict"><Dash /><span>Sans analyse</span></span></li>
-              </ul>
-              <p className="legend-note">Verdicts de faisabilité établis par IA, portant sur la mesure. La forme des repères, non la couleur, indique le niveau.</p>
-            </div>
-          </aside>
-        </div>
+    <Feed title={SITE_TITLE} entries={entries}>
+      <section className="intro" aria-labelledby="intro-titre">
+        <h2 id="intro-titre" className="intro-kicker">Veille indépendante des publications officielles</h2>
+        <p className="lede">
+          Fil des publications des comptes officiels (X, TikTok, site de Nouvelle Énergie) : résumé fidèle,
+          propositions concrètes et analyse de faisabilité. Le projet évalue des <strong>mesures</strong>, jamais la personne.
+        </p>
+        <dl className="stats">
+          <div><dt>Publications</dt><dd>{items.length}</dd></div>
+          <div><dt>Propositions analysées</dt><dd>{nProps}</dd></div>
+          {last && <div><dt>Dernière publication</dt><dd><time dateTime={last}>{fmtDate(last)}</time></dd></div>}
+        </dl>
+        <p className="intro-links">
+          <Link href="/methodologie">Lire la méthodologie</Link>
+          <Link href="/methodologie#neutralite">Politique de neutralité</Link>
+        </p>
       </section>
-      <Feed entries={entries} />
-    </>
+    </Feed>
   );
 }

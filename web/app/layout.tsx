@@ -1,4 +1,6 @@
 import type { Metadata, Viewport } from "next";
+import BottomNav from "@/components/BottomNav";
+import RightRail from "@/components/RightRail";
 import SiteFooter from "@/components/SiteFooter";
 import SiteHeader from "@/components/SiteHeader";
 import { SITE_TITLE } from "@/lib/site";
@@ -10,15 +12,11 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "#ffffff" },
-    { media: "(prefers-color-scheme: dark)", color: "#0a0a0b" },
-  ],
+  themeColor: "#000000",
 };
 
-// Pose le thème (préférence enregistrée, sinon système) avant le premier rendu : pas de flash.
-// La classe « js » ne replie les filtres sur mobile que si le bouton peut fonctionner.
-const THEME_SCRIPT = `(function(){document.documentElement.classList.add("js");try{var s=localStorage.getItem("theme");var d=s==="dark"||(s!=="light"&&window.matchMedia("(prefers-color-scheme: dark)").matches);document.documentElement.dataset.theme=d?"dark":"light"}catch(e){}})()`;
+// Pose le thème avant le premier rendu (pas de flash) : sombre par défaut, clair seulement si choisi.
+const THEME_SCRIPT = `(function(){var t="dark";try{if(localStorage.getItem("theme")==="light")t="light"}catch(e){}document.documentElement.dataset.theme=t})()`;
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
@@ -28,9 +26,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body>
         <a className="skip" href="#contenu">Aller au contenu</a>
-        <SiteHeader />
-        <main id="contenu" tabIndex={-1}>{children}</main>
-        <SiteFooter />
+        <div className="shell">
+          <SiteHeader />
+          <div className="column">
+            <main id="contenu" tabIndex={-1}>{children}</main>
+            <SiteFooter />
+          </div>
+          <RightRail />
+        </div>
+        <BottomNav />
       </body>
     </html>
   );

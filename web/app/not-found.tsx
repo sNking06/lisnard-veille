@@ -1,14 +1,15 @@
 import Link from "next/link";
+import ColumnHeader from "@/components/ColumnHeader";
 
 export default function NotFound() {
   return (
-    <section className="hero hero-compact">
-      <div className="container">
-        <p className="kicker">Erreur 404</p>
-        <h1>Page introuvable</h1>
+    <>
+      <ColumnHeader title="Page introuvable" />
+      <section className="intro" aria-label="Erreur 404">
+        <p className="intro-kicker">Erreur 404</p>
         <p className="lede">Cette adresse ne correspond à aucune page du site.</p>
-        <p className="hero-links"><Link href="/" className="btn btn-primary">Retour au fil des publications</Link></p>
-      </div>
-    </section>
+        <p className="intro-links"><Link href="/" className="btn btn-primary">Retour au fil des publications</Link></p>
+      </section>
+    </>
   );
 }
