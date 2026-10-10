@@ -4,14 +4,15 @@ import { useEffect, useRef, useState } from "react";
 // Lecteurs officiels (iframes X / TikTok) affichés d'emblée, sans lecture automatique.
 // TikTok : player v1 compact (9:16, sans bandeau ni légende, autoplay=0).
 // X : Tweet.html redimensionné à sa hauteur réelle via le message postMessage « twttr.private.resize ».
-// Montage différé (IntersectionObserver + loading="lazy") ; repli vers le lien d'origine après 15 s.
+// Montage différé (IntersectionObserver + loading="lazy") ; message de repli après 15 s.
+// Le lien vers l'original est porté une seule fois, par la barre d'actions du post (Card.tsx).
 const TIKTOK_PARAMS =
   "autoplay=0&loop=0&music_info=0&description=0&rel=0&native_context_menu=0&closed_captions_display=0" +
   "&progress_bar=1&play_button=1&volume_control=1&fullscreen_button=1&timestamp=0";
 const X_ORIGIN = "https://platform.twitter.com";
 const X_INITIAL_HEIGHT = 200;
 
-export default function Embed({ type, id, lien }: { type: "x" | "tiktok"; id: string; lien: string }) {
+export default function Embed({ type, id }: { type: "x" | "tiktok"; id: string }) {
   const box = useRef<HTMLDivElement>(null);
   const frame = useRef<HTMLIFrameElement>(null);
   const [visible, setVisible] = useState(false);
@@ -94,11 +95,10 @@ export default function Embed({ type, id, lien }: { type: "x" | "tiktok"; id: st
         {(!visible || (!loaded && !failed)) && <span className="embed-ph" aria-hidden="true">Chargement du lecteur {nom}…</span>}
         {failed && (
           <p className="embed-fail">
-            Le lecteur {nom} n’a pas pu se charger. <a href={lien} target="_blank" rel="noopener noreferrer">Voir la publication d’origine</a>
+            Le lecteur {nom} n’a pas pu se charger : utilisez le lien « Voir la publication d’origine » ci-dessous.
           </p>
         )}
       </div>
-      <a className="embed-orig" href={lien} target="_blank" rel="noopener noreferrer">Voir la publication d’origine sur {nom}</a>
     </div>
   );
 }

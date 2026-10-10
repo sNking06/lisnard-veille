@@ -68,12 +68,13 @@
 html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  /* Ancres et focus jamais masqués par l'en-tête collant de la colonne. */
-  scroll-padding-top: 10.5rem;
+  /* Ancres et focus jamais masqués par l'en-tête collant : --head-h est sa hauteur mesurée (StickyOffset),
+     les valeurs de repli couvrent un bandeau sur 3 lignes (mobile) ou 1 ligne (bureau). */
+  scroll-padding-top: calc(var(--head-h, 11rem) + 12px);
   scroll-padding-bottom: calc(var(--bnav-h) + 1rem);
 }
 @media (min-width: 45rem) {
-  html { scroll-padding-top: 9rem; scroll-padding-bottom: 1rem; }
+  html { scroll-padding-top: calc(var(--head-h, 8.75rem) + 12px); scroll-padding-bottom: 1rem; }
 }
 
 body {
@@ -314,8 +315,21 @@ code {
 .panel p { margin: 0 0 12px; color: var(--ink-2); }
 .panel p:last-child { margin-bottom: 0; }
 .panel-links { display: flex; flex-wrap: wrap; gap: 4px 16px; }
-.panel .panel-note { font-size: 0.8125rem; color: var(--muted); line-height: 1.35; }
+.panel-note, .panel .panel-note { margin: 0; font-size: 0.8125rem; color: var(--muted); line-height: 1.35; }
 .legend { list-style: none; margin: 0 0 12px; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+
+/* Légende repliable du filtre : remplace le rail droit tant qu'il est masqué (< 66rem). */
+.legend-box {
+  margin: 0 var(--pad) 12px;
+  border: 1px solid var(--rule-strong);
+  border-radius: var(--radius);
+  background: var(--surface);
+  overflow: hidden;
+}
+.legend-box .disclosure-panel { padding-top: 12px; }
+@media (min-width: 66rem) {
+  .legend-box { display: none; }
+}
 
 /* ---------- En-tête collant de la colonne ---------- */
 .col-head {
@@ -506,16 +520,13 @@ code {
   box-shadow: 0 0 0 1px var(--accent);
 }
 
-/* Puces de verdict : une ligne défilante, sans débordement de la page. */
+/* Puces de verdict : passage à la ligne, aucune puce tronquée ni masquée hors champ. */
 .chips {
   display: flex;
+  flex-wrap: wrap;
   gap: 8px;
-  overflow-x: auto;
   padding: 4px var(--pad) 12px;
-  scrollbar-width: none;
-  overscroll-behavior-x: contain;
 }
-.chips::-webkit-scrollbar { display: none; }
 .chip {
   flex: none;
   display: inline-flex;
@@ -634,7 +645,6 @@ code {
 .embed.embed-failed { min-height: 0; aspect-ratio: auto; border: 1px solid var(--rule); }
 .embed-ph { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; pointer-events: none; }
 .embed-ph, .embed-fail { margin: 0; font-size: 0.8125rem; color: var(--muted); padding: 1rem; text-align: center; }
-.embed-orig { display: inline-block; margin-top: 4px; font-size: 0.8125rem; color: var(--muted); }
 
 /* Note de faisabilité : petit encadré sous le post. */
 .fnote {

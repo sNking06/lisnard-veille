@@ -1,8 +1,5 @@
 import Link from "next/link";
-import type { Verdict } from "@/lib/types";
-import VerdictBadge, { Dash } from "./VerdictBadge";
-
-const LEGEND: Verdict[] = ["faisable", "faisable_sous_conditions", "difficilement_faisable"];
+import VerdictLegend from "./VerdictLegend";
 
 /** Rail droit (grand écran) : présentation courte et légende des verdicts. */
 export default function RightRail() {
@@ -22,11 +19,7 @@ export default function RightRail() {
         </section>
         <section className="panel" aria-labelledby="rr-legend">
           <h2 id="rr-legend">Lire les verdicts</h2>
-          <ul className="legend" role="list">
-            {LEGEND.map((v) => <li key={v}><VerdictBadge v={v} /></li>)}
-            <li><span className="verdict"><Dash /><span>Sans analyse</span></span></li>
-          </ul>
-          <p className="panel-note">Verdicts de faisabilité établis par IA, portant sur la mesure. La forme des repères, non la couleur, indique le niveau.</p>
+          <VerdictLegend />
         </section>
       </div>
     </aside>

@@ -61,7 +61,7 @@ export default function Card({ a }: { a: Analyse }) {
           <blockquote className="quote">{a.citations.map((c, i) => <p key={i}>« {c} »</p>)}</blockquote>
         )}
 
-        {a.integration && a.integration.type !== "none" && <Embed type={a.integration.type} id={a.integration.id} lien={a.lien} />}
+        {a.integration && a.integration.type !== "none" && <Embed type={a.integration.type} id={a.integration.id} />}
 
         <section className="fnote" aria-labelledby={`${anchor}-p`}>
           <h4 id={`${anchor}-p`} className="fnote-head">
@@ -111,7 +111,7 @@ export default function Card({ a }: { a: Analyse }) {
         <footer className="post-foot">
           <p className="ai-flag"><span className="ai-tag" aria-hidden="true">IA</span><span>{a.avertissement}</span></p>
           <ul className="post-actions" role="list">
-            <li><a href={a.lien} rel="noopener noreferrer" target="_blank"><IconExternal size={17} />Publication d’origine{NEW_TAB}</a></li>
+            <li><a href={a.lien} rel="noopener noreferrer" target="_blank"><IconExternal size={17} />Voir la publication d’origine<span className="sr-only"> sur {net.label}</span>{NEW_TAB}</a></li>
             <li><a href={issue} rel="noopener noreferrer" target="_blank"><IconFlag size={17} />Signaler une erreur{NEW_TAB}</a></li>
           </ul>
         </footer>

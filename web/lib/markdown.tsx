@@ -213,7 +213,8 @@ export function renderBlocks(blocks: Block[], ctx: RenderCtx, tight = false): Re
       case "quote":
         return <blockquote key={k}>{renderBlocks(b.blocks, ctx)}</blockquote>;
       case "code":
-        return <pre key={k}><code>{b.text}</code></pre>;
+        // Bloc défilant horizontalement : focalisable pour le défilement au clavier (axe scrollable-region-focusable).
+        return <pre key={k} tabIndex={0}><code>{b.text}</code></pre>;
       case "hr":
         return <hr key={k} />;
       case "table":

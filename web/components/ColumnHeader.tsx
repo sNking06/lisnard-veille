@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { ReactNode } from "react";
 import { SITE_TITLE } from "@/lib/site";
+import StickyOffset from "./StickyOffset";
 
 /** En-tête collant de la colonne : bandeau d'avertissement permanent, titre de page, onglets éventuels. */
 export default function ColumnHeader({ title, children }: { title: ReactNode; children?: ReactNode }) {
@@ -17,6 +18,7 @@ export default function ColumnHeader({ title, children }: { title: ReactNode; ch
         <h1 id="titre">{title}</h1>
       </div>
       {children}
+      <StickyOffset />
     </div>
   );
 }

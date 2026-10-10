@@ -3,8 +3,10 @@ import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import { VERDICTS, type Source, type Verdict } from "@/lib/types";
 import { normalize } from "@/lib/search";
 import ColumnHeader from "./ColumnHeader";
+import Disclosure from "./Disclosure";
 import { IconSearch } from "./Icons";
 import { Dash, Dots } from "./VerdictBadge";
+import VerdictLegend from "./VerdictLegend";
 
 export type VerdictKey = Verdict | "sans_analyse";
 /** Une entrée du fil : métadonnées de filtrage + publication déjà rendue côté serveur. */
@@ -90,6 +92,12 @@ export default function Feed({ title, entries, children }: { title: string; entr
               {vLabel(k)}
             </Chip>
           ))}
+        </div>
+        {/* La légende du rail droit n'est visible qu'en grand écran : version repliable ailleurs. */}
+        <div className="legend-box">
+          <Disclosure id="legende-verdicts" label="Comprendre les verdicts" openLabel="Comprendre les verdicts">
+            <VerdictLegend />
+          </Disclosure>
         </div>
       </div>
 
