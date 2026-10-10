@@ -40,7 +40,8 @@ export default function Methodologie() {
       </ColumnHeader>
 
       <section className="intro" aria-labelledby="intro-titre">
-        <h2 id="intro-titre" className="intro-kicker">Comment ce site fonctionne</h2>
+        <p className="kicker">Méthode</p>
+        <h2 id="intro-titre" className="display">Comment ce site fonctionne</h2>
         <p className="lede">
           Collecte, résumé, analyse de faisabilité et règles de neutralité. Les textes ci-dessous reprennent
           les documents <code>docs/methodologie.md</code> et <code>docs/neutralite.md</code> du dépôt.
@@ -70,7 +71,7 @@ export default function Methodologie() {
         const ctx: RenderCtx = { shift: 1, prefix: d.id, docs: DOC_IDS };
         return (
           <section key={d.id} id={d.id} className="doc-section prose" aria-labelledby={`${d.id}-titre`}>
-            <p className="doc-file">docs/{d.file}</p>
+            <p className="kicker doc-file">docs/{d.file}</p>
             <h2 id={`${d.id}-titre`}>{renderInline(d.title, ctx)}</h2>
             {d.body ? renderBlocks(d.body, ctx) : (
               <p>Document indisponible lors de la génération du site.</p>
@@ -82,6 +83,7 @@ export default function Methodologie() {
         );
       })}
       <section id="contact" className="doc-section prose" aria-labelledby="contact-titre">
+        <p className="kicker doc-file">Contact</p>
         <h2 id="contact-titre">Contact et corrections</h2>
         <p>
           Pour toute question ou demande de correction, écrire à{" "}

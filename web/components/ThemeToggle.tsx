@@ -5,7 +5,7 @@ import { IconMoon, IconSun } from "./Icons";
 type Theme = "light" | "dark";
 
 /**
- * Bascule clair/sombre (sombre par défaut). Le thème initial est posé avant le rendu par le script inline
+ * Bascule clair/sombre (préférence système par défaut, clair sans JavaScript). Le thème initial est posé avant le rendu par le script inline
  * du layout (pas de flash) ; plusieurs boutons (rail, barre mobile) restent synchronisés via data-theme.
  */
 export default function ThemeToggle({ className }: { className?: string }) {
@@ -13,7 +13,7 @@ export default function ThemeToggle({ className }: { className?: string }) {
 
   useEffect(() => {
     const root = document.documentElement;
-    const read = () => setTheme(root.dataset.theme === "light" ? "light" : "dark");
+    const read = () => setTheme(root.dataset.theme === "dark" ? "dark" : "light");
     read();
     const mo = new MutationObserver(read);
     mo.observe(root, { attributes: true, attributeFilter: ["data-theme"] });
@@ -21,7 +21,7 @@ export default function ThemeToggle({ className }: { className?: string }) {
   }, []);
 
   const toggle = () => {
-    const next: Theme = document.documentElement.dataset.theme === "light" ? "dark" : "light";
+    const next: Theme = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
     document.documentElement.dataset.theme = next;
     try { localStorage.setItem("theme", next); } catch { /* stockage indisponible */ }
   };

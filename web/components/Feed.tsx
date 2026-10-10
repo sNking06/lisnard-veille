@@ -74,35 +74,38 @@ export default function Feed({ title, entries, children }: { title: string; entr
 
       {children}
 
-      <div className="filters">
-        <form role="search" id="recherche" className="search" onSubmit={(e) => e.preventDefault()}>
-          <label htmlFor="q" className="sr-only">Rechercher dans les publications</label>
-          <div className="search-field">
-            <IconSearch className="search-icon" size={18} />
-            <input ref={input} id="q" type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder="Rechercher (titre, résumé, proposition)"
-              autoComplete="off" spellCheck={false} aria-describedby="q-hint" />
-          </div>
-          <p id="q-hint" className="sr-only">Recherche dans les titres, résumés et propositions.</p>
-        </form>
-        <div className="chips" role="group" aria-label="Filtrer par verdict">
-          <Chip on={verdict === "all"} onClick={() => setVerdict("all")}>Tous les verdicts</Chip>
-          {VKEYS.map((k) => (
-            <Chip key={k} on={verdict === k} onClick={() => setVerdict(k)} count={counts[k] ?? 0}>
-              {k === "sans_analyse" ? <Dash /> : <Dots n={VERDICTS[k].niveau} />}
-              {vLabel(k)}
-            </Chip>
-          ))}
-        </div>
-        {/* La légende du rail droit n'est visible qu'en grand écran : version repliable ailleurs. */}
-        <div className="legend-box">
-          <Disclosure id="legende-verdicts" label="Comprendre les verdicts" openLabel="Comprendre les verdicts">
-            <VerdictLegend />
-          </Disclosure>
-        </div>
-      </div>
-
       <section aria-labelledby="fil-titre">
-        <h2 id="fil-titre" className="sr-only">Fil des publications</h2>
+        <header className="section-head">
+          <p className="kicker">Le fil</p>
+          <h2 id="fil-titre" className="section-title">Publications et analyses</h2>
+        </header>
+        <div className="filters">
+          <form role="search" id="recherche" className="search" onSubmit={(e) => e.preventDefault()}>
+            <label htmlFor="q" className="sr-only">Rechercher dans les publications</label>
+            <div className="search-field">
+              <IconSearch className="search-icon" size={18} />
+              <input ref={input} id="q" type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder="Rechercher (titre, résumé, proposition)"
+                autoComplete="off" spellCheck={false} aria-describedby="q-hint" />
+            </div>
+            <p id="q-hint" className="sr-only">Recherche dans les titres, résumés et propositions.</p>
+          </form>
+          <div className="chips" role="group" aria-label="Filtrer par verdict">
+            <Chip on={verdict === "all"} onClick={() => setVerdict("all")}>Tous les verdicts</Chip>
+            {VKEYS.map((k) => (
+              <Chip key={k} on={verdict === k} onClick={() => setVerdict(k)} count={counts[k] ?? 0}>
+                {k === "sans_analyse" ? <Dash /> : <Dots n={VERDICTS[k].niveau} />}
+                {vLabel(k)}
+              </Chip>
+            ))}
+          </div>
+          {/* La légende du rail droit n'est visible qu'en grand écran : version repliable ailleurs. */}
+          <div className="legend-box">
+            <Disclosure id="legende-verdicts" label="Comprendre les verdicts" openLabel="Comprendre les verdicts">
+              <VerdictLegend />
+            </Disclosure>
+          </div>
+        </div>
+
         <div className="feed-bar">
           <p className="count" role="status" aria-live="polite" aria-atomic="true">{status}</p>
           <div className="feed-tools">

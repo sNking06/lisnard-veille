@@ -21,7 +21,8 @@ export default function Home() {
   return (
     <Feed title={SITE_TITLE} entries={entries}>
       <section className="intro" aria-labelledby="intro-titre">
-        <h2 id="intro-titre" className="intro-kicker">Veille indépendante des publications officielles</h2>
+        <p className="kicker">Veille indépendante</p>
+        <h2 id="intro-titre" className="display">Les publications officielles, résumées et analysées</h2>
         <p className="lede">
           Fil des publications des comptes officiels (X, TikTok, site de Nouvelle Énergie) : résumé fidèle,
           propositions concrètes et analyse de faisabilité. Le projet évalue des <strong>mesures</strong>, jamais la personne.
@@ -32,8 +33,8 @@ export default function Home() {
           {last && <div><dt>Dernière publication</dt><dd><time dateTime={last}>{fmtDate(last)}</time></dd></div>}
         </dl>
         <p className="intro-links">
-          <Link href="/methodologie">Lire la méthodologie</Link>
-          <Link href="/methodologie#neutralite">Politique de neutralité</Link>
+          <Link href="/methodologie" className="more">Lire la méthodologie</Link>
+          <Link href="/methodologie#neutralite" className="more">Politique de neutralité</Link>
         </p>
       </section>
     </Feed>

@@ -17,7 +17,7 @@ export function Dash() {
 export default function VerdictBadge({ v }: { v: Verdict }) {
   const m = VERDICTS[v];
   return (
-    <span className="verdict" title="Verdict de faisabilité de la mesure (analyse IA)">
+    <span className={`verdict v-${v}`} title="Verdict de faisabilité de la mesure (analyse IA)">
       <Dots n={m.niveau} />
       <span>{m.label}</span>
     </span>
