@@ -13,7 +13,7 @@ export default function SiteFooter() {
           <h2 className="foot-h">Collecte</h2>
           <p>
             X par Grok Bot (routine), TikTok et site par GitHub Actions. Les vidéos ne sont pas republiées :
-            lecteurs officiels intégrés uniquement, chargés au clic.
+            lecteurs officiels intégrés uniquement, affichés sur chaque carte sans lecture automatique.
           </p>
         </div>
         <nav aria-label="Liens de pied de page">

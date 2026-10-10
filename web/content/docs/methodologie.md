@@ -15,3 +15,5 @@
 
 ## Limites connues
 Voir le README (section « Ce qui manque ») et les champs `doutes` / `notes` de chaque analyse.
+
+- **Lecteurs intégrés** : les lecteurs officiels X (platform.twitter.com) et TikTok (tiktok.com/embed/v2) sont affichés sur chaque carte, chargés en différé au défilement, sans lecture automatique : l’utilisateur appuie sur lecture. Un lien vers la publication d’origine est toujours proposé.
