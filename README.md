@@ -31,9 +31,9 @@ Faite par **Grok Bot** (routine, outils MCP X natifs) qui pousse les JSON dans `
 Projet à importer avec **Root Directory = `web`** (config : `web/vercel.json`, export statique `out`). Cocher « Include source files outside of the Root Directory » ou laisser le script `web/scripts/sync-data.mjs` utiliser la copie `web/content/analyses` (commitée).
 
 ## Ce qui manque / à configurer (rien n'est inventé)
-- **Secret `ANALYZER_API_KEY`** (clé API d'un fournisseur de modèle compatible « chat completions ») ; variables de dépôt `ANALYZER_MODEL` (obligatoire) et `ANALYZER_API_URL` (optionnel, défaut : endpoint OpenAI). Sans eux, l'étape d'analyse automatique est ignorée : les nouvelles publications s'affichent… sinon elles restent « à analyser » (voir `analyzer/run.py list`).
+- **Secret `ANALYZER_API_KEY`** (clé API d'un fournisseur de modèle compatible « chat completions ») ; variables de dépôt `ANALYZER_MODEL` (obligatoire) et `ANALYZER_API_URL` (optionnel, défaut : endpoint OpenAI). Sans eux, l'étape d'analyse automatique est ignorée : les nouvelles publications restent « à analyser » (voir `analyzer/run.py list`).
 - **Recherche web pour l'analyse automatique** : `run.py analyze` n'a pas d'outil de recherche ; les analyses sourcées du prototype ont été faites par Grok Bot. À brancher (outil de recherche ou relecture humaine) avant de publier des analyses automatiques.
 - **Routine Grok Bot** pour X (planification de la collecte et du push).
-- **Déploiement Vercel** : connexion/compte requis (voir rapport de déploiement).
+- **Déploiement Vercel durable** : un déploiement anonyme temporaire (60 min) a été créé avec `vercel deploy --temporary` ; il faut un compte Vercel (`vercel login` ou « claim deployment ») puis importer le dépôt avec Root Directory = `web`.
 - TikTok depuis les runners GitHub : yt-dlp peut être bloqué (mode dégradé prévu) ; cookies/proxy non configurés.
 - Les cartes TikTok reposent sur les sous-titres automatiques de la plateforme.
