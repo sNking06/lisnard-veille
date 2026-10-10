@@ -1,5 +1,7 @@
 # lisnard-veille
 
+Site : https://ilsepassequelquechose-2027.vercel.app
+
 Fil d'actualité public qui résume et analyse la **faisabilité des propositions** publiées par les comptes officiels de David Lisnard (X, TikTok, site Nouvelle Énergie).
 
 > ⚠️ Analyses générées par IA, pouvant contenir des erreurs. Chaque carte renvoie vers la publication d'origine et propose « Signaler une erreur » (issue GitHub). Le projet juge la faisabilité des mesures, jamais la personne. Voir [docs/neutralite.md](docs/neutralite.md).
