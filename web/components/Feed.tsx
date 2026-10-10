@@ -26,7 +26,7 @@ function Chip({ on, onClick, children, count }: { on: boolean; onClick: () => vo
   );
 }
 
-export default function Feed({ title, entries, children }: { title: string; entries: FeedEntry[]; children?: ReactNode }) {
+export default function Feed({ title, entries, about }: { title: string; entries: FeedEntry[]; about?: ReactNode }) {
   const [net, setNet] = useState<Source | "all">("all");
   const [verdict, setVerdict] = useState<VerdictKey | "all">("all");
   const [q, setQ] = useState("");
@@ -72,8 +72,6 @@ export default function Feed({ title, entries, children }: { title: string; entr
         </div>
       </ColumnHeader>
 
-      {children}
-
       <section aria-labelledby="fil-titre">
         <div className="section-head">
           <p className="kicker">Le fil</p>
@@ -99,6 +97,13 @@ export default function Feed({ title, entries, children }: { title: string; entr
             ))}
           </div>
           {/* La légende du rail droit n'est visible qu'en grand écran : version repliable ailleurs. */}
+          {about && (
+            <div className="legend-box">
+              <Disclosure id="a-propos-projet" label="À propos du projet" openLabel="À propos du projet">
+                <div className="panel-about">{about}</div>
+              </Disclosure>
+            </div>
+          )}
           <div className="legend-box">
             <Disclosure id="legende-verdicts" label="Comprendre les verdicts" openLabel="Comprendre les verdicts">
               <VerdictLegend />

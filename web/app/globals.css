@@ -1,5 +1,5 @@
 /* =========================================================================
-   Veille Lisnard 2027 — feuille de style
+   Faisable ? — feuille de style
    Ton éditorial sobre : Montserrat (titres serrés, kickers en petites capitales espacées).
    Palette inspirée de « Nouvelle Énergie » (couleurs seulement : ni logo, ni photo, ni affiliation) :
    bleu marine #1d257a / bleu nuit #0f1450, violet d'accent #4a36a3, kaki #aba884 / #b0ad85.
@@ -1036,3 +1036,7 @@ code {
   body { padding-bottom: 0; }
   .post { break-inside: avoid; box-shadow: none; }
 }
+
+.panel-about p { margin: 0 0 14px; color: var(--ink-2); font-size: 0.9375rem; line-height: 1.55; }
+.panel-about .stats { margin: 0 0 14px; }
+.rrail .stats { margin: 0 0 14px; grid-template-columns: 1fr; }

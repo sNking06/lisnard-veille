@@ -12,6 +12,8 @@ const montserrat = Montserrat({ subsets: ["latin"], display: "swap", variable: "
 
 export const metadata: Metadata = {
   title: { default: `${SITE_TITLE} — fil d'actualité et faisabilité des propositions`, template: `%s — ${SITE_TITLE}` },
+  openGraph: { title: `${SITE_TITLE} — fil d'actualité et faisabilité des propositions`, siteName: SITE_TITLE, type: "website", locale: "fr_FR" },
+  twitter: { card: "summary", title: `${SITE_TITLE} — fil d'actualité et faisabilité des propositions` },
   description: "Résumés et analyses de faisabilité (générés par IA) des publications officielles de David Lisnard. Analyses pouvant contenir des erreurs.",
 };
 

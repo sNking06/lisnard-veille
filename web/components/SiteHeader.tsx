@@ -9,8 +9,8 @@ export default function SiteHeader() {
   return (
     <header className="lrail" aria-label="En-tête du site">
       <div className="lrail-inner">
-        <Link href="/" className="lrail-brand" title={SITE_TITLE}>
-          <span className="mark" aria-hidden="true">VL</span>
+        <Link href="/" className="lrail-brand" title={SITE_TITLE} aria-label={`F? ${SITE_TITLE} accueil`}>
+          <span className="mark">F?</span>
           <span className="nav-label">{SITE_TITLE}</span>
         </Link>
         <nav aria-label="Navigation principale">
