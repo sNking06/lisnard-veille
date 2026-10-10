@@ -1,0 +1,21 @@
+{
+  "id": "7694930405778099488",
+  "date": "2026-10-10T07:00:09+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7694930405778099488",
+  "statut": "ok",
+  "resume": "Extrait court : l'auteur cite l'action du général de Gaulle en 1958 (ordonnances) qui aurait fait passer l'État d'un déficit comparable à l'actuel à un excédent en un an, précise qu'il n'y a pas de « de Gaulle » aujourd'hui, et dit vouloir porter la « France réelle » (jeunes en apprentissage, personnes qui investissent et prennent des risques) via une « révolution du bon sens » et de la liberté.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) — transcription approximative",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "integration": {
+    "type": "tiktok",
+    "id": "7694930405778099488"
+  },
+  "notes": "Affirmation historique sur 1958 non vérifiée dans le cadre de ce prototype. Pas de mesure concrète."
+}

@@ -1,0 +1,52 @@
+{
+  "id": "7694691256118594849",
+  "date": "2026-10-09T15:32:03+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7694691256118594849",
+  "statut": "ok",
+  "resume": "Extrait sur l'égalitarisme à l'école : l'auteur estime que l'on ne réduit pas les inégalités en interdisant à tous de s'aider à la maison. Il affirme que les travaux à la maison sont interdits à l'école élémentaire depuis plusieurs décennies et soutient que tous les enfants devraient pouvoir accéder au manuel scolaire y compris à domicile, avec un accompagnement scolaire et un périscolaire réorienté dans cette direction, comme à Cannes. Il distingue éducation (familles) et instruction (école).",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) — transcription approximative",
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Garantir à tous les enfants l'accès au manuel scolaire, y compris à la maison, et développer l'accompagnement scolaire en réorientant le périscolaire dans cette direction.",
+      "cout": "Non établi : aucun chiffrage dans la vidéo ni dans les sources consultées. Le coût dépend du nombre d'heures encadrées et du taux d'encadrement.",
+      "cadre_juridique": "Le périscolaire relève de l'organisation communale. À l'école primaire, selon Service-Public (vérifié le 25/03/2025), l'enseignant ne peut pas donner de travail écrit à faire hors de la classe (référence : loi n° 2013-595 du 8 juillet 2013) ; les devoirs oraux (lecture, recherche, leçons à apprendre) restent possibles : la mesure proposée (accompagnement hors temps de classe) ne se heurte donc pas à cette règle, mais l'affirmation d'une interdiction générale des « travaux à la maison » est à nuancer. Pour l'accès aux manuels, aucun texte consulté.",
+      "competence": "Communes (périscolaire, écoles élémentaires) ; État (programmes, règles sur les devoirs) ; au collège, dispositif national existant. L'article 72-2 de la Constitution prévoit que toute extension de compétence augmentant les dépenses des collectivités s'accompagne de ressources déterminées par la loi, ce qui concerne un éventuel déploiement imposé au niveau national.",
+      "precedents": "France : « Devoirs faits », temps d'étude accompagnée au collège hors heures de classe, présenté sur education.gouv.fr (obligatoire pour les élèves de 6e depuis la rentrée 2023 d'après un extrait de recherche). Ville de Cannes : pratique évoquée par l'auteur, non vérifiée. Étranger : non établi.",
+      "verdict": "faisable",
+      "conditions": [
+        "Décision et financement communaux (la mesure est à la main de chaque commune) ; un déploiement généralisé exigerait des moyens pour les communes et du personnel d'encadrement (non chiffré).",
+        "Qualité et formation des intervenants à définir (non établi)."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Transcription automatique approximative. La mesure est formulée en termes généraux ; l'analyse porte sur le périscolaire communal seulement. Le « manuel à la maison » n'est pas détaillé (papier ou numérique)."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Peut-on donner à un élève du primaire des devoirs à faire à la maison ? (Service-Public)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21842",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Devoirs faits : un temps d'étude accompagnée pour réaliser les devoirs (Ministère de l'Éducation nationale)",
+      "url": "https://www.education.gouv.fr/devoirs-faits-un-temps-d-etude-accompagnee-pour-realiser-les-devoirs-7337",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte en vigueur) – Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-10"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "integration": {
+    "type": "tiktok",
+    "id": "7694691256118594849"
+  },
+  "notes": "La vidéo est analysée à partir des sous-titres automatiques TikTok, non relus."
+}

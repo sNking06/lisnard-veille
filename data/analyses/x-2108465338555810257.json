@@ -1,0 +1,21 @@
+{
+  "id": "2108465338555810257",
+  "date": "2026-10-09T07:51:24.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2108465338555810257",
+  "statut": "ok",
+  "resume": "Réaction à l'annonce du ministre de l'Éducation sur « 3000 collaborateurs rémunérés sans aucune tâche à effectuer ». L'auteur qualifie la situation de confirmation de l'« état de délabrement » de l'appareil public central, évoque un « problème de logiciel et de RH » invoqué par le gouvernement, et affirme que ses « constats » et « solutions » pour « remettre l'Etat en ordre » en sortent confortés, sans détailler de mesure.",
+  "base_du_resume": "texte complet de la publication (collecté via MCP X natif)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "integration": {
+    "type": "x",
+    "id": "2108465338555810257"
+  },
+  "notes": "Aucune mesure précise n'est énoncée dans la publication. L'annonce ministérielle citée n'a pas été vérifiée."
+}

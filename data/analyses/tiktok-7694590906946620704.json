@@ -1,0 +1,21 @@
+{
+  "id": "7694590906946620704",
+  "date": "2026-10-09T09:02:45+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7694590906946620704",
+  "statut": "ok",
+  "resume": "Extrait sur la grève dans les collèges et lycées : l'auteur la juge incongrue à l'heure de l'IA et de la robotique, reconnaît des « trous » dans les emplois du temps depuis la réforme du bac (« ça se répare ») et critique l'idée d'emplois du temps raccourcis, avec moins d'heures de cours et des options ajoutées.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) — transcription approximative",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "integration": {
+    "type": "tiktok",
+    "id": "7694590906946620704"
+  },
+  "notes": "Position générale sur l'organisation scolaire ; pas de mesure précise suffisamment définie pour être analysée."
+}

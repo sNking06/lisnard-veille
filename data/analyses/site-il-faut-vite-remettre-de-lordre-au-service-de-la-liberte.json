@@ -1,0 +1,99 @@
+{
+  "id": "il-faut-vite-remettre-de-lordre-au-service-de-la-liberte",
+  "date": "2026-10-05T12:27:50.375Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/il-faut-vite-remettre-de-lordre-au-service-de-la-liberte/",
+  "statut": "ok",
+  "resume": "Compte rendu d'une intervention sur les violences autour des mobilisations lycéennes. L'auteur y voit une mécanique politique visant à transformer des revendications en manifestations puis en « insurrection », appelle à une intervention précoce des forces de l'ordre pour extraire les individus violents, réaffirme sa position en faveur de la dissolution du Syndicat de la magistrature (tout en défendant le principe de la syndicalisation des magistrats), insiste sur un « combat culturel » par l'éducation et propose de développer des établissements disciplinaires pour extraire des classes les élèves les plus violents.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie",
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Dissoudre le Syndicat de la magistrature (en maintenant le droit à la syndicalisation des magistrats mais pas de « syndicats politiques »).",
+      "cout": "Aucun coût budgétaire direct identifié ; chiffrage : non établi.",
+      "cadre_juridique": "L'article 10-1 de l'ordonnance n° 58-1270 du 22 déc. 1958 (loi organique) garantit aux magistrats le droit de créer des syndicats, d'y adhérer et d'y exercer des mandats ; le Conseil constitutionnel a examiné cet article en 2016 (déc. 2016-732 DC) et 2023 (déc. 2023-856 DC). L'article 10 interdit « toute délibération politique » au corps judiciaire et toute action concertée entravant le fonctionnement des juridictions. Selon le code du travail, un syndicat professionnel ne peut avoir un objet illicite et sa dissolution est prononcée judiciairement, à la diligence du procureur ou d'une personne justifiant d'un intérêt direct et personnel (art. L. 2131-1, L. 2131-2, L. 2136-1) ; la Cour d'appel de Paris (13 janv. 2026, RG 22/11857) a jugé irrecevable une action de parlementaires, citoyens/élus sans intérêt direct, visant la dissolution d'un syndicat professionnel. Une dissolution par décision politique ou administrative n'apparaît pas dans les textes consultés ; elle supposerait une loi (voire organique, art. 64 de la Constitution) soumise au contrôle du Conseil constitutionnel et à la liberté syndicale (alinéa 6 du Préambule de 1946, art. 11 CEDH, évoqués dans l'arrêt de la CA de Paris).",
+      "competence": "Autorité judiciaire (tribunal judiciaire, procureur) pour une dissolution sur le fondement du code du travail ; Parlement (loi organique) pour modifier le régime syndical des magistrats ; pas de compétence des collectivités. Droit de l'UE : non établi.",
+      "precedents": "France : aucune dissolution d'un syndicat de magistrats trouvée dans les sources consultées (non établi) ; la décision de la Cour d'appel de Paris de janvier 2026 montre la voie judiciaire et ses conditions de recevabilité. Étranger : non établi.",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Preuve judiciaire d'un objet illicite devant le tribunal judiciaire, sur demande du procureur ou d'une personne ayant un intérêt direct et personnel ; ou modification de la loi organique, avec validation du Conseil constitutionnel.",
+        "Compatibilité avec la liberté syndicale (Préambule de 1946, art. 11 CEDH) : risque juridique élevé pour toute dissolution fondée sur l'orientation d'opinion.",
+        "Une alternative moins lourde (encadrer par la loi organique les prises de position publiques, art. 10 de l'ordonnance) relèverait d'une autre mesure que celle proposée."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Textes lus via extraits de recherche pour l'ordonnance de 1958, les décisions du CC et l'arrêt de la CA de Paris ; pas d'analyse de la jurisprudence de la CEDH sur le droit syndical des magistrats. Le verdict porte sur la procédure, non sur le bien-fondé de la mesure."
+    },
+    {
+      "texte": "Développer des établissements disciplinaires pour extraire des classes les élèves les plus violents, afin de les remettre sur le bon chemin et de protéger les autres.",
+      "cout": "Non établi : aucun chiffrage dans la publication ; les rapports consultés n'en donnent pas dans les extraits lus.",
+      "cadre_juridique": "Dispositifs relais (classes, ateliers, internats tremplins) accueillant temporairement des collégiens en rejet de l'école, décrits par éduscol ; les élèves restent le plus souvent inscrits dans leur établissement d'origine, avec convention. Les établissements de réinsertion scolaire (ERS) ont été créés par la circulaire n° 2010-090 du 29 juin 2010 (IGEN/IGAENR 2012). L'article 34 de la Constitution renvoie à la loi les principes fondamentaux de l'enseignement ; l'instruction obligatoire jusqu'à 16 ans est rappelée par la mission d'inspection comme une obligation du système public.",
+      "competence": "État (Éducation nationale) ; départements pour les collèges (construction, fonctionnement) – la mission d'inspection relève que la mise en place des ERS a parfois été faite sans le concours des collectivités.",
+      "precedents": "France : ERS créés à la rentrée 2010 (16 établissements dans 13 académies) ; le rapport d'inspection de juin 2012 les juge issus d'une mise en place « précipitée » et aux résultats « souvent décevants », sans conclure à un échec complet, et propose une formule de « dispositif de réinsertion scolaire » ; dispositifs relais existant depuis 1998. Étranger : le rapport comportait une étude comparative ; contenu non consulté, donc non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Définition des critères d'admission et des garanties de scolarisation (obligation jusqu'à 16 ans).",
+        "Association des collectivités (départements) et projet pédagogique global, recommandés par la mission d'inspection de 2012.",
+        "Évaluation des résultats : bilan antérieur mitigé.",
+        "Financement et personnels spécialisés : non établis."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Rapport 2012 lu via extraits ; données chiffrées de sortie des élèves non reprises faute de lecture intégrale."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature (Légifrance, extrait)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000339259",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Décision n° 2016-732 DC du 28 juillet 2016 (Conseil constitutionnel)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2016/2016732DC.htm",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Ordonnance 58-1270 consolidée, art. 10 (Conseil constitutionnel, déc. 2001-445 DC)",
+      "url": "https://www.conseil-constitutionnel.fr/sites/default/files/as/root/bank_mm/decisions/2001445dc/consolidation_58_1270.pdf",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Cour d'appel de Paris, 13 janvier 2026, n° 22/11857 (dissolution d'un syndicat professionnel)",
+      "url": "https://librejustice.fr/decision/fr/P5v1_zox5V3g",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Code du travail, art. L2131-1 à L2131-6 (Légifrance)",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006177912/",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Les établissements de rétablissement scolaire – bilan et perspectives (rapport 2012, vie-publique.fr)",
+      "url": "https://www.vie-publique.fr/rapport/36282-les-etablissements-de-retablissement-scolaire-bilan-et-perspectives",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Les dispositifs relais (éduscol)",
+      "url": "https://eduscol.education.gouv.fr/5298/les-dispositifs-relais",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte en vigueur) – Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-10"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "titre": "«Il faut vite remettre de l’ordre au service de la liberté»",
+  "integration": {
+    "type": "none",
+    "id": "il-faut-vite-remettre-de-lordre-au-service-de-la-liberte"
+  },
+  "citations": [
+    "On ne va pas vous laisser instrumentaliser nos enfants.",
+    "Oui au droit à la syndicalisation dans la magistrature, mais pas à des syndicats politiques."
+  ],
+  "notes": "Les passages sur les forces de l'ordre (intervention précoce) décrivent une doctrine d'intervention, non une mesure juridique précise, et n'ont pas été analysés."
+}

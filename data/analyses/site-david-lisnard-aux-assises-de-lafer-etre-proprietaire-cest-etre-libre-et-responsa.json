@@ -1,0 +1,81 @@
+{
+  "id": "david-lisnard-aux-assises-de-lafer-etre-proprietaire-cest-etre-libre-et-responsa",
+  "date": "2026-10-02T13:20:29.893Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/david-lisnard-aux-assises-de-lafer-etre-proprietaire-cest-etre-libre-et-responsable/",
+  "statut": "ok",
+  "resume": "Compte rendu du « grand oral » aux Assises de l'AFER (Paris, 29 sept. 2026). L'auteur plaide pour que chacun reste « propriétaire de sa vie », veut une baisse massive de la dépense publique afin de baisser cotisations et fiscalité, défend une capitalisation obligatoire progressive en complément de la répartition (« capitalisme populaire »), refuse d'augmenter les prélèvements sur l'épargne, propose de libérer davantage le PEA et plus de neutralité fiscale entre actions et créances sur l'État, et s'engage à ne pas toucher à la fiscalité de l'assurance-vie.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie",
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Mettre en place progressivement une retraite par capitalisation obligatoire, en maintenant la répartition comme filet de solidarité intergénérationnelle.",
+      "cout": "Non établi pour la France (aucun chiffrage dans la publication). Le Conseil d'orientation des retraites (séance du 18 déc. 2025) identifie la « double contribution » des actifs comme obstacle majeur de la transition (financer les pensions actuelles et son propre capital) et décrit trois voies : double cotisation (risque récessif), mise à contribution des retraités actuels (sous-indexation, risque récessif) ou prise en charge par l'État (charge supplémentaire pour les finances publiques).",
+      "cadre_juridique": "Création d'un régime obligatoire : loi (art. 34 de la Constitution : droit du travail, droit syndical et sécurité sociale ; lois de financement de la sécurité sociale). Exigences constitutionnelles précises sur l'obligation d'affiliation à un régime privé : non établi (jurisprudence non consultée). Existent déjà en France des régimes obligatoires fonctionnant par capitalisation collective : régime additionnel de la fonction publique (RAFP) et régime complémentaire des pharmaciens (CAVP), selon le COR.",
+      "competence": "État (Parlement, LFSS) ; partenaires sociaux pour les régimes complémentaires existants ; pas de compétence des collectivités. Droit de l'UE : non établi.",
+      "precedents": "Étranger : le COR (note du 12 nov. 2025) recense des expériences d'introduction de la capitalisation (Chili 1981, Mexique 1992/1997/2007, entre autres pays) avec des modalités variables (obligatoire pour nouveaux entrants, option, cotisations réorientées) ; chiffres par pays non repris ici. France : étude Fondapol sur un système mixte par points (hypothèses de rendement réel 3 à 5 %) ; la même étude relève des critiques sur l'endettement et la double cotisation et évoque un fonds d'amorçage pour atténuer la transition.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Financement de la transition : double cotisation, sous-indexation des pensions ou prise en charge par l'État (arbitrage non précisé dans la publication).",
+        "Redressement préalable ou simultané des finances publiques : relevé par les analyses consultées.",
+        "Montée en charge longue (plusieurs décennies) : les bénéfices ne se matérialisent qu'à long terme.",
+        "Vote d'une loi et contrôle constitutionnel de l'obligation d'affiliation (non analysé ici)."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Documents du COR lus via extraits de recherche ; aucun chiffrage spécifique à la proposition (taux de cotisation, transition) trouvé."
+    },
+    {
+      "texte": "Ne pas modifier la fiscalité de l'assurance-vie (engagement pris à la question de l'AFER : « Oui »).",
+      "cout": "Aucun coût de mise en œuvre ; le manque à gagner par rapport à une hausse de fiscalité éventuelle : non établi.",
+      "cadre_juridique": "La fiscalité relève de la loi (art. 34 : assiette, taux et recouvrement des impositions) et des lois de finances (art. 47). Une promesse présidentielle ne lie pas juridiquement le Parlement.",
+      "competence": "État (Parlement et Gouvernement).",
+      "precedents": "Non établi.",
+      "verdict": "faisable",
+      "conditions": [
+        "Engagement politique : tout changement futur reste possible par une loi de finances votée par le Parlement ; la tenue de l'engagement dépend de la majorité parlementaire."
+      ],
+      "fiabilite": "haute",
+      "doutes": "Il s'agit d'un engagement de ne pas agir, sans effet budgétaire chiffré dans les sources."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "COR – Note de présentation générale, séance plénière du 18 décembre 2025",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-12/Doc_01_Note%20de%20pr%C3%A9sentation%20g%C3%A9n%C3%A9rale.pdf",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "COR – Document n° 6 : de la répartition à la capitalisation (18 déc. 2025)",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-12/Doc_06_R%C3%A9partition%20%C3%A0%20Capitalisation.pdf",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "COR – Montée en charge de la capitalisation (12 nov. 2025)",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-11/COR_Transition%20capitalisation_12-11-2025.pdf",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Fondapol – Vers un système de retraite mixte répartition-capitalisation",
+      "url": "https://www.fondapol.org/etude/vers-un-systeme-de-retraite-mixte-repartition-capitalisation/",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte en vigueur) – Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-10"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "titre": "David Lisnard aux Assises de l’AFER : « Être propriétaire, c’est être libre et responsable »",
+  "integration": {
+    "type": "none",
+    "id": "david-lisnard-aux-assises-de-lafer-etre-proprietaire-cest-etre-libre-et-responsa"
+  },
+  "citations": [
+    "Je cotise pour moi, avec des systèmes qui me permettent d'être propriétaire du fruit de mon travail."
+  ],
+  "notes": "La baisse « massive » de la dépense publique et la libéralisation du PEA ne sont pas chiffrées dans la publication et n'ont pas été analysées."
+}
