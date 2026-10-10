@@ -34,7 +34,7 @@ export default function Home() {
               propositions concrètes et analyse de faisabilité. Le projet évalue des <strong>mesures</strong>, jamais la personne.
             </p>
             <p className="hero-links">
-              <Link href="/methodologie" className="btn btn-quiet">Lire la méthodologie</Link>
+              <Link href="/methodologie" className="btn btn-primary">Lire la méthodologie</Link>
               <Link href="/methodologie#neutralite" className="text-link">Politique de neutralité</Link>
             </p>
           </div>
