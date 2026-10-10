@@ -1,0 +1,24 @@
+{
+  "id": "2108296749353988134",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-08T20:41:29.000Z",
+  "url": "https://x.com/davidlisnard/status/2108296749353988134",
+  "texte": "Une femme française qui restera dans l’Histoire de la grande épopée spatiale !\nFélicitations admiratives Sophie Adenot.\nLa France peut et doit être fière 🇫🇷 https://t.co/vE49Bk9CIX",
+  "citation": {
+    "id": "2108265220087140390",
+    "texte": null,
+    "auteur_id": null
+  },
+  "metriques": {
+    "bookmark_count": 14,
+    "impression_count": 31396,
+    "like_count": 2631,
+    "quote_count": 8,
+    "reply_count": 41,
+    "repost_count": 284
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

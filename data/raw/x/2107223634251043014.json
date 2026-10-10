@@ -1,0 +1,20 @@
+{
+  "id": "2107223634251043014",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-05T21:37:19.000Z",
+  "url": "https://x.com/davidlisnard/status/2107223634251043014",
+  "texte": "Ne perdez plus de temps à essayer de me convaincre : je vais voter pour moi.\n#ilsepassequelquechose",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 271,
+    "impression_count": 769058,
+    "like_count": 18454,
+    "quote_count": 187,
+    "reply_count": 489,
+    "retweet_count": 1727
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

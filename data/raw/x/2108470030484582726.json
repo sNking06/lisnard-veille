@@ -1,0 +1,20 @@
+{
+  "id": "2108470030484582726",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-09T08:10:03.000Z",
+  "url": "https://x.com/davidlisnard/status/2108470030484582726",
+  "texte": "Félicitations aux policiers municipaux qui ont encore permis ce matin à une majorité de lycéens d’entrer dans leur établissement.\n\nNos agents ont assuré une sorte de couloir protecteur au milieu des manifestants dont certains voulaient obstruer l’entrée devant deux lycées rouverts depuis deux jours. \n\n#Cannes",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 18,
+    "impression_count": 42457,
+    "like_count": 3058,
+    "quote_count": 8,
+    "reply_count": 42,
+    "repost_count": 333
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

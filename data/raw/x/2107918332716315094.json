@@ -1,0 +1,20 @@
+{
+  "id": "2107918332716315094",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-07T19:37:48.000Z",
+  "url": "https://x.com/davidlisnard/status/2107918332716315094",
+  "texte": "Nouvelle Energie est le mouvement de ceux qui veulent s'en sortir. \n\nRejoignez-nous : https://t.co/fURcxlEBZf",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 61,
+    "impression_count": 58351,
+    "like_count": 3318,
+    "quote_count": 16,
+    "reply_count": 98,
+    "retweet_count": 531
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

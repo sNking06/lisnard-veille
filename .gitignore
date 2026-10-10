@@ -1,0 +1,9 @@
+node_modules/
+.next/
+web/out/
+__pycache__/
+*.mp3
+*.m4a
+*.mp4
+.vercel
+.env*

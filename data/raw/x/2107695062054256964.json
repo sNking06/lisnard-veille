@@ -1,0 +1,20 @@
+{
+  "id": "2107695062054256964",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-07T04:50:36.000Z",
+  "url": "https://x.com/davidlisnard/status/2107695062054256964",
+  "texte": "⚠️ Info Cannes : risque crue éclair. Le passage pluvieux intense arrivera plus tôt que prévu, dès 7h. Des ruissellements dans les points bas sont à prévoir. En anticipation, nous avons fermé certains passages sous la voie ferrée menant au boulevard du Midi. Nous sommes aussi prêts à être réactifs selon l’évolution de la situation à République et La Bocca. Les équipes de la mairie et de l’agglomération sont au Poste de Commandement. Suivre les publications de la Ville de Cannes sur les RS pour toutes informations.",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 7,
+    "impression_count": 182293,
+    "like_count": 706,
+    "quote_count": 3,
+    "reply_count": 13,
+    "retweet_count": 38
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

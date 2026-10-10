@@ -1,0 +1,24 @@
+{
+  "id": "2106981085091631555",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-05T05:33:31.000Z",
+  "url": "https://x.com/davidlisnard/status/2106981085091631555",
+  "texte": "La position de l’Iran est tout à fait compréhensible : il y a forcement pour les Gardiens de la révolution  « disproportion » en France puisqu’en Iran les mêmes faits entraîneraient la pendaison des manifestants. https://t.co/mqiclXtkbh",
+  "citation": {
+    "id": "2106707067558146327",
+    "texte": "Blocage des lycées en France : l’Iran dénonce une « violence disproportionnée » contre les manifestants https://t.co/401ktEcJEU",
+    "auteur_id": "38142665"
+  },
+  "metriques": {
+    "bookmark_count": 83,
+    "impression_count": 192426,
+    "like_count": 6024,
+    "quote_count": 23,
+    "reply_count": 86,
+    "retweet_count": 852
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

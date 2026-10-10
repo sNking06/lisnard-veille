@@ -1,0 +1,20 @@
+{
+  "id": "2107386164105613623",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-06T08:23:09.000Z",
+  "url": "https://x.com/davidlisnard/status/2107386164105613623",
+  "texte": "#OnLeFera https://t.co/gMRUtw75yr",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 29,
+    "impression_count": 54573,
+    "like_count": 1571,
+    "quote_count": 18,
+    "reply_count": 76,
+    "retweet_count": 331
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
