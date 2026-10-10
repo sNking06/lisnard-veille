@@ -12,3 +12,6 @@ export const NETWORKS: Record<Source, { label: string; long: string }> = {
 
 const DATE_FMT = new Intl.DateTimeFormat("fr-FR", { dateStyle: "long", timeZone: "Europe/Paris" });
 export const fmtDate = (d: string) => DATE_FMT.format(new Date(d));
+
+export const CONTACT_EMAIL = "snking@mail.grokbot.com";
+export const CONTACT_HREF = `mailto:${CONTACT_EMAIL}?subject=${encodeURIComponent("Veille Lisnard")}`;

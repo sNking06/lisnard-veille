@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ISSUE_URL, REPO, SITE_TITLE } from "@/lib/site";
+import { CONTACT_EMAIL, CONTACT_HREF, ISSUE_URL, REPO, SITE_TITLE } from "@/lib/site";
 
 export default function SiteFooter() {
   return (
@@ -23,6 +23,7 @@ export default function SiteFooter() {
             <li><Link href="/methodologie#neutralite">Politique de neutralité</Link></li>
             <li><a href={REPO} rel="noopener noreferrer">Code et données</a></li>
             <li><a href={ISSUE_URL} rel="noopener noreferrer">Signaler une erreur</a></li>
+            <li><a href={CONTACT_HREF}>{CONTACT_EMAIL}</a></li>
           </ul>
         </nav>
       </div>

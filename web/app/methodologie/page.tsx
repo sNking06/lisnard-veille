@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { loadDoc } from "@/lib/data";
 import { parseMarkdown, plainText, renderBlocks, renderInline, type Block, type RenderCtx } from "@/lib/markdown";
-import { REPO } from "@/lib/site";
+import { CONTACT_EMAIL, CONTACT_HREF, ISSUE_URL, REPO } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Méthodologie et neutralité",
@@ -76,6 +76,14 @@ export default function Methodologie() {
               </section>
             );
           })}
+          <section id="contact" className="doc-section prose" aria-labelledby="contact-titre">
+            <h2 id="contact-titre">Contact et corrections</h2>
+            <p>
+              Pour toute question ou demande de correction, écrire à{" "}
+              <a href={CONTACT_HREF}>{CONTACT_EMAIL}</a>. Les erreurs peuvent aussi être signalées via le lien{" "}
+              <a href={ISSUE_URL} rel="noopener noreferrer">Signaler une erreur</a> sur GitHub.
+            </p>
+          </section>
         </div>
       </div>
     </>
