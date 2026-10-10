@@ -19,9 +19,15 @@ export default function Embed({ type, id, lien }: { type: "x" | "tiktok"; id: st
   }, [on, type]);
   if (!on) {
     return (
-      <button className="embedbtn" onClick={() => setOn(true)}>
-        Afficher le lecteur officiel {type === "x" ? "X" : "TikTok"} (charge un contenu tiers)
-      </button>
+      <div className="embed-gate">
+        <button type="button" className="btn btn-quiet embed-btn" onClick={() => setOn(true)}>
+          <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+            <path d="M5 3.5v9l7-4.5z" fill="currentColor" />
+          </svg>
+          <span>Afficher le lecteur officiel {type === "x" ? "X" : "TikTok"}</span>
+        </button>
+        <span className="embed-note">Charge un contenu tiers ({type === "x" ? "x.com" : "tiktok.com"}) au clic uniquement.</span>
+      </div>
     );
   }
   return (

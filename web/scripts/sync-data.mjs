@@ -1,5 +1,5 @@
-// Copie data/analyses (racine du dépôt) vers web/content/analyses avant le build.
-// Si ../data n'est pas accessible (ex. Vercel sans « source files outside root »), on garde web/content/ déjà commité.
+// Copie data/analyses et docs/*.md (racine du dépôt) vers web/content avant le build.
+// Si ../data ou ../docs ne sont pas accessibles (ex. Vercel sans « source files outside root »), on garde web/content/ déjà commité.
 import fs from "node:fs";
 import path from "node:path";
 const src = path.resolve("..", "data", "analyses");
@@ -11,4 +11,14 @@ if (fs.existsSync(src)) {
   console.log("sync-data: analyses copiées depuis ../data/analyses");
 } else {
   console.log("sync-data: ../data introuvable, utilisation de web/content/analyses déjà présent");
+}
+const docsSrc = path.resolve("..", "docs");
+const docsDst = path.resolve("content", "docs");
+const DOCS = ["methodologie.md", "neutralite.md"];
+if (DOCS.every((f) => fs.existsSync(path.join(docsSrc, f)))) {
+  fs.mkdirSync(docsDst, { recursive: true });
+  for (const f of DOCS) fs.copyFileSync(path.join(docsSrc, f), path.join(docsDst, f));
+  console.log("sync-data: docs copiés depuis ../docs");
+} else {
+  console.log("sync-data: ../docs introuvable, utilisation de web/content/docs si présent");
 }
