@@ -5,7 +5,7 @@ Fil d'actualité public qui résume et analyse la **faisabilité des proposition
 > ⚠️ Analyses générées par IA, pouvant contenir des erreurs. Chaque carte renvoie vers la publication d'origine et propose « Signaler une erreur » (issue GitHub). Le projet juge la faisabilité des mesures, jamais la personne. Voir [docs/neutralite.md](docs/neutralite.md).
 
 ## Statut (10/10/2026) — prototype fonctionnel
-- 10 posts X originaux, 5 vidéos TikTok, 5 articles du site collectés ; **6 publications analysées** (11 propositions) et 14 résumées seules. Voir [docs/methodologie.md](docs/methodologie.md).
+- 10 posts X originaux, 5 vidéos TikTok, 8 articles du site collectés ; **6 publications analysées** (11 propositions) et 17 résumées seules. Voir [docs/methodologie.md](docs/methodologie.md).
 - Site Next.js (export statique) dans `web/` ; `npm run build` passe.
 - Workflow GitHub Actions `veille` : collecte TikTok + site, analyse des nouveautés (si clé), validation, build.
 

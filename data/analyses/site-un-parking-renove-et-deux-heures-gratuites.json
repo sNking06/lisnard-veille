@@ -1,0 +1,22 @@
+{
+  "id": "un-parking-renove-et-deux-heures-gratuites",
+  "date": "2026-10-03T15:16:08.000Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/un-parking-renove-et-deux-heures-gratuites/",
+  "statut": "ok",
+  "resume": "Article local sur le parking Commerces-Républiques de Cannes : travaux de rénovation, 29 caméras de surveillance, nouveaux services, deux heures de stationnement gratuites par jour du lundi au vendredi, et rappel de la politique municipale de préemption commerciale (périmètres de sauvegarde depuis 2016). Il rapporte des témoignages d'usagers et de commerçants aux avis partagés.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "titre": "Un parking rénové et deux heures gratuites",
+  "integration": {
+    "type": "none",
+    "id": "un-parking-renove-et-deux-heures-gratuites"
+  },
+  "notes": "Information municipale ; aucune proposition."
+}
