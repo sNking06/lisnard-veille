@@ -37,3 +37,6 @@ Projet à importer avec **Root Directory = `web`** (config : `web/vercel.json`, 
 - **Déploiement Vercel durable** : un déploiement anonyme temporaire (60 min) a été créé avec `vercel deploy --temporary` ; il faut un compte Vercel (`vercel login` ou « claim deployment ») puis importer le dépôt avec Root Directory = `web`.
 - TikTok depuis les runners GitHub : yt-dlp peut être bloqué (mode dégradé prévu) ; cookies/proxy non configurés.
 - Les cartes TikTok reposent sur les sous-titres automatiques de la plateforme.
+
+## Note déploiement
+Le 10/10/2026, `vercel deploy --temporary` depuis `web/` (preset Next.js) a produit un déploiement dont la route `/` renvoyait 404 (`/index` fonctionnait) ; le dossier statique `web/out` déployé tel quel fonctionne. À valider avec un vrai projet Vercel (Root Directory `web`) ; si le 404 persiste, utiliser le preset « Other » avec Output Directory `out`.
