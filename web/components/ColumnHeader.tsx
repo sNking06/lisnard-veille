@@ -1,6 +1,5 @@
 import Link from "next/link";
 import type { ReactNode } from "react";
-import { SITE_TITLE } from "@/lib/site";
 import StickyOffset from "./StickyOffset";
 
 /**
@@ -26,9 +25,6 @@ export default function ColumnHeader({ title, children }: { title: ReactNode; ch
         </span>
       </p>
       <div className="col-title">
-        <Link href="/" className="col-brand" aria-label={`F? ${SITE_TITLE} accueil`}>
-          <span className="mark">F?</span>
-        </Link>
         <h1 id="titre">{title}</h1>
       </div>
       {children}

@@ -11,9 +11,9 @@ import "./globals.css";
 const montserrat = Montserrat({ subsets: ["latin"], display: "swap", variable: "--font-sans" });
 
 export const metadata: Metadata = {
-  title: { default: `${SITE_TITLE} — fil d'actualité et faisabilité des propositions`, template: `%s — ${SITE_TITLE}` },
-  openGraph: { title: `${SITE_TITLE} — fil d'actualité et faisabilité des propositions`, siteName: SITE_TITLE, type: "website", locale: "fr_FR" },
-  twitter: { card: "summary", title: `${SITE_TITLE} — fil d'actualité et faisabilité des propositions` },
+  title: { default: SITE_TITLE, template: "%s" },
+  openGraph: { title: SITE_TITLE, type: "website", locale: "fr_FR" },
+  twitter: { card: "summary", title: SITE_TITLE },
   description: "Résumés et analyses de faisabilité (générés par IA) des publications officielles de David Lisnard. Analyses pouvant contenir des erreurs.",
 };
 

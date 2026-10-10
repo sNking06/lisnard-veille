@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { REPO, SITE_TITLE } from "@/lib/site";
+import { REPO } from "@/lib/site";
 import { IconCode, IconDoc, IconHome, IconScale, IconSearch } from "./Icons";
 import NavLink, { SearchLink } from "./NavLink";
 import ThemeToggle from "./ThemeToggle";
@@ -9,10 +9,6 @@ export default function SiteHeader() {
   return (
     <header className="lrail" aria-label="En-tête du site">
       <div className="lrail-inner">
-        <Link href="/" className="lrail-brand" title={SITE_TITLE} aria-label={`F? ${SITE_TITLE} accueil`}>
-          <span className="mark">F?</span>
-          <span className="nav-label">{SITE_TITLE}</span>
-        </Link>
         <nav aria-label="Navigation principale">
           <ul className="lrail-list" role="list">
             <li><NavLink href="/" className="nav-item" title="Fil des publications"><span className="nav-icon"><IconHome /></span><span className="nav-label">Fil</span></NavLink></li>

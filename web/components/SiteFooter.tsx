@@ -1,11 +1,10 @@
 import Link from "next/link";
-import { CONTACT_EMAIL, CONTACT_HREF, ISSUE_URL, REPO, SITE_TITLE } from "@/lib/site";
+import { CONTACT_EMAIL, CONTACT_HREF, ISSUE_URL, REPO } from "@/lib/site";
 
 export default function SiteFooter() {
   return (
     <footer className="site-footer" aria-label="Pied de page du site">
       <p className="kicker">Veille indépendante</p>
-      <p className="foot-brand">{SITE_TITLE}</p>
       <p>Projet indépendant, non affilié. Le projet évalue des <strong>mesures</strong>, jamais la personne.</p>
       <p>
         Collecte : X par Grok Bot (routine), TikTok et site par GitHub Actions. Les vidéos ne sont pas republiées :
