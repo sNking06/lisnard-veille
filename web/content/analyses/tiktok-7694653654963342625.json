@@ -1,0 +1,24 @@
+{
+  "id": "7694653654963342625",
+  "date": "2026-10-09T13:06:08+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7694653654963342625",
+  "statut": "ok",
+  "resume": "Extrait : l'auteur interpelle Jean-Luc Mélenchon pour qu'il cesse d'utiliser les lycéens comme « chair à canon électorale », affirme que l'extrême gauche a aujourd'hui un « rôle criminel » dans les manifestations et demande aux syndicats lycéens de « faire le ménage » face à la récupération partisane.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) — transcription approximative",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "integration": {
+    "type": "tiktok",
+    "id": "7694653654963342625"
+  },
+  "citations": [
+    "cesser de vouloir utiliser nos enfants comme de la chair à canon électorale"
+  ],
+  "notes": "Propos polémique sur des acteurs politiques ; aucune mesure concrète n'est proposée. Les faits allégués ne sont pas vérifiés."
+}

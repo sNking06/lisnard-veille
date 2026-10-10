@@ -1,0 +1,20 @@
+{
+  "id": "2108296749353988134",
+  "date": "2026-10-08T20:41:29.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2108296749353988134",
+  "statut": "ok",
+  "resume": "Message de félicitations à Sophie Adenot (astronaute française) à l'issue de ses sorties extravéhiculaires, relayant une publication de @XploraSpace.",
+  "base_du_resume": "texte complet de la publication (collecté via MCP X natif)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "integration": {
+    "type": "x",
+    "id": "2108296749353988134"
+  }
+}

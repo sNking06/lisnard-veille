@@ -1,0 +1,21 @@
+{
+  "id": "7694943551314070816",
+  "date": "2026-10-10T07:51:09+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7694943551314070816",
+  "statut": "ok",
+  "resume": "Vidéo d'une minute « depuis la mairie » un samedi : l'auteur décrit une journée de travail municipal (courriels, parapheurs, rendez-vous, célébrations, mariages). D'après la légende, il se dit préoccupé par le budget communal et intercommunal face aux « intentions gouvernementales » qu'il décrit comme un prélèvement sur les marges financières créées par la commune depuis 12 ans, annonce y revenir plus tard et souhaite un bon week-end.",
+  "base_du_resume": "légende de la vidéo (aucune transcription audio exploitable : l'essai faster-whisper n'a produit que du bruit, écarté)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "integration": {
+    "type": "tiktok",
+    "id": "7694943551314070816"
+  },
+  "notes": "Les « intentions gouvernementales » ne sont pas précisées ; aucune mesure chiffrée ni proposition."
+}

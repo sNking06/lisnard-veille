@@ -1,0 +1,21 @@
+{
+  "id": "2107386164105613623",
+  "date": "2026-10-06T08:23:09.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2107386164105613623",
+  "statut": "ok",
+  "resume": "Publication réduite au hashtag #OnLeFera accompagné d'un média (non analysé). Aucun contenu textuel exploitable.",
+  "base_du_resume": "texte (hashtag seul) ; le média joint n'a pas été analysé",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "integration": {
+    "type": "x",
+    "id": "2107386164105613623"
+  },
+  "notes": "Le contenu du média joint n'a pas été collecté."
+}

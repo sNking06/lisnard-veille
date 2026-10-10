@@ -1,0 +1,78 @@
+{
+  "id": "david-lisnard-sur-cnews-je-veux-etre-le-mouvement-de-ceux-qui-veulent-sen-sortir",
+  "date": "2026-10-09T08:36:54.651Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-je-veux-etre-le-mouvement-de-ceux-qui-veulent-sen-sortir/",
+  "statut": "ok",
+  "resume": "Résumé d'un passage sur CNews : sur les mobilisations lycéennes, l'auteur distingue revendications et violences, appelle à plus de fermeté contre les « voyous » (23 interpellations par la police municipale de Cannes, chiffre cité) et dénonce une instrumentalisation politique. Sur l'école, il détaille un tronc commun exigeant (maths, français, langues, philosophie, sport, arts), la suppression de la carte scolaire, la liberté de choix des familles, l'autonomie des établissements, la liberté de recrutement des chefs d'établissement et une meilleure rémunération des enseignants. Il évoque aussi l'antisémitisme à Sciences Po, une compétition à droite avant le premier tour de 2027, la retraite par capitalisation et revendique plus de 40 000 adhésions payantes.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie (compte rendu, pas la transcription de l'interview)",
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Supprimer la carte scolaire et laisser les familles choisir l'établissement de leur enfant.",
+      "cout": "non établi",
+      "cadre_juridique": "La sectorisation est fixée par le conseil municipal pour les écoles (art. L. 212-7 du code de l'éducation), par le conseil départemental pour les collèges (art. L. 213-1), la carte des lycées restant établie par les services de l'État ; les dérogations relèvent du maire (écoles, agissant comme agent de l'État) ou du DASEN (collèges), selon les sources consultées. Une suppression suppose une loi (art. 34 de la Constitution : l'enseignement relève des principes fondamentaux fixés par la loi), la libre administration des collectivités (art. 72) et la compensation des charges (art. 72-2) étant à respecter.",
+      "competence": "Partagée : communes (écoles), départements (collèges), État/académies (affectations, lycées), régions (bâtiments des lycées). Pas de compétence de l'UE.",
+      "precedents": "France : l'assouplissement de la carte scolaire à partir de 2007. Selon la revue Éducation & formations (ministère, 2018), la réforme a eu peu d'impact national sur les effectifs et la composition sociale, mais des collèges d'éducation prioritaire ont perdu des élèves et la part de familles très favorisées a augmenté dans le privé ; certaines études concluent à un renforcement de la ségrégation. Étranger : la revue consacre un article aux comparaisons internationales (équilibre entre liberté parentale et mixité) ; contenu détaillé non consulté, donc : non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Règle d'affectation en cas de demandes supérieures aux places (critères à définir : tirage au sort, distance, résultats...) – non précisée dans la publication.",
+        "Dispositif contre les effets documentés de l'assouplissement de 2007 sur la mixité sociale (éducation prioritaire).",
+        "Capacités d'accueil et transport scolaire (collectivités) ; financement non établi.",
+        "Coordination État/départements/communes pour la planification de l'offre."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Les sources portent sur l'assouplissement de 2007, non sur une suppression complète : l'extrapolation est incertaine."
+    },
+    {
+      "texte": "Donner aux chefs d'établissement la liberté de recruter (ainsi que davantage d'autonomie aux établissements) et mieux rémunérer les enseignants.",
+      "cout": "Non établi : la publication ne chiffre ni la hausse de rémunération ni le périmètre ; aucune source budgétaire consultée.",
+      "cadre_juridique": "Les garanties fondamentales des fonctionnaires civils relèvent de la loi (art. 34 de la Constitution). Le recrutement et la rémunération des enseignants de l'État relèvent aujourd'hui de règles nationales : leur modification suppose une loi et des décrets. Détail du statut et jurisprudence : non établi (non consultés).",
+      "competence": "État (statut, recrutement, rémunérations des personnels enseignants) ; les collectivités gèrent les bâtiments et certains personnels techniques.",
+      "precedents": "Non établi (aucune source consultée sur les modèles d'autonomie de recrutement en France ou à l'étranger).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Réforme législative et statutaire (statut des enseignants) ; négociation avec les organisations représentatives.",
+        "Cadrage de l'autonomie (périmètre : titulaires, contractuels, postes spécifiques) – non précisé.",
+        "Financement des revalorisations, non établi."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Analyse limitée au cadre constitutionnel général faute de sources spécifiques ; la publication est un compte rendu du site, non le programme détaillé."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Le rôle des collectivités territoriales dans le service public de l'éducation (Ministère de l'Éducation nationale)",
+      "url": "https://www.education.gouv.fr/le-role-des-collectivites-territoriales-dans-le-service-public-de-l-education-et-le-partenariat-avec-8138",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Dérogations à la sectorisation scolaire (Sénat, question écrite 2016)",
+      "url": "https://www.senat.fr/questions/base/2016/qSEQ160220303.html",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Les effets de l'assouplissement de la carte scolaire (Éducation & formations, ministère de l'Éducation nationale)",
+      "url": "https://www.education.gouv.fr/les-effets-de-l-assouplissement-de-la-carte-scolaire-11579",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte en vigueur) – Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-10"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "titre": "David Lisnard sur CNews : «Je veux être le mouvement de ceux qui veulent s’en sortir»",
+  "integration": {
+    "type": "none",
+    "id": "david-lisnard-sur-cnews-je-veux-etre-le-mouvement-de-ceux-qui-veulent-sen-sortir"
+  },
+  "citations": [
+    "Je veux être le mouvement de ceux qui veulent s'en sortir."
+  ],
+  "notes": "La retraite par capitalisation, mentionnée dans l'article, est analysée dans la carte consacrée aux Assises de l'AFER. La compétition à droite avant le premier tour relève de l'organisation des partis et n'a pas été analysée. Le tronc commun exigeant n'est pas assez détaillé pour être évalué."
+}

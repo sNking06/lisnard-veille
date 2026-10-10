@@ -1,0 +1,83 @@
+{
+  "id": "a-la-foire-de-chalons-david-lisnard-defend-une-agriculture-liberee-des-impots-de",
+  "date": "2026-09-03T10:26:41.000Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/a-la-foire-de-chalons-david-lisnard-defend-une-agriculture-liberee-des-impots-de-production-et-de-la-bureaucratie/",
+  "statut": "ok",
+  "resume": "Compte rendu d'un déplacement à la Foire de Châlons-en-Champagne (3 sept. 2026) avec des représentants agricoles. Nouvelle Énergie propose de supprimer les impôts de production spécifiquement agricoles et de transférer des charges fiscales et sociales non contributives vers l'assiette de la valeur ajoutée, de créer un compte épargne aléas climatiques et économiques défiscalisé et un crédit d'impôt pour la transmission, de réformer la loi sur l'eau et de conditionner les aides à l'efficacité de l'irrigation, et d'instaurer un « silence vaut autorisation » au bout de six mois pour les projets collectifs de stockage d'eau respectant les seuils hydrologiques du bassin.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie",
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Supprimer les impôts de production spécifiquement agricoles et transférer les charges fiscales et sociales non contributives vers l'assiette de la valeur ajoutée.",
+      "cout": "Ordre de grandeur partiel : selon la DGFiP (mai 2025), le secteur « agriculture, sylviculture et pêche » a supporté 0,2 Md€ d'impôts de production en 2023 (sur 92,7 Md€ pour l'ensemble de l'économie, périmètre de l'étude). Le coût du transfert de charges sociales « non contributives » vers la valeur ajoutée n'est pas chiffré : non établi.",
+      "cadre_juridique": "Assiette, taux et recouvrement des impositions relèvent de la loi (art. 34 de la Constitution) et des lois de finances/LFSS. Un impôt assis sur la valeur ajoutée ou un transfert de cotisations suppose une loi ; compatibilité avec le droit de l'UE (aides d'État, concurrence) : non établi (non consulté). Selon les sources consultées, les exploitants agricoles sont généralement exonérés de CFE pour leur activité agricole, de sorte que la nature des « impôts de production agricoles » visés (taxe foncière non bâti, taxe pour frais de chambre d'agriculture, charges sociales ?) n'est pas précisée.",
+      "competence": "État (fiscalité nationale et cotisations sociales) ; collectivités pour la taxe foncière sur les propriétés non bâties (recette locale) : une suppression appellerait compensation (art. 72-2 de la Constitution) ; UE pour l'encadrement des aides d'État.",
+      "precedents": "France : le plan de relance de 2021 a réduit les impôts de production (réduction de moitié de la CVAE et de la CFE des établissements industriels) ; la suppression de la CVAE est repoussée à 2030 (LF 2025), d'après la DGFiP. L'agriculture a peu bénéficié de cette réforme (montants faibles). Étranger : non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Définition précise des impositions visées et de l'assiette de remplacement (non précisées dans la publication).",
+        "Financement et compensation aux collectivités pour les recettes locales supprimées (chiffre non établi).",
+        "Vérification de la compatibilité avec le droit de l'UE (non établie).",
+        "Les chiffres de la publication (revenu net agricole −40 % en 30 ans, 45 % vs 15 % de charges sociales) n'ont pas été vérifiés."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Périmètre de la mesure flou ; seule la ligne « agriculture » de la DGFiP a pu être chiffrée, ce qui ne couvre pas nécessairement les charges sociales visées."
+    },
+    {
+      "texte": "Pour les projets de stockage collectif d'eau multi-usages, instaurer un « silence vaut autorisation » après six mois, si les seuils hydrologiques du bassin sont respectés.",
+      "cout": "Non établi. (Les chiffres de la publication — environ 400 projets bloqués, 7,5 % des pluies efficaces stockées — n'ont pas été confirmés par une source consultée.)",
+      "cadre_juridique": "Principe général : le silence de l'administration pendant deux mois vaut acceptation (art. L. 231-1 du CRPA), avec des exceptions par décret, notamment lorsqu'une acceptation implicite serait incompatible avec des normes constitutionnelles ou conventionnelles (réponse ministérielle au Sénat, 2020). En matière d'environnement, le Conseil d'État (4 oct. 2023, n° 465921) a jugé que les textes du code de l'environnement imposent que toute décision autorisant un projet soumis à évaluation environnementale soit expresse, ce qui a conduit au décret n° 2025-1402 du 29 déc. 2025 (silence vaut rejet pour ces projets, en urbanisme). Les retenues d'eau relevant d'une autorisation environnementale sont, selon un extrait de recherche, parmi les procédures où le silence vaut rejet : non vérifié directement.",
+      "competence": "État pour le régime de l'autorisation et les exceptions au principe « silence vaut accord » (loi/décret) ; l'évaluation environnementale découle du droit de l'UE (directive 2011/92/UE, non consultée directement) : la modification nationale serait limitée par ce cadre ; collectivités et agences de l'eau pour les projets locaux.",
+      "precedents": "France : le principe « silence vaut accord » existe depuis 2013-2014 pour l'État et 2015 pour les collectivités (Sénat, 2020), avec exceptions dont l'environnement ; la jurisprudence du Conseil d'État de 2023 montre une exigence de décision expresse pour les projets soumis à évaluation environnementale. Étranger (Espagne : plus de stockage selon des extraits d'un site de l'Académie d'agriculture) : non établi comme précédent juridique.",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Pour les projets soumis à évaluation environnementale, l'exigence de décision expresse (jurisprudence CE 2023) fait obstacle à une autorisation tacite ; il faudrait soit un cadre européen/national modifié, soit limiter la mesure aux projets non soumis à évaluation.",
+        "Définition de seuils hydrologiques opposables par bassin et de moyens d'instruction suffisants pour tenir le délai de six mois.",
+        "Sécurité contentieuse : une autorisation tacite resterait attaquable par des tiers."
+      ],
+      "fiabilite": "faible",
+      "doutes": "La directive européenne et le texte exact des exceptions (décret 2014-1273) n'ont été vus que par des synthèses/extraits ; l'analyse repose surtout sur la décision du CE de 2023 telle que rapportée par un cabinet d'avocats. Elle peut changer pour des projets non soumis à évaluation environnementale."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Les impôts de production en 2023 : une nouvelle baisse de leur poids dans l'économie (DGFiP Statistiques n° 35, mai 2025)",
+      "url": "https://www.impots.gouv.fr/sites/default/files/media/9_statistiques/0_etudes_et_stats/0_publications/dgfip_statistiques/2025/num35_05/dgfip_stat_35_2025.pdf",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "BOFiP – CFE : exonération des exploitants agricoles (extrait de recherche)",
+      "url": "https://bofip.impots.gouv.fr/bofip/809-PGP.html/identifiant%3DBOI-IF-CFE-10-30-10-20-20220831",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Application du principe « silence vaut accord » (Sénat, question écrite 2019, réponse 2020)",
+      "url": "https://www.senat.fr/questions/base/2019/qSEQ190912259.html",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Décret n° 2025-1402 du 29 décembre 2025 : pas de « silence vaut accord » pour un projet soumis à évaluation environnementale (Cabinet Gossement Avocats, 16 janv. 2026)",
+      "url": "https://www.gossement-avocats.com/blog/decret-n2025-1402-du-29-decembre-2025-relatif-aux-projets-faisant-lobjet-dune-autorisation-durbanisme-et-soumis-a-evaluation-environnementale-la-declaration-prealabl/",
+      "consulte_le": "2026-10-10"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte en vigueur) – Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-10"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "titre": "À la Foire de Châlons, David Lisnard défend une agriculture libérée des impôts de production et de la bureaucratie",
+  "integration": {
+    "type": "none",
+    "id": "a-la-foire-de-chalons-david-lisnard-defend-une-agriculture-liberee-des-impots-de"
+  },
+  "citations": [
+    "Passé six mois, ce sera oui par défaut : bassin par bassin, sous contrôle scientifique."
+  ],
+  "notes": "Deux autres mesures citées (compte épargne aléas climatiques et économiques ; crédit d'impôt à la transmission) et la réforme de la loi sur l'eau ne sont pas analysées faute de sources consultées. Les statistiques avancées dans la publication ne sont pas vérifiées."
+}

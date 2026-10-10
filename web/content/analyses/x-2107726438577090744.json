@@ -1,0 +1,21 @@
+{
+  "id": "2107726438577090744",
+  "date": "2026-10-07T06:55:17.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2107726438577090744",
+  "statut": "ok",
+  "resume": "Message de commémoration du 7 octobre 2023 (1163 victimes mentionnées). L'auteur dénonce un antisémitisme « décomplexé » en France et indique que la lutte contre « la barbarie islamiste » est un des combats prioritaires de Nouvelle Énergie, sans mesure précise.",
+  "base_du_resume": "texte complet de la publication (collecté via MCP X natif)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "integration": {
+    "type": "x",
+    "id": "2107726438577090744"
+  },
+  "notes": "Aucune mesure concrète : orientation générale uniquement."
+}

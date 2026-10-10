@@ -1,0 +1,21 @@
+{
+  "id": "2108470030484582726",
+  "date": "2026-10-09T08:10:03.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2108470030484582726",
+  "statut": "ok",
+  "resume": "Message de félicitations aux policiers municipaux de Cannes qui, selon l'auteur, ont permis à une majorité de lycéens d'entrer dans deux lycées rouverts depuis deux jours, en formant un « couloir protecteur » au milieu de manifestants dont certains voulaient obstruer l'entrée.",
+  "base_du_resume": "texte complet de la publication (collecté via MCP X natif)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "integration": {
+    "type": "x",
+    "id": "2108470030484582726"
+  },
+  "notes": "Compte rendu d'un fait local ; les faits décrits n'ont pas été vérifiés de manière indépendante."
+}

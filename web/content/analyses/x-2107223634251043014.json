@@ -1,0 +1,20 @@
+{
+  "id": "2107223634251043014",
+  "date": "2026-10-05T21:37:19.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2107223634251043014",
+  "statut": "ok",
+  "resume": "Message bref : l'auteur indique qu'il votera pour lui-même (« je vais voter pour moi ») et invite à ne plus essayer de le convaincre, avec le hashtag #ilsepassequelquechose.",
+  "base_du_resume": "texte complet de la publication (collecté via MCP X natif)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "integration": {
+    "type": "x",
+    "id": "2107223634251043014"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "2106981085091631555",
+  "date": "2026-10-05T05:33:31.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2106981085091631555",
+  "statut": "ok",
+  "resume": "Commentaire ironique sur la position de l'Iran, qui avait dénoncé une « violence disproportionnée » contre des manifestants lors du blocage de lycées en France ; l'auteur oppose le traitement des manifestants en Iran. Lien vers un article joint.",
+  "base_du_resume": "texte complet de la publication (collecté via MCP X natif)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "integration": {
+    "type": "x",
+    "id": "2106981085091631555"
+  },
+  "notes": "Commentaire sans mesure précise."
+}

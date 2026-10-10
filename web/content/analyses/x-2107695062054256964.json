@@ -1,0 +1,21 @@
+{
+  "id": "2107695062054256964",
+  "date": "2026-10-07T04:50:36.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2107695062054256964",
+  "statut": "ok",
+  "resume": "Alerte de la ville de Cannes (risque de crue éclair) : passage pluvieux dès 7h, fermeture préventive de certains passages sous la voie ferrée vers le boulevard du Midi, équipes de la mairie et de l'agglomération au poste de commandement.",
+  "base_du_resume": "texte complet de la publication (collecté via MCP X natif)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-10",
+  "genere_par": "Grok Bot (prototype, recherches web du 10/10/2026)",
+  "integration": {
+    "type": "x",
+    "id": "2107695062054256964"
+  },
+  "notes": "Information opérationnelle municipale ; pas de proposition."
+}
