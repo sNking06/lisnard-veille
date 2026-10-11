@@ -1,0 +1,20 @@
+{
+  "id": "2108955860328435853",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-10T16:20:34.000Z",
+  "url": "https://x.com/davidlisnard/status/2108955860328435853",
+  "texte": "L’ambition scientifique sera au cœur du redressement de notre pays.\n\n#onlefera https://t.co/y6Nj5bDzXR",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 18,
+    "impression_count": 24085,
+    "like_count": 1535,
+    "quote_count": 16,
+    "reply_count": 40,
+    "retweet_count": 351
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
