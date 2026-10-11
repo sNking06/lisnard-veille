@@ -1,0 +1,20 @@
+{
+  "id": "2109269478554902805",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-11T13:06:46.000Z",
+  "url": "https://x.com/davidlisnard/status/2109269478554902805",
+  "texte": "La dynamique ne se traduit pas que sur les réseaux sociaux et le terrain. \n\n50 000 mercis à nos 50 000 adhérents Nouvelle Énergie à jour de cotisation, très nombreux à nous rejoindre en ce moment. \n\nCe nombre de soutiens fait de notre parti déjà l’un des plus importants de France par la dynamique populaire qui le porte. \n\nEn route vers les 100 000 ! \n\n#OnArrive",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 15,
+    "impression_count": 35572,
+    "like_count": 2622,
+    "quote_count": 35,
+    "reply_count": 70,
+    "retweet_count": 473
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
