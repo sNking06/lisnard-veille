@@ -3,5 +3,6 @@
   "framework": null,
   "installCommand": "npm ci --prefix web",
   "buildCommand": "npm run build --prefix web",
-  "outputDirectory": "web/out"
+  "outputDirectory": "web/out",
+  "cleanUrls": true
 }
