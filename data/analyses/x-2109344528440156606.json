@@ -1,0 +1,25 @@
+{
+  "id": "2109344528440156606",
+  "date": "2026-10-11T18:04:59.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2109344528440156606",
+  "statut": "ok",
+  "resume": "Réaction à l'organisation d'une primaire à gauche : l'auteur félicite la gauche et son vainqueur, puis estime que la droite devrait organiser elle aussi une primaire, ce qu'il dit proposer depuis des mois, pour éviter la division et les « compromissions entre notables ». Il ajoute que, faute d'évolution, il accueillera les ralliements au projet de Nouvelle Énergie « sans négociations », et qu'il ne soutiendra pas « ceux qui ont dirigé et plombé la France ».",
+  "base_du_resume": "texte complet de la publication (champ note_tweet, collecté via MCP X natif)",
+  "citations": [
+    "La droite devrait être capable de faire de même, comme je le propose depuis des mois et des mois",
+    "j’accepterai tous les ralliements 😎 sans négociations au projet de @Nouv_Energie"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-12",
+  "genere_par": "Grok Bot (routine de collecte X du 12/10/2026)",
+  "integration": {
+    "type": "x",
+    "id": "2109344528440156606"
+  },
+  "notes": "Publication de stratégie électorale (organisation d'une primaire à droite, ralliements) : il s'agit d'une démarche interne aux partis, pas d'une mesure de politique publique, donc pas d'analyse de faisabilité. Le vainqueur de la primaire de gauche n'est pas nommé dans la publication et n'est pas mentionné ici."
+}

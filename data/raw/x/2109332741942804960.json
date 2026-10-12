@@ -1,0 +1,20 @@
+{
+  "id": "2109332741942804960",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-11T17:18:09.000Z",
+  "url": "https://x.com/davidlisnard/status/2109332741942804960",
+  "texte": "Bientôt en librairie (fin du mois), aux @EditionsFayard, « Les robots, le pape, l’IA et nous ». https://t.co/LAmne4kmUq",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 18,
+    "impression_count": 24699,
+    "like_count": 629,
+    "quote_count": 6,
+    "reply_count": 22,
+    "repost_count": 144
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
