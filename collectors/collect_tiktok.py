@@ -52,19 +52,29 @@ def one(vid, tmp):
         rec["transcription"] = {"fichier": f"data/transcripts/tiktok-{vid}.txt", "source": src}
     return rec
 
-def main(n=5):
+def todo(p):
+    """Nouveau, ou déjà vu mais en mode dégradé (nouvelle tentative)."""
+    if not p.exists(): return True
+    try: return json.load(open(p, encoding="utf-8")).get("statut") != "ok"
+    except Exception: return True
+
+def main(n=5, ids=None):
     RAW.mkdir(parents=True, exist_ok=True)
-    try:
-        r = run(["--flat-playlist", "-J", "--playlist-end", str(n), f"https://www.tiktok.com/@{HANDLE}"], 120)
-        ids = [e["id"] for e in json.loads(r.stdout)["entries"]]
-    except Exception as e:
-        print("yt-dlp liste KO (mode dégradé, rien d'écrit):", e); return
+    if not ids:
+        try:
+            r = run(["--flat-playlist", "-J", "--playlist-end", str(n), f"https://www.tiktok.com/@{HANDLE}"], 120)
+            ids = [e["id"] for e in json.loads(r.stdout)["entries"]]
+        except Exception as e:
+            print("tiktok: yt-dlp liste KO (mode dégradé, rien d'écrit):", str(e)[:150]); return
     for vid in ids:
         p = RAW / f"{vid}.json"
-        if p.exists(): continue
+        if not todo(p): continue
         with tempfile.TemporaryDirectory() as tmp:
             rec = one(vid, tmp)
-        p.write_text(json.dumps(rec, ensure_ascii=False, indent=2), encoding="utf-8"); print(rec["statut"], vid)
+        if rec["statut"] != "ok" and p.exists(): print("tiktok: toujours dégradé", vid); continue
+        p.write_text(json.dumps(rec, ensure_ascii=False, indent=2), encoding="utf-8"); print("tiktok:", rec["statut"], vid)
 
 if __name__ == "__main__":
-    main(int(sys.argv[1]) if len(sys.argv) > 1 else 5)
+    a = sys.argv[1:]
+    if a and a[0] == "--ids": main(ids=a[1:])
+    else: main(int(a[0]) if a else 5)

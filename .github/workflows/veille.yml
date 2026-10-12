@@ -31,13 +31,11 @@ jobs:
         run: pip install -r collectors/requirements.txt
 
       # NB : la collecte X n'est PAS faite ici. Elle est poussée dans data/raw/x/ par Grok Bot (voir docs/collecte_x.md).
-      - name: Collecte TikTok (mode dégradé si yt-dlp échoue)
+      - name: Collecte TikTok + YouTube + site (idempotente, mode dégradé si yt-dlp bloqué)
         continue-on-error: true
-        run: python collectors/collect_tiktok.py 5
-
-      - name: Collecte site unenouvelleenergie.fr
-        continue-on-error: true
-        run: python collectors/collect_site.py 6
+        env:
+          PYTHON: python
+        run: bash scripts/collect_all.sh 5
 
       - name: Analyse des nouveautés (nécessite le secret ANALYZER_API_KEY)
         env:

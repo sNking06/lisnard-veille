@@ -12,7 +12,7 @@ const TIKTOK_PARAMS =
 const X_ORIGIN = "https://platform.twitter.com";
 const X_INITIAL_HEIGHT = 200;
 
-export default function Embed({ type, id }: { type: "x" | "tiktok"; id: string }) {
+export default function Embed({ type, id }: { type: "x" | "tiktok" | "youtube"; id: string }) {
   const box = useRef<HTMLDivElement>(null);
   const frame = useRef<HTMLIFrameElement>(null);
   const [visible, setVisible] = useState(false);
@@ -66,10 +66,12 @@ export default function Embed({ type, id }: { type: "x" | "tiktok"; id: string }
     return () => window.removeEventListener("message", onMessage);
   }, [type]);
 
-  const nom = type === "x" ? "X" : "TikTok";
+  const nom = type === "x" ? "X" : type === "youtube" ? "YouTube" : "TikTok";
   const sid = encodeURIComponent(id);
   const src = type === "x"
     ? `${X_ORIGIN}/embed/Tweet.html?id=${sid}&dnt=true&lang=fr&theme=${theme}&embedId=twitter-widget-${sid}`
+    : type === "youtube"
+    ? `https://www.youtube-nocookie.com/embed/${sid}?autoplay=0&rel=0`
     : `https://www.tiktok.com/player/v1/${sid}?${TIKTOK_PARAMS}`;
 
   return (

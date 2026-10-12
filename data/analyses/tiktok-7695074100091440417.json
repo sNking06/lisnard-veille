@@ -1,0 +1,61 @@
+{
+  "id": "7695074100091440417",
+  "date": "2026-10-10T16:17:40+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7695074100091440417",
+  "statut": "ok",
+  "resume": "Extrait court (34 s) sur la recherche : l'auteur affirme que la France est passée de la 6e à la 13e place en nombre de publications scientifiques, ce qu'il juge « grave et préoccupant », estimant qu'il n'y a ni souveraineté ni prospérité sans puissance scientifique. Il propose de mettre fin à la fragmentation des budgets alloués à la science, de réduire le temps que les chercheurs consacrent au « reporting » au profit de la recherche, de renforcer les sciences dures et de faire de l'IA et du quantique une priorité, en s'inspirant de mesures adoptées par d'autres pays.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) — transcription approximative",
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Mettre fin à la fragmentation des budgets consacrés à la science et réduire la charge de « reporting » des chercheurs pour dégager du temps de recherche.",
+      "cout": "Non établi : aucun chiffrage dans la vidéo. Une réorganisation des financements ou des procédures d'évaluation n'implique pas nécessairement de dépense supplémentaire, mais son coût de transition n'est pas documenté.",
+      "cadre_juridique": "Non établi en détail dans le cadre de cette analyse : la répartition des crédits de recherche relève des lois de finances (Parlement) et l'évaluation des établissements et équipes est confiée au Hcéres. Une simplification relèverait de la loi et du règlement.",
+      "competence": "État (Gouvernement et Parlement : crédits de recherche, organisation des opérateurs et de l'évaluation).",
+      "precedents": "Non établi : la vidéo évoque des mesures « adoptées par d'autres pays » sans les nommer ; aucun précédent n'a été vérifié ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Préciser quels budgets seraient regroupés et quelles obligations d'évaluation ou de compte rendu seraient supprimées (non détaillé).",
+        "Vote des mesures budgétaires et législatives correspondantes."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Proposition formulée en termes généraux dans un extrait de 34 secondes ; transcription automatique (« budget à louer » interprété comme « budgets alloués »)."
+    },
+    {
+      "texte": "Renforcer les sciences dures et faire de l'intelligence artificielle et du quantique une priorité absolue de la politique scientifique.",
+      "cout": "Non établi : aucun montant ni calendrier indiqué.",
+      "cadre_juridique": "Fixation de priorités par l'État via les lois de finances et les programmes de financement de la recherche ; pas d'obstacle juridique identifié dans le cadre de cette analyse.",
+      "competence": "État (ministère chargé de la recherche, opérateurs de recherche) ; universités pour l'offre de formation.",
+      "precedents": "Non établi dans le cadre de cette analyse (aucune stratégie nationale ou étrangère vérifiée ici).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Arbitrages budgétaires entre disciplines et financements à préciser.",
+        "Effets attendus sur le rang en publications non démontrés : le classement dépend aussi de la progression des autres pays."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Mesure non chiffrée ; « renforcer les sciences dures » n'est pas détaillé (postes, crédits, formation)."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "La position scientifique de la France dans le monde et en Europe : principaux résultats (OST-Hcéres, 2025)",
+      "url": "https://www.hceres.fr/sites/default/files/media/downloads/ost-principaux-resultats.pdf",
+      "consulte_le": "2026-10-12"
+    },
+    {
+      "titre": "Publication du rapport « La position scientifique de la France dans le monde et en Europe » (Hcéres)",
+      "url": "https://www.hceres.fr/fr/actualites/publication-du-rapport-la-position-scientifique-de-la-france-dans-le-monde-et-en-europe",
+      "consulte_le": "2026-10-12"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-12",
+  "genere_par": "Grok Bot (recherche web du 12/10/2026)",
+  "integration": {
+    "type": "tiktok",
+    "id": "7695074100091440417"
+  },
+  "notes": "Le constat chiffré est cohérent avec le rapport OST-Hcéres : la France est passée du 6e rang (2010) au 13e rang mondial (2022) des pays publiant le plus, dans le corpus total (2,4 % des publications mondiales en 2017-2022). Le même rapport la place au 11e rang dans le corpus des publications en anglais et au 8e rang dans celui des revues les plus citées : le rang dépend du corpus retenu."
+}

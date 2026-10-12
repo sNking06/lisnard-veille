@@ -1,0 +1,24 @@
+{
+  "id": "2108955860328435853",
+  "date": "2026-10-10T16:20:34.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2108955860328435853",
+  "statut": "ok",
+  "resume": "Message bref accompagné d'une vidéo : l'auteur affirme que « l'ambition scientifique sera au cœur du redressement de notre pays », avec le hashtag #onlefera. Le texte ne détaille aucune mesure.",
+  "base_du_resume": "texte complet de la publication (collecté via MCP X natif) ; la vidéo jointe n'a pas été analysée",
+  "citations": [
+    "L’ambition scientifique sera au cœur du redressement de notre pays."
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-11",
+  "genere_par": "Grok Bot (routine de collecte X du 11/10/2026)",
+  "integration": {
+    "type": "x",
+    "id": "2108955860328435853"
+  },
+  "notes": "Déclaration d'intention sans mesure concrète dans le texte. Le contenu de la vidéo jointe n'a pas été collecté ni analysé : d'éventuelles propositions qu'elle contiendrait ne sont pas couvertes."
+}

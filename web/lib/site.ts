@@ -7,6 +7,7 @@ export const ISSUE_URL = `${REPO}/issues/new?labels=erreur`;
 export const NETWORKS: Record<Source, { label: string; long: string }> = {
   x: { label: "X", long: "Publication X" },
   tiktok: { label: "TikTok", long: "Vidéo TikTok" },
+  youtube: { label: "YouTube", long: "Vidéo YouTube" },
   site: { label: "Site", long: "Article du site Nouvelle Énergie" },
 };
 

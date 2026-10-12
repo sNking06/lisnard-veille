@@ -14,13 +14,13 @@ Fil d'actualité public qui résume et analyse la **faisabilité des proposition
 ## Structure
 - `data/raw/{x,tiktok,site}` publications brutes · `data/transcripts` transcriptions TikTok · `data/analyses` un JSON par publication
 - `schema/analysis.schema.json` schéma des analyses · `analyzer/` prompt + `run.py` (list / validate / analyze)
-- `collectors/` : `x_ingest.py` (normalisation des réponses MCP X), `collect_tiktok.py`, `collect_site.py`
+- `collectors/` : `x_ingest.py` (normalisation des réponses MCP X), `collect_tiktok.py`, `collect_youtube.py` (chaîne officielle https://www.youtube.com/@david_lisnard, liée depuis unenouvelleenergie.fr), `collect_site.py` ; `scripts/collect_all.sh` lance les trois (idempotent, retente les cartes dégradées)
 - `web/` : Next.js · `docs/` : méthodologie, neutralité, collecte X
 
 ## Utilisation locale
 ```bash
 pip install -r collectors/requirements.txt
-python collectors/collect_tiktok.py 5 && python collectors/collect_site.py 6
+scripts/collect_all.sh 5          # TikTok + YouTube (@david_lisnard) + site, nouveautés seulement
 python analyzer/run.py list        # publications sans analyse
 python analyzer/run.py validate    # validation du schéma
 cd web && npm install && npm run build   # sortie : web/out

@@ -1,0 +1,20 @@
+{
+  "id": "MVsDbjfHpPQ",
+  "reseau": "youtube",
+  "compte": "@david_lisnard",
+  "url": "https://www.youtube.com/watch?v=MVsDbjfHpPQ",
+  "embed": {
+    "type": "youtube",
+    "video_id": "MVsDbjfHpPQ"
+  },
+  "statut": "ok",
+  "date": "2026-10-04T17:35:26+00:00",
+  "titre": "Mon intervention sur CNEWS",
+  "description": "Regardez à nouveau mon passage sur CNews ce dimanche 4 octobre concernant les violences lycéennes.\n\nSuivez moi sur mes réseaux : \n\nInstagram : https://www.instagram.com/davidlisnard/\nX : https://x.com/davidlisnard\nFacebook : https://www.facebook.com/lisnard.david\nTik Tok : https://www.tiktok.com/@david.lisnard\nLinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/\n\nAdhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion",
+  "duree_s": 501,
+  "vues": 41945,
+  "transcription": {
+    "fichier": "data/transcripts/youtube-MVsDbjfHpPQ.txt",
+    "source": "sous-titres YouTube automatiques (non relus)"
+  }
+}

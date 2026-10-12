@@ -784,6 +784,8 @@ code {
 .embed-x iframe { height: 200px; transition: height 0.15s ease-out; }
 .embed-tiktok { max-width: 325px; aspect-ratio: 9 / 16; border: 1px solid var(--rule); }
 .embed-tiktok iframe { position: absolute; inset: 0; height: 100%; }
+.embed-youtube { aspect-ratio: 16 / 9; border: 1px solid var(--rule); }
+.embed-youtube iframe { position: absolute; inset: 0; height: 100%; }
 .embed.embed-failed { min-height: 0; aspect-ratio: auto; border: 1px solid var(--rule); }
 .embed-ph { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; pointer-events: none; }
 .embed-ph, .embed-fail { margin: 0; font-size: 0.8125rem; color: var(--muted); padding: 1rem; text-align: center; }

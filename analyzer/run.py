@@ -21,7 +21,7 @@ SCHEMA = json.load(open(ROOT / "schema" / "analysis.schema.json", encoding="utf-
 WARN = "Analyse générée par IA, peut contenir des erreurs."
 
 def raws():
-    for src in ("x", "tiktok", "site"):
+    for src in ("x", "tiktok", "youtube", "site"):
         for f in sorted(glob.glob(str(ROOT / "data" / "raw" / src / "*.json"))):
             yield src, json.load(open(f, encoding="utf-8"))
 
@@ -40,7 +40,7 @@ def validate():
     print("OK" if not bad else f"{bad} erreur(s)"); return bad == 0
 
 def material(src, r):
-    if src == "tiktok":
+    if src in ("tiktok", "youtube"):
         t = ""
         if r.get("transcription"):
             t = open(ROOT / r["transcription"]["fichier"], encoding="utf-8").read()

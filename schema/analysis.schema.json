@@ -29,7 +29,8 @@
       "enum": [
         "x",
         "tiktok",
-        "site"
+        "site",
+        "youtube"
       ]
     },
     "lien": {
@@ -59,6 +60,7 @@
           "enum": [
             "x",
             "tiktok",
+            "youtube",
             "none"
           ]
         },

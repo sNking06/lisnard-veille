@@ -12,7 +12,7 @@ export type VerdictKey = Verdict | "sans_analyse";
 /** Une entrée du fil : métadonnées de filtrage + publication déjà rendue côté serveur. */
 export interface FeedEntry { key: string; source: Source; verdicts: VerdictKey[]; text: string; ts: number; node: ReactNode }
 
-const TABS: [Source | "all", string][] = [["all", "Tout"], ["x", "X"], ["tiktok", "TikTok"], ["site", "Site"]];
+const TABS: [Source | "all", string][] = [["all", "Tout"], ["x", "X"], ["tiktok", "TikTok"], ["site", "Site"], ["youtube", "YouTube"]];
 const VKEYS: VerdictKey[] = ["faisable", "faisable_sous_conditions", "difficilement_faisable", "sans_analyse"];
 const vLabel = (k: VerdictKey) => (k === "sans_analyse" ? "Sans analyse" : VERDICTS[k].label);
 const plural = (n: number, s: string) => `${n} ${s}${n > 1 ? "s" : ""}`;
@@ -64,7 +64,7 @@ export default function Feed({ title, entries, about }: { title: string; entries
     <>
       <ColumnHeader title={title}>
         <div className="tabs" role="group" aria-label="Filtrer par réseau">
-          {TABS.map(([k, l]) => (
+          {TABS.filter(([k]) => k !== "youtube" || (counts.youtube ?? 0) > 0).map(([k, l]) => (
             <button key={k} type="button" className="tab" aria-pressed={net === k} onClick={() => setNet(k)}>
               <span className="tab-label">{l}<span className="sr-only">{`, ${plural(counts[k] ?? 0, "publication")}`}</span></span>
             </button>

@@ -31,6 +31,6 @@ export const IconFlag = (p: P) => <Svg {...p}><path d="M5 21V4h11l-2 4 2 4H5" />
 /** Avatar neutre : pictogramme du type de publication (bulle, vidéo, page web). */
 export function NetIcon({ source, size = 20 }: { source: Source; size?: number }) {
   if (source === "x") return <Svg size={size}><path d="M4 5h16v11H9l-5 4z" /></Svg>;
-  if (source === "tiktok") return <Svg size={size}><rect x="3" y="3" width="18" height="18" rx="2" /><path d="M10 8.5v7l6-3.5z" /></Svg>;
+  if (source === "tiktok" || source === "youtube") return <Svg size={size}><rect x="3" y="3" width="18" height="18" rx="2" /><path d="M10 8.5v7l6-3.5z" /></Svg>;
   return <Svg size={size}><circle cx="12" cy="12" r="9" /><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18" /></Svg>;
 }
