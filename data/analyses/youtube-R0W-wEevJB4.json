@@ -1,0 +1,21 @@
+{
+  "id": "R0W-wEevJB4",
+  "date": "2026-09-29T12:00:00+00:00",
+  "source": "youtube",
+  "lien": "https://www.youtube.com/watch?v=R0W-wEevJB4",
+  "titre": "David Lisnard : intervention aux assises de l'AFER",
+  "statut": "degraded",
+  "resume": "",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-12",
+  "genere_par": "Grok Bot (recherche web du 12/10/2026)",
+  "integration": {
+    "type": "youtube",
+    "id": "R0W-wEevJB4"
+  },
+  "notes": "Collecte dégradée (échec métadonnées/transcription). Titre confirmé via oEmbed YouTube. Date approximative : Assises de l'AFER du 29 septembre 2026 (contexte du compte rendu site Nouvelle Énergie). Pas de résumé ni d'analyse faute de matière. Une analyse distincte des Assises AFER existe déjà côté site."
+}

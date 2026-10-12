@@ -1,0 +1,98 @@
+{
+  "id": "XUUzaVk2ntc",
+  "date": "2026-10-07T17:04:41+00:00",
+  "source": "youtube",
+  "lien": "https://www.youtube.com/watch?v=XUUzaVk2ntc",
+  "titre": "« Il faut libérer l’école de tout ce qui la tire vers le bas »",
+  "statut": "ok",
+  "resume": "Interview Punchline / CNews (~25 min). Sur les mobilisations lycéennes : distinguer revendications et casseurs, rétablir l'ordre, revoir la doctrine d'intervention policière. Sur l'école : tronc commun exigeant, supprimer la sectorisation et laisser les familles choisir, autonomie des établissements, liberté de recrutement / enseignants mieux payés éventuellement contractuels, autorité des professeurs. Évoque aussi assimilation, antisémitisme, et (avec la députée Alexandra Martin) l'abaissement de l'âge de responsabilité des mineurs et la déduction sur aides sociales si parents insolvables.",
+  "base_du_resume": "sous-titres YouTube automatiques (non relus) — propositions concrètes uniquement retenues ; résumé court",
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Supprimer la sectorisation (carte scolaire), notamment en ville, et laisser les familles choisir l'établissement ; faire suivre le financement public le choix des parents.",
+      "cout": "non établi",
+      "cadre_juridique": "La sectorisation des écoles relève du conseil municipal (compétences communales L. 212-1 et s. du code de l'éducation, rappelées par education.gouv.fr) ; pour les collèges, le conseil départemental fixe les secteurs ; les districts de lycée sont définis conjointement avec l'autorité académique. Le Conseil d'État (28 mai 1986) a jugé qu'aucun principe général ne reconnaît aux parents un droit de choisir librement l'école publique. Une suppression généralisée suppose une loi (art. 34 : principes fondamentaux de l'enseignement) et le respect de la libre administration / compensation des charges (art. 72 et 72-2).",
+      "competence": "Partagée : communes (écoles), départements (collèges), État/académies (affectations, lycées), régions (bâtiments lycées).",
+      "precedents": "France : assouplissement de la carte scolaire à partir de 2007. La revue Éducation & formations (ministère, 2018) constate peu d'impact national sur effectifs et composition sociale, mais une érosion d'effectifs dans certains collèges d'éducation prioritaire et une hausse de la part de familles très favorisées dans le privé ; certaines études concluent à un renforcement de la ségrégation. Étranger : non établi en détail.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Règles d'affectation si demandes > places (non précisées).",
+        "Dispositif contre les effets documentés de l'assouplissement 2007 sur la mixité (éducation prioritaire).",
+        "Capacités d'accueil, transports, financement (non établis).",
+        "Coordination État / collectivités."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Les sources portent surtout sur l'assouplissement de 2007, pas sur une suppression totale. « Financement qui suit le choix des parents » n'est pas détaillé (voucher, forfait, etc.)."
+    },
+    {
+      "texte": "Donner aux chefs d'établissement la liberté de recrutement, permettre aux enseignants de choisir un statut (pas forcément fonctionnaire, mieux payés mais contractuels) et renforcer l'autonomie / l'autorité des professeurs.",
+      "cout": "non établi",
+      "cadre_juridique": "Les garanties fondamentales des fonctionnaires civils et les principes de l'enseignement relèvent de la loi (art. 34). Le recrutement et la rémunération des enseignants du public sont aujourd'hui nationaux ; une modification majeure suppose loi et décrets. Education.gouv.fr rappelle que l'État conserve la gestion des personnels enseignants.",
+      "competence": "État (statut, recrutement, rémunérations) ; collectivités : bâtiments et certains personnels techniques.",
+      "precedents": "Réseaux hors contrat / sous contrat à forte discipline (ex. Espérance Banlieues, cité à l'antenne) : résultats scolaires revendiqués par le réseau ; modèle non généralisable tel quel au public sans réforme statutaire. Autres précédents d'autonomie de recrutement : non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Réforme législative et statutaire ; négociation avec les organisations représentatives.",
+        "Périmètre (titulaires / contractuels / postes) à définir.",
+        "Financement des revalorisations : non établi."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Proposition large formulée oralement ; pas de texte de programme détaillé dans la matière collectée."
+    },
+    {
+      "texte": "Abaisser l'âge de la responsabilité des mineurs (proposition évoquée avec la députée Alexandra Martin) et, lorsque les parents ne sont pas solvables, déduire des aides sociales ce qu'ils doivent payer.",
+      "cout": "non établi",
+      "cadre_juridique": "Code de la justice pénale des mineurs, art. L. 11-1 : les mineurs de moins de 13 ans sont présumés ne pas être capables de discernement ; aucune peine ne peut être prononcée contre un mineur de moins de 13 ans (extraits Doctrine / Pappers Justice). Modifier ces seuils ou l'atténuation de responsabilité relève de la loi (art. 34 : détermination des crimes et délits, peines, procédure pénale) et peut se heurter à des exigences constitutionnelles (atténuation selon l'âge). La déduction sur aides sociales touche le droit de la sécurité sociale / prestations (loi, LFSS) et des garanties constitutionnelles non analysées ici en détail.",
+      "competence": "État (Parlement, justice) ; pas de compétence des collectivités sur le droit pénal des mineurs.",
+      "precedents": "Débats récents : propositions visant à durcir le régime des 16-18 ans ou à abaisser la majorité pénale ; le Conseil constitutionnel a censuré certaines dispositions au nom du principe d'atténuation (relaté dans la presse, 2025). Détail législatif exact de la proposition Lisnard/Martin : non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Préciser le nouvel âge et le régime (peines, mesures éducatives) — non détaillé dans l'interview.",
+        "Contrôle constitutionnel : risque élevé si l'atténuation selon l'âge est trop réduite.",
+        "Pour la déduction sur aides sociales : textes de prestations concernés, respect des droits fondamentaux et du droit de la famille — non analysés ici."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Mention brève à la fin de l'interview ; sources sur le CJPM lues via extraits de recherche. Ne pas confondre avec une réforme déjà déposée au nom de l'auteur."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Le rôle des collectivités territoriales dans le service public de l'éducation (education.gouv.fr)",
+      "url": "https://www.education.gouv.fr/le-role-des-collectivites-territoriales-dans-le-service-public-de-l-education-et-le-partenariat-avec-8138",
+      "consulte_le": "2026-10-12"
+    },
+    {
+      "titre": "Les effets de l'assouplissement de la carte scolaire (Éducation & formations)",
+      "url": "https://www.education.gouv.fr/les-effets-de-l-assouplissement-de-la-carte-scolaire-11579",
+      "consulte_le": "2026-10-12"
+    },
+    {
+      "titre": "Article L. 11-1 du code de la justice pénale des mineurs (Doctrine, extrait)",
+      "url": "https://www.doctrine.fr/l/texts/codes/LEGITEXT000039086952/articles/LEGIARTI000039087863",
+      "consulte_le": "2026-10-12"
+    },
+    {
+      "titre": "Code de la justice pénale des mineurs (Pappers Justice)",
+      "url": "https://justice.pappers.fr/loi/LEGITEXT000039086952",
+      "consulte_le": "2026-10-12"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte en vigueur) – Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-12"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-12",
+  "genere_par": "Grok Bot (recherche web du 12/10/2026)",
+  "integration": {
+    "type": "youtube",
+    "id": "XUUzaVk2ntc"
+  },
+  "citations": [
+    "Il faut libérer l'école de tout ce qui la tire vers le bas."
+  ],
+  "notes": "Interview longue (~25 min) : seuls les blocs école (carte scolaire, statut/recrutement) et responsabilité des mineurs sont analysés. Hommages, stratégie électorale 2027 et constats culturels exclus. Un compte rendu site proche existe déjà."
+}

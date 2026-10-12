@@ -1,0 +1,22 @@
+{
+  "id": "qlTqJl3Qk4w",
+  "date": "2026-09-26T13:55:25+00:00",
+  "source": "youtube",
+  "lien": "https://www.youtube.com/watch?v=qlTqJl3Qk4w",
+  "titre": "🇫🇷 Meeting de David Lisnard en Alsace",
+  "statut": "ok",
+  "resume": "Meeting à Benfeld (Alsace) du vendredi 25 septembre 2026, d'après le titre et la description officielle (durée environ 1 h 30). Aucune transcription disponible ; le contenu des interventions n'a pas été analysé. Aucune proposition concrète n'a pu être extraite.",
+  "base_du_resume": "titre et description YouTube uniquement (pas de transcription)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-12",
+  "genere_par": "Grok Bot (recherche web du 12/10/2026)",
+  "integration": {
+    "type": "youtube",
+    "id": "qlTqJl3Qk4w"
+  },
+  "notes": "Analyse minimale volontaire : sans transcription, inventer le contenu du meeting serait contraire aux règles. Carte informative avec lecteur officiel."
+}

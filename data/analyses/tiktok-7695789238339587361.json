@@ -1,0 +1,21 @@
+{
+  "id": "7695789238339587361",
+  "date": "2026-10-12T14:32:48+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7695789238339587361",
+  "statut": "ok",
+  "resume": "Anecdote sur un meeting de rentrée politique (plus de 4 000 personnes évoquées) : l'auteur raconte avoir couru sur une grande scène pour « prendre possession » du territoire, et parle de confiance en soi, second degré et autodérision en politique. Aucune proposition concrète.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) — transcription approximative",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-12",
+  "genere_par": "Grok Bot (recherche web du 12/10/2026)",
+  "integration": {
+    "type": "tiktok",
+    "id": "7695789238339587361"
+  },
+  "notes": "Témoignage sur le vécu d'un meeting ; pas de mesure de politique publique."
+}

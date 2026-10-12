@@ -1,0 +1,82 @@
+{
+  "id": "AuPSNxJdvWo",
+  "date": "2026-09-18T08:43:32+00:00",
+  "source": "youtube",
+  "lien": "https://www.youtube.com/watch?v=AuPSNxJdvWo",
+  "titre": "David Lisnard : « On ne rafistole pas le Titanic, c’est le système qu’il faut revoir »",
+  "statut": "ok",
+  "resume": "Interview LCI (~14 min) sur la crise des pêcheurs et, au-delà, l'appauvrissement français. L'auteur juge le prix du gazole un catalyseur d'une crise structurelle (normes, zones, distorsions de concurrence, flotte vieillissante) et estime que les aides ponctuelles ne suffisent pas : il faut rétablir les conditions de rentabilité de la pêche et une « vraie politique de la mer ». Sur l'économie, il refuse de « rafistoler » par la seule dépense : baisser la fiscalité, réduire la dépense publique et la bureaucratie, relancer production, travail et investissement.",
+  "base_du_resume": "sous-titres YouTube automatiques (non relus) — propositions concrètes uniquement retenues",
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Rétablir les conditions de rentabilité de la pêche professionnelle (lutte contre les distorsions de concurrence, révision des normes jugées absurdes — ex. maillage —, politique de la mer et de la compétitivité) plutôt que de s'en tenir aux aides carburant circonstancielles.",
+      "cout": "non établi",
+      "cadre_juridique": "La conservation et la gestion des ressources halieutiques relèvent largement de la politique commune de la pêche (règlement (UE) n° 1380/2013) ; les États membres peuvent, notamment en Méditerranée, être habilités à adopter certains actes, et répartissent les quotas nationaux (code rural et de la pêche maritime, ex. arrêté du 6 mars 2025 sur l'effort de pêche Méditerranée). Une révision des normes techniques ou des restrictions zonales suppose en général un accord au niveau de l'UE (Conseil / Commission) ou, pour ce qui reste national, des arrêtés du ministre chargé des pêches.",
+      "competence": "UE (PCP, TAC/quotas, plans type WestMed) ; État français (répartition nationale, transposition, négociation au Conseil) ; pas de compétence des collectivités sur les quotas.",
+      "precedents": "France/UE : le Conseil des ministres TAC & quotas 2026 a maintenu le cadre WestMed (effort 2025), supprimé l'interdiction du chalut jumeau et revalorisé des compensations (CNPMEM, 13 déc. 2025). Les distorsions de concurrence liées à la répartition des quotas sont documentées de longue date (avis Autorité de la concurrence 15-A-19, 2015). Étranger Maghreb / Italie / Espagne évoqués dans l'interview : non vérifiés ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Accord au niveau de l'Union (TAC, plans Méditerranée, normes techniques) : la France ne peut pas seule supprimer des règles PCP applicables.",
+        "Articulation conservation / rentabilité : toute assouplissement doit rester compatible avec les objectifs de durabilité du règlement 1380/2013.",
+        "Mesures nationales (répartition, aides à l'investissement) à préciser et financer (non chiffré)."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Transcription automatique approximative (noms, chiffres). Les propositions restent générales (« vraie politique de la mer ») ; le détail des normes à revoir n'est pas listé."
+    },
+    {
+      "texte": "Baisser la fiscalité (y compris sur les carburants) en la liant à une relance de la production, à une réforme du système social et à une réduction de la dépense publique et de la bureaucratie — plutôt qu'une baisse immédiate de TVA/carburant financée par la dette.",
+      "cout": "non établi : aucun montant ni calendrier dans l'interview. Repère de contexte (non une estimation du coût de la mesure) : d'après economie.gouv.fr (données 2023), l'accise (ex-TICPE) sur le gazole hors Île-de-France était de 60,75 c€/l et sur SP95-E5/SP98 de 69,02 c€/l.",
+      "cadre_juridique": "L'assiette, le taux et le recouvrement des impositions relèvent de la loi (art. 34 de la Constitution) ; les lois de finances déterminent ressources et charges (art. 47). Depuis 2022, l'accise sur les produits énergétiques (ex-TICPE) est régie par le code des impositions sur les biens et services (Douane).",
+      "competence": "État (Parlement, lois de finances) ; cadre d'accise énergétique aussi encadré par le droit de l'UE (non détaillé ici).",
+      "precedents": "non établi pour une réforme d'ensemble contemporaine ; les taux d'accise et leur nomenclature sont publics (Douane, economie.gouv.fr).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Vote des lois de finances et éventuelles lois organiques budgétaires ; compatibilité avec les règles européennes d'accise et de déficit.",
+        "Compensation budgétaire : l'auteur refuse une baisse immédiate financée par la dette — le chiffrage des économies de dépense n'est pas fourni.",
+        "Calendrier et périmètre (carburants seuls vs fiscalité générale) non précisés."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Proposition systémique très large ; l'analyse ne peut juger que le levier juridique (loi de finances), pas l'ampleur économique."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "TAC & Quotas 2026 – Conseil des Ministres (CNPMEM)",
+      "url": "https://www.comite-peches.fr/tac-quotas-2026-conseil-des-ministres/",
+      "consulte_le": "2026-10-12"
+    },
+    {
+      "titre": "Règlement (UE) n° 1380/2013 – politique commune de la pêche (EUR-Lex, fiche / texte)",
+      "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32013R1380",
+      "consulte_le": "2026-10-12"
+    },
+    {
+      "titre": "Fiscalité des produits énergétiques (Douane)",
+      "url": "https://www.douane.gouv.fr/professionnels/energie/fiscalite-des-produits-energetiques",
+      "consulte_le": "2026-10-12"
+    },
+    {
+      "titre": "Principales taxes énergétiques et leurs taux (economie.gouv.fr)",
+      "url": "https://www.economie.gouv.fr/entreprises/gerer-sa-fiscalite-et-ses-impots/autres-impots-et-taxes/quelles-sont-les-principales",
+      "consulte_le": "2026-10-12"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte en vigueur) – Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-12"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-12",
+  "genere_par": "Grok Bot (recherche web du 12/10/2026)",
+  "integration": {
+    "type": "youtube",
+    "id": "AuPSNxJdvWo"
+  },
+  "citations": [
+    "On ne rafistole pas le Titanic, c'est le système qu'il faut revoir."
+  ],
+  "notes": "Interview longue : seuls les axes actionnables (pêche structurelle ; fiscalité liée à production/dépense) sont analysés. Chiffres cités à l'antenne (40 % des charges, 80 % d'import, -35 % de chalutiers) non vérifiés ici."
+}

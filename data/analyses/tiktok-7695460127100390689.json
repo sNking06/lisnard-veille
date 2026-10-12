@@ -1,0 +1,24 @@
+{
+  "id": "7695460127100390689",
+  "date": "2026-10-11T17:15:39+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7695460127100390689",
+  "statut": "ok",
+  "resume": "Extrait court (34 s) : l'auteur estime que le risque lié à la « machine augmentée » est surtout celui de « l'homme diminué », et qu'il faut s'astreindre à des disciplines qui échappent à la machine (comme le sport pour le corps). Il appelle à développer les capacités cognitives dès le plus jeune âge — humanités, philosophie, raison critique — pour éviter de devenir des « crétins digitaux », et juge préférable de savoir « décoder le monde » plutôt que seulement coder.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) — transcription approximative",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-12",
+  "genere_par": "Grok Bot (recherche web du 12/10/2026)",
+  "integration": {
+    "type": "tiktok",
+    "id": "7695460127100390689"
+  },
+  "citations": [
+    "c'est encore mieux de savoir décoder le monde"
+  ],
+  "notes": "Orientation culturelle et éducative générale ; pas de mesure concrète (programme, budget, texte) suffisamment définie pour une analyse de faisabilité."
+}

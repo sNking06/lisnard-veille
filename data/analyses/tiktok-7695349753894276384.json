@@ -1,0 +1,21 @@
+{
+  "id": "7695349753894276384",
+  "date": "2026-10-11T10:07:22+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7695349753894276384",
+  "statut": "ok",
+  "resume": "Vidéo TikTok de 4 minutes. La transcription automatique locale (faster-whisper) est inutilisable (répétitions sans sens) ; aucune légende n'est fournie. Impossible d'identifier le contenu ni d'éventuelles propositions concrètes.",
+  "base_du_resume": "transcription automatique faster-whisper (small, non relue) — matière inexploitable ; aucune légende",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-12",
+  "genere_par": "Grok Bot (recherche web du 12/10/2026)",
+  "integration": {
+    "type": "tiktok",
+    "id": "7695349753894276384"
+  },
+  "notes": "Transcription whisper locale défaillante (boucle de phrases sans rapport avec un discours politique). Aucune analyse de faisabilité possible sans retranscription."
+}

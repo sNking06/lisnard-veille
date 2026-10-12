@@ -1,0 +1,78 @@
+{
+  "id": "MVsDbjfHpPQ",
+  "date": "2026-10-04T17:35:26+00:00",
+  "source": "youtube",
+  "lien": "https://www.youtube.com/watch?v=MVsDbjfHpPQ",
+  "titre": "Mon intervention sur CNEWS",
+  "statut": "ok",
+  "resume": "Passage CNews (~8 min) sur les violences lycéennes : l'auteur y voit une mécanique politique visant à transformer revendications en manifestations puis en « insurrection », plaide pour une intervention précoce des forces de l'ordre, réaffirme sa demande de dissolution du Syndicat de la magistrature (tout en défendant le droit de syndicalisation des magistrats hors « syndicats politiques »), et propose des établissements disciplinaires pour extraire des classes les élèves violents.",
+  "base_du_resume": "sous-titres YouTube automatiques (non relus) — propositions concrètes uniquement retenues",
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Dissoudre le Syndicat de la magistrature (en maintenant le droit à la syndicalisation des magistrats mais pas de « syndicats politiques »).",
+      "cout": "Aucun coût budgétaire direct identifié ; chiffrage : non établi.",
+      "cadre_juridique": "L'article 10-1 de l'ordonnance n° 58-1270 du 22 déc. 1958 (loi organique) garantit aux magistrats le droit de créer des syndicats, d'y adhérer et d'y exercer des mandats (Légifrance, consulté le 12/10/2026). L'article 10 interdit toute délibération politique au corps judiciaire et toute action concertée entravant le fonctionnement des juridictions. Une dissolution par la seule voie politique n'apparaît pas dans les textes consultés ; elle relèverait en principe d'une procédure judiciaire (objet illicite d'un syndicat) ou d'une modification de la loi organique (art. 64 de la Constitution), soumise au Conseil constitutionnel et à la liberté syndicale (Préambule de 1946).",
+      "competence": "Autorité judiciaire (tribunal, procureur) pour une dissolution sur le fondement du droit des syndicats ; Parlement (loi organique) pour modifier le régime ; pas de compétence des collectivités.",
+      "precedents": "France : aucune dissolution d'un syndicat de magistrats trouvée dans les sources consultées (non établi). Étranger : non établi.",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Preuve judiciaire d'un objet illicite, ou révision de la loi organique validée par le Conseil constitutionnel.",
+        "Compatibilité avec la liberté syndicale : risque juridique élevé pour une dissolution fondée sur l'orientation d'opinion.",
+        "Alternative moins lourde : encadrer les prises de position publiques via l'art. 10 de l'ordonnance (autre mesure)."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Pas d'analyse approfondie de la jurisprudence CEDH sur le droit syndical des magistrats dans cette passe. Le verdict porte sur la procédure, non sur l'opportunité."
+    },
+    {
+      "texte": "Remettre en place des établissements disciplinaires pour extraire des classes les un ou deux élèves « voyous » par classe, afin de les remettre sur le bon chemin et de protéger les autres.",
+      "cout": "non établi",
+      "cadre_juridique": "Dispositifs relais (classes, ateliers, internats tremplins) décrits par éduscol (accueil temporaire de collégiens en rejet de l'école ; max. 12 élèves). Les établissements de réinsertion scolaire (ERS) ont été créés à la rentrée 2010 ; le rapport d'inspection de juin 2012 (vie-publique.fr) en dresse un bilan. L'article 34 de la Constitution renvoie à la loi les principes fondamentaux de l'enseignement ; l'instruction obligatoire jusqu'à 16 ans demeure.",
+      "competence": "État (Éducation nationale) ; départements souvent concernés pour les collèges (bâtiments, conventions) — le rapport 2012 note des mises en place parfois sans concours des collectivités.",
+      "precedents": "France : 16 ERS dans 13 académies (2010) ; bilan 2012 : mise en place « précipitée », résultats « souvent décevants », sans conclure à un échec complet ; dispositifs relais toujours en vigueur (éduscol, févr. 2026). Étranger : non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Critères d'admission et garanties de scolarisation (obligation jusqu'à 16 ans).",
+        "Projet pédagogique global et association des collectivités (recommandations du bilan 2012).",
+        "Évaluation des résultats : bilan antérieur mitigé.",
+        "Financement et personnels spécialisés : non établis."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "La proposition reprend un thème déjà analysé côté site Nouvelle Énergie ; la transcription YouTube est approximative."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Ordonnance n° 58-1270 du 22 décembre 1958 (statut de la magistrature) – Légifrance",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000339259",
+      "consulte_le": "2026-10-12"
+    },
+    {
+      "titre": "Les établissements de rétablissement scolaire – bilan et perspectives (vie-publique.fr, 2012)",
+      "url": "https://www.vie-publique.fr/rapport/36282-les-etablissements-de-retablissement-scolaire-bilan-et-perspectives",
+      "consulte_le": "2026-10-12"
+    },
+    {
+      "titre": "Les dispositifs relais (éduscol)",
+      "url": "https://eduscol.education.gouv.fr/5298/les-dispositifs-relais",
+      "consulte_le": "2026-10-12"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte en vigueur) – Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-12"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-12",
+  "genere_par": "Grok Bot (recherche web du 12/10/2026)",
+  "integration": {
+    "type": "youtube",
+    "id": "MVsDbjfHpPQ"
+  },
+  "citations": [
+    "il faut vite vite remettre de l'ordre au service de la liberté"
+  ],
+  "notes": "Contenu proche de l'article site « Il faut vite remettre de l'ordre… ». Seules les mesures actionnables (dissolution SM ; établissements disciplinaires) sont analysées ; la doctrine d'emploi de la police, formulée en termes généraux, n'est pas isolée comme proposition distincte."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "7695395632168619296",
+  "date": "2026-10-11T13:05:21+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7695395632168619296",
+  "statut": "ok",
+  "resume": "Légende de remerciement aux 50 000 adhérents à jour de cotisation du parti Nouvelle Énergie, présentée comme l'un des plus importants de France par sa dynamique populaire, avec un objectif affiché de 100 000. Pas de transcription ; aucune mesure politique concrète.",
+  "base_du_resume": "légende TikTok uniquement (pas de transcription)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-12",
+  "genere_par": "Grok Bot (recherche web du 12/10/2026)",
+  "integration": {
+    "type": "tiktok",
+    "id": "7695395632168619296"
+  },
+  "citations": [
+    "50 000 mercis à nos 50 000 adhérents Nouvelle Énergie à jour de cotisation"
+  ],
+  "notes": "Message partisan de mobilisation ; les constats d'adhésion et l'appel à rejoindre le parti ne constituent pas des propositions de politique publique."
+}

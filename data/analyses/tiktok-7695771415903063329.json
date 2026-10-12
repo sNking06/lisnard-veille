@@ -1,0 +1,21 @@
+{
+  "id": "7695771415903063329",
+  "date": "2026-10-12T13:23:36+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7695771415903063329",
+  "statut": "ok",
+  "resume": "Anecdote personnelle : rencontre improvisée avec Mike Tyson devant la mairie (dédicace de gants), comparaison avec d'autres personnalités sportives croisées (Platini, Maradona). Aucune proposition de politique publique.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) — transcription approximative",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-12",
+  "genere_par": "Grok Bot (recherche web du 12/10/2026)",
+  "integration": {
+    "type": "tiktok",
+    "id": "7695771415903063329"
+  },
+  "notes": "Récit anecdotique ; pas de mesure analysable."
+}
