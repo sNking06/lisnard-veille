@@ -1,21 +1,119 @@
 {
   "id": "Dpe_J7T0ztw",
-  "date": "2026-10-13T00:00:00+00:00",
+  "date": "2026-10-13T07:51:20+00:00",
   "source": "youtube",
   "lien": "https://www.youtube.com/watch?v=Dpe_J7T0ztw",
   "titre": "David Lisnard Face à Apolline de Malherbe mardi 13 octobre",
-  "statut": "degraded",
-  "resume": "",
-  "analyse_realisee": false,
-  "propositions": [],
-  "sources": [],
+  "statut": "ok",
+  "resume": "Interview BFM TV / RMC (~20 min) sur les blocages lycéens, la doctrine policière, Parcoursup et le bac, le budget/croissance, et une primaire ouverte face à Édouard Philippe. Seules les propositions de politique publique concrètes sont retenues ci-dessous.",
+  "base_du_resume": "sous-titres YouTube automatiques (non relus) — propositions concrètes uniquement retenues ; résumé court",
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Revoir la doctrine d'emploi de la police nationale dans les villes à effectifs faibles : intervention plus rapide et massive dès le début des troubles (logique « incendie »), en s'appuyant aussi sur une police municipale nombreuse pour sécuriser l'accès aux établissements et distinguer revendications légitimes et fauteurs de troubles.",
+      "cout": "non établi",
+      "cadre_juridique": "Police municipale : art. L. 2212-2 du CGCT (bon ordre, sûreté, sécurité, salubrité) et art. L. 511-1 du code de la sécurité intérieure (prévention/surveillance sous l'autorité du maire ; constatation de contraventions). Le maintien de l'ordre proprement dit relève des forces de l'État (préfet, police nationale, gendarmerie). Une doctrine nationale d'emploi est un acte de l'exécutif / ministère de l'Intérieur ; un élargissement des missions municipales vers le maintien de l'ordre exigerait une loi.",
+      "competence": "État (doctrine nationale, forces mobiles) ; communes (police municipale, pouvoirs de police du maire).",
+      "precedents": "France : pratique locale de sécurisation de portails de lycées par la police municipale (exemple cité à Cannes dans l'interview). Doctrine et limites : la littérature professionnelle rappelle que la police municipale n'est pas chargée du maintien de l'ordre (WEKA, CNFPT). Étranger : non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Clarifier le périmètre légal : prévention/surveillance vs maintien de l'ordre.",
+        "Effectifs, formation et coordination préfecture / police nationale / police municipale.",
+        "Cadre national (circulaire ou loi) si généralisation au-delà d'une commune."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "L'interview mélange constat local (Cannes) et proposition nationale de doctrine ; le détail opérationnel n'est pas fourni. Transcription automatique approximative."
+    },
+    {
+      "texte": "Remplacer Parcoursup par un système national de suivi des vocations / orientation renforcée dès le lycée ; rétablir un bac « exigeant » autour de trois grandes filières plutôt que de nombreuses spécialités ; revaloriser les épreuves terminales face au contrôle continu.",
+      "cout": "non établi",
+      "cadre_juridique": "Principes fondamentaux de l'enseignement et organisation de l'enseignement supérieur : domaine de la loi (art. 34 de la Constitution). Parcoursup et le baccalauréat actuel sont fixés par lois et décrets (réforme du lycée / bac depuis 2018-2021). Une suppression ou refonte majeure suppose une loi et des décrets d'application.",
+      "competence": "État (ministères Éducation nationale et Enseignement supérieur).",
+      "precedents": "France : bac général à spécialités + Parcoursup depuis la réforme Blanquer ; pour 2026, le ministère maintient ~40 % contrôle continu et 60 % épreuves terminales, avec une épreuve anticipée de maths en première (education.gouv.fr). Retour aux séries L/ES/S : non mis en œuvre ; débats récurrents, chiffrage non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Texte législatif et calendrier de transition pour une cohorte complète.",
+        "Définition concrète du « système national de suivi des vocations » (absent de l'interview).",
+        "Capacités d'accueil du supérieur et règles d'affectation si demandes > places.",
+        "Coût et moyens humains : non établis."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Formulation orale large (« je mettrai en place un autre système ») sans cahier des charges. Sous-titres automatiques peu fiables sur les détails."
+    },
+    {
+      "texte": "Baisser les dépenses de l'État (chiffrage « sourcé » revendiqué par l'auteur) et rendre 60 % de ces baisses au pouvoir d'achat des Français, notamment des plus modestes / travailleurs.",
+      "cout": "non établi dans l'interview (montant total des baisses et base 60 % non fournis ici).",
+      "cadre_juridique": "Lois de finances et lois de financement de la sécurité sociale (art. 34 et lois organiques budgétaires). Toute baisse de dépenses et restitution via impôts, cotisations ou prestations passe par le Parlement.",
+      "competence": "État (Gouvernement et Parlement).",
+      "precedents": "France : politiques de baisse de prélèvements ou de ciblage du pouvoir d'achat (ex. baisses d'impôt sur le revenu, suppression de la taxe d'habitation pour une partie des foyers — détail et évaluation hors matière collectée). Part « 60 % » spécifique : non établie dans des sources officielles consultées ce jour.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Documenter la liste et le montant des baisses de dépenses.",
+        "Choisir le canal de restitution (impôt, cotisations, prestations) et les gains nets après effets économiques.",
+        "Majorité parlementaire et trajectoire de dette / déficit."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Chiffre 60 % et « sourcé documenté » non vérifiés dans cette collecte ; pas de tableau budgétaire dans la matière."
+    },
+    {
+      "texte": "Faire payer les dégradations (« casse ») : parents solvables paient ; s'ils ne le sont pas, déduire le montant des aides de la société (aides sociales).",
+      "cout": "non établi (recettes nettes après contentieux et frais de recouvrement).",
+      "cadre_juridique": "Responsabilité civile des parents du fait des enfants mineurs (art. 1242 du code civil). Les allocations familiales et APL sont en principe insaisissables ; un projet de loi dit « casseurs-payeurs » (examen Sénat annoncé octobre 2026 d'après la presse) envisagerait des exceptions pour recouvrer des condamnations définitives, y compris contre un parent solidairement responsable — texte non encore adopté au moment de cette analyse.",
+      "competence": "État (droit civil, sécurité sociale, procédure de recouvrement) ; collectivités éventuellement créancières des dégâts.",
+      "precedents": "France : engagement déjà possible de la responsabilité parentale ; consignes récentes du garde des Sceaux pour l'activer après dégradations lycéennes (relaté par franceinfo / France Inter, oct. 2026). Projet « casseurs-payeurs » : responsabilité élargie des participants à un groupement violent et piste de saisie d'aides — non adopté. Étranger : non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Adoption définitive et contrôle constitutionnel du dispositif de saisie d'aides.",
+        "Identification des auteurs et jugement définitif avant recouvrement.",
+        "Périmètre des prestations saisissables et garanties du droit de la famille / droits sociaux."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Proposition proche du débat gouvernemental en cours ; la formulation interviewée reste générale. Ne pas confondre intention politique et droit positif actuel."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Article L. 511-1 du code de la sécurité intérieure (Juriblio)",
+      "url": "https://juriblio.fr/codes/code-de-la-securite-interieure/partie-legislative/livre-v/titre-ier/chapitre-ier/section-1/article-l511-1",
+      "consulte_le": "2026-10-13"
+    },
+    {
+      "titre": "La police municipale et le maintien de l'ordre (WEKA)",
+      "url": "https://www.weka.fr/fiches-et-outils/la-police-municipale-et-le-maintien-de-l-ordre-13091/",
+      "consulte_le": "2026-10-13"
+    },
+    {
+      "titre": "Examens 2026 : ambition renouvelée (education.gouv.fr)",
+      "url": "https://www.education.gouv.fr/examens-2026-une-ambition-renouvelee-pour-la-reussite-des-eleves-504806",
+      "consulte_le": "2026-10-13"
+    },
+    {
+      "titre": "Mesures « casseurs » / responsabilité des parents (franceinfo)",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/trois-questions-sur-les-mesures-contre-les-casseurs-que-le-gouvernement-veut-durcir-apres-les-dommages-en-marge-des-mobilisations-lyceennes_8221996.html",
+      "consulte_le": "2026-10-13"
+    },
+    {
+      "titre": "Lycées dégradés : quand les parents doivent-ils payer ? (Club des Juristes)",
+      "url": "https://www.leclubdesjuristes.com/justice/lycees-degrades-quand-les-parents-doivent-ils-payer-pour-leur-enfant-17693/",
+      "consulte_le": "2026-10-13"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 – Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-13"
+    }
+  ],
   "analyse_ia": true,
   "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
-  "genere_le": "2026-10-13T09:56:34+02:00",
-  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-13)",
+  "genere_le": "2026-10-13T13:54:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-13, recherche web)",
   "integration": {
     "type": "youtube",
     "id": "Dpe_J7T0ztw"
   },
-  "notes": "Collecte dégradée (échec métadonnées/transcription yt-dlp). Titre confirmé via oEmbed YouTube. Date approximative d'après le titre (« mardi 13 octobre » = 2026-10-13). Pas de résumé ni d'analyse faute de matière ; carte avec lecteur officiel uniquement."
+  "citations": [
+    "ce que je propose c'est de l'affronter",
+    "Plus on intervient vite auprès des éléments qui sont à la source du problème, moins on permet à l'événement de se propager."
+  ],
+  "notes": "Vidéo longue (~20 min) : stratégie électorale (primaire) et échanges de plateau exclus de l'analyse de faisabilité. Transcription automatique non relue, non commitée. Carte précédemment en statut degraded ; mise à jour après récupération des sous-titres yt-dlp."
 }

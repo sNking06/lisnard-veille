@@ -7,7 +7,14 @@
     "type": "youtube",
     "video_id": "Dpe_J7T0ztw"
   },
-  "statut": "degraded",
-  "date": null,
-  "erreur": "[Errno 2] No such file or directory: '/tmp/tmplk8vc7sl/Dpe_J7T0ztw.info.json'"
+  "statut": "ok",
+  "date": "2026-10-13T07:51:20+00:00",
+  "titre": "David Lisnard Face à Apolline de Malherbe mardi 13 octobre",
+  "description": "J’étais ce mardi 13 octobre l’invité d’Apolline de Malherbe sur BFMTV et RMC pour évoquer les violences en milieu scolaire, la primaire de la droite et le budget 2027.\n\nRetrouvez l’intégralité de mon interview.\n\nSuivez moi sur mes réseaux : \n\nInstagram : https://www.instagram.com/davidlisnard/\nX : https://x.com/davidlisnard\nFacebook : https://www.facebook.com/lisnard.david\nTik Tok : https://www.tiktok.com/@david.lisnard\nLinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/\n\nAdhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion",
+  "duree_s": 1205,
+  "vues": 9868,
+  "transcription": {
+    "fichier": "data/transcripts/youtube-Dpe_J7T0ztw.txt",
+    "source": "sous-titres YouTube automatiques (non relus)"
+  }
 }
