@@ -1,0 +1,101 @@
+{
+  "id": "7696175818711518496",
+  "date": "2026-10-13T15:32:52+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7696175818711518496",
+  "statut": "ok",
+  "resume": "Extrait vidéo court (~54 s) sur la prise en charge des dégradations commises par des mineurs, en réaction à une annonce régionale de suppression d'aides : l'auteur défend la responsabilité individuelle et avance trois pistes — revoir l'« excuse de minorité », faire effectuer des travaux d'intérêt général aux mineurs (pratique citée à Cannes), et faire payer les parents solvables ou, à défaut, déduire le montant des aides.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) — transcription approximative",
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Revoir l'« excuse de minorité » (atténuation de la peine des mineurs) afin que les mineurs auteurs de dégradations soient tenus pour responsables de leurs actes (proposition présentée comme portée avec la députée Alexandra Martin).",
+      "cout": "non établi",
+      "cadre_juridique": "Code de la justice pénale des mineurs (atténuation des peines selon l'âge ; dérogation possible pour les 16-18 ans sur décision motivée). Le Conseil constitutionnel a jugé que « le principe de l'atténuation de la responsabilité pénale des mineurs en fonction de l'âge » est une exigence constitutionnelle (PFRLR) et a censuré, dans sa décision n° 2025-886 DC du 19 juin 2025, l'article qui faisait de l'atténuation l'exception pour certains récidivistes de 16 à 18 ans.",
+      "competence": "État (loi pénale, art. 34 de la Constitution).",
+      "precedents": "France : article 7 de la loi « Attal » sur la justice des mineurs (2025), censuré par le Conseil constitutionnel ; dérogation motivée par le juge déjà possible au-delà de 16 ans. Contenu exact de la proposition Alexandra Martin : non établi dans la matière. Étranger : non établi.",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Respect du principe constitutionnel d'atténuation de la responsabilité selon l'âge (une suppression générale exigerait vraisemblablement une révision constitutionnelle).",
+        "Un aménagement ciblé reste possible dans les limites fixées par la jurisprudence (dérogation motivée, procédures adaptées au relèvement éducatif)."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "La vidéo ne précise ni l'âge visé ni l'ampleur du changement (« plus de minorité ») ; le verdict dépend fortement du périmètre retenu."
+    },
+    {
+      "texte": "Faire effectuer aux mineurs auteurs de dégradations des travaux d'intérêt général (nettoyage, réparation) au profit de la commune, en tenue municipale, comme pratiqué à Cannes selon l'auteur.",
+      "cout": "non établi (encadrement par les services municipaux)",
+      "cadre_juridique": "Art. 44-1 du code de procédure pénale : pour certaines contraventions commises au préjudice de la commune, le maire peut proposer, avant toute poursuite, une transaction de réparation ou un travail non rémunéré (30 h max), homologuée par le procureur ou le juge du tribunal de police ; applicable aux mineurs, dans le respect du droit du travail des mineurs d'au moins 16 ans (art. R. 422-14 CJPM). Le travail d'intérêt général pénal est prononcé par une juridiction.",
+      "competence": "Communes (transaction du maire, encadrement) sous contrôle de l'autorité judiciaire ; État pour le TIG pénal.",
+      "precedents": "France : dispositif de transaction municipale existant (art. 44-1 CPP) ; pratique cannoise citée par l'auteur, non vérifiée de façon indépendante. Étranger : non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Limité aux contraventions au préjudice de la commune et avant mise en mouvement de l'action publique.",
+        "Accord du contrevenant (et représentants légaux) et homologation judiciaire.",
+        "Âge minimal et règles du droit du travail des mineurs ; l'exposition « devant leurs copains » n'est pas prévue par les textes et pose la question de la protection des mineurs."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Pas de détail sur la base juridique utilisée à Cannes ni sur le volume de cas."
+    },
+    {
+      "texte": "Faire payer les dégradations par les parents solvables ; s'ils ne le sont pas, déduire les montants des aides sociales versées à la famille.",
+      "cout": "non établi (recettes nettes après contentieux et frais de recouvrement)",
+      "cadre_juridique": "Responsabilité civile des parents du fait de leurs enfants mineurs (art. 1242 du code civil). Certaines prestations (dont allocations familiales) sont en principe insaisissables ; une déduction systématique supposerait une loi et un contrôle de constitutionnalité. Un projet « casseurs-payeurs » en discussion (oct. 2026, d'après la presse) n'est pas adopté.",
+      "competence": "État (droit civil, sécurité sociale, recouvrement) ; collectivités éventuellement créancières pour leurs aides propres.",
+      "precedents": "France : responsabilité parentale déjà mobilisable ; consignes récentes du garde des Sceaux en ce sens (presse, oct. 2026) ; même proposition analysée dans la carte YouTube Dpe_J7T0ztw. Étranger : non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Identification des auteurs et décision définitive avant recouvrement.",
+        "Loi précisant les prestations saisissables et les garanties (reste à vivre, droits de l'enfant).",
+        "Contrôle constitutionnel du dispositif de déduction d'aides."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Formulation orale générale ; ne distingue pas aides nationales et aides des collectivités."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Décision n° 2025-886 DC du 19 juin 2025 (Conseil constitutionnel)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025886DC.htm",
+      "consulte_le": "2026-10-13"
+    },
+    {
+      "titre": "Communiqué de presse — décision n° 2025-886 DC (Conseil constitutionnel)",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2025-886-dc-du-19-juin-2025-communique-de-presse",
+      "consulte_le": "2026-10-13"
+    },
+    {
+      "titre": "Article 44-1 du code de procédure pénale (Juriblio)",
+      "url": "https://juriblio.fr/codes/code-de-procedure-penale/partie-legislative/livre-ier/titre-ier/chapitre-ii/section-3/article-44-1",
+      "consulte_le": "2026-10-13"
+    },
+    {
+      "titre": "Un maire peut-il prescrire une mesure de réparation ? (AMF, Maires de France)",
+      "url": "https://www.mairesdefrance.com/l'amf-vous-repond-article-721-0",
+      "consulte_le": "2026-10-13"
+    },
+    {
+      "titre": "Article R. 422-14 du code de la justice pénale des mineurs (LibreJustice)",
+      "url": "https://librejustice.fr/norm/fr/code-de-la-justice-penale-des-mineurs/r422-14",
+      "consulte_le": "2026-10-13"
+    },
+    {
+      "titre": "Lycées dégradés : quand les parents doivent-ils payer ? (Club des Juristes)",
+      "url": "https://www.leclubdesjuristes.com/justice/lycees-degrades-quand-les-parents-doivent-ils-payer-pour-leur-enfant-17693/",
+      "consulte_le": "2026-10-13"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-13T18:20:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-13 17:47, recherche web)",
+  "integration": {
+    "type": "tiktok",
+    "id": "7696175818711518496"
+  },
+  "citations": [
+    "on n'a pas à subventionner la casse",
+    "ces gamins sont responsables de leurs actes"
+  ],
+  "notes": "Transcription automatique non relue, non commitée. Prolonge un thème de l'interview BFM du même jour (YouTube Dpe_J7T0ztw). Analyse limitée à la faisabilité des mesures."
+}
