@@ -1,0 +1,13 @@
+{
+  "id": "Dpe_J7T0ztw",
+  "reseau": "youtube",
+  "compte": "@david_lisnard",
+  "url": "https://www.youtube.com/watch?v=Dpe_J7T0ztw",
+  "embed": {
+    "type": "youtube",
+    "video_id": "Dpe_J7T0ztw"
+  },
+  "statut": "degraded",
+  "date": null,
+  "erreur": "[Errno 2] No such file or directory: '/tmp/tmplk8vc7sl/Dpe_J7T0ztw.info.json'"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2109707783780077972",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-12T18:08:26.000Z",
+  "url": "https://x.com/davidlisnard/status/2109707783780077972",
+  "texte": "Voilà ! Il s’agit, par plus de liberté, de rétablir le respect de la propriété et un équilibre harmonieux entre privé et public, au service de la prospérité nationale et de la dignité personnelle.\nMerci @DominiqueReynie de rappeler ces éléments factuels dans le pays qui a le record du monde de la dépense publique, des prélèvements, et une bureaucratie sclérosante. Et que la conscience de cette réalité est majoritaire en France. \nC’est pour cela que nous allons gagner.",
+  "citation": {
+    "id": "2109684953201987791",
+    "texte": "«Nous parlons d'ultralibéralisme chez Lisnard parce que nous sommes en France. Il est pour la baisse des prélèvements obligatoires, contre le blocage des loyers, pour la protection de la propriété privée. Mon Dieu, quelle audace !», ironise @DominiqueReynie dans Le Club Le Figaro https://t.co/26Cl11ueN5",
+    "auteur_id": "485778936"
+  },
+  "metriques": {
+    "bookmark_count": 65,
+    "impression_count": 50773,
+    "like_count": 2555,
+    "quote_count": 9,
+    "reply_count": 43,
+    "retweet_count": 557
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

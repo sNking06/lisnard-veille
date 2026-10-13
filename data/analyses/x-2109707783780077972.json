@@ -1,0 +1,82 @@
+{
+  "id": "2109707783780077972",
+  "date": "2026-10-12T18:08:26.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2109707783780077972",
+  "statut": "ok",
+  "resume": "En citant un extrait de Dominique Reynié (Club Le Figaro / Le Figaro TV), l'auteur endosse trois orientations : baisse des prélèvements obligatoires, opposition au blocage des loyers, et protection de la propriété privée. Il les présente comme un rééquilibrage privé/public au service de la « prospérité nationale » et de la « dignité personnelle », et affirme que la France détient un record de dépense publique et de prélèvements, avec une conscience majoritaire de cette réalité.",
+  "base_du_resume": "texte complet de la publication et texte du tweet cité (collectés via MCP X natif)",
+  "citations": [
+    "rétablir le respect de la propriété et un équilibre harmonieux entre privé et public",
+    "le record du monde de la dépense publique, des prélèvements, et une bureaucratie sclérosante"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Baisser les prélèvements obligatoires (orientation générale, sans instrument ni calendrier précisés dans la publication).",
+      "cout": "non établi : aucun montant, aucun impôt ni aucune trajectoire n'est indiquée. Repère de contexte (non une estimation du coût de la mesure) : selon le PLF 2026 (chiffres clés budget.gouv.fr), le taux de prélèvements obligatoires nets des crédits d'impôt est prévu à 43,6 % du PIB en 2025 et 43,9 % en 2026 ; la dépense publique hors crédits d'impôt à 56,8 % (2025) puis 56,4 % (2026). L'OCDE (Statistiques des recettes publiques 2025) place la France parmi les ratios impôts/PIB les plus élevés de la zone (43,5 % en 2024 selon le tableau publié).",
+      "cadre_juridique": "Article 34 de la Constitution : la loi fixe l'assiette, le taux et les modalités de recouvrement des impositions de toutes natures ; les lois de finances déterminent les ressources et charges de l'État (LOLF). Une baisse de recettes doit être compatible avec l'équilibre budgétaire et, pour les amendements parlementaires, avec l'article 40 (gage éventuel). Droit de l'UE (aides d'État, ressources propres) : non établi pour une baisse générique.",
+      "competence": "État (Parlement et Gouvernement via lois de finances / lois fiscales) ; une partie des prélèvements concerne aussi la Sécurité sociale (LFSS) et, pour certains impôts locaux, les collectivités.",
+      "precedents": "France : multiples baisses ciblées passées (ex. suppression progressive de la taxe d'habitation sur les résidences principales, baisses d'impôts de production) — détail et montants non relus ici. Étranger : non établi pour cette publication.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Préciser quels prélèvements, de quel montant et sur quel calendrier (absent de la publication).",
+        "Financer ou compenser la perte de recettes (dépenses, autres impôts, dette) dans un contexte de déficit et de dette élevés (ratios PLF 2026 : dette 115,9 % du PIB en 2025, 117,9 % en 2026 — chiffres gouvernementaux).",
+        "Majorité parlementaire et adoption en loi de finances / LFSS."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Orientation très générale : sans instrument, l'évaluation de faisabilité reste qualitative. La formule « record du monde » de la dépense/prélèvements n'est pas reprise telle quelle par l'OCDE (classements relatifs dans la zone OCDE/UE)."
+    },
+    {
+      "texte": "S'opposer au « blocage des loyers » (ne pas instaurer un gel, ou ne pas étendre / pérenniser l'encadrement des loyers — formulation de la citation endossée, sans dispositif législatif détaillé).",
+      "cout": "non établi pour une non-mesure ou une abrogation. L'IPP (note 2026 sur l'encadrement) évoque un coût fiscal pour l'État lié aux effets redistributifs du dispositif actuel ; montant non extrait ici.",
+      "cadre_juridique": "Encadrement actuel : expérimentation issue de l'article 140 de la loi n° 2018-1021 (ELAN), succédant au dispositif ALUR ; plafonnement du loyer de base à 120 % du loyer de référence majoré (loi du 6 juillet 1989, art. relatifs à l'encadrement). Ce n'est pas un « blocage » absolu (complément de loyer possible). Modifier ou abroger ce régime relève de la loi.",
+      "competence": "État (législateur) ; mise en œuvre territoriale à la demande des collectivités / EPCI éligibles, avec arrêtés préfectoraux de loyers de référence.",
+      "precedents": "France : expérimentation ELAN en zones tendues (Paris, Lille, etc.) ; évaluations (mission Fack-Chapelle, note IPP 2026) font état d'une modération des loyers à court terme et de risques sur l'offre à plus long terme. Étranger : non établi ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Clarifier si l'orientation vise un gel strict, le non-renouvellement de l'expérimentation ELAN, ou l'abrogation de l'encadrement en niveau.",
+        "Adoption d'une loi ; arbitrage avec les collectivités volontaires déjà engagées.",
+        "Évaluation des effets sur locataires et offre locative (littérature économique contrastée)."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "La publication reprend le terme « blocage » de la citation ; le droit positif français parle d'encadrement en niveau, distinct d'un gel."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "PLF 2026 — Chiffres clés (budget.gouv.fr)",
+      "url": "https://www.budget.gouv.fr/documentation/file-download/30550",
+      "consulte_le": "2026-10-13"
+    },
+    {
+      "titre": "OCDE — Tendances des recettes fiscales, Statistiques des recettes publiques 2025",
+      "url": "https://www.oecd.org/fr/publications/statistiques-des-recettes-publiques-2025_f7a1e5e4-fr/full-report/tax-revenue-trends-1965-2024_98c75833.html",
+      "consulte_le": "2026-10-13"
+    },
+    {
+      "titre": "Encadrement des loyers — Ministères Transition écologique / Logement",
+      "url": "https://www.ecologie.gouv.fr/politiques-publiques/encadrement-loyers",
+      "consulte_le": "2026-10-13"
+    },
+    {
+      "titre": "IPP — L'encadrement des loyers : quels effets redistributifs ? (note 2026)",
+      "url": "https://www.ipp.eu/wp-content/uploads/2026/06/Note_IPP_Encadrement_des_loyers.pdf",
+      "consulte_le": "2026-10-13"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte en vigueur) — Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-13"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-13T09:56:34+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-13, recherches web)",
+  "integration": {
+    "type": "x",
+    "id": "2109707783780077972"
+  },
+  "notes": "Les orientations analysées sont celles attribuées par Dominique Reynié dans le tweet cité et explicitement endossées par l'auteur. La « protection de la propriété privée » reste trop générale pour une analyse de faisabilité distincte. Neutralité : aucun jugement sur la personne ; uniquement la faisabilité des orientations de politique publique."
+}
