@@ -1,0 +1,57 @@
+{
+  "id": "7696486194145660192",
+  "date": "2026-10-14T11:37:18+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7696486194145660192",
+  "statut": "ok",
+  "resume": "Extrait vidéo court (~38 s) sur la fiscalité : l'auteur prend l'exemple de la hausse de la taxe sur les billets d'avion, qui aurait selon lui fait perdre plus de recettes qu'elle n'en rapporte en déportant le trafic vers des compagnies et aéroports étrangers (« courbe de Laffer »), puis rappelle sa proposition de rendre 60 % des baisses de dépenses de l'État au pouvoir d'achat, notamment des plus modestes.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) — transcription approximative",
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Baisser les dépenses de l'État (chiffrage « sourcé, documenté » revendiqué par l'auteur) et rendre 60 % de ces baisses au pouvoir d'achat des Français, notamment des travailleurs les plus modestes.",
+      "cout": "non établi dans la vidéo (montant total des baisses et canal de restitution non précisés).",
+      "cadre_juridique": "Lois de finances et lois de financement de la sécurité sociale (art. 34 et 47 de la Constitution, LOLF). Toute baisse de dépenses et toute restitution par l'impôt, les cotisations ou les prestations passent par le Parlement.",
+      "competence": "État (Gouvernement et Parlement).",
+      "precedents": "Même proposition déjà analysée dans la carte YouTube Dpe_J7T0ztw (13/10/2026). Part « 60 % » : non établie dans des sources officielles consultées ce jour.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Documenter publiquement la liste et le montant des baisses de dépenses.",
+        "Choisir le canal de restitution (impôt, cotisations, prestations) et chiffrer les gains nets.",
+        "Majorité parlementaire et compatibilité avec la trajectoire de déficit et de dette."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Le constat fiscal cité en appui est partiellement vérifiable : le rendement attendu de la hausse de la TSBA (mars 2025) était bien d'environ 850 M€ par an (étude du ministère de la Transition écologique, nov. 2025) et le trafic des compagnies étrangères a reculé d'un million de passagers au T2 2026 ; en revanche, la perte de « 1,6 milliard d'euros » n'a pas été retrouvée dans les sources officielles consultées, qui jugent difficile d'isoler l'effet propre de la taxe."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Premiers retours sur la hausse de TSBA de mars 2025 (ministère de la Transition écologique, nov. 2025)",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/etude_impact_TSBA_transport_aerien_france_novembre2025.pdf",
+      "consulte_le": "2026-10-14"
+    },
+    {
+      "titre": "Note de conjoncture trafic aérien T2 2026 (DGAC / ministère de la Transition écologique)",
+      "url": "https://www.ecologie.gouv.fr/sites/default/files/documents/dta_note_conjoncture_trimestrielle_trafic_aerien_T2-2026.pdf",
+      "consulte_le": "2026-10-14"
+    },
+    {
+      "titre": "PLF 2026, amendement n° I-576 (Assemblée nationale)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/1906A/AN/576",
+      "consulte_le": "2026-10-14"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-14T14:10:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-14 13:47, recherche web)",
+  "integration": {
+    "type": "tiktok",
+    "id": "7696486194145660192"
+  },
+  "citations": [
+    "trop d'impôts tue le contribuable",
+    "60 % des baisses de dépenses de l'État"
+  ],
+  "notes": "Transcription automatique non relue, non commitée. Analyse limitée à la faisabilité des mesures."
+}

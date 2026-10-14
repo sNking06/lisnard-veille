@@ -1,0 +1,20 @@
+{
+  "id": "2110309313898279395",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-14T09:58:42.000Z",
+  "url": "https://x.com/davidlisnard/status/2110309313898279395",
+  "texte": "Partout la mobilisation du terrain s’amplifie. Ici le maire de Mende, dans la si belle Lozère. https://t.co/Q1n7KWqzKI",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 4,
+    "impression_count": 9187,
+    "like_count": 390,
+    "quote_count": 5,
+    "reply_count": 9,
+    "retweet_count": 83
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
