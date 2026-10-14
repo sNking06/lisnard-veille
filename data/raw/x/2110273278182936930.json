@@ -1,0 +1,24 @@
+{
+  "id": "2110273278182936930",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-14T07:35:31.000Z",
+  "url": "https://x.com/davidlisnard/status/2110273278182936930",
+  "texte": "Énième confirmation d’un constat que je m’époumone à faire depuis des années, désormais audible : les moyens du terrain sont détournés par les retraites (qui représentent 35% du budget de la sécurité et 32% de celui de l’éducation) et l’hyper bureaucratie. \n\nTout cela à cause des irresponsables politiques qui, « en responsabilité », ont maintenu, malgré la décroissance démographique, donc du financement, le système par répartition intégrale. \n\nSeule une part de capitalisation, qui fait désormais consensus, pourra sauver à la fois les services et les finances publiques. \n\nLa transition vers ce nouveau régime sera longue et difficile, et je la détaillerai bientôt, mais il est possible de stopper l’hémorragie pour retrouver des marges de manœuvre dès maintenant : désindexation des pensions les plus élevées de l’inflation, convergence des régimes publics et privés, fin des régimes spéciaux. Nous commencerons dès mai 2027. #OnArrive",
+  "citation": {
+    "id": "2110003902061990043",
+    "texte": "Petite bombe de l’IGF qui révèle une mascarade inconnue du grand public et qui explique pourquoi on a l’impression que l’état est à poil sur toutes ses dépenses régaliennes et éducatives, alors qu’elle n’apparaît pas si mauvaise en comparisons internationales et que les milliards semblent bien là.\nLe secret : pour ne pas faire apparaître l’immense déficit des retraites, on impute des cotisations sociales allant jusqu’à 80% du salaire des fonctionnaires. Ce qui gonfle tous les budgets.\nAinsi non seulement on empêche de prendre conscience d’à quel point le système est déficitaire, que la retraite des fonctionnaires est sur le point de devenir le premier budget de dépense de l’état, mais aussi on fausse toutes les comparaisons internationales.\nEn réalité sur le régalien la France est proche du bas de classement, parce qu’elle crame tout son argent en retraites.\nJ’ai fait quelques graphes pour expliciter.",
+    "auteur_id": null
+  },
+  "metriques": {
+    "bookmark_count": 11,
+    "impression_count": 5017,
+    "like_count": 409,
+    "quote_count": 3,
+    "reply_count": 17,
+    "retweet_count": 100
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

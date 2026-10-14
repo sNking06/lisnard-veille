@@ -1,0 +1,20 @@
+{
+  "id": "2110076213058514945",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-13T18:32:27.000Z",
+  "url": "https://x.com/davidlisnard/status/2110076213058514945",
+  "texte": "😘 @libe https://t.co/dC3smc27ik",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 63,
+    "impression_count": 75582,
+    "like_count": 2203,
+    "quote_count": 50,
+    "reply_count": 91,
+    "retweet_count": 414
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

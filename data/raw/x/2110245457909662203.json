@@ -1,0 +1,20 @@
+{
+  "id": "2110245457909662203",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-14T05:44:58.000Z",
+  "url": "https://x.com/davidlisnard/status/2110245457909662203",
+  "texte": "En kiosque https://t.co/N0qkTHmPwg",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 8,
+    "impression_count": 12973,
+    "like_count": 1252,
+    "quote_count": 20,
+    "reply_count": 83,
+    "retweet_count": 186
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

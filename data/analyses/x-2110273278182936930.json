@@ -1,0 +1,132 @@
+{
+  "id": "2110273278182936930",
+  "date": "2026-10-14T07:35:31.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2110273278182936930",
+  "statut": "ok",
+  "resume": "En citant un message qui commente un rapport sur les pensions de la fonction publique, l'auteur affirme que les retraites absorbent une part importante des budgets de la sécurité et de l'éducation, et impute cette situation au maintien d'un système par répartition intégrale malgré l'évolution démographique. Il annonce vouloir introduire « une part de capitalisation » (transition à détailler ultérieurement) et, dès mai 2027, trois mesures immédiates : désindexation de l'inflation des pensions les plus élevées, convergence des régimes publics et privés, fin des régimes spéciaux.",
+  "base_du_resume": "texte complet de la publication (note_tweet) et texte du message cité de @larroumecj (collectés via MCP X natif)",
+  "citations": [
+    "Seule une part de capitalisation, qui fait désormais consensus, pourra sauver à la fois les services et les finances publiques.",
+    "désindexation des pensions les plus élevées de l’inflation, convergence des régimes publics et privés, fin des régimes spéciaux"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Introduire une part de capitalisation dans le système de retraite obligatoire (modalités et calendrier de transition non précisés, annoncés « bientôt »).",
+      "cout": "non établi : aucun paramètre (taux, public visé, rythme) n'est indiqué. Le COR (dossier du 18/12/2025) souligne que toute transition, même partielle, impose soit une double cotisation des actifs, soit une mise à contribution des retraités (ex. sous-indexation durable), soit une prise en charge par l'État.",
+      "cadre_juridique": "Relève de la loi (art. 34 de la Constitution : principes fondamentaux de la sécurité sociale) et, pour les effets financiers, des lois de financement de la sécurité sociale (LFSS) et de finances. Des régimes obligatoires par capitalisation existent déjà (RAFP pour les fonctionnaires, part de la CAVP pour les pharmaciens) ; l'épargne retraite facultative (PER) relève de la loi PACTE.",
+      "competence": "État (Parlement, Gouvernement) ; partenaires sociaux pour les régimes complémentaires (Agirc-Arrco) s'ils sont concernés.",
+      "precedents": "France : RAFP (régime additionnel de la fonction publique, capitalisation) et part capitalisée de la CAVP (COR, doc. n° 6 du 18/12/2025). Étranger : transitions présentées au COR (12/11/2025), notamment le Chili (passage pour les nouveaux entrants, déficit lié à la réforme financé par l'État) et la Suède (répartition en comptes notionnels + part capitalisée).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Préciser la part capitalisée, les assurés concernés et le calendrier (annoncés ultérieurement).",
+        "Financer la double charge de transition (cotisations supplémentaires, effort des retraités ou budget de l'État) sans hausse de l'endettement, selon les réserves exprimées au COR.",
+        "Encadrer les risques financiers (volatilité, frais de gestion) et la gouvernance du fonds.",
+        "Majorité parlementaire pour une loi et des LFSS successives."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "L'affirmation d'un « consensus » sur la capitalisation n'est pas établie : le COR (décembre 2025) présente des travaux sans recommandation tranchée. Mesure de long terme, dont le contenu reste à publier."
+    },
+    {
+      "texte": "Désindexer de l'inflation les pensions « les plus élevées » (seuil non précisé), dès mai 2027.",
+      "cout": "non établi : rendement dépendant du seuil et de la durée, non indiqués.",
+      "cadre_juridique": "La revalorisation annuelle des pensions de base suit l'inflation (art. L. 161-23-1 et L. 161-25 du code de la sécurité sociale) ; y déroger suppose une disposition législative, en pratique en LFSS. Précédent : sous-revalorisation de 0,3 % votée en LFSS pour 2019 (loi n° 2018-1203, art. 68), soumise au contrôle du Conseil constitutionnel (décision n° 2018-776 DC). Une mesure ciblée par niveau de pension devra respecter le principe d'égalité (critère objectif et rationnel). Les pensions complémentaires Agirc-Arrco sont revalorisées par les partenaires sociaux.",
+      "competence": "État (loi de financement de la sécurité sociale) pour les régimes de base et ceux de la fonction publique ; partenaires sociaux pour l'Agirc-Arrco.",
+      "precedents": "France : sous-revalorisation 2019 (LFSS 2019) ; gel en 2026 (« année blanche ») et sous-indexation 2027-2030 prévus dans le PLFSS 2026 initial puis supprimés par le Parlement (vie-publique.fr). Étranger : non établi ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Définir le seuil de pension « élevée » et la durée.",
+        "Adoption en LFSS et conformité au principe d'égalité devant la loi.",
+        "Majorité parlementaire (la mesure de gel/sous-indexation du PLFSS 2026 a été rejetée par le Parlement)."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Une désindexation limitée aux pensions les plus élevées a un rendement d'autant plus faible que le seuil est haut ; aucun chiffrage officiel consulté pour un seuil donné."
+    },
+    {
+      "texte": "Faire converger les règles de retraite des régimes publics et privés.",
+      "cout": "non établi : l'effet financier dépend des règles alignées (salaire de référence, prise en compte des primes, catégories actives). Les travaux consultés (DREES 2022, FIPECO) indiquent qu'un alignement sur les règles du privé n'aboutit pas mécaniquement à des pensions plus basses, l'intégration des primes pouvant compenser le passage aux 25 meilleures années.",
+      "cadre_juridique": "Code des pensions civiles et militaires de retraite (fonction publique d'État), régime CNRACL (territoriale et hospitalière) ; modification par la loi. La convergence est déjà engagée sur l'âge, la durée d'assurance, la décote/surcote et les taux de cotisation (Cour des comptes). Restent notamment le salaire de référence (6 derniers mois de traitement indiciaire contre 25 meilleures années) et l'exclusion des primes.",
+      "competence": "État (législateur) ; concertation avec les organisations syndicales de la fonction publique.",
+      "precedents": "France : réformes 2003, 2010, 2014 et 2023 ayant aligné plusieurs paramètres (Cour des comptes, FIPECO) ; projet de système universel de 2019-2020 abandonné. Étranger : non établi ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Préciser les règles alignées (salaire de référence, intégration des primes, catégories actives).",
+        "Prévoir une transition par génération et les droits acquis.",
+        "Adoption d'une loi et dialogue social avec la fonction publique."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "L'économie budgétaire n'est pas acquise : selon les travaux consultés, l'intégration des primes peut augmenter certaines pensions. Le terme « convergence » est large."
+    },
+    {
+      "texte": "Mettre fin aux régimes spéciaux de retraite.",
+      "cout": "non établi pour les régimes restants. Les économies d'une fermeture aux nouveaux entrants sont différées : les régimes fermés continuent de servir les droits acquis pendant des décennies (Cairn, Droit social).",
+      "cadre_juridique": "Fermeture aux nouveaux embauchés déjà réalisée par la loi n° 2023-270 du 14 avril 2023 (LFRSS 2023, art. 1er) pour la RATP, les IEG, les clercs et employés de notaires, la Banque de France et le CESE à compter du 1er septembre 2023 (« clause du grand-père ») ; SNCF fermée depuis le 1er janvier 2020. Une suppression pour les affiliés actuels poserait la question des droits acquis.",
+      "competence": "État (législateur, décrets d'application).",
+      "precedents": "France : fermetures de 2020 (SNCF) et de 2023 (cinq régimes). Régimes encore ouverts cités par les sources consultées : marins, Opéra national de Paris, Comédie-Française, Port autonome de Strasbourg, mines.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Préciser le périmètre restant visé (régimes encore ouverts, régime des fonctionnaires ou non) et le traitement des affiliés actuels.",
+        "Adoption d'une loi ; économie surtout à long terme si fermeture aux seuls nouveaux entrants."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Les principaux régimes spéciaux de salariés sont déjà en extinction depuis 2023 ; la publication ne précise pas lesquels restent visés."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Rapport sur les pensions de retraite de la fonction publique (budget.gouv.fr)",
+      "url": "https://www.budget.gouv.fr/documentation/file-download/34465",
+      "consulte_le": "2026-10-14"
+    },
+    {
+      "titre": "Assemblée nationale — rapport d'information n° 3066 sur le CAS Pensions",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/RINFANR5L17B3066.html",
+      "consulte_le": "2026-10-14"
+    },
+    {
+      "titre": "COR — Dossier en bref, séance du 18 décembre 2025 (réserves et capitalisation)",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-12/Dossier%20en%20bref_18.12.2025.pdf",
+      "consulte_le": "2026-10-14"
+    },
+    {
+      "titre": "COR — Document n° 6 du 18/12/2025 : de la répartition à la capitalisation",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-12/Doc_06_R%C3%A9partition%20%C3%A0%20Capitalisation.pdf",
+      "consulte_le": "2026-10-14"
+    },
+    {
+      "titre": "COR — Montée en charge de la capitalisation, expériences étrangères (12/11/2025)",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-11/COR_Transition%20capitalisation_12-11-2025.pdf",
+      "consulte_le": "2026-10-14"
+    },
+    {
+      "titre": "Vie publique — Loi de financement de la sécurité sociale 2026",
+      "url": "https://www.vie-publique.fr/loi/300445-loi-de-financement-de-la-securite-sociale-2026-retraites-lfss",
+      "consulte_le": "2026-10-14"
+    },
+    {
+      "titre": "Service-Public — Réforme des retraites : mesures applicables au 1er septembre 2023",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A16717",
+      "consulte_le": "2026-10-14"
+    },
+    {
+      "titre": "DREES — Retraite : règles de la fonction publique et du privé (2022)",
+      "url": "https://drees.solidarites-sante.gouv.fr/sites/default/files/2022-11/DD103.pdf",
+      "consulte_le": "2026-10-14"
+    },
+    {
+      "titre": "FIPECO — Les retraites des fonctionnaires",
+      "url": "https://www.fipeco.fr/fiche/Les-retraites-des-fonctionnaires",
+      "consulte_le": "2026-10-14"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-14T10:20:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-14 9:47, recherches web)",
+  "integration": {
+    "type": "x",
+    "id": "2110273278182936930"
+  },
+  "notes": "Chiffres de la publication : le rapport officiel consulté indique que 32 % des crédits de l'Éducation nationale (28,5 Md€) et 30 % de ceux de l'Intérieur sont versés au CAS Pensions ; le chiffre de 35 % pour la sécurité n'y a pas été retrouvé (l'Assemblée nationale indiquait 30 % pour la mission Sécurités en 2024). Ces taux reflètent une contribution employeur qui sert de variable d'équilibrage du régime (82,28 % en 2026 pour les civils). L'affirmation d'un « consensus » sur la capitalisation n'est pas vérifiée."
+}
