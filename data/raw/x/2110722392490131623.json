@@ -1,0 +1,20 @@
+{
+  "id": "2110722392490131623",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-15T13:20:08.000Z",
+  "url": "https://x.com/davidlisnard/status/2110722392490131623",
+  "texte": "Nous continuons de faire baisser la dette de la commune. Et plus vite que dans l’échéancier présenté l’année dernière. C’est la bonne nouvelle du jour. Elle ne tombe pas du ciel, mais bel et bien de la méthode déterminée que nous appliquons depuis 2014. Je viens en effet de https://t.co/OgoGNfNhjH",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 18,
+    "impression_count": 28737,
+    "like_count": 1656,
+    "quote_count": 22,
+    "reply_count": 34,
+    "retweet_count": 206
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

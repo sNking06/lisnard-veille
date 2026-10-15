@@ -1,0 +1,35 @@
+{
+  "id": "2110722392490131623",
+  "date": "2026-10-15T13:20:08.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2110722392490131623",
+  "statut": "ok",
+  "integration": {
+    "type": "x",
+    "id": "2110722392490131623"
+  },
+  "resume": "Publication accompagnée d'une image : en tant que maire de Cannes, l'auteur annonce que la dette de la commune continue de baisser, plus vite que l'échéancier présenté l'année précédente, et l'attribue à la méthode appliquée depuis 2014. Bilan de gestion municipale, aucune mesure de politique publique nouvelle.",
+  "base_du_resume": "texte de la publication (tronqué par un lien ; l'image jointe n'a pas été analysée)",
+  "citations": [
+    "Nous continuons de faire baisser la dette de la commune. Et plus vite que dans l’échéancier présenté l’année dernière."
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [
+    {
+      "titre": "Finances – Ville de Cannes (budget primitif 2026, dette communale)",
+      "url": "https://www.cannes.com/fr/mairie/finances.html",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Approbation du compte financier 2025 de la Ville de Cannes",
+      "url": "https://www.cannes.com/fr/index/actualites/annee-2026/juin/approbation-du-compte-financier-2025-de-la-ville-de-cannes.html",
+      "consulte_le": "2026-10-15"
+    }
+  ],
+  "notes": "Le montant de la nouvelle baisse annoncée n'apparaît pas dans le texte collecté (publication tronquée). Pour contexte, la Ville indique une baisse de 5 M€ en 2025 (1 M€ prévu) et 81,74 M€ depuis 2014 ; le budget 2026 prévoit -1 M€. Chiffres publiés par la commune, non vérifiés de façon indépendante.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-15T18:10:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-15 17:47, recherche web)"
+}

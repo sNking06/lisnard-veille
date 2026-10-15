@@ -1,0 +1,85 @@
+{
+  "id": "la-cyberpedocriminalite-etait-un-angle-mort-de-notre-droit-les-propositions-de-l",
+  "date": "2026-10-14T23:30:00.000Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/la-cyberpedocriminalite-etait-un-angle-mort-de-notre-droit-les-propositions-de-loi-de-la-deputee-alexandra-martin-integrees-au-texte-sur-les-violences-sexuelles/",
+  "statut": "ok",
+  "titre": "« La cyberpédocriminalité était un angle mort de notre droit », les propositions de loi de la députée Alexandra Martin intégrées au texte sur les violences sexuelles",
+  "integration": {
+    "type": "none",
+    "id": "la-cyberpedocriminalite-etait-un-angle-mort-de-notre-droit-les-propositions-de-l"
+  },
+  "resume": "Entretien avec la députée Alexandra Martin, reproduit sur le site Nouvelle Énergie, à propos de la proposition de loi « intégrale » contre les violences sexuelles et sexistes, adoptée en première lecture par l'Assemblée nationale et transmise au Sénat (examen prévu en janvier). Elle en présente trois volets : justice (pôles spécialisés, formation, actes d'enquête minimums), protection des mineurs (inceste comme infraction autonome étendue aux cousins germains, entretiens scolaires) et numérique (deepfakes sexuels, avatars, apologie), en indiquant que ce dernier reprend deux propositions de loi qu'elle avait déposées.",
+  "base_du_resume": "texte de l'entretien publié sur le site Nouvelle Énergie",
+  "citations": [
+    "C’était un angle mort de notre droit.",
+    "Ces mesures s’appuient sur deux propositions de loi que j’ai déposées."
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Créer des pôles ou juridictions spécialisés en violences sexuelles et intrafamiliales dans chaque tribunal, avec des magistrats formés, renforcer la formation de la chaîne policière et judiciaire et rendre obligatoires des actes d'enquête minimums.",
+      "cout": "non établi (effectifs de magistrats et de formation non chiffrés dans l'entretien).",
+      "cadre_juridique": "Proposition de loi ordinaire n° 3106 (art. 5 : juridictions et juges spécialisés) et proposition de loi organique sur l'autorité judiciaire, adoptées en première lecture par l'Assemblée nationale le 13 octobre 2026, procédure accélérée engagée.",
+      "competence": "État (Parlement, ministère de la Justice).",
+      "precedents": "France : pôles spécialisés en violences intrafamiliales déjà créés dans les juridictions (décret de 2023). Étranger : juridictions spécialisées en Espagne (loi intégrale de 2004), citée comme modèle dans les débats ; non vérifié ici en détail.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Adoption par le Sénat puis accord en commission mixte paritaire avant la suspension des travaux fin février.",
+        "Moyens humains suffisants en magistrats et enquêteurs formés."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "L'entretien parle d'« au moins deux magistrats formés » ; le rapport parlementaire évoque un juge et deux procureurs spécialisés par tribunal. Version finale dépendante de la navette."
+    },
+    {
+      "texte": "Faire de l'inceste une infraction autonome du code pénal, avec un périmètre étendu aux cousins germains, et instaurer quatre entretiens individuels en présentiel à l'école à des âges clés.",
+      "cout": "non établi.",
+      "cadre_juridique": "Art. 19 de la proposition de loi n° 3106 (création d'un paragraphe « De l'inceste » dans le code pénal), adopté en première lecture.",
+      "competence": "État (Parlement ; Éducation nationale pour les entretiens scolaires).",
+      "precedents": "France : la loi du 21 avril 2021 a déjà créé des infractions spécifiques de viol et d'agression sexuelle incestueux sur mineur ; non établi pour l'extension aux cousins germains.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Maintien des dispositions par le Sénat.",
+        "Personnels scolaires (infirmiers, psychologues) disponibles pour les entretiens."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Le chiffre de 10 % d'enfants victimes (dont 85 % dans la famille) est cité sans source dans l'entretien ; non vérifié ici."
+    },
+    {
+      "texte": "Volet numérique : sanctionner spécifiquement la création et la diffusion de contenus sexuels générés par IA (deepfakes), protéger les avatars, pénaliser l'apologie des crimes sexuels sur mineurs et rappeler que la remise d'une photo intime ne vaut pas accord pour sa diffusion.",
+      "cout": "non établi (faible a priori pour la création d'infractions ; dépend des moyens d'enquête en ligne).",
+      "cadre_juridique": "Dispositions intégrées à la proposition de loi n° 3106 (selon la députée, reprises de deux propositions de loi qu'elle avait déposées) ; s'articulent avec le droit pénal existant (art. 226-2-1 et 226-8 du code pénal) et le règlement européen sur les services numériques (DSA) pour les plateformes.",
+      "competence": "État (droit pénal) ; UE pour les obligations des plateformes.",
+      "precedents": "France : la loi SREN de 2024 a déjà pénalisé certains montages à caractère sexuel ; étranger : non établi ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Adoption définitive du texte.",
+        "Capacité d'identification des auteurs et de coopération des plateformes, souvent établies à l'étranger."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Rédaction exacte des articles concernés non consultée ; efficacité dépendante de l'application effective en ligne."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Dossier législatif – PPL apportant une réponse intégrale au phénomène des violences sexuelles et sexistes (Assemblée nationale)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N54776",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Scrutin n° 8705 du 13 octobre 2026 (Assemblée nationale)",
+      "url": "https://questions.assemblee-nationale.fr/dyn/17/scrutins/8705",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Loi intégrale contre les violences sexuelles : quelle suite après le vote à l'Assemblée ? (LCP)",
+      "url": "https://lcp.fr/actualites/loi-integrale-contre-les-violences-sexuelles-quelle-suite-apres-le-vote-a-l-assemblee",
+      "consulte_le": "2026-10-15"
+    }
+  ],
+  "notes": "Les propos sont ceux de la députée Alexandra Martin, pas de David Lisnard ; l'article est publié sur le site de son mouvement. Le texte a été adopté le 13 octobre 2026 par 503 voix pour, 0 contre et 67 abstentions ; il s'agit d'un texte transpartisan dont la paternité de chaque mesure n'a pas été vérifiée ici. Précédents (décret de 2023, loi de 2021, loi SREN) cités de mémoire, non revérifiés pour ce run.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-15T18:10:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-15 17:47, recherche web)"
+}
