@@ -1,0 +1,137 @@
+{
+  "id": "david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan",
+  "date": "2026-10-15T09:31:30.318Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan/",
+  "statut": "ok",
+  "titre": "David Lisnard : « Redresser la France ne se résume pas à un slogan »",
+  "integration": {
+    "type": "none",
+    "id": "david-lisnard-redresser-la-france-ne-se-resume-pas-a-un-slogan"
+  },
+  "resume": "Reprise d'un long entretien au JDNews. L'auteur met en avant son bilan à Cannes et détaille ses premières décisions : nommer un « DRH de l'État », resserrer le gouvernement (9 à 14 membres), simplifier le code du travail, une loi régalienne (mineurs, prisons), un référendum sur l'immigration, une baisse de la dépense publique au niveau des Pays-Bas en dix ans avec 60 % des économies rendus aux actifs, la convergence des retraites et la capitalisation, la suppression de la moitié des agences, le transfert du pouvoir réglementaire aux collectivités et une réforme de l'école (tronc commun, internats d'excellence et disciplinaires, fin de la sectorisation). Il aborde aussi la diplomatie et la visite du pape.",
+  "base_du_resume": "texte de l'entretien reproduit sur le site Nouvelle Énergie",
+  "citations": [
+    "Une réforme profonde de l’appareil public – mère de toutes les réformes – s’impose.",
+    "Mon objectif, sur dix ans, consiste à ramener notre dépense publique au niveau actuel des Pays-Bas."
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Ramener en dix ans le niveau de dépense publique de la France à celui des Pays-Bas (environ 45 % du PIB contre 57 %), en restituant immédiatement 60 % des économies aux actifs (baisse des cotisations et alignement de leur CSG sur celle des inactifs).",
+      "cout": "Écart vérifié : selon Eurostat (Insee, 2025), dépenses publiques de 57,2 % du PIB en France et 44,9 % aux Pays-Bas, soit environ 12 points. Le montant de 350 Md€ avancé n'a pas été recalculé ici. Coût de la restitution : non établi.",
+      "cadre_juridique": "Lois de finances et LFSS (art. 34 et 47 de la Constitution) ; loi de programmation des finances publiques ; cadre budgétaire européen (plan budgétaire et structurel à moyen terme).",
+      "competence": "État (Gouvernement, Parlement), sécurité sociale, collectivités.",
+      "precedents": "Même orientation déjà analysée (YouTube R0W-wEevJB4, TikTok 7696486194145660192). Une baisse d'environ 12 points de PIB en dix ans n'a pas de précédent établi en France dans les sources consultées ; précédents étrangers non établis ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Liste chiffrée des économies par administration (État, sécurité sociale, collectivités).",
+        "Majorité parlementaire durable sur dix ans.",
+        "Évaluer les effets sur la croissance et les services publics.",
+        "Comparabilité des périmètres (protection sociale publique ou privée selon les pays)."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Les ratios de dépense publique dépendent de l'organisation de la protection sociale (par exemple, part de l'assurance santé ou des retraites hors administrations publiques aux Pays-Bas) ; la comparaison directe a des limites."
+    },
+    {
+      "texte": "Resserrer le gouvernement à neuf à quatorze membres.",
+      "cout": "non établi (économie budgétaire probablement marginale).",
+      "cadre_juridique": "Article 8 de la Constitution : le Président nomme le Premier ministre et, sur sa proposition, les autres membres du Gouvernement ; aucun texte ne fixe un nombre minimal ou maximal de ministres.",
+      "competence": "Président de la République et Premier ministre.",
+      "precedents": "Gouvernements resserrés déjà annoncés en France sous la Ve République ; liste précise non établie ici.",
+      "verdict": "faisable",
+      "conditions": [],
+      "fiabilite": "haute",
+      "doutes": "La faisabilité juridique est simple ; l'organisation des ministères (secrétariats d'État, délégations) n'est pas précisée."
+    },
+    {
+      "texte": "Supprimer la moitié des agences et organismes publics et instaurer un moratoire réglementaire contre la bureaucratie.",
+      "cout": "non établi pour la mesure. Repère : la commission d'enquête du Sénat (2025) estime qu'une baisse de 20 % des coûts de fonctionnement support des agences rapporterait environ 540 M€ et que les fusions récentes n'ont pas réduit notablement emplois et crédits.",
+      "cadre_juridique": "Les organismes créés par la loi ne peuvent être supprimés que par la loi ; ceux créés par décret, par décret. Les catégories d'établissements publics relèvent de la loi (art. 34). Un moratoire réglementaire relève du Gouvernement (pouvoir réglementaire, art. 21) mais ne peut écarter les textes d'application exigés par la loi ou le droit de l'UE.",
+      "competence": "État (Parlement et Gouvernement).",
+      "precedents": "France : recensement du Sénat (2025) de 103 agences, 434 opérateurs et 317 instances consultatives ; la commission préconise fusions, réintégrations et mutualisations plutôt qu'une suppression massive. Moratoires ou règles « une norme créée, une supprimée » : précédents non détaillés ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Lister les organismes visés et réaffecter leurs missions.",
+        "Lois de suppression pour les organismes de rang législatif.",
+        "Respect des obligations européennes pour le moratoire.",
+        "Économies réelles à documenter (bilans mitigés des fusions passées)."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "« La moitié » ne précise pas le périmètre retenu (agences au sens strict, opérateurs ou instances consultatives)."
+    },
+    {
+      "texte": "Réorganiser l'État en transférant le pouvoir réglementaire aux collectivités et en supprimant un échelon d'administration.",
+      "cout": "non établi.",
+      "cadre_juridique": "Le pouvoir réglementaire général appartient au Premier ministre (art. 21) ; les collectivités disposent d'un pouvoir réglementaire limité à l'exercice de leurs compétences (art. 72), avec expérimentation possible. Un transfert général supposerait une révision constitutionnelle (art. 89). Les communes, départements et régions sont nommés à l'article 72 : supprimer l'un d'eux exige aussi une révision ; supprimer ou fusionner d'autres structures (intercommunalités, services déconcentrés) relève de la loi.",
+      "competence": "État (constituant ou législateur selon l'échelon).",
+      "precedents": "France : décentralisation (1982, 2003), fusion des régions (2015), loi 3DS (2022) élargissant le pouvoir réglementaire local. Suppression d'un échelon constitutionnel : aucun précédent sous la Ve République dans les sources consultées.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Préciser l'échelon supprimé et le contenu du pouvoir réglementaire transféré.",
+        "Révision constitutionnelle (vote des deux assemblées en termes identiques puis référendum ou Congrès aux 3/5) si un échelon de l'article 72 ou le pouvoir réglementaire général sont visés.",
+        "Compensation financière des compétences transférées (art. 72-2)."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Mesure énoncée sans détail : la faisabilité varie fortement selon l'échelon visé."
+    },
+    {
+      "texte": "Placer les élèves qui perturbent les classes dans des établissements disciplinaires avec internat et travaux d'intérêt général, et créer un réseau d'internats d'excellence à l'échelle des anciens cantons.",
+      "cout": "Non établi : aucun chiffrage dans la publication ; les rapports consultés n'en donnent pas dans les extraits lus.",
+      "cadre_juridique": "Dispositifs relais (classes, ateliers, internats tremplins) accueillant temporairement des collégiens en rejet de l'école, décrits par éduscol ; les élèves restent le plus souvent inscrits dans leur établissement d'origine, avec convention. Les établissements de réinsertion scolaire (ERS) ont été créés par la circulaire n° 2010-090 du 29 juin 2010 (IGEN/IGAENR 2012). L'article 34 de la Constitution renvoie à la loi les principes fondamentaux de l'enseignement ; l'instruction obligatoire jusqu'à 16 ans est rappelée par la mission d'inspection comme une obligation du système public.",
+      "competence": "État (Éducation nationale) ; départements pour les collèges (construction, fonctionnement) – la mission d'inspection relève que la mise en place des ERS a parfois été faite sans le concours des collectivités.",
+      "precedents": "France : ERS créés à la rentrée 2010 (16 établissements dans 13 académies) ; le rapport d'inspection de juin 2012 les juge issus d'une mise en place « précipitée » et aux résultats « souvent décevants », sans conclure à un échec complet, et propose une formule de « dispositif de réinsertion scolaire » ; dispositifs relais existant depuis 1998. Étranger : le rapport comportait une étude comparative ; contenu non consulté, donc non établi. Même proposition déjà analysée (site « remettre de l'ordre », YouTube MVsDbjfHpPQ) ; le volet internats d'excellence n'a pas été chiffré.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Définition des critères d'admission et des garanties de scolarisation (obligation jusqu'à 16 ans).",
+        "Association des collectivités (départements) et projet pédagogique global, recommandés par la mission d'inspection de 2012.",
+        "Évaluation des résultats : bilan antérieur mitigé.",
+        "Financement et personnels spécialisés : non établis."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Rapport 2012 lu via extraits ; données chiffrées de sortie des élèves non reprises faute de lecture intégrale."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Dépenses des administrations publiques dans l'Union européenne (Insee, d'après Eurostat)",
+      "url": "https://www.insee.fr/fr/statistiques/2381406",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Les finances publiques des pays de la zone euro de 2019 à 2025 (FIPECO)",
+      "url": "https://www.fipeco.fr/pdf/FIPUzone%20euro2025.pdf",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Commission d'enquête du Sénat sur les agences, opérateurs et organismes consultatifs de l'État – synthèse (juil. 2025)",
+      "url": "https://www.senat.fr/rap/r24-807-1/r24-807-1-syn.pdf",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Agences de l'État : les conclusions de la commission d'enquête (Sénat)",
+      "url": "https://www.senat.fr/actualite/agences-de-letat-les-conclusions-de-la-commission-denquete-5497.html",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Les établissements de rétablissement scolaire – bilan et perspectives (rapport 2012, vie-publique.fr)",
+      "url": "https://www.vie-publique.fr/rapport/36282-les-etablissements-de-retablissement-scolaire-bilan-et-perspectives",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Les dispositifs relais (éduscol)",
+      "url": "https://eduscol.education.gouv.fr/5298/les-dispositifs-relais",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte en vigueur) – Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-15"
+    }
+  ],
+  "notes": "Mesures déjà analysées ailleurs et non reprises : convergence des retraites et capitalisation (X 2110273278182936930), places de prison et droit pénal des mineurs (carte site Le Crayon), choix de l'établissement (YouTube XUUzaVk2ntc). Affirmations non vérifiées ici : bilan chiffré de Cannes (85 M€ de dette en moins, fiscalité -3,6 %, 20 % d'agents en moins), « 800 000 fonctionnaires de plus » que les pays scandinaves, délais d'accès aux médicaments innovants (700 jours contre 120), code du travail de 4 000 pages contre 70 en Suisse. Les positions de politique étrangère sont des orientations générales.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-15T14:20:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-15 13:47, recherche web)"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "2110685051273064894",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-15T10:51:45.000Z",
+  "url": "https://x.com/davidlisnard/status/2110685051273064894",
+  "texte": "Richard Ferand a donc décidé d’intervenir dans le débat présidentiel et de délivrer par lui-même un point de doctrine constitutionnelle. https://t.co/jDufAmm6Nm",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 8,
+    "impression_count": 8005,
+    "like_count": 429,
+    "quote_count": 6,
+    "reply_count": 24,
+    "retweet_count": 119
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

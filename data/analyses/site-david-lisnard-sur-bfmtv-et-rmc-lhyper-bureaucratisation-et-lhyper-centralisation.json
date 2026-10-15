@@ -1,0 +1,149 @@
+{
+  "id": "david-lisnard-sur-bfmtv-et-rmc-lhyper-bureaucratisation-et-lhyper-centralisation",
+  "date": "2026-10-13T22:00:00.000Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/david-lisnard-sur-bfmtv-et-rmc-lhyper-bureaucratisation-et-lhyper-centralisation-sont-en-train-de-flinguer-nos-enfants/",
+  "statut": "ok",
+  "titre": "David Lisnard sur BFMTV et RMC : « L’hyper-bureaucratisation et l’hyper-centralisation sont en train de flinguer nos enfants »",
+  "integration": {
+    "type": "none",
+    "id": "david-lisnard-sur-bfmtv-et-rmc-lhyper-bureaucratisation-et-lhyper-centralisation"
+  },
+  "resume": "Compte rendu d'un entretien sur BFMTV et RMC après la mobilisation lycéenne. L'auteur y défend une réforme de l'école (examens revalorisés, remplacement de Parcoursup par une politique d'orientation, philosophie dès le plus jeune âge, matinées consacrées aux fondamentaux, autonomie des chefs d'établissement, fin de la sectorisation), la réparation des dégradations par leurs auteurs ou leurs parents, une baisse des dépenses publiques dont 60 % rendus en pouvoir d'achat, et une primaire ouverte à droite et au centre.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie (synthèse de l'entretien)",
+  "citations": [
+    "Notre système éducatif est à bout de souffle",
+    "Au nom de l’égalité, on a fait de l’injustice"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Réorganiser le temps scolaire : matinées consacrées aux apprentissages fondamentaux, après-midi à l'éducation artistique et culturelle et aux compétences complémentaires.",
+      "cout": "non établi (encadrement des après-midi, personnels, transports et activités non chiffrés).",
+      "cadre_juridique": "Premier degré : art. D. 521-10 et suivants du code de l'éducation (24 heures hebdomadaires, plafonds de 5 h 30 par jour et 3 h 30 par demi-journée, organisation arrêtée par le DASEN après avis de la commune). Second degré : horaires et programmes fixés par arrêtés ministériels. Une modification relève pour l'essentiel du pouvoir réglementaire.",
+      "competence": "État (Éducation nationale) ; communes pour le périscolaire et les transports du premier degré.",
+      "precedents": "France : réforme des rythmes scolaires de 2013 (décret n° 2013-77), dont les rapports d'évaluation jugent l'effet sur les résultats difficile à mesurer ; Cannes revendique une éducation artistique et culturelle à 100 % sur le temps scolaire (affirmation de l'auteur, non vérifiée ici). Étranger : non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Modifier les décrets et arrêtés horaires.",
+        "Moyens humains pour les activités de l'après-midi.",
+        "Concertation avec les communes (premier degré) et les familles."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Répartition horaire exacte et niveaux concernés non précisés."
+    },
+    {
+      "texte": "Donner une véritable autonomie aux chefs d'établissement : recrutement des enseignants, gestion des carrières et organisation pédagogique.",
+      "cout": "non établi",
+      "cadre_juridique": "Les garanties fondamentales des fonctionnaires civils et les principes de l'enseignement relèvent de la loi (art. 34). Le recrutement et la rémunération des enseignants du public sont aujourd'hui nationaux ; une modification majeure suppose loi et décrets. Education.gouv.fr rappelle que l'État conserve la gestion des personnels enseignants.",
+      "competence": "État (statut, recrutement, rémunérations) ; collectivités : bâtiments et certains personnels techniques.",
+      "precedents": "Réseaux hors contrat / sous contrat à forte discipline (ex. Espérance Banlieues, cité à l'antenne) : résultats scolaires revendiqués par le réseau ; modèle non généralisable tel quel au public sans réforme statutaire. Autres précédents d'autonomie de recrutement : non établi. Même proposition déjà analysée (YouTube XUUzaVk2ntc, site CNews).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Réforme législative et statutaire ; négociation avec les organisations représentatives.",
+        "Périmètre (titulaires / contractuels / postes) à définir.",
+        "Financement des revalorisations : non établi."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Proposition large formulée oralement ; pas de texte de programme détaillé dans la matière collectée."
+    },
+    {
+      "texte": "Mettre fin à la sectorisation scolaire pour que les parents choisissent l'établissement de leurs enfants, le financement public suivant ce choix.",
+      "cout": "non établi",
+      "cadre_juridique": "La sectorisation des écoles relève du conseil municipal (compétences communales L. 212-1 et s. du code de l'éducation, rappelées par education.gouv.fr) ; pour les collèges, le conseil départemental fixe les secteurs ; les districts de lycée sont définis conjointement avec l'autorité académique. Le Conseil d'État (28 mai 1986) a jugé qu'aucun principe général ne reconnaît aux parents un droit de choisir librement l'école publique. Une suppression généralisée suppose une loi (art. 34 : principes fondamentaux de l'enseignement) et le respect de la libre administration / compensation des charges (art. 72 et 72-2).",
+      "competence": "Partagée : communes (écoles), départements (collèges), État/académies (affectations, lycées), régions (bâtiments lycées).",
+      "precedents": "France : assouplissement de la carte scolaire à partir de 2007. La revue Éducation & formations (ministère, 2018) constate peu d'impact national sur effectifs et composition sociale, mais une érosion d'effectifs dans certains collèges d'éducation prioritaire et une hausse de la part de familles très favorisées dans le privé ; certaines études concluent à un renforcement de la ségrégation. Étranger : non établi en détail. Même proposition déjà analysée (YouTube XUUzaVk2ntc, site CNews).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Règles d'affectation si demandes > places (non précisées).",
+        "Dispositif contre les effets documentés de l'assouplissement 2007 sur la mixité (éducation prioritaire).",
+        "Capacités d'accueil, transports, financement (non établis).",
+        "Coordination État / collectivités."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Les sources portent surtout sur l'assouplissement de 2007, pas sur une suppression totale. « Financement qui suit le choix des parents » n'est pas détaillé (voucher, forfait, etc.)."
+    },
+    {
+      "texte": "Faire réparer les dégradations commises lors des manifestations par leurs auteurs, notamment par des travaux d'intérêt général ; faire payer les parents lorsque les mineurs ne peuvent pas être tenus personnellement responsables.",
+      "cout": "non établi (encadrement par les services municipaux)",
+      "cadre_juridique": "Art. 44-1 du code de procédure pénale : pour certaines contraventions commises au préjudice de la commune, le maire peut proposer, avant toute poursuite, une transaction de réparation ou un travail non rémunéré (30 h max), homologuée par le procureur ou le juge du tribunal de police ; applicable aux mineurs, dans le respect du droit du travail des mineurs d'au moins 16 ans (art. R. 422-14 CJPM). Le travail d'intérêt général pénal est prononcé par une juridiction.",
+      "competence": "Communes (transaction du maire, encadrement) sous contrôle de l'autorité judiciaire ; État pour le TIG pénal.",
+      "precedents": "France : dispositif de transaction municipale existant (art. 44-1 CPP) ; pratique cannoise citée par l'auteur, non vérifiée de façon indépendante. Étranger : non établi. Même proposition déjà analysée (TikTok 7696175818711518496, YouTube Dpe_J7T0ztw).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Limité aux contraventions au préjudice de la commune et avant mise en mouvement de l'action publique.",
+        "Accord du contrevenant (et représentants légaux) et homologation judiciaire.",
+        "Âge minimal et règles du droit du travail des mineurs ; l'exposition « devant leurs copains » n'est pas prévue par les textes et pose la question de la protection des mineurs."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Pas de détail sur la base juridique utilisée à Cannes ni sur le volume de cas."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Organisation du temps scolaire dans le premier degré (éduscol)",
+      "url": "https://eduscol.education.gouv.fr/5073/organisation-du-temps-scolaire-dans-le-premier-degre",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Décret n° 2013-77 du 24 janvier 2013 relatif à l'organisation du temps scolaire (Légifrance)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000026979035",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "L'efficacité pédagogique de la réforme des rythmes scolaires (rapport, vie-publique.fr)",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/164000652.pdf",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Le rôle des collectivités territoriales dans le service public de l'éducation (education.gouv.fr)",
+      "url": "https://www.education.gouv.fr/le-role-des-collectivites-territoriales-dans-le-service-public-de-l-education-et-le-partenariat-avec-8138",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Les effets de l'assouplissement de la carte scolaire (Éducation & formations)",
+      "url": "https://www.education.gouv.fr/les-effets-de-l-assouplissement-de-la-carte-scolaire-11579",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Décision n° 2025-886 DC du 19 juin 2025 (Conseil constitutionnel)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025886DC.htm",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Communiqué de presse — décision n° 2025-886 DC (Conseil constitutionnel)",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2025-886-dc-du-19-juin-2025-communique-de-presse",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Article 44-1 du code de procédure pénale (Juriblio)",
+      "url": "https://juriblio.fr/codes/code-de-procedure-penale/partie-legislative/livre-ier/titre-ier/chapitre-ii/section-3/article-44-1",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Un maire peut-il prescrire une mesure de réparation ? (AMF, Maires de France)",
+      "url": "https://www.mairesdefrance.com/l'amf-vous-repond-article-721-0",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Article R. 422-14 du code de la justice pénale des mineurs (LibreJustice)",
+      "url": "https://librejustice.fr/norm/fr/code-de-la-justice-penale-des-mineurs/r422-14",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Lycées dégradés : quand les parents doivent-ils payer ? (Club des Juristes)",
+      "url": "https://www.leclubdesjuristes.com/justice/lycees-degrades-quand-les-parents-doivent-ils-payer-pour-leur-enfant-17693/",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte en vigueur) – Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-15"
+    }
+  ],
+  "notes": "Le remplacement de Parcoursup et la restitution de 60 % des économies ont déjà été analysés (YouTube Dpe_J7T0ztw, TikTok 7696486194145660192) et ne sont pas repris ici. La primaire ouverte relève de l'organisation des partis, pas d'une politique publique. Le chiffre de « plus de 25 » interpellations à Cannes n'a pas été vérifié.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-15T14:20:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-15 13:47, recherche web)"
+}

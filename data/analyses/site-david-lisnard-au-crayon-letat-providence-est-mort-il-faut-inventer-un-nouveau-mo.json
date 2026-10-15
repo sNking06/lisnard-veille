@@ -1,0 +1,163 @@
+{
+  "id": "david-lisnard-au-crayon-letat-providence-est-mort-il-faut-inventer-un-nouveau-mo",
+  "date": "2026-10-15T09:15:41.604Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/david-lisnard-au-crayon-letat-providence-est-mort-il-faut-inventer-un-nouveau-modele/",
+  "statut": "ok",
+  "titre": "David Lisnard au Crayon : « L'État-providence est mort, il faut inventer un nouveau modèle »",
+  "integration": {
+    "type": "none",
+    "id": "david-lisnard-au-crayon-letat-providence-est-mort-il-faut-inventer-un-nouveau-mo"
+  },
+  "resume": "Compte rendu d'un entretien au média Le Crayon. L'auteur y présente les grandes lignes de son projet : 80 milliards d'euros d'économies la première année, puis 200 milliards (dont 120 rendus par une baisse des cotisations), une allocation sociale unique garantissant 500 € d'écart entre travail et inactivité, un étage obligatoire de retraite par capitalisation, la suppression de la carte scolaire, la philosophie dès le primaire, une réécriture du droit pénal des mineurs, 20 000 places de prison, une réduction des flux migratoires par la voie référendaire et une stratégie énergétique fondée sur le nucléaire et l'hydroélectricité.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie (synthèse de l'entretien, pas la vidéo intégrale)",
+  "citations": [
+    "Les premiers gagnants vont être les gens qui bossent, les gens qui veulent s'en sortir.",
+    "Je ne cherche pas à séduire, je cherche à convaincre."
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Réduire la dépense publique de 80 milliards d'euros la première année, puis de 200 milliards en rythme de croisière (300 milliards à terme), dont 120 milliards rendus aux actifs par une baisse des cotisations.",
+      "cout": "non établi : la liste des économies n'est pas fournie dans l'article. 120 Md€ sur 200 Md€ correspondent à la part de 60 % déjà annoncée dans d'autres publications.",
+      "cadre_juridique": "Lois de finances et lois de financement de la sécurité sociale (art. 34 et 47 de la Constitution, LOLF) ; une baisse de cotisations sociales passe par la LFSS et suppose de compenser les recettes des régimes concernés.",
+      "competence": "État (Gouvernement et Parlement) ; partenaires sociaux pour les régimes paritaires ; collectivités pour leur part de dépense.",
+      "precedents": "Même orientation déjà analysée (YouTube R0W-wEevJB4, TikTok 7696486194145660192). Montants 80 / 200 / 300 Md€ : non retrouvés dans une source officielle indépendante consultée ce jour.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Publier la liste chiffrée des économies et leur calendrier.",
+        "Compenser la baisse de cotisations pour les régimes sociaux.",
+        "Majorité parlementaire et compatibilité avec la trajectoire européenne de déficit et de dette.",
+        "Évaluer les effets sur les services publics et la conjoncture."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Ordres de grandeur annoncés sans détail opérationnel dans l'article."
+    },
+    {
+      "texte": "Créer une allocation sociale unique garantissant un écart de revenu d'au moins 500 euros entre une personne qui travaille et une personne qui ne travaille pas.",
+      "cout": "non établi : barème, prestations fusionnées et public non précisés. À titre de repère, France Stratégie a chiffré un scénario d'allocation unique de 731 €/mois (fusion RSA, aides au logement, prime d'activité) à dépenses constantes, avec « d'assez nombreux perdants ».",
+      "cadre_juridique": "Prestations définies par la loi (code de l'action sociale et des familles, code de la sécurité sociale, code de la construction et de l'habitation) ; financement par lois de finances et LFSS (art. 34 et 47). Le RSA est versé par les départements : une fusion touche leur compétence et le financement des charges transférées (art. 72-2).",
+      "competence": "État (législateur, CAF/MSA) ; départements (RSA).",
+      "precedents": "France : rapport Sirugue (2016, « couverture socle commune »), projet de revenu universel d'activité (2018-2020, non abouti), réforme dite « allocation sociale unique » examinée par une mission flash de l'Assemblée nationale, qui relève qu'elle se limite à harmoniser les bases de ressources (RSA, prime d'activité, APL). Étranger : Universal Credit britannique, dont la mise en œuvre a été difficile selon le rapport Sirugue.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Préciser les prestations fusionnées et le barème.",
+        "Chiffrer le coût de la garantie de 500 € d'écart et identifier les perdants.",
+        "Loi et articulation avec les départements (RSA).",
+        "Systèmes d'information capables de calculer la prestation."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "La formulation de l'article ne précise ni le périmètre ni le mode de calcul de l'écart de 500 €."
+    },
+    {
+      "texte": "Instaurer un étage obligatoire de capitalisation dans le système de retraite, notamment pour permettre aux travailleurs modestes de se constituer un patrimoine.",
+      "cout": "Non établi pour la France (aucun chiffrage de taux ou de transition dans la vidéo). Le Conseil d'orientation des retraites (séance du 18 déc. 2025) identifie la « double contribution » des actifs comme obstacle majeur et décrit trois voies : double cotisation, mise à contribution des retraités actuels, ou prise en charge par l'État.",
+      "cadre_juridique": "Création d'un régime obligatoire : loi (art. 34 de la Constitution ; lois de financement de la sécurité sociale). Régimes obligatoires par capitalisation collective déjà existants : RAFP et CAVP (selon le COR).",
+      "competence": "État (Parlement, LFSS) ; partenaires sociaux pour les régimes complémentaires.",
+      "precedents": "COR (note du 12 nov. 2025) : expériences étrangères (Chili, Mexique, etc.) avec modalités variables. France : études Fondapol sur un système mixte. Même proposition déjà analysée dans la carte site Assises AFER. Même proposition déjà analysée (site Assises AFER, YouTube R0W-wEevJB4).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Financement de la transition (double cotisation, sous-indexation ou prise en charge budgétaire).",
+        "Assainissement des comptes publics concomitant.",
+        "Montée en charge longue (bénéfices à long terme).",
+        "Vote d'une loi et contrôle constitutionnel de l'obligation d'affiliation."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "« Je vais exposer comment » : détail absent de la vidéo. Transcription automatique (noms et montants parfois déformés)."
+    },
+    {
+      "texte": "Supprimer la carte scolaire, donner davantage d'autonomie aux établissements et faire suivre le financement public le choix des familles.",
+      "cout": "non établi",
+      "cadre_juridique": "La sectorisation des écoles relève du conseil municipal (compétences communales L. 212-1 et s. du code de l'éducation, rappelées par education.gouv.fr) ; pour les collèges, le conseil départemental fixe les secteurs ; les districts de lycée sont définis conjointement avec l'autorité académique. Le Conseil d'État (28 mai 1986) a jugé qu'aucun principe général ne reconnaît aux parents un droit de choisir librement l'école publique. Une suppression généralisée suppose une loi (art. 34 : principes fondamentaux de l'enseignement) et le respect de la libre administration / compensation des charges (art. 72 et 72-2).",
+      "competence": "Partagée : communes (écoles), départements (collèges), État/académies (affectations, lycées), régions (bâtiments lycées).",
+      "precedents": "France : assouplissement de la carte scolaire à partir de 2007. La revue Éducation & formations (ministère, 2018) constate peu d'impact national sur effectifs et composition sociale, mais une érosion d'effectifs dans certains collèges d'éducation prioritaire et une hausse de la part de familles très favorisées dans le privé ; certaines études concluent à un renforcement de la ségrégation. Étranger : non établi en détail. Même proposition déjà analysée (YouTube XUUzaVk2ntc, site CNews).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Règles d'affectation si demandes > places (non précisées).",
+        "Dispositif contre les effets documentés de l'assouplissement 2007 sur la mixité (éducation prioritaire).",
+        "Capacités d'accueil, transports, financement (non établis).",
+        "Coordination État / collectivités."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Les sources portent surtout sur l'assouplissement de 2007, pas sur une suppression totale. « Financement qui suit le choix des parents » n'est pas détaillé (voucher, forfait, etc.)."
+    },
+    {
+      "texte": "Lancer un programme de construction de 20 000 places de prison (avec une réécriture du droit pénal des mineurs).",
+      "cout": "non établi : aucun chiffrage dans l'article ; le coût unitaire d'une place n'a pas été retrouvé dans les extraits consultés.",
+      "cadre_juridique": "Programme immobilier de l'État (lois de finances, éventuellement loi de programmation justice) ; procédures d'urbanisme et environnementales. La Cour des comptes juge nécessaire d'adapter le cadre législatif de construction des prisons pour réduire les délais. Le droit pénal des mineurs relève de la loi et des exigences constitutionnelles sur la justice des mineurs.",
+      "competence": "État (ministère de la Justice) ; collectivités pour le foncier et l'urbanisme.",
+      "precedents": "France : plan « 15 000 places » lancé en 2018 ; au 20 août 2026, 5 531 places nettes livrées (7 504 brutes) et densité carcérale de 141,9 % (89 818 détenus pour 63 289 places), selon le ministère. La Cour des comptes (déc. 2025) parle d'une « concrétisation laborieuse » (foncier, contentieux, procédures). Places modulaires (3 000 annoncées en 2025) en cours.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Foncier disponible et procédures accélérées (adaptation législative recommandée par la Cour des comptes).",
+        "Financement pluriannuel (non chiffré).",
+        "Recrutement de personnels pénitentiaires.",
+        "Calendrier réaliste : le précédent plan a livré environ un tiers de son objectif en sept ans."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Calendrier et coût non précisés ; volet « droit pénal des mineurs » non détaillé dans l'article."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Comment mieux protéger les actifs du risque de perte ou d'insuffisance de revenus ? (France Stratégie / Haut-commissariat à la stratégie et au plan)",
+      "url": "https://www.strategie-plan.gouv.fr/comment-mieux-proteger-les-actifs-du-risque-de-perte-ou-dinsuffisance-de-revenus",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Mission flash sur l'allocation sociale unique (Assemblée nationale)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/documents/mf%20alloc/l17n781706050_document.pdf",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Repenser les minima sociaux, rapport Sirugue (vie-publique.fr)",
+      "url": "https://www.vie-publique.fr/files/rapport/pdf/164000239.pdf",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "COR – Note de présentation générale, séance plénière du 18 décembre 2025",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-12/Doc_01_Note%20de%20pr%C3%A9sentation%20g%C3%A9n%C3%A9rale.pdf",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "COR – Montée en charge de la capitalisation (12 nov. 2025)",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-11/COR_Transition%20capitalisation_12-11-2025.pdf",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Le rôle des collectivités territoriales dans le service public de l'éducation (education.gouv.fr)",
+      "url": "https://www.education.gouv.fr/le-role-des-collectivites-territoriales-dans-le-service-public-de-l-education-et-le-partenariat-avec-8138",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Les effets de l'assouplissement de la carte scolaire (Éducation & formations)",
+      "url": "https://www.education.gouv.fr/les-effets-de-l-assouplissement-de-la-carte-scolaire-11579",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Question écrite n° 16946 « Plan prison : où en sommes-nous ? », réponse du ministère de la Justice (Assemblée nationale)",
+      "url": "https://questions.assemblee-nationale.fr/q17/17-16946QE.htm",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Audit flash « Le plan 15 000 places de prison » (Cour des comptes, déc. 2025)",
+      "url": "https://www.ccomptes.fr/sites/default/files/2025-12/20251217-Plan-15000-places-de-prison.pdf",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Le plan 15 000 places de prison (ministère de la Justice)",
+      "url": "https://www.justice.gouv.fr/plan-15-000-places-prison",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte en vigueur) – Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-15"
+    }
+  ],
+  "notes": "Les mesures sur l'immigration (« reprise du contrôle » par référendum), l'énergie, l'école (philosophie dès le primaire) et la méthode (ordonnances, référendums) restent trop générales dans l'article pour être analysées. Chiffre d'appel « 5 000 euros de dette par seconde » non vérifié ici.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-15T14:20:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-15 13:47, recherche web)"
+}

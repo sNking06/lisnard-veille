@@ -1,0 +1,41 @@
+{
+  "id": "7696835961484954913",
+  "date": "2026-10-15T10:14:36+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7696835961484954913",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7696835961484954913"
+  },
+  "resume": "Vidéo courte (~63 s) : l'auteur conteste la déclaration de Richard Ferrand selon laquelle la Constitution ne peut pas être révisée par un référendum au titre de l'article 11, et le fait que le Conseil constitutionnel se soit reconnu compétent pour juger les décrets de convocation. Il y voit deux problèmes, une « autosaisie » en pleine campagne et une question de fond « à travailler avec les juristes ». Il répond à Marine Le Pen, qui demande la démission de Richard Ferrand, qu'il devrait plutôt quitter la présidence du Conseil, et rappelle que sa nomination a été rendue possible par le Rassemblement national. Aucune mesure concrète.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) — transcription approximative",
+  "citations": [
+    "quelle est cette autosaisie en pleine campagne électorale",
+    "il devrait quitter la présidence du conseil constitutionnel"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [
+    {
+      "titre": "Référendum : le président du Conseil constitutionnel s'oppose aux projets de Le Pen (AFP via France 24, 13 oct. 2026)",
+      "url": "https://www.france24.com/fr/info-en-continu/20261013-r%C3%A9f%C3%A9rendum-le-pr%C3%A9sident-du-conseil-constitutionnel-s-oppose-aux-projets-de-le-pen-col%C3%A8re-au-rn",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Présidentielle 2027 : Richard Ferrand balaie la promesse d'une révision de la Constitution par référendum (franceinfo)",
+      "url": "https://www.franceinfo.fr/politique/front-national/presidentielle-2027-richard-ferrand-balaie-la-promesse-de-marine-le-pen-d-une-revision-de-la-constitution-par-referendum_8235298.html",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte en vigueur) – Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-15"
+    }
+  ],
+  "notes": "Contexte vérifié dans les sources consultées : la révision de la Constitution est régie par l'article 89 ; le Conseil constitutionnel s'est reconnu compétent en 2000 pour contrôler les décrets de convocation d'un référendum (franceinfo). La nomination de Richard Ferrand en février 2025 a été validée grâce à l'abstention des parlementaires RN (presse). Aucune proposition détaillée sur le « problème de fond ». Transcription automatique non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-15T14:20:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-15 13:47, recherche web)"
+}
