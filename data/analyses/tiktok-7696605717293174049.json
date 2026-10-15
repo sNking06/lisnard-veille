@@ -1,0 +1,25 @@
+{
+  "id": "7696605717293174049",
+  "date": "2026-10-14T19:21:06+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7696605717293174049",
+  "statut": "ok",
+  "resume": "Vidéo (~88 s) de réaction à des propos attribués à Mathilde Panot sur le ruban rose (Octobre rose) : l'auteur critique une lecture qu'il juge complotiste et antisémite liant la mobilisation contre le cancer du sein à des intérêts industriels et à Israël, évoque la course Audacia organisée à Cannes, et appelle à porter le ruban, soutenir la recherche et les malades. Aucune mesure de politique publique concrète.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) — transcription approximative",
+  "citations": [
+    "portons ce ruban et au-delà de porter le ruban soutenons la recherche",
+    "ne laissons rien passer contre le cancer"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-15T09:56:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-15 9:47, recherche web)",
+  "integration": {
+    "type": "tiktok",
+    "id": "7696605717293174049"
+  },
+  "notes": "Polémique et appel à soutenir la recherche : pas de proposition législative ni budgétaire identifiable. Propos attribués à Mathilde Panot non vérifiés indépendamment ici. Transcription automatique non commitée."
+}

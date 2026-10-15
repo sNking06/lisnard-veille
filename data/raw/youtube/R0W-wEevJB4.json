@@ -7,7 +7,14 @@
     "type": "youtube",
     "video_id": "R0W-wEevJB4"
   },
-  "statut": "degraded",
-  "date": null,
-  "erreur": "[Errno 2] No such file or directory: '/tmp/tmp9ilelsm8/R0W-wEevJB4.info.json'"
+  "statut": "ok",
+  "date": "2026-09-30T14:56:29+00:00",
+  "titre": "David Lisnard : intervention aux assises de l'AFER",
+  "description": "Épargne salariale, retraites, assurance vie... Revisionner mon intervention lors de la 10e édition des assises de l'AFER à Paris ce mardi 29 septembre 2026. \n\nSuivez moi sur mes réseaux : \n\nInstagram : https://www.instagram.com/davidlisnard/\nX : https://x.com/davidlisnard\nFacebook : https://www.facebook.com/lisnard.david\nTik Tok : https://www.tiktok.com/@david.lisnard\nLinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/\n\nAdhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion",
+  "duree_s": 889,
+  "vues": 54329,
+  "transcription": {
+    "fichier": "data/transcripts/youtube-R0W-wEevJB4.txt",
+    "source": "sous-titres YouTube automatiques (non relus)"
+  }
 }

@@ -1,21 +1,118 @@
 {
   "id": "R0W-wEevJB4",
-  "date": "2026-09-29T12:00:00+00:00",
+  "date": "2026-09-30T14:56:29+00:00",
   "source": "youtube",
   "lien": "https://www.youtube.com/watch?v=R0W-wEevJB4",
   "titre": "David Lisnard : intervention aux assises de l'AFER",
-  "statut": "degraded",
-  "resume": "",
-  "analyse_realisee": false,
-  "propositions": [],
-  "sources": [],
+  "statut": "ok",
+  "resume": "Grand oral (~15 min) aux Assises de l'AFER (Paris, 29 sept. 2026) : l'auteur lie propriété et liberté, veut moderniser l'État et baisser la dépense publique (ordre de grandeur évoqué : ~200 Md€ documentés sur un quinquennat), défend une capitalisation obligatoire progressive avec la répartition comme filet, refuse de hausser les prélèvements sur l'épargne, plaide pour plus de neutralité fiscale actions/créances et un PEA plus attractif, et s'engage à ne pas toucher à la fiscalité de l'assurance-vie.",
+  "base_du_resume": "sous-titres YouTube automatiques (non relus) — transcription approximative ; chiffres oraux (43,9 % puis 44,2 % de PO, dette ~3 600 Md€) à croiser avec sources officielles",
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Mettre en place progressivement une retraite par capitalisation obligatoire (« capitalisme populaire »), en maintenant la répartition comme filet de solidarité intergénérationnelle ; modalités de transition annoncées comme à détailler.",
+      "cout": "Non établi pour la France (aucun chiffrage de taux ou de transition dans la vidéo). Le Conseil d'orientation des retraites (séance du 18 déc. 2025) identifie la « double contribution » des actifs comme obstacle majeur et décrit trois voies : double cotisation, mise à contribution des retraités actuels, ou prise en charge par l'État.",
+      "cadre_juridique": "Création d'un régime obligatoire : loi (art. 34 de la Constitution ; lois de financement de la sécurité sociale). Régimes obligatoires par capitalisation collective déjà existants : RAFP et CAVP (selon le COR).",
+      "competence": "État (Parlement, LFSS) ; partenaires sociaux pour les régimes complémentaires.",
+      "precedents": "COR (note du 12 nov. 2025) : expériences étrangères (Chili, Mexique, etc.) avec modalités variables. France : études Fondapol sur un système mixte. Même proposition déjà analysée dans la carte site Assises AFER.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Financement de la transition (double cotisation, sous-indexation ou prise en charge budgétaire).",
+        "Assainissement des comptes publics concomitant.",
+        "Montée en charge longue (bénéfices à long terme).",
+        "Vote d'une loi et contrôle constitutionnel de l'obligation d'affiliation."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "« Je vais exposer comment » : détail absent de la vidéo. Transcription automatique (noms et montants parfois déformés)."
+    },
+    {
+      "texte": "Réduire la dépense publique de façon documentée (ordre de grandeur oral : environ 200 milliards d'euros sur un quinquennat, pour « dégager » un effet cumulé évoqué à 300 milliards) afin de baisser impôts et cotisations.",
+      "cout": "non établi (liste des postes et calendrier non fournis dans la vidéo ; renvoi à des publications et livres de l'auteur).",
+      "cadre_juridique": "Lois de finances et LOLF (art. 34 et 47 de la Constitution) ; trajectoire de déficit et de dette sous surveillance européenne (PSC / PSMT).",
+      "competence": "État (Gouvernement et Parlement) ; collectivités pour leur part de dépense.",
+      "precedents": "Trajectoires de consolidation budgétaire françaises et européennes passées : non détaillées ici. Part « 200 Md€ / 300 Md€ » : non retrouvée dans une source officielle indépendante consultée ce jour.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Documenter publiquement la liste des économies et leur montant annuel.",
+        "Majorité parlementaire et compatibilité avec les engagements européens de trajectoire.",
+        "Évaluer les effets sur les services publics et la conjoncture."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Chiffres oraux issus de sous-titres automatiques ; absence de détail opérationnel dans cette seule vidéo."
+    },
+    {
+      "texte": "Ne pas modifier la fiscalité de l'assurance-vie (réponse « oui » à la question bonus de l'AFER).",
+      "cout": "Aucun coût de mise en œuvre ; manque à gagner vs une hausse éventuelle : non établi.",
+      "cadre_juridique": "Fiscalité = loi (art. 34) et lois de finances (art. 47). Une promesse présidentielle ne lie pas le Parlement.",
+      "competence": "État (Parlement et Gouvernement).",
+      "precedents": "Non établi. Même engagement déjà analysé dans la carte site Assises AFER.",
+      "verdict": "faisable",
+      "conditions": [
+        "Tenue de l'engagement conditionnée à la majorité parlementaire ; toute loi de finances future peut revenir dessus."
+      ],
+      "fiabilite": "haute",
+      "doutes": "Engagement de ne pas agir, sans effet budgétaire chiffré."
+    },
+    {
+      "texte": "Rendre l'épargne en actions plus attractive, notamment via le plan d'épargne en actions (PEA), et tendre vers une neutralité fiscale entre détention d'actions et créances sur l'État.",
+      "cout": "non établi (ampleur de l'allègement et assiette non précisées).",
+      "cadre_juridique": "Fiscalité de l'épargne et du PEA : code monétaire et financier et code général des impôts ; modification par loi de finances.",
+      "competence": "État (Parlement et Gouvernement).",
+      "precedents": "Le PEA existe déjà (plafond et régime fiscal spécifiques). Précédents de réformes d'attractivité du PEA : non établis dans les sources consultées ce jour.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Préciser les paramètres (plafond, durée, taux, champ).",
+        "Chiffrer l'impact budgétaire et l'arbitrage avec d'autres produits d'épargne.",
+        "Vote en loi de finances."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Formulation orale large (« libéraliser », « plus attractif ») sans paramètre opérationnel."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "COR – Note de présentation générale, séance plénière du 18 décembre 2025",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-12/Doc_01_Note%20de%20pr%C3%A9sentation%20g%C3%A9n%C3%A9rale.pdf",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "COR – Montée en charge de la capitalisation (12 nov. 2025)",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-11/COR_Transition%20capitalisation_12-11-2025.pdf",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "INSEE – Taux de prélèvements obligatoires rapportés au PIB (2025 provisoire : 43,6 %)",
+      "url": "https://www.insee.fr/fr/statistiques/2381412",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "PLF 2026 – dossier de presse (PO prévus 43,9 % du PIB en 2026)",
+      "url": "https://www.budget.gouv.fr/documentation/file-download/30562",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte en vigueur) – Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Compte rendu site Nouvelle Énergie – Assises de l'AFER",
+      "url": "https://www.unenouvelleenergie.fr/david-lisnard-aux-assises-de-lafer-etre-proprietaire-cest-etre-libre-et-responsable/",
+      "consulte_le": "2026-10-15"
+    }
+  ],
   "analyse_ia": true,
   "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
-  "genere_le": "2026-10-12",
-  "genere_par": "Grok Bot (recherche web du 12/10/2026)",
+  "genere_le": "2026-10-15T09:56:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-15 9:47, recherche web)",
   "integration": {
     "type": "youtube",
     "id": "R0W-wEevJB4"
   },
-  "notes": "Collecte dégradée (échec métadonnées/transcription). Titre confirmé via oEmbed YouTube. Date approximative : Assises de l'AFER du 29 septembre 2026 (contexte du compte rendu site Nouvelle Énergie). Pas de résumé ni d'analyse faute de matière. Une analyse distincte des Assises AFER existe déjà côté site."
+  "citations": [
+    "être propriétaire, c'est être libre et responsable",
+    "la capitalisation est obligatoire",
+    "Je n'ai même pas besoin d'être ici pour prendre cet engagement"
+  ],
+  "notes": "Réanalyse après collecte OK (sous-titres récupérés) ; la carte précédente était degraded. Contexte chiffré : PO 43,6 % du PIB en 2025 (INSEE) et 43,9 % prévus en 2026 (PLF) — le « 43,9 % » cité à l'oral comme niveau actuel correspond plutôt à la prévision 2026 ; dette ~3 595,5 Md€ / 119 % du PIB au T2 2026 (sources de conjoncture). Transcription non commitée. Analyse limitée à la faisabilité des mesures."
 }
