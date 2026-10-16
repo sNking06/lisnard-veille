@@ -1,0 +1,25 @@
+{
+  "id": "7696944914436951329",
+  "date": "2026-10-15T17:17:22+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7696944914436951329",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7696944914436951329"
+  },
+  "resume": "Vidéo courte (~35 s, sans légende) au ton personnel : l'auteur raconte être monté en courant sur une grande scène lors d'un meeting de sa rentrée politique, devant « plus de 4000 personnes » selon lui, pour « prendre possession » de l'espace malgré son angoisse. Il en tire une réflexion sur la confiance en soi et l'autodérision en politique. Aucune mesure ni proposition n'est formulée.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) — transcription approximative, pas de légende",
+  "citations": [
+    "c'est reptilien aussi la politique",
+    "il faut aussi avoir du second degré relativiser et et se moquer de soi-même"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Contenu anecdotique et personnel, sans proposition : pas d'analyse de faisabilité. Le chiffre de « plus de 4000 personnes » au meeting n'a pas été vérifié.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-16T09:52:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-16 9:47)"
+}
