@@ -1,0 +1,41 @@
+{
+  "id": "7696884405750533409",
+  "date": "2026-10-15T13:22:30+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7696884405750533409",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7696884405750533409"
+  },
+  "resume": "Publication de type image (sans piste vidéo exploitable par yt-dlp) au contenu proche du post X du même jour : en tant que maire de Cannes, l’auteur annonce que la dette communale baisserait de 83,5 M€ d’ici la fin d’année, au-delà de la prévision prudente de 81,5 M€, et l’attribue à la méthode appliquée depuis 2014. Il évoque aussi le maintien/baisse des impôts locaux, la modernisation des services (dont IA), une capacité d’autofinancement « x10 » et le soutien aux personnes fragiles. Bilan de gestion municipale ; aucune mesure de politique publique nationale nouvelle.",
+  "base_du_resume": "légende TikTok (oembed / page publique) — pas de transcription audio (formats vidéo introuvables)",
+  "citations": [
+    "Nous serons à -83,5 millions d’euros de baisse de la dette de Cannes en fin d’année.",
+    "nous avions alors présente -81,5M€"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [
+    {
+      "titre": "Finances – Ville de Cannes (budget 2026, dette communale)",
+      "url": "https://www.cannes.com/fr/mairie/finances.html",
+      "consulte_le": "2026-10-16"
+    },
+    {
+      "titre": "BP 2026 – fiche de synthèse Ville de Cannes (désendettement prévu −82,74 M€ depuis 2014)",
+      "url": "https://www.cannes.com/_resource/Documents/Mairie/Finances/Fiches%20de%20synth%C3%A8se%20budg%C3%A9taire/BP%202026%20Fiche%20de%20synth%C3%A8se%20Ville%20et%20budgets%20annexes.pdf?download=true",
+      "consulte_le": "2026-10-16"
+    },
+    {
+      "titre": "Approbation du compte financier 2025 de la Ville de Cannes",
+      "url": "https://www.cannes.com/fr/index/actualites/annee-2026/juin/approbation-du-compte-financier-2025-de-la-ville-de-cannes.html",
+      "consulte_le": "2026-10-16"
+    }
+  ],
+  "notes": "Même sujet que le post X 2110722392490131623 (texte X alors tronqué). Le chiffre −83,5 M€ en fin d’année est une annonce de l’auteur ; les documents municipaux consultés indiquent −81,74 M€ depuis 2014 fin 2025 et un objectif BP 2026 de −82,74 M€ cumulés (encours 172,25 M€) — l’écart annoncé n’est pas encore corroboré par un compte rendu officiel postérieur au 15/10. Pas d’analyse de faisabilité (pas de proposition nouvelle).",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-16T13:56:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-16 13:47, légende oembed + recherche web)"
+}

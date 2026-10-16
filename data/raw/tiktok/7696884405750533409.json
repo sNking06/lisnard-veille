@@ -7,7 +7,11 @@
     "type": "tiktok",
     "video_id": "7696884405750533409"
   },
-  "statut": "degraded",
-  "date": null,
-  "erreur": "[Errno 2] No such file or directory: '/tmp/tmpvjdjfeu6/7696884405750533409.info.json'"
+  "statut": "ok",
+  "date": "2026-10-15T13:22:30+00:00",
+  "description": "Nous continuons de faire baisser la dette de la commune. Et plus vite que dans l’échéancier présenté l’année dernière. C’est la bonne nouvelle du jour. Elle ne tombe pas du ciel, mais bel et bien de la méthode déterminée que nous appliquons depuis 2014. Je viens en effet de recevoir les derniers relevés. Nous serons à -83,5 millions d’euros de baisse de la dette de Cannes en fin d’année. C’est mieux que nos prévisions (que nous établissons toujours avec un principe de prudence comptable, nous avions alors présente -81,5M€). Ce résultat n’est pas une abstraction comptable, il est au bénéfices des contribuables (puisque nous n’avons non seulement jamais monté les taux d’impôts locaux et les avons même baissés l’année dernière) et surtout des générations futures, à qui nous refusons de faire payer l’addition de facilités ou lâchetés. Nous appliquons au contraire un travail constant et courageux. Celui de moderniser les services municipaux au bénéfice des usagers et des agents (en les délestant de certaines tâches administratives rébarbatives grâce à l’IA et donc en gagnant en efficacité et bien-être), celui de générer une capacité d’autofinancement très importante (x10) pour continuer à investir en faveur de la qualité de vie et de l’attractivité de Cannes, et en apportant un soutien sur le principe de l’émancipation aux personnes les plus fragiles et isolées, dans une ville au taux de pauvreté supérieur à la moyenne nationale. Tout cela malgré les ponctions toujours plus grandes de l’État sur les finances communales bien sûr, et tous les aléas que nous avons traversés. Cannes avance, Cannes gagne.",
+  "duree_s": null,
+  "vues": 240,
+  "transcription": null,
+  "collecte_note": "yt-dlp: No video formats found (publication de type image). Légende récupérée via oembed TikTok + WebFetch ; date dérivée de l’ID snowflake TikTok (confirmée cohérente avec le post X voisin 2110722392490131623)."
 }
