@@ -1,0 +1,58 @@
+{
+  "id": "2111441119066099873",
+  "date": "2026-10-17T12:56:06.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2111441119066099873",
+  "statut": "ok",
+  "integration": {
+    "type": "x",
+    "id": "2111441119066099873"
+  },
+  "resume": "Réaction aux violences, pillages et dégradations survenus en marge de la journée de mobilisation contre la « vie chère » du 17 octobre 2026. L'auteur met en cause les consignes d'« empathie » attribuées au président de la République pour le maintien de l'ordre et le gouvernement, exprime son soutien aux policiers, gendarmes, pompiers et commerçants, et annonce qu'il changerait la doctrine d'emploi des forces de l'ordre pour qu'elles interviennent « le plus tôt et le plus fort possibles ».",
+  "base_du_resume": "texte complet de la publication (récupéré sur la page publique, le champ note_tweet n'étant pas renvoyé) ; contexte d'après la presse du 6 au 17 octobre 2026",
+  "citations": [
+    "Quel scandale, quelle honte pour la France",
+    "Total soutien aux forces de l’ordre",
+    "le plus tôt et le plus fort possibles"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Changer la doctrine d'emploi des forces de l'ordre pour qu'elles interviennent le plus tôt et le plus fort possible lors des violences.",
+      "cout": "Non chiffré dans la publication. Un changement de doctrine relève surtout de l'organisation et de la formation ; des coûts peuvent venir d'effectifs ou d'équipements supplémentaires, non précisés.",
+      "cadre_juridique": "La doctrine relève du pouvoir réglementaire et des instructions du ministre de l'Intérieur (schéma national du maintien de l'ordre, SNMO, publié en 2020 puis révisé en 2021). L'usage de la force reste encadré par le Code de la sécurité intérieure (art. L211-9 et R211-13 : force seulement si absolument nécessaire et proportionnée) et par la Convention européenne des droits de l'homme (art. 2, 3 et 11). Le Conseil d'État a déjà annulé en 2021 plusieurs points du SNMO.",
+      "competence": "État : ministre de l'Intérieur et préfets (autorités de police) ; pas besoin d'une loi pour modifier une doctrine, sous le contrôle du juge administratif.",
+      "precedents": "Le SNMO de 2020 avait déjà assumé une logique d'interpellation plus rapide des auteurs de violences. Le 17/10/2026, le ministère de l'Intérieur avait autorisé l'usage de l'ensemble des armes intermédiaires, après la suspension d'une grenade assourdissante pendant le mouvement lycéen.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Rester dans les exigences de nécessité et de proportionnalité fixées par la loi, la jurisprudence administrative et la CEDH.",
+        "Former et équiper les unités en conséquence (effectifs, unités mobiles).",
+        "Accepter le contrôle du juge, qui peut annuler des dispositions jugées disproportionnées."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "La formule « le plus tôt et le plus fort possibles » n'est pas précisée (règles d'engagement, armes, interpellations). Les liens entre les consignes présidentielles et les violences du jour relèvent de l'appréciation de l'auteur et ne sont pas évalués ici."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Le Parisien – Direct mobilisation du 17 octobre 2026",
+      "url": "https://www.leparisien.fr/societe/direct-mobilisation-du-17-octobre-gilets-jaunes-lyceens-de-nombreux-blocages-et-manifestations-attendus-ce-samedi-17-10-2026-C2LVTU2A5NEMXKBYBWEVRC3MVE.php",
+      "consulte_le": "2026-10-17"
+    },
+    {
+      "titre": "Imaz Press – Emmanuel Macron a demandé « d'être dans l'empathie » dans le maintien de l'ordre",
+      "url": "https://imazpress.com/france-monde/mouvement-lyceen-emmanuel-macron-a-demande-d-etre-dans-l-empathie-dans-le-maintien-de-l-ordre",
+      "consulte_le": "2026-10-17"
+    },
+    {
+      "titre": "Légifrance – Code de la sécurité intérieure, article L211-9",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025505159",
+      "consulte_le": "2026-10-17"
+    }
+  ],
+  "notes": "Analyse limitée à la faisabilité de la mesure annoncée ; les faits du 17/10 sont cités d'après la presse.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-17T18:00:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-17 17:47)"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "7697652285039529249",
+  "date": "2026-10-17T15:02:20+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7697652285039529249",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7697652285039529249"
+  },
+  "resume": "Vidéo (~46 s, sans légende) : l'auteur estime que le modèle d'État providence, efficace des années 1950 au milieu des années 1980, arrive à sa fin. Il plaide pour réduire l'écart entre salaire brut et revenu net (« cotiser moins pour gagner plus »), réorganiser les pouvoirs publics, baisser les charges et, pour ne pas s'endetter, réduire les dépenses, y compris certaines aides sociales qu'il dit avoir documentées dans un document en ligne.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) — transcription approximative, pas de légende",
+  "citations": [
+    "cotiser moins pour gagner plus",
+    "on va réduire telle aide sociale",
+    "pour faire d'énormes économies"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Baisser les cotisations et charges pesant sur les revenus, financées par une baisse des dépenses publiques, dont certaines aides sociales.",
+      "cout": "Non chiffré dans la vidéo. L'auteur renvoie à un document en ligne ; ses autres interventions évoquent 80 à 200 Md€ d'économies (voir carte du site Le Crayon, 15/10/2026).",
+      "cadre_juridique": "Taux de cotisations et prestations fixés par la loi et les lois de financement de la sécurité sociale (art. 34 de la Constitution) ; régimes complémentaires gérés par les partenaires sociaux.",
+      "competence": "État (Gouvernement et Parlement) ; partenaires sociaux pour l'Agirc-Arrco et l'assurance chômage.",
+      "precedents": "Même orientation que les propositions analysées dans la carte du site « Le Crayon – L'État providence est mort » (15/10/2026). Des baisses de cotisations salariales ont déjà eu lieu (2018, suppression des cotisations chômage et maladie compensée par la CSG).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Identifier et voter des économies d'un montant équivalent, au risque sinon d'aggraver le déficit.",
+        "Assumer politiquement la baisse d'aides sociales précises.",
+        "Vote en loi de financement de la sécurité sociale et, pour les régimes paritaires, accord des partenaires sociaux."
+      ],
+      "fiabilite": "faible",
+      "doutes": "La vidéo ne précise ni le montant de la baisse de cotisations ni les aides visées. Transcription automatique non relue."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Urssaf – Taux de cotisations salariés du secteur privé",
+      "url": "https://www.urssaf.fr/accueil/outils-documentation/taux-baremes/taux-cotisations-secteur-prive.html",
+      "consulte_le": "2026-10-17"
+    }
+  ],
+  "notes": "Transcription automatique non relue, non commitée. Analyse limitée à la faisabilité des mesures.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-17T18:00:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-17 17:47)"
+}

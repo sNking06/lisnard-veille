@@ -1,0 +1,20 @@
+{
+  "id": "2111441119066099873",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-17T12:56:06.000Z",
+  "url": "https://x.com/davidlisnard/status/2111441119066099873",
+  "texte": "Quel scandale, quelle honte pour la France. Manifestement, les consignes d’ « empathie » du président de la République ont été appliquées… \n\nComment notre pays peut-il tomber si bas ? Comment le gouvernement peut-il laisser les voyous être maîtres de la rue, détruire les biens publics et d’autrui ? \n\nComment nos gouvernants peuvent-ils laisser prendre et agir cette gangrène incendiaire, dévastatrice, pilleuse ?\n\nTotal soutien aux forces de l’ordre, aux policiers et aux gendarmes, aux pompiers, aux commerçants.\n\nNous changerons la doctrine d’emploi des forces de l’ordre, qui comme pour toute crise, doivent intervenir le plus tôt et le plus fort possibles.",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 154,
+    "impression_count": 230323,
+    "like_count": 9959,
+    "quote_count": 108,
+    "reply_count": 464,
+    "retweet_count": 1923
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts ; texte complet via page publique, note_tweet absent)"
+}
