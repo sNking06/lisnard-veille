@@ -1,0 +1,13 @@
+{
+  "id": "7697323443557010721",
+  "reseau": "tiktok",
+  "compte": "david.lisnard",
+  "url": "https://www.tiktok.com/@david.lisnard/video/7697323443557010721",
+  "embed": {
+    "type": "tiktok",
+    "video_id": "7697323443557010721"
+  },
+  "statut": "degraded",
+  "date": null,
+  "erreur": "[Errno 2] No such file or directory: '/tmp/tmp89wcf2wc/7697323443557010721.info.json'"
+}
