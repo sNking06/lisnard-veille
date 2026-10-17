@@ -1,0 +1,59 @@
+{
+  "id": "7697298297811242272",
+  "date": "2026-10-16T16:08:44+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7697298297811242272",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7697298297811242272"
+  },
+  "resume": "Vidéo (~89 s, sans légende) sur les retraites : l'auteur défend un système à trois étages (épargne libre, étage de capitalisation obligatoire, filet de sécurité par répartition), en invoquant la baisse de la natalité. Il avance qu'un salarié au SMIC ayant cotisé 42 annuités dispose d'un équivalent capital d'environ 160 000 € (pension brute d'environ 1 300 €), contre « au moins 700 000 € » s'il avait capitalisé la même somme, et cite la capitalisation obligatoire existant dans la fonction publique.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) — transcription approximative, pas de légende",
+  "citations": [
+    "1 étage de retraite par capitalisation obligatoire",
+    "1 capital d'au moins sept-cent-mille euros",
+    "rendre les gens propriétaire de leur vie"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Ajouter un étage de retraite par capitalisation obligatoire, entre l'épargne libre et un filet de sécurité par répartition.",
+      "cout": "Non établi dans la vidéo (taux de cotisation et financement de la transition non précisés). Le COR (séance du 18 déc. 2025) identifie la « double contribution » des actifs pendant la transition comme principal obstacle.",
+      "cadre_juridique": "Création d'un régime obligatoire par la loi (art. 34 de la Constitution ; lois de financement de la sécurité sociale). Des régimes obligatoires par capitalisation existent déjà, dont la RAFP pour les fonctionnaires.",
+      "competence": "État (Gouvernement et Parlement, LFSS) ; partenaires sociaux pour les régimes complémentaires.",
+      "precedents": "Même proposition déjà analysée dans les cartes YouTube R0W-wEevJB4 et site Assises AFER (15/10/2026). La RAFP (fonction publique, depuis 2005) est un régime obligatoire en capitalisation, mais limité aux primes des fonctionnaires (dans la limite de 20 % du traitement indiciaire).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Financer la transition (double cotisation, mise à contribution des retraités actuels ou prise en charge budgétaire).",
+        "Fixer le taux et la gestion de l'étage capitalisé, avec garanties pour les bas revenus.",
+        "Vote d'une loi et contrôle constitutionnel de l'obligation d'affiliation.",
+        "Montée en charge longue : bénéfices attendus seulement à long terme."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Les montants comparés (environ 160 000 € contre « au moins 700 000 € ») ne sont pas sourcés dans la vidéo et dépendent fortement des hypothèses de rendement, de frais et de période ; non vérifiés. La capitalisation obligatoire de la fonction publique (RAFP) ne concerne qu'une part réduite de la rémunération. Transcription automatique (montants possiblement déformés)."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "COR – Note de présentation générale, séance plénière du 18 décembre 2025",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-12/Doc_01_Note%20de%20pr%C3%A9sentation%20g%C3%A9n%C3%A9rale.pdf",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "COR – Montée en charge de la capitalisation (12 nov. 2025)",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-11/COR_Transition%20capitalisation_12-11-2025.pdf",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "RAFP – Retraite additionnelle de la fonction publique (site officiel)",
+      "url": "https://www.rafp.fr/",
+      "consulte_le": "2026-10-17"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-17T10:00:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-17 9:47)",
+  "notes": "Transcription automatique non relue, non commitée. Analyse limitée à la faisabilité des mesures."
+}
