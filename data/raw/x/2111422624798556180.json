@@ -1,0 +1,24 @@
+{
+  "id": "2111422624798556180",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-17T11:42:36.000Z",
+  "url": "https://x.com/davidlisnard/status/2111422624798556180",
+  "texte": "Rappel utile et nécessaire de @catherinepegard \nTotal soutien https://t.co/Q66z8wVCNV",
+  "citation": {
+    "id": "2111080781598601660",
+    "texte": "J’apporte mon soutien à l’ensemble des journalistes qui, chaque jour, exercent leur métier pour informer nos concitoyens et qui sont empêchés.\n\nLes violences dont on été victimes ces dernières semaines sur le terrain plusieurs journalistes de BFM, CNews, LCI, M6 et ICI sont inacceptables.\n\nAucun journaliste ne devrait avoir à craindre pour sa sécurité dans l’exercice de ses fonctions. La liberté d’informer doit être respectée et protégée.",
+    "auteur_id": "547620593"
+  },
+  "metriques": {
+    "bookmark_count": 0,
+    "impression_count": 1103,
+    "like_count": 39,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 8
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

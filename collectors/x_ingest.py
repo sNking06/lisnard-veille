@@ -17,7 +17,7 @@ def normalise(p, includes):
     for r in p.get("referenced_tweets", []) or []:
         if r["type"] == "quoted":
             q = next((t for t in includes.get("tweets", []) if t["id"] == r["id"]), None)
-            quoted = {"id": r["id"], "texte": (q or {}).get("text"), "auteur_id": (q or {}).get("author_id")}
+            quoted = {"id": r["id"], "texte": ((q or {}).get("note_tweet") or {}).get("text") or (q or {}).get("text"), "auteur_id": (q or {}).get("author_id")}
     return {
         "id": p["id"], "reseau": "x", "compte": USER,
         "date": p["created_at"],
