@@ -1,0 +1,41 @@
+{
+  "id": "2112112960483021286",
+  "date": "2026-10-19T09:25:45.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2112112960483021286",
+  "statut": "ok",
+  "integration": {
+    "type": "x",
+    "id": "2112112960483021286"
+  },
+  "resume": "Publication « Hier, Limoges » accompagnée d'une vidéo de 53 s, très probablement le même extrait que la vidéo TikTok publiée trois minutes plus tôt (même durée) : discours du 18 octobre 2026 place de la République à Limoges après l'incendie de l'hôtel de ville. Le texte appelle à « ne plus subir l'agonie de la France » et résume le message en quatre mots : ordre, liberté, unité, dignité. Voir la carte TikTok 7698306796531830049.",
+  "base_du_resume": "texte de la publication et métadonnées de la vidéo (durée 53 s) ; contenu de la vidéo déduit de la publication TikTok jumelle, non transcrit depuis X",
+  "citations": [
+    "À nous de ne plus subir l'agonie de la France",
+    "Ordre, liberté, unité, dignité."
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [
+    {
+      "titre": "France 24 (AFP) – Limoges : des milliers de personnes rassemblées après l'incendie, Lisnard cible LFI (18/10/2026)",
+      "url": "https://www.france24.com/fr/info-en-continu/20261018-limoges-des-milliers-de-personnes-rassembl%C3%A9es-apr%C3%A8s-l-incendie-lisnard-cible-lfi",
+      "consulte_le": "2026-10-19"
+    },
+    {
+      "titre": "ICI (Radio France) – Plusieurs milliers de personnes à la marche des élus après l'incendie de l'hôtel de ville de Limoges (18/10/2026)",
+      "url": "https://www.ici.fr/nouvelle-aquitaine/haute-vienne-87/limoges/plusieurs-milliers-de-personnes-a-la-marche-des-elus-apres-l-incendie-de-l-hotel-de-ville-de-limoges-1312844",
+      "consulte_le": "2026-10-19"
+    },
+    {
+      "titre": "Ville de Limoges – Rassemblement et marche symbolique des élus et citoyens jusqu'à l'Hôtel de ville (18/10/2026)",
+      "url": "https://www.limoges.fr/actualites/rassemblement-et-marche-symbolique-des-elus-et-citoyens-jusqua-lhotel-de-ville",
+      "consulte_le": "2026-10-19"
+    }
+  ],
+  "notes": "Résumé seul pour éviter un doublon avec la carte TikTok du même extrait ; aucune mesure précise.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-19T14:05:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-19 13:47)"
+}

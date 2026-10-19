@@ -1,0 +1,20 @@
+{
+  "id": "2112112960483021286",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-19T09:25:45.000Z",
+  "url": "https://x.com/davidlisnard/status/2112112960483021286",
+  "texte": "Hier, Limoges. À nous de ne plus subir l’agonie de la France et de construire l’avenir.\nOrdre, liberté, unité, dignité. https://t.co/eXMnPkQQgK",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 11,
+    "impression_count": 12110,
+    "like_count": 939,
+    "quote_count": 10,
+    "reply_count": 16,
+    "retweet_count": 224
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

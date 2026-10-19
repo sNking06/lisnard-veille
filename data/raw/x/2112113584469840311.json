@@ -1,0 +1,20 @@
+{
+  "id": "2112113584469840311",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-19T09:28:14.000Z",
+  "url": "https://x.com/davidlisnard/status/2112113584469840311",
+  "texte": "Hier, Limoges. L’ordre pour l’unité. https://t.co/heaKHk6maf",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 16,
+    "impression_count": 12955,
+    "like_count": 935,
+    "quote_count": 8,
+    "reply_count": 21,
+    "retweet_count": 174
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
