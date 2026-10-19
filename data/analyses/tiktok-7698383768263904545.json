@@ -1,0 +1,31 @@
+{
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-19T18:20:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-19 17:47)",
+  "id": "7698383768263904545",
+  "date": "2026-10-19T14:20:53+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7698383768263904545",
+  "integration": {
+    "type": "tiktok",
+    "id": "7698383768263904545"
+  },
+  "resume": "Publication TikTok de type diaporama photo (fond musical, sans parole) reprenant mot pour mot le texte publié sur X trois minutes plus tôt : félicitations à la police municipale de Cannes pour une saisie de protoxyde d'azote lors d'un contrôle de nuit (17 bonbonnes et 24 sachets de ballons selon la publication), conducteur interpellé et véhicule mis en fourrière. Aucune mesure nouvelle n'est proposée. Voir aussi la carte X 2112186350392713583.",
+  "base_du_resume": "légende de la publication ; diaporama photo avec musique (Pocket Loop, Margo Haskett), aucune parole à transcrire",
+  "citations": [
+    "le fléau du protoxyde d'azote",
+    "voilà comment la puissance publique doit agir pour nous protéger"
+  ],
+  "sources": [
+    {
+      "titre": "Publication TikTok de @david.lisnard (19/10/2026)",
+      "url": "https://www.tiktok.com/@david.lisnard/video/7698383768263904545",
+      "consulte_le": "2026-10-19"
+    }
+  ],
+  "notes": "Résumé seul : publication de félicitations sans mesure précise. Les chiffres de la saisie (17 bonbonnes, 24 sachets de ballons) sont ceux de la publication et n'ont pas été vérifiés de façon indépendante (recherche web indisponible lors de ce passage). La phrase sur la manière dont « la puissance publique doit agir » relève de l'appréciation de l'auteur et n'est pas évaluée."
+}

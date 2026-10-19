@@ -1,0 +1,20 @@
+{
+  "id": "2112186350392713583",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-19T14:17:23.000Z",
+  "url": "https://x.com/davidlisnard/status/2112186350392713583",
+  "texte": "Et pendant ce temps là… Félicitations aux policiers municipaux de Cannes qui inlassablement continuent leur action contre le fléau du protoxyde d’azote : 17 bonbonnes et 24 sachets de ballons saisis cette nuit lors d’un contrôle. Le conducteur a été interpellé et conduit au commissariat, son véhicule mis en fourrière.\nUn effort méthodique, clinique, constant : voilà comment la puissance publique doit agir pour nous protéger.",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 12,
+    "impression_count": 23335,
+    "like_count": 1395,
+    "quote_count": 6,
+    "reply_count": 15,
+    "retweet_count": 138
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
