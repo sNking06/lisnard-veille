@@ -1,0 +1,26 @@
+{
+  "id": "a-cannes-pres-de-2-000-personnes-rassemblees-autour-de-david-lisnard-pour-defend",
+  "date": "2026-10-20T09:25:11.889Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/a-cannes-pres-de-2-000-personnes-rassemblees-autour-de-david-lisnard-pour-defendre-la-republique-et-ses-libertes/",
+  "statut": "ok",
+  "integration": {
+    "type": "none",
+    "id": "a-cannes-pres-de-2-000-personnes-rassemblees-autour-de-david-lisnard-pour-defend"
+  },
+  "titre": "À Cannes, près de 2 000 personnes rassemblées autour de David Lisnard pour défendre la République et ses libertés",
+  "resume": "Compte rendu du rassemblement organisé le 19 octobre 2026 devant l'hôtel de ville de Cannes, à l'appel de l'Association des maires de France que préside l'auteur ; près de 2 000 personnes selon l'article. De retour de Limoges, il y dénonce les violences contre les institutions, les commerces et les forces de l'ordre, ainsi que les défaillances de l'État dans ses missions régaliennes, distingue les manifestants des casseurs et appelle à des transformations « profondes, radicales, puissantes ».",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie",
+  "citations": [
+    "Les manifestants ont le droit de manifester. En revanche, les casseurs n'ont pas le droit de casser.",
+    "Si on veut que la République ne soit pas une fiction, il faut rétablir l'ordre"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : discours sans mesure précise. La participation (près de 2 000 personnes) provient de l'article et n'a pas été vérifiée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-20T14:15:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-20 13:47)"
+}

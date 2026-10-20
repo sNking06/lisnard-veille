@@ -1,0 +1,23 @@
+{
+  "id": "cannes-une-nouvelle-unite-de-dialyse-medicalisee-a-lhopital-simone-veil",
+  "date": "2026-10-20T09:20:50.356Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/cannes-une-nouvelle-unite-de-dialyse-medicalisee-a-lhopital-simone-veil/",
+  "statut": "ok",
+  "integration": {
+    "type": "none",
+    "id": "cannes-une-nouvelle-unite-de-dialyse-medicalisee-a-lhopital-simone-veil"
+  },
+  "titre": "Cannes : une nouvelle unité de dialyse médicalisée à l’Hôpital Simone Veil",
+  "resume": "Annonce de l'ouverture, depuis le 18 mai, d'une nouvelle unité de dialyse médicalisée à l'hôpital de Cannes-Simone Veil : 8 postes supplémentaires, jusqu'à 30 patients et près de 4 700 séances par an à pleine capacité selon l'article. Le projet est porté par l'hôpital ; la mairie dit l'avoir facilité par une instruction rapide du permis de travaux.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie",
+  "citations": [],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : information locale, sans proposition. Chiffres issus de l'article, non vérifiés.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-20T14:15:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-20 13:47)"
+}

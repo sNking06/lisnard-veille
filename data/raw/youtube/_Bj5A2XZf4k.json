@@ -7,7 +7,14 @@
     "type": "youtube",
     "video_id": "_Bj5A2XZf4k"
   },
-  "statut": "degraded",
-  "date": null,
-  "erreur": "[Errno 2] No such file or directory: '/tmp/tmpvux6bain/_Bj5A2XZf4k.info.json'"
+  "statut": "ok",
+  "date": "2026-10-20T09:13:20+00:00",
+  "titre": "David Lisnard dans \"La Grande Confrontation\" sur LCI",
+  "description": "Retour sur mon passage dans \"La Grande Confrontation\" sur LCI\n\nRetrouvez l’intégralité de mon interview.\n\nSuivez moi sur mes réseaux : \n\nInstagram : https://www.instagram.com/davidlisnard/\nX : https://x.com/davidlisnard\nFacebook : https://www.facebook.com/lisnard.david\nTik Tok : https://www.tiktok.com/@david.lisnard\nLinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/\n\nAdhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion",
+  "duree_s": 1458,
+  "vues": 6865,
+  "transcription": {
+    "fichier": "data/transcripts/youtube-_Bj5A2XZf4k.txt",
+    "source": "sous-titres YouTube automatiques (non relus)"
+  }
 }

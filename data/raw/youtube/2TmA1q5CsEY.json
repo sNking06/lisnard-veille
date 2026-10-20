@@ -7,7 +7,14 @@
     "type": "youtube",
     "video_id": "2TmA1q5CsEY"
   },
-  "statut": "degraded",
-  "date": null,
-  "erreur": "[Errno 2] No such file or directory: '/tmp/tmpb22s0gzp/2TmA1q5CsEY.info.json'"
+  "statut": "ok",
+  "date": "2026-10-19T20:08:00+00:00",
+  "titre": "David Lisnard invité du 20h sur TF1",
+  "description": "Revisualisez mon passage au 20 h de TF1 ce lundi 19 octobre. Retour sur les violences et les événements du 16 octobre.\n\nSuivez moi sur mes réseaux : \n\nInstagram : https://www.instagram.com/davidlisnard/\nX : https://x.com/davidlisnard\nFacebook : https://www.facebook.com/lisnard.david\nTik Tok : https://www.tiktok.com/@david.lisnard\nLinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/\n\nAdhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion",
+  "duree_s": 306,
+  "vues": 161119,
+  "transcription": {
+    "fichier": "data/transcripts/youtube-2TmA1q5CsEY.txt",
+    "source": "sous-titres YouTube automatiques (non relus)"
+  }
 }

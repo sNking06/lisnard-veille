@@ -1,0 +1,117 @@
+{
+  "id": "2TmA1q5CsEY",
+  "date": "2026-10-19T20:08:00+00:00",
+  "source": "youtube",
+  "lien": "https://www.youtube.com/watch?v=2TmA1q5CsEY",
+  "statut": "ok",
+  "integration": {
+    "type": "youtube",
+    "id": "2TmA1q5CsEY"
+  },
+  "titre": "David Lisnard invité du 20h sur TF1",
+  "resume": "Passage au 20 h de TF1 (~5 min) du 19 octobre 2026, après les violences survenues en marge de la mobilisation du 17 octobre. Seules les propositions sont retenues ici : l'auteur dit ne pas voir le besoin d'un couvre-feu à Cannes, juge l'état d'urgence « utile » mais renvoie la décision aux dirigeants, et propose de revoir le protocole d'intervention de la police et le droit pénal des mineurs (travaux d'intérêt général, y compris pour les parents). Il estime que les manifestations porteuses de « graves troubles » devraient être interdites, tout en y voyant « un échec ».",
+  "base_du_resume": "sous-titres YouTube automatiques (non relus) ; propositions concrètes uniquement retenues ; recoupé avec TF1 Info et Capital",
+  "citations": [
+    "L'État est devenu une fiction",
+    "revoir tout le protocole d'utilisation de la police"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Revoir « tout le protocole d'utilisation de la police » pour intervenir beaucoup plus vite contre les casseurs, en s'inspirant des Pays-Bas, plutôt que d'intervenir tardivement avec de gros moyens.",
+      "cout": "Non chiffré dans l'interview. Une intervention plus rapide suppose des effectifs disponibles plus tôt et plus près du terrain, notamment dans les villes moyennes où l'auteur dit la police nationale peu nombreuse ; coût non établi.",
+      "cadre_juridique": "La doctrine de maintien de l'ordre relève du pouvoir réglementaire et des instructions du ministère de l'Intérieur (schéma national du maintien de l'ordre). Un changement de doctrine ne demande pas de loi en soi, mais l'usage de la force reste soumis aux principes d'absolue nécessité et de proportionnalité (Code de la sécurité intérieure, jurisprudence de la CEDH) et au respect de la liberté de manifester.",
+      "competence": "État : ministère de l'Intérieur, direction générale de la police nationale et de la gendarmerie, préfets pour la conduite des opérations.",
+      "precedents": "Aux Pays-Bas, la politique dite « lik-op-stuk » associe intervention rapide et procédure pénale accélérée (snelrecht : jugement sous 17 jours, supersnelrecht : 3 à 6 jours) ; après les émeutes du Malieveld à La Haye, 19 suspects ont été présentés en procédure accélérée et 13 condamnés selon le parquet néerlandais. Proposition proche déjà analysée (X 2111441119066099873 : intervenir « le plus tôt et le plus fort possibles »).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Disposer d'effectifs mobilisables rapidement sur tout le territoire, y compris hors des grandes villes et la nuit.",
+        "Encadrer l'intervention précoce pour rester proportionnée et protéger les manifestants pacifiques.",
+        "Préciser le contenu du nouveau protocole, que l'interview ne détaille pas."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Le modèle néerlandais cité est surtout documenté côté justice (procédure accélérée) ; sa transposition au maintien de l'ordre français et ses effets n'ont pas été évalués ici."
+    },
+    {
+      "texte": "Revoir le droit pénal des mineurs pour condamner les mineurs à des travaux d'intérêt général, par exemple pour rénover le patrimoine, en parallèle de la procédure pénale.",
+      "cout": "Non chiffré. Le TIG demande des structures d'accueil et un encadrement par la protection judiciaire de la jeunesse ; le coût d'une généralisation n'est pas établi.",
+      "cadre_juridique": "Le TIG est déjà applicable aux mineurs âgés d'au moins 16 ans au moment de la décision et d'au moins 13 ans au moment des faits, pour un délit puni d'emprisonnement ou une contravention de 5e classe, s'il ne s'y oppose pas, avec des travaux adaptés et formateurs (art. L122-1 du Code de la justice pénale des mineurs). Imposer un TIG sans l'accord du condamné poserait la question de l'interdiction du travail forcé (art. 4 de la Convention européenne des droits de l'homme) ; l'étendre aux moins de 16 ans demanderait une loi, dans le respect du principe constitutionnel de primauté de l'éducatif pour les mineurs.",
+      "competence": "Parlement (loi pénale) ; juges des enfants et tribunaux pour enfants pour le prononcé ; protection judiciaire de la jeunesse et collectivités ou associations pour l'accueil.",
+      "precedents": "Dispositif existant pour les 16-18 ans. Le programme de l'auteur prévoit de « généraliser les travaux d'intérêt général dès le premier acte délictueux ».",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Développer l'offre de postes de TIG adaptés aux mineurs (patrimoine, collectivités).",
+        "Conserver l'appréciation du juge et le consentement du condamné, ou trouver un cadre compatible avec l'interdiction du travail forcé.",
+        "Passer par la loi pour toute extension aux moins de 16 ans."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "L'interview ne précise ni l'âge visé ni si la mesure serait automatique."
+    },
+    {
+      "texte": "Faire aussi effectuer des travaux d'intérêt général aux parents des mineurs responsables de violences.",
+      "cout": "Non chiffré.",
+      "cadre_juridique": "En droit pénal, « nul n'est responsable pénalement que de son propre fait » (art. 121-1 du Code pénal) et les peines sont personnelles. Un parent ne peut être condamné à un TIG que s'il est lui-même reconnu coupable d'une infraction, par exemple la soustraction à ses obligations légales au point de compromettre l'éducation de l'enfant (art. 227-17 du Code pénal). La responsabilité civile des parents (réparation des dommages) existe déjà. Lors de l'examen de la loi du 23 juin 2025 sur les mineurs délinquants et leurs parents, le Sénat a écarté une circonstance aggravante liant la faute parentale aux infractions du mineur, jugée difficile à prouver.",
+      "competence": "Parlement (loi pénale) ; juridictions pénales.",
+      "precedents": "Loi n° 2025-568 du 23 juin 2025 visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents (partiellement censurée par le Conseil constitutionnel, décision 2025-886 DC).",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Seulement si le parent est condamné pour sa propre faute (par exemple au titre de l'art. 227-17), et non du seul fait de l'infraction de son enfant.",
+        "Prouver le lien entre le comportement du parent et les faits, ce que le Sénat a jugé difficile en 2025."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Formulation orale brève (« y compris les parents des mineurs responsables ») : la mesure pourrait viser une sanction liée à une faute parentale propre, ce qui serait plus faisable."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "TF1 Info – Violences urbaines en France : David Lisnard, invité du 20H de TF1 (19/10/2026)",
+      "url": "https://www.tf1info.fr/politique/videos/video-violences-urbaines-en-france-david-lisnard-invite-du-20h-de-tf1-66494-2470878.html",
+      "consulte_le": "2026-10-20"
+    },
+    {
+      "titre": "Capital – « Moins l'État est capable de punir ceux qui cassent, plus il entrave nos libertés », juge David Lisnard (19/10/2026)",
+      "url": "https://www.capital.fr/economie-politique/moins-l-etat-est-capable-de-punir-ceux-qui-cassent-plus-il-entrave-nos-libertes-juge-david-lisnard-1531117",
+      "consulte_le": "2026-10-20"
+    },
+    {
+      "titre": "Rijksoverheid – Hoe werkt (super)snelrecht ? (procédure pénale accélérée néerlandaise)",
+      "url": "https://www.rijksoverheid.nl/vraag-en-antwoord/rechtspraak-en-geschiloplossing/wat-zijn-snelrecht-en-supersnelrecht",
+      "consulte_le": "2026-10-20"
+    },
+    {
+      "titre": "Openbaar Ministerie – Questions-réponses sur les poursuites après les émeutes du Malieveld (snelrecht)",
+      "url": "https://www.om.nl/onderwerpen/s/strafzaak-rellen-malieveld/faq",
+      "consulte_le": "2026-10-20"
+    },
+    {
+      "titre": "Code de la justice pénale des mineurs, art. L122-1 (TIG applicable aux mineurs)",
+      "url": "https://librejustice.fr/norm/fr/code-de-la-justice-penale-des-mineurs/l122-1",
+      "consulte_le": "2026-10-20"
+    },
+    {
+      "titre": "Service-Public.fr – Travail d'intérêt général (TIG)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1407",
+      "consulte_le": "2026-10-20"
+    },
+    {
+      "titre": "Sénat – Dossier législatif de la loi n° 2025-568 du 23 juin 2025 (autorité de la justice à l'égard des mineurs délinquants et de leurs parents)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-343.html",
+      "consulte_le": "2026-10-20"
+    },
+    {
+      "titre": "Sénat – Amendement de réécriture de l'article 1er (responsabilité pénale des parents), PPL 2024-2025 n° 343",
+      "url": "https://www.senat.fr/amendements/commissions/2024-2025/343/jeu_classe.html",
+      "consulte_le": "2026-10-20"
+    },
+    {
+      "titre": "Nouvelle Énergie – Sécurité : le projet de David Lisnard",
+      "url": "https://www.unenouvelleenergie.fr/notre-programme/securite/",
+      "consulte_le": "2026-10-20"
+    }
+  ],
+  "notes": "La description YouTube parle des « événements du 16 octobre », alors que la presse situe les violences le 17 octobre. L'interdiction de manifestations à risque de troubles graves est déjà possible pour les préfets ; elle n'est pas isolée comme proposition nouvelle. L'affirmation selon laquelle les forces de l'ordre n'avaient plus de munitions à Limoges à 15 h 35 n'a pas été vérifiée. Le lien direct entre groupuscules d'extrême gauche et l'incendie de Limoges est affirmé par l'auteur ; l'enquête était en cours au 20/10/2026. Transcription non relue, non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-20T14:15:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-20 13:47)"
+}

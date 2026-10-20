@@ -1,0 +1,41 @@
+{
+  "id": "7698674958557269281",
+  "date": "2026-10-20T09:10:51+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7698674958557269281",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7698674958557269281"
+  },
+  "resume": "Extrait vidéo (~49 s, sans légende), très probablement tiré d'une interview radio du 20 octobre 2026 (RTL selon Le Figaro). L'auteur explique pourquoi il emploie le mot « terroristes » : il le définit comme le fait d'« imposer sa volonté politique par la terreur ». Il attribue une « grave responsabilité » à l'extrême gauche, tout en estimant que cela ne doit pas faire oublier une « désorganisation » des pouvoirs publics. Il affirme que d'ex-zadistes de Notre-Dame-des-Landes et des black blocs, parfois venus de l'étranger, se regroupent sur le plateau de Millevaches pour s'entraîner à la « guérilla urbaine », et que des professionnels de la sécurité peinent à obtenir des mises sur écoute de ces groupuscules.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), transcription approximative, pas de légende ; contexte d'après la presse du 20 octobre 2026",
+  "citations": [
+    "imposer sa volonté politique par la terreur",
+    "un problème d'organisation colossale des pouvoirs publics"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [
+    {
+      "titre": "Le Figaro – Incendie de la mairie de Limoges : David Lisnard dénonce les « camps d'entraînement terroristes sur le plateau de Millevaches » (20/10/2026)",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/incendie-de-la-mairie-de-limoges-david-lisnard-denonce-les-camps-d-entrainement-terroristes-sur-le-plateau-de-millevaches-20261020",
+      "consulte_le": "2026-10-20"
+    },
+    {
+      "titre": "Euronews – Incendie de la mairie de Limoges : un suspect interpellé, la Sous-direction antiterroriste est saisie (20/10/2026)",
+      "url": "https://fr.euronews.com/2026/10/20/incendie-de-la-mairie-de-limoges-un-suspect-interpelle-la-sous-direction-antiterroriste-es",
+      "consulte_le": "2026-10-20"
+    },
+    {
+      "titre": "CNCTR – 10e rapport d'activité 2025 (finalités de l'art. L811-3 du CSI)",
+      "url": "https://cms.cnctr.fr/uploads/RAPPORT_CNCTR_2025_d5b15664a7.pdf",
+      "consulte_le": "2026-10-20"
+    }
+  ],
+  "notes": "Résumé seul : aucune mesure n'est formulée dans cet extrait (Le Figaro rapporte, dans la même interview, un appel au « démantèlement » et à l'interdiction des groupuscules violents, d'extrême gauche comme d'extrême droite, qui n'apparaît pas ici). Les affirmations sur des entraînements et du « matériel lourd » sur le plateau de Millevaches ne sont pas établies par l'enquête à ce stade. Faits publiés le 20/10/2026 : un suspect décrit comme activiste d'ultragauche fiché S a été interpellé pour l'incendie de l'hôtel de ville de Limoges, la Sous-direction antiterroriste est co-saisie, le parquet national antiterroriste ne s'était pas encore saisi. Pour mémoire, la loi permet déjà des techniques de renseignement (dont les écoutes) pour prévenir les « violences collectives de nature à porter gravement atteinte à la paix publique » (art. L811-3 5° c du CSI), sous contrôle de la CNCTR ; la difficulté d'obtention évoquée n'a pas été vérifiée. Transcription non relue, non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-20T14:15:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-20 13:47)"
+}
