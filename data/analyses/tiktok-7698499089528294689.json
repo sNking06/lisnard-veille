@@ -1,0 +1,36 @@
+{
+  "id": "7698499089528294689",
+  "date": "2026-10-19T21:48:23+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7698499089528294689",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7698499089528294689"
+  },
+  "resume": "Courte vidéo (~23 s, sans légende) montrant un échange tendu lors d'un débat, dont l'émission n'est pas précisée. L'auteur ironise sur la manière dont, selon lui, une interlocutrice caricature la droite (« faire travailler les enfants », « les manger aussi »), puis lui reproche d'« insulter la vérité ». Il ramène la discussion à l'incendie de l'hôtel de ville de Limoges et affirme que le gardien du bâtiment, rencontré la veille, a été menacé par des « militants d'extrême gauche bien identifiés ». Aucune mesure n'est avancée dans cet extrait.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), transcription approximative, pas de légende ; contexte d'après la presse du 19 octobre 2026",
+  "citations": [
+    "vous insultez la vérité",
+    "l'hôtel de ville a cramé"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [
+    {
+      "titre": "Maire-info – Après les violences urbaines, l'AMF appelle à des rassemblements devant les mairies (19/10/2026)",
+      "url": "https://www.maire-info.com/violences-urbaines/apra-s-les-violences-urbaines-lamf-exprime-a-la-ca-urement-et-la-ra-volte-a-des-maires-et-appelle-a-des-rassemblements-devant-les-mairies-art26-31195",
+      "consulte_le": "2026-10-20"
+    },
+    {
+      "titre": "franceinfo – De nombreux rassemblements organisés devant des mairies, après les violences en marge des manifestations du 17 octobre (19/10/2026)",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/de-nombreux-rassemblements-organises-devant-des-mairies-apres-les-violences-en-marge-des-manifestations-du-17-octobre_8243971.html",
+      "consulte_le": "2026-10-20"
+    }
+  ],
+  "notes": "Résumé seul : échange de débat sans mesure concrète. L'identité de l'interlocutrice et l'émission ne sont pas indiquées dans la publication. L'affirmation selon laquelle le gardien de l'hôtel de ville de Limoges aurait été menacé par des militants d'extrême gauche « bien identifiés » n'a pas été vérifiée. Transcription non relue, non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-20T10:00:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-20 9:47)"
+}
