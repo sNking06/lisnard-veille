@@ -1,0 +1,36 @@
+{
+  "id": "7699046259969019169",
+  "date": "2026-10-21T09:11:41+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7699046259969019169",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7699046259969019169"
+  },
+  "resume": "Vidéo courte (~24 s, sans légende, émission non précisée) sur les moyens de la police nationale. L'auteur s'interroge sur le fait que les policiers nationaux, qu'il dit soutenir, ne soient « pas assez nombreux » ni assez équipés dans un pays qu'il présente comme ayant « le record du monde de la dépense publique », et demande « où va l'argent ». Il cite l'exemple de Limoges le samedi 17 octobre, où les policiers auraient été à court de munitions face aux casseurs à partir de 15 h 35 environ.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende ; contexte de Limoges vérifié dans le communiqué de la préfecture de la Haute-Vienne et la presse régionale",
+  "citations": [
+    "où va l'argent",
+    "dépourvu de toute munition pour résister aux casseurs"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [
+    {
+      "titre": "Préfecture de la Haute-Vienne – Mouvement contestataire du 17/10 : déroulé des faits",
+      "url": "https://www.haute-vienne.gouv.fr/Actualites/Salle-de-presse/Communiques-de-presse/2026/Mouvement-contestataire-du-17-10-Deroule-des-faits",
+      "consulte_le": "2026-10-21"
+    },
+    {
+      "titre": "France 3 Nouvelle-Aquitaine – « 40 fonctionnaires, c'était pas suffisant » : la police a-t-elle manqué de moyens à Limoges ?",
+      "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/40-fonctionnaires-c-etait-pas-suffisant-debordee-par-les-casseurs-la-police-a-t-elle-manque-de-moyens-pour-eviter-l-incendie-de-la-mairie-de-limoges-3436077.html",
+      "consulte_le": "2026-10-21"
+    }
+  ],
+  "notes": "Résumé seul : critique des moyens de la police, aucune mesure concrète à évaluer. Contexte : la préfecture indique que les stocks de départ étaient conformes à la doctrine mais ont été entièrement consommés en quelques heures (près de 1 000 grenades et 410 tirs de LBD sur la journée), avec un réassort effectif dès 17 h 30 et des moyens reçus peu après 18 h ; le maire de Limoges et un syndicat policier évoquent une absence de munitions dès le milieu d'après-midi (Sud Ouest titre « À 15h15 »). L'heure exacte varie selon les sources. Sur le « record du monde de la dépense publique », voir la carte TikTok 7697577088445877536 (Insee/Eurostat : France 57,2 % du PIB en 2025, record non confirmé). Transcription non relue, non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-21T14:05:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-21 13:47)"
+}
