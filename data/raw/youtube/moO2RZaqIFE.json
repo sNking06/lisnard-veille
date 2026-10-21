@@ -1,0 +1,20 @@
+{
+  "id": "moO2RZaqIFE",
+  "reseau": "youtube",
+  "compte": "@david_lisnard",
+  "url": "https://www.youtube.com/watch?v=moO2RZaqIFE",
+  "embed": {
+    "type": "youtube",
+    "video_id": "moO2RZaqIFE"
+  },
+  "statut": "ok",
+  "date": "2026-10-21T12:27:48+00:00",
+  "titre": "David Lisnard  : discours à Cannes du 19 octobre",
+  "description": "Réécoutez mon discours prononcé à Cannes le 19 octobre, à la suite des événements survenus le samedi 17 octobre dernier.\n\nSuivez moi sur mes réseaux : \n\nInstagram : https://www.instagram.com/davidlisnard/\nX : https://x.com/davidlisnard\nFacebook : https://www.facebook.com/lisnard.david\nTik Tok : https://www.tiktok.com/@david.lisnard\nLinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/\n\nAdhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion",
+  "duree_s": 755,
+  "vues": 3712,
+  "transcription": {
+    "fichier": "data/transcripts/youtube-moO2RZaqIFE.txt",
+    "source": "sous-titres YouTube automatiques (non relus)"
+  }
+}
