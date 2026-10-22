@@ -1,0 +1,63 @@
+{
+  "id": "7699201557102972193",
+  "date": "2026-10-21T19:14:18+00:00",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7699201557102972193",
+  "integration": {
+    "type": "tiktok",
+    "id": "7699201557102972193"
+  },
+  "resume": "Extrait d'interview (~38 s, sans légende, émission non précisée). Interrogé sur sa proposition de construire 20 000 places de prison, dont le journaliste estime le coût à 8 milliards d'euros sur la base de 400 000 € la place cités par Gérald Darmanin, l'auteur répond que l'investissement est « amortissable » et que « ce qui coûte très très cher, c'est le désordre ». Il évoque une dépense publique de 57 % de la richesse produite, une surpopulation carcérale « indigne d'une démocratie » (environ 63 000 places pour 80 000 détenus selon lui) et un manque de 15 000 à 25 000 places depuis 20 ans.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende ; chiffres vérifiés auprès du ministère de la Justice et du Sénat",
+  "citations": [
+    "ce qui coûte très très cher c'est le désordre",
+    "indigne d'une démocratie"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Construire 20 000 places de prison supplémentaires.",
+      "cout": "Environ 8 Md€ d'investissement sur la base de 400 000 € par place classique (chiffre du ministère de la Justice) ; environ 4 Md€ si les places étaient modulaires (200 000 € par place selon le ministère). Coûts de fonctionnement et de personnel non chiffrés dans l'extrait. Le caractère « amortissable » avancé n'est pas étayé.",
+      "cadre_juridique": "Programme immobilier de l'État (lois de finances, éventuellement loi de programmation justice) ; procédures d'urbanisme et environnementales. La Cour des comptes juge nécessaire d'adapter le cadre législatif de construction des prisons pour réduire les délais.",
+      "competence": "État (ministère de la Justice) ; collectivités pour le foncier et l'urbanisme.",
+      "precedents": "Plan « 15 000 places » lancé en 2018 : au 20 août 2026, 5 531 places nettes livrées et densité carcérale de 141,9 % (89 818 détenus pour 63 289 places), selon le ministère. Une prison classique demande environ 7 ans ; les prisons modulaires lancées en 2025 visent 18 mois.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Financement pluriannuel de l'ordre de 4 à 8 Md€ hors fonctionnement.",
+        "Foncier disponible et procédures accélérées.",
+        "Recrutement de personnels pénitentiaires.",
+        "Calendrier réaliste : le précédent plan a livré environ un tiers de son objectif en huit ans."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Calendrier non précisé dans l'extrait. Le nombre de détenus cité (« 80 000 ») est inférieur au chiffre du ministère (89 818 au 20/08/2026). La comparaison du taux d'incarcération avec une « moyenne nationale » est probablement une erreur de sous-titres (moyenne européenne ?), non vérifiée."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Ministère de la Justice – Construction de prisons modulaires (400 000 € par place classique, 200 000 € en modulaire)",
+      "url": "https://www.justice.gouv.fr/actualites/espace-presse/construction-prisons-modulaires-0",
+      "consulte_le": "2026-10-22"
+    },
+    {
+      "titre": "Sénat – Question orale « Financement des nouvelles places de prison », réponse de Gérald Darmanin",
+      "url": "https://www.senat.fr/questions/base/2025/qSEQ25060398G.html",
+      "consulte_le": "2026-10-22"
+    },
+    {
+      "titre": "Question écrite n° 16946 « Plan prison : où en sommes-nous ? », réponse du ministère de la Justice (Assemblée nationale)",
+      "url": "https://questions.assemblee-nationale.fr/q17/17-16946QE.htm",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "Audit flash « Le plan 15 000 places de prison » (Cour des comptes, déc. 2025)",
+      "url": "https://www.ccomptes.fr/sites/default/files/2025-12/20251217-Plan-15000-places-de-prison.pdf",
+      "consulte_le": "2026-10-15"
+    }
+  ],
+  "notes": "Même mesure que sur la carte du site « Au Crayon » (20 000 places). Sur les 57 % de dépense publique, voir la carte TikTok 7697577088445877536. Transcription non relue, non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-22T10:00:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-22 09:47)",
+  "statut": "ok",
+  "source": "tiktok"
+}
