@@ -1,0 +1,20 @@
+{
+  "id": "2113260510447562861",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-22T13:25:42.000Z",
+  "url": "https://x.com/davidlisnard/status/2113260510447562861",
+  "texte": "À tous les idiots utiles de l’extrême gauche. https://t.co/z6dp5gRGpZ",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 82,
+    "impression_count": 32426,
+    "like_count": 1527,
+    "quote_count": 27,
+    "reply_count": 112,
+    "retweet_count": 293
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

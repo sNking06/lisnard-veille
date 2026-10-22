@@ -1,0 +1,24 @@
+{
+  "id": "2113260153583669567",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-22T13:24:17.000Z",
+  "url": "https://x.com/davidlisnard/status/2113260153583669567",
+  "texte": "Inacceptable aveu d’impuissance et renversement total des principes.\nLes commerçants paient les réparations, paient des impôts pour que l’Etat assure leur sécurité, et devraient payer une troisième fois pour une sécurité privée. \n\nIncapable de remplir cette mission première, l’Etat leur demande de payer des entreprises de sécurité. Des coûts en plus et donc des revenus en moins, dans une période difficile. Et toujours la même injustice : les premières victimes seront les plus modestes, qui ne peuvent se payer ces protections.\nAvec @nouv_energie, restaurons vite l’Etat, au service de tous, et surtout de ceux qui en ont le plus besoin.",
+  "citation": {
+    "id": "2113190676175192171",
+    "texte": "🔴 EN DIRECT\nLa préfecture de police de Paris invite les commerçants à recourir à des agents privés avant les prochaines manifestations\nhttps://t.co/HRCc4P7uKN https://t.co/QJmdEhC5GZ",
+    "auteur_id": "133663801"
+  },
+  "metriques": {
+    "bookmark_count": 48,
+    "impression_count": 39385,
+    "like_count": 3647,
+    "quote_count": 15,
+    "reply_count": 129,
+    "retweet_count": 713
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
