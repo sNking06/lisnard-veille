@@ -1,0 +1,25 @@
+{
+  "id": "7699413472437751073",
+  "date": "2026-10-22T08:56:42+00:00",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7699413472437751073",
+  "integration": {
+    "type": "tiktok",
+    "id": "7699413472437751073"
+  },
+  "resume": "Court extrait (~21 s, sans légende, contexte non précisé). L'auteur met en cause la responsabilité des gouvernements, qu'il qualifie notamment d'imprévoyants et d'incompétents, déclare ne plus accepter « un chef de l'État qui ne chef pas l'État mais qui voudrait organiser la société », ni « les incantations hypocrites » et « les postures théâtrales », et dit souhaiter que la France « retrouve sa grandeur ». Aucune mesure concrète n'est présentée.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "les incantations hypocrites",
+    "que la France retrouve sa grandeur"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : prise de position sans mesure évaluable. Formulations proches de l'extrait de Limoges déjà résumé (TikTok 7698307864166780193). Les jugements politiques de l'auteur ne sont pas évalués. Transcription non relue, conservée en local et non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-22T14:00:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-22 13:47)",
+  "statut": "ok",
+  "source": "tiktok"
+}

@@ -7,7 +7,14 @@
     "type": "youtube",
     "video_id": "Zhcb9DIu35U"
   },
-  "statut": "degraded",
-  "date": null,
-  "erreur": "[Errno 2] No such file or directory: '/tmp/tmplk5oe44m/Zhcb9DIu35U.info.json'"
+  "statut": "ok",
+  "date": "2026-10-22T10:30:05+00:00",
+  "titre": "David Lisnard invité de ICI matin Côte d'Azur sur France 3",
+  "description": "J'étais l'invité de ICI matin Côte d'Azur sur France 3 ce 22 octobre. Re visualiser en intégralité ! \n\nSuivez moi sur mes réseaux : \n\nInstagram : https://www.instagram.com/davidlisnard/\nX : https://x.com/davidlisnard\nFacebook : https://www.facebook.com/lisnard.david\nTik Tok : https://www.tiktok.com/@david.lisnard\nLinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/\n\nAdhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion",
+  "duree_s": 589,
+  "vues": 2852,
+  "transcription": {
+    "fichier": "data/transcripts/youtube-Zhcb9DIu35U.txt",
+    "source": "sous-titres YouTube automatiques (non relus)"
+  }
 }
