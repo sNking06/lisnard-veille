@@ -1,0 +1,20 @@
+{
+  "id": "2113516159215788107",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-23T06:21:34.000Z",
+  "url": "https://x.com/davidlisnard/status/2113516159215788107",
+  "texte": "En kiosque, dernier numéro @LePoint : 8 pages sur notre démarche pour la présidentielle dont 4 d’interview. https://t.co/An2K2o3tk0",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 9,
+    "impression_count": 7895,
+    "like_count": 591,
+    "quote_count": 8,
+    "reply_count": 20,
+    "retweet_count": 126
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

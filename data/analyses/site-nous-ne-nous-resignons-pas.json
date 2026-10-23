@@ -1,0 +1,78 @@
+{
+  "id": "nous-ne-nous-resignons-pas",
+  "date": "2026-10-22T15:40:49.235Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/nous-ne-nous-resignons-pas/",
+  "statut": "ok",
+  "integration": {
+    "type": "none",
+    "id": "nous-ne-nous-resignons-pas"
+  },
+  "titre": "« Nous ne nous résignons pas »",
+  "resume": "Compte rendu, par le site de Nouvelle Énergie, d'un entretien sur TF1 après les émeutes et l'incendie de l'hôtel de ville de Limoges. L'auteur y juge l'État impuissant (« une fiction ») et défend : une refonte des protocoles d'intervention de la police pour agir plus vite (exemple des Pays-Bas), le recours possible à l'état d'urgence pour des perquisitions administratives, une révision du droit pénal des mineurs avec responsabilisation des parents, et des travaux d'intérêt général pour rénover le patrimoine dégradé. Il défend la liberté de manifester, juge qu'une interdiction serait un constat d'échec, et met en cause la responsabilité politique de Jean-Luc Mélenchon et de l'extrême gauche comme celle des gouvernants.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie (l'entretien TF1 lui-même n'a pas été visionné)",
+  "citations": [
+    "L’État est devenu une fiction.",
+    "Nous ne nous résignons pas. Nous ne voulons pas accepter l'effondrement de la France."
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Recourir à l'état d'urgence, notamment pour permettre des perquisitions administratives.",
+      "cout": "Non établi (mesure juridique ; coûts opérationnels non chiffrés).",
+      "cadre_juridique": "Loi n° 55-385 du 3 avril 1955 : état d'urgence déclaré par décret en Conseil des ministres, prorogation au-delà de 12 jours par une loi ; l'article 11 permet, si le décret le prévoit expressément, des perquisitions administratives de jour comme de nuit dans les zones fixées, lorsqu'il existe des raisons sérieuses de penser qu'un lieu est fréquenté par une personne menaçant l'ordre public. Le Conseil constitutionnel (2016-536 QPC) a validé ce régime sous conditions et censuré la copie des données informatiques sans encadrement.",
+      "competence": "État (Président de la République et Conseil des ministres pour la déclaration ; Parlement pour la prorogation ; préfets pour les perquisitions), sous le contrôle du juge administratif.",
+      "precedents": "Émeutes de novembre 2005 : état d'urgence déclaré (décret n° 2005-1387) avec activation des perquisitions de l'article 11 ; état d'urgence de 2015 à 2017 après les attentats.",
+      "verdict": "faisable",
+      "conditions": [
+        "Décret en Conseil des ministres caractérisant un péril imminent ou des troubles graves à l'ordre public.",
+        "Perquisitions motivées, limitées aux zones fixées et contrôlables par le juge.",
+        "Loi de prorogation au-delà de 12 jours."
+      ],
+      "fiabilite": "haute",
+      "doutes": "La publication ne précise ni le périmètre géographique ni la durée envisagés ; l'efficacité de la mesure contre les violences urbaines n'est pas évaluée ici."
+    },
+    {
+      "texte": "Faire réaliser par les auteurs de dégradations des travaux d'intérêt général consacrés à la rénovation du patrimoine dégradé.",
+      "cout": "Non établi. Le TIG suppose un encadrement par la structure d'accueil et par le SPIP ou la PJJ (pour les mineurs) ; coût non chiffré dans la publication.",
+      "cadre_juridique": "Le TIG existe déjà (art. 131-8 du Code pénal, 20 à 400 heures) et requiert l'accord du condamné, recueilli lors du jugement. Pour les mineurs, il est possible à partir de 16 ans au moment de la décision si le mineur avait au moins 13 ans au moment des faits, et doit être adapté et formateur (art. L122-1 du Code de la justice pénale des mineurs). La réparation pénale est aussi possible pour les mineurs. Orienter les TIG vers les biens publics dégradés ne demande pas de nouvelle loi, sous réserve de postes de TIG adaptés.",
+      "competence": "État (juridictions, SPIP, PJJ) ; collectivités et associations comme structures d'accueil des TIG.",
+      "precedents": "Le TIG est prononcé en France depuis 1983 ; des collectivités accueillent déjà des tigistes pour l'entretien d'espaces publics. Une affectation systématique au patrimoine dégradé lors d'émeutes : non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Accord du condamné (à défaut, autre peine).",
+        "Disponibilité de postes de TIG sûrs et encadrés sur des chantiers de rénovation (compétences techniques, assurance).",
+        "Âge minimal de 16 ans au jugement pour les mineurs."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "La publication précise elle-même « dans le cadre légal approprié » sans détailler ; le volume de condamnés concernés et la capacité d'accueil des chantiers ne sont pas connus."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Conseil constitutionnel – Décision n° 2016-536 QPC du 19 février 2016",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2016/2016536QPC.htm",
+      "consulte_le": "2026-10-23"
+    },
+    {
+      "titre": "Assemblée nationale – Rapport n° 2675 (Ph. Houillon) sur la prorogation de l'état d'urgence de 2005",
+      "url": "https://www.assemblee-nationale.fr/12/rapports/r2675.asp",
+      "consulte_le": "2026-10-23"
+    },
+    {
+      "titre": "Ministère de la Justice – Le travail d'intérêt général",
+      "url": "https://www.justice.gouv.fr/actualites/actualite/travail-dinteret-general",
+      "consulte_le": "2026-10-23"
+    },
+    {
+      "titre": "Code de la justice pénale des mineurs, art. L122-1",
+      "url": "https://librejustice.fr/norm/fr/code-de-la-justice-penale-des-mineurs/l122-1",
+      "consulte_le": "2026-10-23"
+    }
+  ],
+  "notes": "Deux autres orientations ne sont pas évaluées séparément : la refonte des protocoles d'intervention de la police (déjà analysée dans la carte X 2111441119066099873, faisable sous conditions) et la révision du droit pénal des mineurs avec responsabilisation des parents (non détaillée). Le manque de munitions à Limoges « dès 15h35 » est rapporté par l'auteur et n'a pas été vérifié.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-23T10:00:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-23 09:47)"
+}
