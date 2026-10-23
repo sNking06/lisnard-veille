@@ -1,0 +1,120 @@
+{
+  "id": "quand-macron-a-parle-pas-un-casseur-na-tremble",
+  "date": "2026-10-23T09:14:42.445Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/quand-macron-a-parle-pas-un-casseur-na-tremble/",
+  "statut": "ok",
+  "integration": {
+    "type": "none",
+    "id": "quand-macron-a-parle-pas-un-casseur-na-tremble"
+  },
+  "titre": "« Quand Macron a parlé, pas un casseur n’a tremblé »",
+  "resume": "Entretien accordé au Point, repris sur le site de Nouvelle Énergie. L'auteur juge l'allocution présidentielle « creuse » et estime que l'État a failli dans le maintien de l'ordre le 17 octobre (renseignement, équipements, munitions à Limoges). Il attribue la responsabilité d'abord aux casseurs, en grande partie à l'extrême gauche et à LFI, mais aussi aux gouvernants, et évoque une « surreprésentation de l'immigration » parmi les émeutiers. Il propose notamment : majorité pénale à 16 ans, excuse de minorité réduite, responsabilité financière des parents, établissements disciplinaires fermés et TIG, fichier et pointage des casseurs, répression des cagoules, dissolution des groupuscules violents, baisse « drastique » de l'immigration. Il juge qu'avancer la présidentielle « peut se poser ».",
+  "base_du_resume": "texte de l'entretien publié sur le site Nouvelle Énergie",
+  "citations": [
+    "pas un casseur n’a tremblé en l’écoutant",
+    "Il faut agir vite et fort, comme on le fait face à un incendie."
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Abaisser la majorité pénale à 16 ans et réduire l'« excuse de minorité » (aujourd'hui la moitié de la peine encourue) « à 20 ou 30 % ».",
+      "cout": "Non établi (effets sur la population carcérale des 16-18 ans non chiffrés dans la publication).",
+      "cadre_juridique": "Aujourd'hui, un mineur ne peut être condamné à plus de la moitié de la peine privative de liberté encourue (art. L121-5 du Code de la justice pénale des mineurs) ; au-delà de 16 ans, le juge peut écarter cette atténuation à titre exceptionnel et par décision spécialement motivée (art. L121-7). Le Conseil constitutionnel fait de l'atténuation de la responsabilité pénale des mineurs selon l'âge un principe fondamental reconnu par les lois de la République ; en juin 2025 (décision 2025-886 DC), il a censuré une disposition qui faisait de l'absence d'atténuation la règle pour certains mineurs de plus de 16 ans récidivistes. La Convention internationale des droits de l'enfant définit l'enfant comme toute personne de moins de 18 ans.",
+      "competence": "État (Parlement : loi pénale ; contrôle du Conseil constitutionnel).",
+      "precedents": "Plusieurs propositions de ce type ont été déposées ces dernières années ; la loi de 2025 qui allait dans ce sens a été partiellement censurée. Aucun précédent français de majorité pénale fixée à 16 ans sous le régime actuel.",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Respect du principe constitutionnel d'atténuation selon l'âge (sans doute révision constitutionnelle si l'atténuation disparaît pour les 16-18 ans).",
+        "Compatibilité avec la Convention internationale des droits de l'enfant.",
+        "Places adaptées pour les mineurs détenus."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "La formule « porter de 50 % à 20 ou 30 % » est ambiguë (réduction de la peine ou part de la peine) ; la proposition proche, analysée dans la carte YouTube XUUzaVk2ntc, était moins précise."
+    },
+    {
+      "texte": "Créer un fichier opérationnel des casseurs et les obliger à pointer pendant les manifestations.",
+      "cout": "Non établi (création et gestion d'un fichier, mobilisation des services pour les pointages).",
+      "cadre_juridique": "Le juge peut déjà prononcer une interdiction de participer à des manifestations comme peine complémentaire (art. 131-32-1 du Code pénal), inscrite au fichier des personnes recherchées. En revanche, le Conseil constitutionnel (2019-780 DC) a censuré l'interdiction administrative individuelle de manifester prévue par la loi de 2019, qui pouvait s'accompagner d'une obligation de répondre aux convocations d'une autorité pendant la manifestation, en la jugeant disproportionnée. Un fichier de police nouveau suppose une loi ou un décret en Conseil d'État après avis de la CNIL.",
+      "competence": "État (Parlement, ministère de l'Intérieur, juridictions).",
+      "precedents": "Proposition de loi « anticasseurs » de 2018-2019 : volet administratif censuré en 2019. Le pointage pendant les matchs existe pour les interdictions de stade (supporters).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Passer par une décision du juge (peine complémentaire avec obligation de pointage) plutôt que par une mesure administrative préventive.",
+        "Encadrement du fichier (finalité, durée de conservation, accès) avec avis de la CNIL."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "La publication ne dit pas si l'inscription et le pointage seraient décidés par un juge ou par l'administration ; c'est ce point qui décide de la faisabilité."
+    },
+    {
+      "texte": "Interdire « pour de bon » les cagoules dans les cortèges en en faisant une circonstance aggravante, et permettre d'interpeller avant tout passage à l'acte les personnes transportant mortiers, objets contondants ou cagoules lors d'une manifestation.",
+      "cout": "Non établi (mesure juridique).",
+      "cadre_juridique": "Une grande partie existe déjà : depuis la loi du 10 avril 2019, dissimuler volontairement son visage sans motif légitime au sein ou aux abords d'une manifestation où des troubles sont commis ou risquent manifestement de l'être est un délit puni d'un an de prison et 15 000 € d'amende (art. 431-9-1 du Code pénal), ce qui permet l'interpellation et la garde à vue ; participer à une manifestation porteur d'une arme est puni de 3 ans (art. 431-10) ; participer à un groupement préparant des violences ou des dégradations, caractérisé par des faits matériels, est puni d'un an (art. 222-14-2). Le Code pénal prévoit aussi déjà, pour certaines infractions comme les violences, une aggravation lorsque l'auteur dissimule son visage.",
+      "competence": "État (Parlement pour d'éventuels ajouts ; police et parquet pour l'application).",
+      "precedents": "Loi n° 2019-290 du 10 avril 2019, dont l'article créant le délit de dissimulation du visage a été validé par le Conseil constitutionnel (2019-780 DC).",
+      "verdict": "faisable",
+      "conditions": [
+        "Pour aller au-delà du droit actuel : définir précisément les objets visés et le lien avec un risque de violences, pour ne pas porter une atteinte disproportionnée à la liberté de manifester."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "La publication semble présenter comme nouvelles des règles qui existent en partie ; l'enjeu réel porte peut-être sur leur application, que la publication ne détaille pas."
+    },
+    {
+      "texte": "Démanteler, lorsque les conditions légales sont réunies, les groupuscules violents d'extrême gauche comme d'extrême droite (« supprimer toutes les factions et groupuscules d'extrême gauche qui pratiquent la violence », selon l'entretien au Point).",
+      "cout": "Non établi (renseignement et procédures).",
+      "cadre_juridique": "L'article L212-1 du Code de la sécurité intérieure permet de dissoudre par décret en Conseil des ministres une association ou un groupement de fait qui provoque à des agissements violents contre les personnes ou les biens. Le Conseil d'État (9 novembre 2023) a jugé ce texte d'interprétation stricte : la dissolution doit être adaptée, nécessaire et proportionnée ; il a ainsi annulé celle des Soulèvements de la Terre tout en validant d'autres dissolutions.",
+      "competence": "État (Président de la République et Conseil des ministres ; contrôle du Conseil d'État).",
+      "precedents": "Dissolutions fréquentes de groupements d'ultradroite et d'ultragauche depuis 2019 (par exemple GALE, validée en 2023) ; annulation pour les Soulèvements de la Terre.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Éléments précis montrant que le groupement lui-même provoque à la violence (pas seulement des actes de certains membres).",
+        "Mesure proportionnée, contrôlée par le Conseil d'État.",
+        "Suivi de la reconstitution par le renseignement."
+      ],
+      "fiabilite": "haute",
+      "doutes": "Aucun groupement n'est nommé ; la faisabilité dépend de chaque dossier. Les accusations visant des groupes précis pour les violences du 17/10 sont celles de l'auteur et ne sont pas évaluées ici."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Légifrance – Code de la justice pénale des mineurs, art. L121-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039087995",
+      "consulte_le": "2026-10-23"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision n° 2025-886 DC du 19 juin 2025 (communiqué)",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2025-886-dc-du-19-juin-2025-communique-de-presse",
+      "consulte_le": "2026-10-23"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision n° 2019-780 DC du 4 avril 2019",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2019/2019780DC.htm",
+      "consulte_le": "2026-10-23"
+    },
+    {
+      "titre": "Légifrance – Code pénal, art. 431-9-1 (dissimulation du visage en manifestation)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038382669",
+      "consulte_le": "2026-10-23"
+    },
+    {
+      "titre": "Ministère de la Justice – Circulaire de présentation de la loi n° 2019-290 du 10 avril 2019",
+      "url": "https://www.justice.gouv.fr/sites/default/files/migrations/portail/bo/2019/20190513/JUSD1911096C.pdf",
+      "consulte_le": "2026-10-23"
+    },
+    {
+      "titre": "Légifrance – Code pénal, art. 222-14-2 (participation à un groupement en vue de violences ou de dégradations)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021926074",
+      "consulte_le": "2026-10-23"
+    },
+    {
+      "titre": "Conseil d'État – Soulèvements de la Terre, GALE, Alvarium, CRI : critères de dissolution (9 novembre 2023)",
+      "url": "https://www.conseil-etat.fr/actualites/soulevements-de-la-terre-gale-alvarium-cri-le-conseil-d-etat-precise-les-criteres-justifiant-la-dissolution-d-une-association-ou-d-un-groupement",
+      "consulte_le": "2026-10-23"
+    }
+  ],
+  "notes": "Mesures déjà analysées ailleurs et non réévaluées : doctrine d'intervention (carte X 2111441119066099873), parents solvables qui paient et retenue sur les aides sociales (TikTok 7696175818711518496), TIG pour les parents (YouTube 2TmA1q5CsEY), établissements disciplinaires (TikTok 7697694581676051745). Non évalués faute de précision : baisse de l'immigration, responsabilité des magistrats sur des résultats, OQTF « obligatoires », démantèlement des filières d'armes, expulsion des logements sociaux. Chiffres cités non vérifiés ici : 500 000 entrées légales par an, croissance de 0,4 %, 340 Md€ d'emprunt, 7 % d'intentions de vote (Cluster17), camps d'entraînement de black blocs.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-23T14:00:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-23 13:47)"
+}

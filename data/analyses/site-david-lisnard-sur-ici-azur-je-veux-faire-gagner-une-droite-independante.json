@@ -1,0 +1,26 @@
+{
+  "id": "david-lisnard-sur-ici-azur-je-veux-faire-gagner-une-droite-independante",
+  "date": "2026-10-23T09:09:04.579Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/david-lisnard-sur-ici-azur-je-veux-faire-gagner-une-droite-independante/",
+  "statut": "ok",
+  "integration": {
+    "type": "none",
+    "id": "david-lisnard-sur-ici-azur-je-veux-faire-gagner-une-droite-independante"
+  },
+  "titre": "David Lisnard sur ICI Azur : « Je veux faire gagner une droite indépendante »",
+  "resume": "Compte rendu, par le site de Nouvelle Énergie, d'une interview sur ICI Azur. L'auteur y dénonce l'« instrumentalisation » des drames historiques par La France insoumise, tout en jugant que la responsabilité de l'extrême gauche ne doit pas masquer celle des gouvernements. Il demande une révision de la doctrine de maintien de l'ordre (intervenir plus tôt, meilleur renseignement, réponse judiciaire rapide) et défend la liberté de manifester (« le problème, ce n'est pas l'interdiction »). Il redit son souhait d'une grande primaire ouverte de la droite et du centre et exclut toute alliance avec Marine Le Pen, comme avec Édouard Philippe.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie (l'interview elle-même n'a pas été écoutée)",
+  "citations": [
+    "Plus on intervient tôt sur le problème, moins le problème se répand.",
+    "Je n’irai pas avec Marine Le Pen."
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : la révision de la doctrine de maintien de l'ordre a déjà été analysée (carte X 2111441119066099873, faisable sous conditions) ; la primaire et les alliances relèvent de la stratégie électorale et ne sont pas évaluées.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-23T14:00:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-23 13:47)"
+}

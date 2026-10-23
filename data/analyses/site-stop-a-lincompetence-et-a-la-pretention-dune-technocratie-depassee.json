@@ -1,0 +1,78 @@
+{
+  "id": "stop-a-lincompetence-et-a-la-pretention-dune-technocratie-depassee",
+  "date": "2026-10-23T09:17:12.220Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/stop-a-lincompetence-et-a-la-pretention-dune-technocratie-depassee/",
+  "statut": "ok",
+  "integration": {
+    "type": "none",
+    "id": "stop-a-lincompetence-et-a-la-pretention-dune-technocratie-depassee"
+  },
+  "titre": "« Stop à l’incompétence et à la prétention d’une technocratie dépassée »",
+  "resume": "Entretien accordé au Figaro Magazine, repris sur le site de Nouvelle Énergie. L'auteur fait du retour à l'ordre un enjeu majeur de la présidentielle et propose une doctrine d'intervention immédiate et ciblée, l'usage de l'IA et des drones, des sanctions rapides dès la première infraction, le rétablissement des peines plancher, la majorité pénale à 16 ans, des établissements disciplinaires fermés pour mineurs et la responsabilité financière des parents. Comme président de l'AMF, il rappelle que les maires ne commandent ni les forces de l'État ni la justice. Il présente aussi son livre sur l'IA et les robots, évoque la visite de Léon XIV, l'IA dans la création et la souveraineté technologique.",
+  "base_du_resume": "texte de l'entretien publié sur le site Nouvelle Énergie",
+  "citations": [
+    "Les maires ne peuvent pas compenser à eux seuls la défaillance du régalien.",
+    "non pas la machine qui remplace l’homme, mais celle qui le relève"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Rétablir les peines plancher.",
+      "cout": "Non établi (hausse probable du nombre et de la durée des incarcérations, non chiffrée).",
+      "cadre_juridique": "Les peines minimales en cas de récidive créées par la loi du 10 août 2007 (art. 132-18-1 et 132-19-1 du Code pénal) ont été jugées conformes à la Constitution (décision 2007-554 DC), parce que le juge pouvait descendre sous le seuil par décision motivée. Elles ont été abrogées par la loi du 15 août 2014, à compter du 1er octobre 2014. Un rétablissement passe par une loi.",
+      "competence": "État (Parlement).",
+      "precedents": "France, 2007 à 2014 : peines minimales applicables aux récidivistes, majeurs comme mineurs.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Laisser au juge une possibilité de déroger par décision motivée (condition de la validation de 2007).",
+        "Pour les mineurs, respect du principe d'atténuation des peines.",
+        "Capacité carcérale suffisante."
+      ],
+      "fiabilite": "haute",
+      "doutes": "La publication ne précise ni le champ (récidive seulement ou primo-délinquants) ni les seuils ; l'effet des peines plancher sur la récidive n'est pas évalué ici."
+    },
+    {
+      "texte": "Abaisser la majorité pénale à 16 ans et réduire l'« excuse de minorité » (aujourd'hui la moitié de la peine encourue) « à 20 ou 30 % ».",
+      "cout": "Non établi (effets sur la population carcérale des 16-18 ans non chiffrés dans la publication).",
+      "cadre_juridique": "Aujourd'hui, un mineur ne peut être condamné à plus de la moitié de la peine privative de liberté encourue (art. L121-5 du Code de la justice pénale des mineurs) ; au-delà de 16 ans, le juge peut écarter cette atténuation à titre exceptionnel et par décision spécialement motivée (art. L121-7). Le Conseil constitutionnel fait de l'atténuation de la responsabilité pénale des mineurs selon l'âge un principe fondamental reconnu par les lois de la République ; en juin 2025 (décision 2025-886 DC), il a censuré une disposition qui faisait de l'absence d'atténuation la règle pour certains mineurs de plus de 16 ans récidivistes. La Convention internationale des droits de l'enfant définit l'enfant comme toute personne de moins de 18 ans.",
+      "competence": "État (Parlement : loi pénale ; contrôle du Conseil constitutionnel).",
+      "precedents": "Plusieurs propositions de ce type ont été déposées ces dernières années ; la loi de 2025 qui allait dans ce sens a été partiellement censurée. Aucun précédent français de majorité pénale fixée à 16 ans sous le régime actuel.",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Respect du principe constitutionnel d'atténuation selon l'âge (sans doute révision constitutionnelle si l'atténuation disparaît pour les 16-18 ans).",
+        "Compatibilité avec la Convention internationale des droits de l'enfant.",
+        "Places adaptées pour les mineurs détenus."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "La formule « porter de 50 % à 20 ou 30 % » est ambiguë (réduction de la peine ou part de la peine) ; la proposition proche, analysée dans la carte YouTube XUUzaVk2ntc, était moins précise."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Conseil constitutionnel – Décision n° 2007-554 DC du 9 août 2007 (peines minimales)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2007/2007554DC.htm",
+      "consulte_le": "2026-10-23"
+    },
+    {
+      "titre": "Légifrance – Loi n° 2014-896 du 15 août 2014 (abrogation des peines minimales)",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029362502/2026-04-20",
+      "consulte_le": "2026-10-23"
+    },
+    {
+      "titre": "Légifrance – Code de la justice pénale des mineurs, art. L121-7",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039087995",
+      "consulte_le": "2026-10-23"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision n° 2025-886 DC du 19 juin 2025 (communiqué)",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2025-886-dc-du-19-juin-2025-communique-de-presse",
+      "consulte_le": "2026-10-23"
+    }
+  ],
+  "notes": "Mesures déjà analysées ailleurs : doctrine d'intervention (carte X 2111441119066099873), établissements disciplinaires (TikTok 7697694581676051745), parents et retenue sur les aides sociales (TikTok 7696175818711518496). Les propos sur l'IA, la retraite par capitalisation (déjà analysée, YouTube R0W-wEevJB4) et la souveraineté technologique sont résumés sans évaluation. « Police municipale dans 14 % des communes » non vérifié.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-23T14:00:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-23 13:47)"
+}
