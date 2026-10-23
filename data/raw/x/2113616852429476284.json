@@ -1,0 +1,20 @@
+{
+  "id": "2113616852429476284",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-23T13:01:41.000Z",
+  "url": "https://x.com/davidlisnard/status/2113616852429476284",
+  "texte": "Mes pensées vont aux victimes de la fusillade dans les Yvelines, à leurs familles et à leurs proches.\n\nJe salue les forces de l’ordre qui ont interpellé le suspect, ainsi que les secours mobilisés auprès des victimes.\n\nNous attendons que toute la lumière soit faite sur cet acte effroyable, afin d’en connaître les motivations pour en évaluer la portée, au delà de l’immense tragédie qu’affrontent les familles des victimes.",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 40,
+    "impression_count": 98368,
+    "like_count": 2892,
+    "quote_count": 69,
+    "reply_count": 451,
+    "repost_count": 297
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

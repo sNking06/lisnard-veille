@@ -1,0 +1,25 @@
+{
+  "id": "7699858149351738656",
+  "date": "2026-10-23T13:42:14+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7699858149351738656",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7699858149351738656"
+  },
+  "resume": "Vidéo d'environ 35 s, sans légende, extraite d'une intervention (émission non précisée). L'auteur attribue une « grave responsabilité » à l'extrême gauche, qu'il accuse d'attiser les violences et d'instrumentaliser une partie des jeunes et de la population immigrée, tout en mettant aussi en cause les gouvernements successifs depuis des décennies. Il évoque les manifestations du samedi précédent et le soir d'une victoire du PSG, où un préfet lui aurait raccroché au nez alors que des voitures brûlaient sur la Croisette.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus)",
+  "citations": [
+    "l'extrême gauche a une grave responsabilité",
+    "vous n'avez pas fait ce qu'il fallait"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : critique politique, aucune mesure. L'épisode du préfet est rapporté par l'auteur et n'a pas été vérifié. Transcription non relue, non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-23T18:00:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-23 17:47)"
+}
