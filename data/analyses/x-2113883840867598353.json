@@ -1,0 +1,19 @@
+{
+  "id": "2113883840867598353",
+  "date": "2026-10-24T06:42:36.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2113883840867598353",
+  "statut": "ok",
+  "integration": {"type": "x", "id": "2113883840867598353"},
+  "resume": "Annonce de la parution, le jour même, d'une interview dans Le Figaro Magazine. Selon la publication, l'entretien porte sur la situation du pays et les émeutes, la démarche de l'auteur pour l'élection présidentielle, ainsi que sur la robotique, l'intelligence artificielle et l'avenir. La publication est accompagnée de deux images.",
+  "base_du_resume": "texte de la publication (l'article du Figaro Magazine lui-même n'a pas été consulté)",
+  "citations": ["On y parle bien sûr de la situation du pays et des émeutes"],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : annonce de presse, aucune mesure. Le contenu de l'interview n'est pas résumé ici faute d'accès à l'article.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-24T10:00:00+02:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-24 09:47)"
+}

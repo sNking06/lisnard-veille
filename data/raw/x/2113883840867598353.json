@@ -1,0 +1,20 @@
+{
+  "id": "2113883840867598353",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-24T06:42:36.000Z",
+  "url": "https://x.com/davidlisnard/status/2113883840867598353",
+  "texte": "En kiosque ce jour ! On y parle bien sûr de la situation du pays et des émeutes, de ma démarche pour la présidentielle, mais aussi de robotique, d’IA, d’avenir. À lire dans @FigaroMagazine_ https://t.co/qlseJnF2Fp",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 8,
+    "impression_count": 10138,
+    "like_count": 626,
+    "quote_count": 7,
+    "reply_count": 17,
+    "retweet_count": 144
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
