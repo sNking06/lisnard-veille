@@ -1,0 +1,25 @@
+{
+  "id": "7700282412252548385",
+  "date": "2026-10-24T17:08:33+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7700282412252548385",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7700282412252548385"
+  },
+  "resume": "Vidéo d'environ 39 s, sans légende, reprenant un passage du discours prononcé place de la République à Limoges (rassemblement du 18 octobre 2026 après l'incendie de l'hôtel de ville, d'après le contenu et l'extrait déjà publié le 19 octobre). L'auteur affirme la détermination à « regarder cette réalité en face » et à faire entendre « la voix de l'ordre », de la République et de la justice, et refuse que le pays des « personnes simples » reste soumis à ceux qui cassent et incendient. Aucune mesure précise n'est avancée dans cet extrait.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) ; date du discours déduite de l'extrait TikTok 7698306796531830049 (même discours)",
+  "citations": [
+    "nous ne baisserons pas les bras",
+    "la voix de l'ordre condition de la liberté"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : extrait de discours sans mesure concrète évaluable, très proche de l'extrait déjà résumé sur la carte TikTok 7698306796531830049 (republication le 24/10, date non confirmée dans la vidéo). Citations tirées de sous-titres automatiques non relus. Transcription non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-25T10:00:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-25 9:47)"
+}
