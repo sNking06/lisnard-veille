@@ -1,0 +1,25 @@
+{
+  "id": "7700566943526423841",
+  "date": "2026-10-25T11:32:41+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7700566943526423841",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7700566943526423841"
+  },
+  "resume": "Vidéo d'environ 20 s tournée le matin du 25 octobre 2026 lors de la course Odysséa à Cannes, dont l'auteur indique courir le 10 km chaque année. La légende félicite les équipes d'Odysséa, de l'ACC, les services municipaux, les partenaires et les participants, mobilisés pour la lutte contre le cancer du sein, et annonce 70 000 euros récoltés pour cette édition (montant selon la publication, non vérifié). Aucune mesure politique n'est avancée.",
+  "base_du_resume": "légende TikTok ; la bande son est une musique (transcription automatique sans propos de l'auteur)",
+  "citations": [
+    "La voilà la Belle France",
+    "Tous mobilisés pour la cause de la lutte contre le cancer du sein"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : publication événementielle sans proposition évaluable. Le montant de 70 000 euros provient de la légende et n'a pas été vérifié. Transcription non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-25T14:00:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-25 13:47)"
+}

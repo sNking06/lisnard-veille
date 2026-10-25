@@ -1,0 +1,19 @@
+{
+  "id": "7700566943526423841",
+  "reseau": "tiktok",
+  "compte": "david.lisnard",
+  "url": "https://www.tiktok.com/@david.lisnard/video/7700566943526423841",
+  "embed": {
+    "type": "tiktok",
+    "video_id": "7700566943526423841"
+  },
+  "statut": "ok",
+  "date": "2026-10-25T11:32:41+00:00",
+  "description": "La voilà la Belle France. Depuis la course Odysséa ce matin (dont je cours le 10 km chaque année). Félicitations aux équipes d’Odyssea, de l’ACC, des services municipaux, des partenaires, et bien sûr aux participants. Tous mobilisés pour la cause de la lutte contre le cancer du sein. 70 000 euros récoltés sur dette édition ! Bon dimanche à vous.",
+  "duree_s": 20,
+  "vues": 4282,
+  "transcription": {
+    "fichier": "data/transcripts/tiktok-7700566943526423841.txt",
+    "source": "transcription automatique faster-whisper (small, non relue)"
+  }
+}
