@@ -1,0 +1,24 @@
+{
+  "id": "2114718208133578808",
+  "date": "2026-10-26T13:58:05.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2114718208133578808",
+  "statut": "ok",
+  "integration": {
+    "type": "x",
+    "id": "2114718208133578808"
+  },
+  "resume": "Publication avec une image annonçant un entretien avec François de Rugy et Laurent Lesage sur la vision de Nouvelle Énergie en matière d'écologie, d'agriculture, d'industrie, d'énergie et de protection de l'environnement, avec un lien vers l'entretien. Même annonce que la vidéo TikTok 7700976026721013025, publiée deux minutes plus tard.",
+  "base_du_resume": "texte de la publication X ; lien vers l'entretien YouTube VgDhTsIno2c d'après la légende TikTok jumelle",
+  "citations": [
+    "Retrouvez mon entretien avec François de Rugy et Laurent Lesage"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : annonce d'entretien, aucune mesure. Voir la carte TikTok 7700976026721013025.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-26T17:55:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-26 17:47)"
+}
