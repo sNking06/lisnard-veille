@@ -1,0 +1,63 @@
+{
+  "id": "7700734118178426145",
+  "date": "2026-10-25T22:21:28+00:00",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7700734118178426145",
+  "integration": {
+    "type": "tiktok",
+    "id": "7700734118178426145"
+  },
+  "resume": "Vidéo face caméra (~81 s, sans légende) consacrée à l'« AO10 », le 10e appel d'offres d'éolien en mer lancé par le gouvernement. Sans revenir sur les aspects environnementaux et paysagers, l'auteur critique son coût économique : un coût de revient annoncé sous 100 € (par MWh) qui n'intégrerait pas une vingtaine de milliards d'euros de raccordement, une électricité selon lui produite moins cher, décarbonée et pilotable par le nucléaire et l'hydroélectricité, et un projet pouvant coûter « jusqu'à 82 milliards d'euros sur la durée ». Il dit ne pas être opposé à l'éolien ou au solaire pour des projets locaux d'autoconsommation, mais juge le projet « idéologique » et propose d'orienter l'argent vers le nucléaire et l'hydroélectricité.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende ; chiffres vérifiés auprès de la CRE et de la Commission européenne",
+  "citations": [
+    "Et si on s'en passait ?",
+    "jusqu'à 82 milliards d'euros sur la durée",
+    "il ne s'agit pas d'être contre l'éolien ou le solaire"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Renoncer à l'appel d'offres éolien en mer AO10 (onze parcs, environ 10 GW) et réorienter l'investissement vers le nucléaire et l'hydroélectricité.",
+      "cout": "Le régime d'aide autorisé par la Commission européenne le 13/07/2026 est plafonné à 63 Md€ sur 25 ans (contrat pour différence bidirectionnel : coût réel dépendant des prix de marché, estimé par le gouvernement à 5 à 10 Md€ dans un scénario intermédiaire selon la presse). RTE estime le raccordement à environ 20 Md€ (avis CRE). Le total cité de « 82 milliards » correspond à peu près à la somme de ces deux plafonds/estimations, ce qui n'est pas précisé dans la vidéo. Le coût du report de production vers d'autres moyens (nouveau nucléaire, hydroélectricité) n'est pas chiffré.",
+      "cadre_juridique": "Procédure de mise en concurrence n° 1/2026 (cahier des charges publié le 12/06/2026) ; l'État peut déclarer une procédure sans suite avant attribution (précédent : AO9 déclaré sans suite). Après désignation des lauréats, un abandon exposerait à des indemnisations et à des coûts échoués pour RTE (avis CRE). Les objectifs d'éolien en mer de la programmation pluriannuelle de l'énergie (PPE3) devraient être révisés par décret.",
+      "competence": "État (ministère chargé de l'énergie, CRE pour l'instruction) ; RTE pour le raccordement.",
+      "precedents": "AO9 (environ 2,7 GW) déclaré sans suite ; AO7 (Oléron 1) infructueux en 2025. Le gouvernement espère désigner les lauréats de l'AO10 avant l'élection présidentielle de 2027 (Les Échos).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Décision prise avant l'attribution des lots, ou acceptation d'indemnités et de coûts échoués si les lauréats sont déjà désignés.",
+        "Révision des objectifs de la PPE et du calendrier de production électrique.",
+        "Moyens de production de substitution dont les délais (nouveau nucléaire) dépassent largement ceux des parcs visés."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Le chiffre de « 82 milliards » additionne un plafond d'aide (63 Md€, maximum théorique) et une estimation de raccordement (~20 Md€) ; le coût net réel dépend des prix de l'électricité sur 25 ans. Le « coût de revient inférieur à 100 € » n'est pas sourcé dans la vidéo. La comparaison de coût avec le nucléaire neuf n'est pas étayée."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "CRE – Avis sur le cahier des charges de l'appel d'offres éolien en mer « AO10 » (raccordement estimé à ~20 Md€)",
+      "url": "https://www.cre.fr/actualites/toute-lactualite/la-cre-publie-son-avis-sur-le-cahier-des-charges-relatif-a-la-procedure-dappel-doffres-portant-sur-les-projets-dinstallations-eoliennes-en-mer-dit-ao10.html",
+      "consulte_le": "2026-10-26"
+    },
+    {
+      "titre": "CRE – Cahier des charges AO10 (onze projets, ~10 000 MW ; historique AO3 à AO9)",
+      "url": "https://www.cre.fr/fileadmin/Documents/Appels_d_offres/2026/AO10_Cahier_des_charges.pdf",
+      "consulte_le": "2026-10-26"
+    },
+    {
+      "titre": "Commission européenne – Autorisation d'un régime d'aide français de 63 Md€ pour l'éolien en mer (13/07/2026)",
+      "url": "https://france.representation.ec.europa.eu/informations-et-evenements/informations/la-commission-autorise-une-aide-detat-francaise-en-faveur-de-lenergie-eolienne-en-mer-2026-07-13_fr",
+      "consulte_le": "2026-10-26"
+    },
+    {
+      "titre": "Les Échos – Éolien en mer : Bruxelles approuve 63 milliards d'euros d'aides potentielles",
+      "url": "https://www.lesechos.fr/industrie-services/energie-environnement/eolien-en-mer-bruxelles-approuve-63-milliards-deuros-daides-potentielles-de-letat-francais-2242186",
+      "consulte_le": "2026-10-26"
+    }
+  ],
+  "notes": "Même vidéo publiée sur X (2114487848099512792). « appell love N° 10 » = « appel d'offres n° 10 » (erreur de sous-titres). Transcription non relue, non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-26T10:05:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-26 09:47)",
+  "statut": "ok",
+  "source": "tiktok"
+}

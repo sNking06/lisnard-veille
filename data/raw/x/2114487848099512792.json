@@ -1,0 +1,20 @@
+{
+  "id": "2114487848099512792",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-25T22:42:42.000Z",
+  "url": "https://x.com/davidlisnard/status/2114487848099512792",
+  "texte": "A010… Et si on s’en passait ? https://t.co/rRn4I7KKZT",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 20,
+    "impression_count": 20553,
+    "like_count": 834,
+    "quote_count": 9,
+    "reply_count": 27,
+    "retweet_count": 210
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
