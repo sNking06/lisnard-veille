@@ -1,0 +1,26 @@
+{
+  "id": "7700942971834846496",
+  "date": "2026-10-26T11:51:54+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7700942971834846496",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7700942971834846496"
+  },
+  "resume": "Vidéo d'environ 99 s, sans légende. L'auteur réagit à l'association Démographie responsable, dont il cite le slogan « moins nombreux plus heureux », et à des propos entendus à la radio d'un de ses responsables qualifiant un enfant de « bombe écologique » (propos non vérifiés). Il dit respecter leur droit de penser ainsi tout en étant en désaccord, et estime incohérent de rester attaché au système de retraite par répartition tout en souhaitant moins de naissances. Il appelle les jeunes à ne pas se laisser gagner par le discours d'effondrement et défend « l'espérance » de la vie et de la croissance. Aucune mesure précise n'est avancée.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus) ; pas de légende",
+  "citations": [
+    "moins nombreux plus heureux",
+    "elles n'ont pas le droit de demander à mes enfants et à vos enfants à nos enfants de payer leur retraite",
+    "vive l'espérance"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : prise de position sur la natalité et le discours décroissant, sans proposition évaluable. L'identité du responsable associatif et l'émission de radio citée ne sont pas précisées ; propos rapportés non vérifiés. Transcription non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-26T13:55:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-26 13:47)"
+}
