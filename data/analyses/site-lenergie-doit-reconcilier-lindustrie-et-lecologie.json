@@ -1,0 +1,73 @@
+{
+  "id": "lenergie-doit-reconcilier-lindustrie-et-lecologie",
+  "date": "2026-10-27T10:40:49.411Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/lenergie-doit-reconcilier-lindustrie-et-lecologie/",
+  "statut": "ok",
+  "integration": {
+    "type": "none",
+    "id": "lenergie-doit-reconcilier-lindustrie-et-lecologie"
+  },
+  "titre": "« L’énergie doit réconcilier l’industrie et l’écologie »",
+  "resume": "Compte rendu, par le site de Nouvelle Énergie, du « Grand entretien de l'écologie » mené par François de Rugy et Laurent Lesage. L'auteur y retient trois défis (climat et adaptation, particules fines, biodiversité) et défend une « économie écologique de marché » reposant sur le droit international, la science et l'investissement privé. Il propose de relancer le nucléaire, de prolonger les centrales existantes jusqu'à 60 ans sous le contrôle de l'autorité de sûreté, de développer l'hydroélectricité et d'évaluer chaque investissement renouvelable selon son coût-bénéfice. Pour l'industrie et l'agriculture, il plaide pour simplifier les normes, renforcer le pouvoir réglementaire local, créer un statut de l'entreprise agricole, mettre fin aux surtranspositions, développer la recherche génétique (OGM, nouvelles techniques génomiques) et faciliter l'irrigation. Sur le Mercosur, il propose d'exclure l'élevage de l'accord ou d'imposer des clauses miroirs. Il défend aussi la neutralité technologique dans les transports et la neutralité carbone en 2050 inscrite dans une stratégie internationale.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie (l'entretien vidéo complet n'a pas été écouté)",
+  "citations": [
+    "On ne sera une grande puissance écologique et économique que si on est une grande puissance scientifique.",
+    "On est pollué par les normes"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Prolonger les centrales nucléaires existantes jusqu'à 60 ans, sous le contrôle de l'autorité de sûreté nucléaire.",
+      "cout": "Non établi pour ce passage (le coût du « grand carénage » d'EDF n'a pas été revérifié).",
+      "cadre_juridique": "En France, la poursuite de fonctionnement d'un réacteur est examinée tous les dix ans lors des réexamens périodiques (code de l'environnement), au terme desquels l'autorité de sûreté (ASNR) prend position. Il n'existe pas de durée maximale fixée par la loi.",
+      "competence": "Exploitant (EDF) et autorité de sûreté (ASNR) ; orientations de politique énergétique par l'État.",
+      "precedents": "L'ASN a demandé en 2022-2023 à EDF d'étudier une poursuite jusqu'à 60 ans et au-delà. Dans un projet d'avis soumis à consultation du 22 octobre au 2 décembre 2026, l'ASNR indique n'avoir pas identifié, en l'état des connaissances, d'obstacle à un fonctionnement au-delà de 60 ans, sous réserve de travaux importants d'EDF (cuves, enceintes de confinement) et des réexamens réacteur par réacteur.",
+      "verdict": "faisable",
+      "conditions": [
+        "Résultats favorables des réexamens périodiques de chaque réacteur.",
+        "Travaux d'EDF sur le vieillissement des composants non remplaçables.",
+        "Adaptation au changement climatique (débits et températures des cours d'eau)."
+      ],
+      "fiabilite": "haute",
+      "doutes": "La mesure correspond largement à la trajectoire déjà engagée ; le texte ne précise pas ce qui changerait par rapport à la politique actuelle."
+    },
+    {
+      "texte": "Sur l'accord UE-Mercosur, exclure l'élevage français de l'accord ou imposer des clauses miroirs garantissant une concurrence équitable.",
+      "cout": "Non établi.",
+      "cadre_juridique": "La politique commerciale est une compétence exclusive de l'UE. L'accord commercial intérimaire, signé le 17 janvier 2026, est appliqué provisoirement depuis le 1er mai 2026 ; le consentement du Parlement européen est suspendu à un avis demandé à la Cour de justice de l'UE. Le règlement (UE) 2026/687 prévoit déjà des clauses de sauvegarde pour les produits sensibles (dont viande bovine et volaille).",
+      "competence": "Union européenne (Commission, Conseil, Parlement) ; la France ne peut agir seule.",
+      "precedents": "Clauses de sauvegarde agricoles votées par le Parlement européen le 10 février 2026 et adoptées en mars 2026 ; la Commission a aussi annoncé fin 2025 des contrôles renforcés et un ajustement des normes de résidus de pesticides à l'importation.",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Réouverture de la négociation d'un accord déjà signé et appliqué provisoirement (pour une exclusion de l'élevage).",
+        "Majorité au Conseil et accord des pays du Mercosur.",
+        "Pour des clauses miroirs : adoption de normes de production à l'importation compatibles avec les règles de l'OMC."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "L'option « clauses miroirs » est en partie engagée au niveau européen (sauvegardes, contrôles), ce qui la rend plus réaliste que l'exclusion complète de l'élevage ; le texte ne précise pas laquelle des deux est privilégiée."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "ASNR – Perspectives de poursuite du fonctionnement des réacteurs d'EDF au-delà de 60 ans : consultation du public",
+      "url": "https://www.asnr.fr/actualites/perspectives-de-poursuite-du-fonctionnement-des-reacteurs-dedf-au-dela-de-60-ans-lasnr",
+      "consulte_le": "2026-10-27"
+    },
+    {
+      "titre": "Commission européenne – Accord commercial UE-Mercosur : distinguer le vrai du faux",
+      "url": "https://france.representation.ec.europa.eu/informations-et-evenements/informations/accord-commercial-ue-mercosur-distinguer-le-vrai-du-faux-2026-04-27_fr",
+      "consulte_le": "2026-10-27"
+    },
+    {
+      "titre": "Parlement européen – Mercosur : les clauses de sauvegarde protégeant l'agriculture de l'UE votées",
+      "url": "https://www.europarl.europa.eu/news/fr/press-room/20260205IPR33618/mercosur-les-clauses-de-sauvegarde-protegeant-l-agriculture-de-l-ue-votees",
+      "consulte_le": "2026-10-27"
+    }
+  ],
+  "notes": "Mesures déjà analysées ailleurs et non réévaluées : renoncer à l'appel d'offres éolien AO10 (TikTok 7700734118178426145), pouvoir réglementaire aux collectivités (site JDNews « Redresser la France »). Non évaluées ici faute de détails : statut de l'entreprise agricole, fin des surtranspositions, OGM / nouvelles techniques génomiques, irrigation et stockage de l'eau, neutralité technologique, neutralité carbone 2050. L'entretien vidéo complet (YouTube VgDhTsIno2c, chaîne tierce) n'a pas été analysé.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-27T14:00:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-27 13:47)"
+}
