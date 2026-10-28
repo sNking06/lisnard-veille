@@ -1,0 +1,24 @@
+{
+  "id": "2115375429397745940",
+  "date": "2026-10-28T09:29:38+00:00",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2115375429397745940",
+  "statut": "ok",
+  "integration": {
+    "type": "x",
+    "id": "2115375429397745940"
+  },
+  "resume": "Annonce de la sortie, le 28 octobre 2026, d'un livre co-écrit avec Romain Marsily sur l'intelligence artificielle et les robots. Le message pose une série de questions : faire de l'IA « un outil de progrès, de liberté et de souveraineté, et non de soumission », ne pas rater la « révolution industrielle » des robots, et tirer des enseignements de l'encyclique du Pape sur le progrès technologique.",
+  "base_du_resume": "texte de la publication X (tronqué par l'API) complété par la légende identique de la publication TikTok 7701649484236836128",
+  "citations": [
+    "un outil de progrès, de liberté et de souveraineté, et non de soumission"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : annonce de livre, aucune mesure. Même message que la publication TikTok 7701649484236836128, dont la légende donne le prix (10 €) et le co-auteur. Le titre exact du livre ne figure pas dans la publication et n'a pas été vérifié ici.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-28T14:05:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-28 13:47)"
+}

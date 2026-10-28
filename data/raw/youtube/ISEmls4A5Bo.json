@@ -7,7 +7,14 @@
     "type": "youtube",
     "video_id": "ISEmls4A5Bo"
   },
-  "statut": "degraded",
-  "date": null,
-  "erreur": "[Errno 2] No such file or directory: '/tmp/tmpxjr4_0uo/ISEmls4A5Bo.info.json'"
+  "statut": "ok",
+  "date": "2026-10-28T10:43:50+00:00",
+  "titre": "David Lisnard face à Laurence Ferrari dans l'émission Objectif 2027",
+  "description": "Hier soir sur Cnews et Europe 1 j’ai répondu aux interrogations de Laurence Ferrari afin de défendre mon projet et mes ambitions pour l’élection présidentielle. \n\n00:00 Introduction \n09:00 L'épreuve des faits\n26:37 Face aux rédactions \n59:11 Vrai ou Faux \n01:14:39 La confrontation\n01:22:00 Face à Fog \n01:29:00 Le dernier mot \n\nSuivez moi sur mes réseaux : \n\nInstagram : https://www.instagram.com/davidlisnard/\nX : https://x.com/davidlisnard\nFacebook : https://www.facebook.com/lisnard.david\nTik Tok : https://www.tiktok.com/@david.lisnard\nLinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/\n\nAdhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion",
+  "duree_s": 5585,
+  "vues": 3516,
+  "transcription": {
+    "fichier": "data/transcripts/youtube-ISEmls4A5Bo.txt",
+    "source": "sous-titres YouTube automatiques (non relus)"
+  }
 }

@@ -1,0 +1,24 @@
+{
+  "id": "7701695910819974433",
+  "date": "2026-10-28T12:33:40+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7701695910819974433",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7701695910819974433"
+  },
+  "resume": "Extrait court (~41 s, sans légende) où l'auteur revient sur sa formule « je m'en fous » à propos de la répression de la manifestation de 1961. Il affirme que ce propos ne visait pas ce drame, mais l'argumentaire qui, selon lui, utilise un événement passé pour justifier les violences actuelles (incendie de l'hôtel de ville de Limoges, pillages). Il parle d'« inversion rhétorique ».",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende ; extrait vraisemblablement tiré de l'émission Objectif 2027 (CNews/Europe 1) du 27/10/2026",
+  "citations": [
+    "le je m'en fous c'est sur l'argumentaire qui consiste à détourner l'opinion"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : explication d'un propos, aucune mesure. Même thème que les vidéos TikTok 7699445115420560673 et 7699482621033614624. L'émission d'origine n'est pas indiquée dans la vidéo. Transcription non relue, non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-28T14:05:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-28 13:47)"
+}

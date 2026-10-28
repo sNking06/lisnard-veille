@@ -1,0 +1,232 @@
+{
+  "id": "ISEmls4A5Bo",
+  "date": "2026-10-28T10:43:50+00:00",
+  "source": "youtube",
+  "lien": "https://www.youtube.com/watch?v=ISEmls4A5Bo",
+  "statut": "ok",
+  "integration": {
+    "type": "youtube",
+    "id": "ISEmls4A5Bo"
+  },
+  "titre": "David Lisnard face à Laurence Ferrari dans l'émission Objectif 2027",
+  "resume": "Émission Objectif 2027 (CNews/Europe 1, ~1 h 33) diffusée le 27 octobre 2026, consacrée à sa candidature à l'élection présidentielle. Seules les propositions sont retenues ici : baisse de la CSG sur le travail, plafond d'immigration légale, dénonciation de l'accord franco-algérien de 1968, suppression des allocations non contributives pour les étrangers, gel des pensions au-dessus de 2 200 €, réduction des effectifs administratifs, statut de fonctionnaire réservé au régalien, ministère unique de l'instruction, limitation de la portée du Préambule de 1946, « casseur-payeur » et constat d'huissier sur le nombre d'adhérents.",
+  "base_du_resume": "sous-titres YouTube automatiques (non relus) ; propositions concrètes uniquement retenues ; chiffres recoupés avec Service-Public, le ministère de l'Intérieur, le Conseil constitutionnel et l'Assemblée nationale",
+  "citations": [
+    "je veux réserver le statut de la fonction publique aux fonctions régaliennes",
+    "On va faire un moratoire sur les nouvelles normes."
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Baisser la CSG sur les revenus d'activité de 9,2 % à 6,6 % (taux appliqué à la majorité des retraités) pour augmenter le salaire net sans alourdir le coût du travail.",
+      "cout": "Non établi par une source consultée. Ordre de grandeur indicatif calculé ici : la CSG a rapporté environ 153,8 Md€ en 2024, dont environ 71 % sur les revenus d'activité ; une baisse de 2,6 points sur 9,2 représenterait de l'ordre de 30 Md€ par an, avant tout effet de compensation.",
+      "cadre_juridique": "Taux fixés par la loi (art. L136-8 du code de la sécurité sociale) ; mesure de loi de financement de la sécurité sociale (art. 34 et 47-1 de la Constitution).",
+      "competence": "Parlement (LFSS), sur proposition du Gouvernement.",
+      "precedents": "Le taux de 6,6 % existe déjà pour une partie des pensions de retraite (taux de 0, 3,8, 6,6 ou 8,3 % selon le revenu fiscal). Proposition déjà présentée sur le site de l'auteur.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Trouver une recette ou une économie de compensation pour la sécurité sociale, la CSG finançant notamment l'assurance maladie et l'autonomie."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "L'auteur parle d'aligner la CSG « activité » sur celle « des inactifs », alors que les retraités ne relèvent pas tous du taux de 6,6 %."
+    },
+    {
+      "texte": "Ramener l'immigration légale à environ 80 000 entrées par an, étudiants compris (en tout cas sous 100 000).",
+      "cout": "Non établi.",
+      "cadre_juridique": "Asile protégé par la Constitution (Préambule de 1946) et les engagements internationaux ; regroupement familial protégé par le droit à une vie familiale normale (décision 93-325 DC), l'article 8 de la Convention européenne des droits de l'homme et la directive 2003/86/CE ; directives européennes sur les étudiants et la carte bleue.",
+      "competence": "Parlement et Gouvernement, dans le cadre du droit européen.",
+      "precedents": "Le ministère de l'Intérieur recense 384 230 premiers titres de séjour en 2025 (dont environ 118 000 étudiants, 91 100 familiaux, 92 600 humanitaires, 51 200 économiques). Seuil déjà avancé par l'auteur lors d'autres interventions.",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Diviser par près de cinq les premiers titres supposerait de réduire fortement des catégories protégées par la Constitution et le droit européen, ce qui exigerait une révision constitutionnelle et des renégociations européennes."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "L'auteur mêle titres de séjour (« plus de 380 000 ») et demandes d'asile (« 120 000 ») ; le périmètre exact du seuil n'est pas précisé."
+    },
+    {
+      "texte": "Dénoncer l'accord franco-algérien de 1968 et les dispositions jugées favorables aux ressortissants algériens.",
+      "cout": "Non établi.",
+      "cadre_juridique": "Accord international : sa dénonciation relève de l'exécutif (art. 52 de la Constitution). L'accord ne prévoit pas de clause de dénonciation expresse, ce qui pose la question de la base juridique d'un retrait unilatéral (droit des traités).",
+      "competence": "Président de la République et Gouvernement.",
+      "precedents": "Le 30 octobre 2025, l'Assemblée nationale a adopté (185 voix contre 184) une résolution, non contraignante, invitant le Gouvernement à dénoncer cet accord.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Fonder juridiquement le retrait en l'absence de clause de dénonciation.",
+        "en assumer les conséquences diplomatiques.",
+        "le droit commun des étrangers s'appliquerait ensuite aux Algériens."
+      ],
+      "fiabilite": "moyenne"
+    },
+    {
+      "texte": "Supprimer les allocations non contributives versées aux étrangers, pour une économie annoncée de 2 à 3 Md€ la première année.",
+      "cout": "Économie de 2 à 3 Md€ annoncée par l'auteur, non vérifiée.",
+      "cadre_juridique": "Le Conseil constitutionnel (décision 2024-6 RIP) a jugé contraire à la Constitution une condition de 5 ans de résidence pour certaines prestations, au regard des alinéas 10 et 11 du Préambule de 1946 : les étrangers en séjour stable et régulier ont droit à la protection sociale, une durée de résidence raisonnable pouvant être exigée.",
+      "competence": "Parlement ; contrôle du Conseil constitutionnel.",
+      "precedents": "Une mesure proche avait déjà été censurée en 2023 (décision 2023-863 DC, comme cavalier législatif), puis la proposition de référendum de 2024 a été déclarée non conforme.",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Une suppression totale pour les étrangers en séjour régulier se heurte à la jurisprudence constitutionnelle.",
+        "seule une condition de durée de résidence « raisonnable » paraît envisageable sans révision constitutionnelle."
+      ],
+      "fiabilite": "moyenne"
+    },
+    {
+      "texte": "Geler les pensions de retraite supérieures à 2 200 € et les prestations sociales (désindexation temporaire).",
+      "cout": "Non établi. L'auteur évoque d'autres montants (environ 4,5 Md€ pour une réforme de l'assurance chômage, environ 30 Md€ pour une « année blanche »), non vérifiés.",
+      "cadre_juridique": "La revalorisation annuelle sur l'inflation est prévue par la loi (art. L161-23-1 et L161-25 du code de la sécurité sociale) ; une dérogation passe par la LFSS.",
+      "competence": "Parlement (LFSS).",
+      "precedents": "Le gel de toutes les pensions de base prévu par le projet de LFSS 2026 a été supprimé avant l'adoption ; les pensions ont été revalorisées de 0,9 % au 1er janvier 2026. En 2020, les pensions au-dessus de 2 000 € brut n'ont été revalorisées que de 0,3 %.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Majorité parlementaire en LFSS.",
+        "le précédent de 2025 montre la difficulté politique d'un gel."
+      ],
+      "fiabilite": "moyenne"
+    },
+    {
+      "texte": "Réduire d'environ 700 000 postes administratifs (environ 12 %), en redéployant 200 000 à 300 000 agents vers le terrain (justice, notamment), soit environ 400 000 suppressions nettes ; nommer un « DRH de l'État ».",
+      "cout": "Non établi.",
+      "cadre_juridique": "Statut général de la fonction publique (loi) et lois de finances pour les plafonds d'emplois ; non-remplacement des départs, l'emploi des titulaires étant protégé.",
+      "competence": "Gouvernement et Parlement ; collectivités et hôpitaux pour leurs propres agents.",
+      "precedents": "La DGAFP se présente déjà comme la « DRH de l'État ». Proposition proche déjà présentée sur le site de l'auteur.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Répartition entre fonctions publiques à préciser (l'État ne décide pas seul pour les collectivités).",
+        "rythme compatible avec les départs à la retraite."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Les chiffres varient au cours de l'entretien."
+    },
+    {
+      "texte": "Réserver le statut de fonctionnaire aux fonctions régaliennes : nouveaux enseignants recrutés sous contrat, enseignants actuels libres de choisir leur statut, financement suivant le choix des parents.",
+      "cout": "Non établi.",
+      "cadre_juridique": "Statut général de la fonction publique (loi) ; obligation pour l'État d'organiser un enseignement public gratuit et laïque (13e alinéa du Préambule de 1946).",
+      "competence": "Parlement et Gouvernement.",
+      "precedents": "Les établissements publics emploient déjà des enseignants contractuels. Propositions déjà présentées par l'auteur dans d'autres interventions.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Loi modifiant le statut.",
+        "maintien d'un service public d'enseignement.",
+        "modalités du financement « au choix des parents » à préciser."
+      ],
+      "fiabilite": "moyenne"
+    },
+    {
+      "texte": "Créer un seul grand ministère de l'instruction publique, de la culture, de l'enseignement supérieur et de la science.",
+      "cout": "Non établi.",
+      "cadre_juridique": "Organisation du Gouvernement fixée par décret (art. 8 et 21 de la Constitution).",
+      "competence": "Président de la République et Premier ministre.",
+      "precedents": "Le périmètre des ministères change régulièrement d'un gouvernement à l'autre.",
+      "verdict": "faisable",
+      "conditions": []
+    },
+    {
+      "texte": "Interdire d'invoquer le Préambule de 1946 pour censurer une loi, ou faire trancher par référendum lorsqu'il est invoqué.",
+      "cout": "Non établi.",
+      "cadre_juridique": "Le Préambule de 1946 fait partie du bloc de constitutionnalité ; le modifier ou en limiter la portée suppose une révision constitutionnelle (art. 89).",
+      "competence": "Parlement (Congrès) ou peuple par référendum.",
+      "precedents": "Aucun précédent identifié.",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Révision constitutionnelle.",
+        "le contrôle de conformité aux traités européens et à la Convention européenne des droits de l'homme par les juges subsisterait."
+      ],
+      "fiabilite": "moyenne"
+    },
+    {
+      "texte": "Appliquer le principe « casseur-payeur » : le casseur ou ses parents paient, avec des retenues sur les prestations sociales en cas d'insolvabilité.",
+      "cout": "Non établi.",
+      "cadre_juridique": "Responsabilité civile (code civil) ; l'insaisissabilité de certaines prestations est fixée par la loi.",
+      "competence": "Parlement.",
+      "precedents": "Un projet de loi « casseurs-payeurs » du Gouvernement était examiné au Sénat le 27/10/2026 (responsabilité solidaire des parents plafonnée et dérogation à l'insaisissabilité de certaines prestations).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Adoption et contrôle constitutionnel du texte en cours.",
+        "respect d'un minimum vital pour les ménages concernés."
+      ],
+      "fiabilite": "moyenne"
+    },
+    {
+      "texte": "Faire constater par un commissaire de justice le nombre d'adhérents à jour de cotisation de son parti (environ 80 000 revendiqués).",
+      "cout": "Non établi (coût privé).",
+      "cadre_juridique": "Acte de constat privé, à l'initiative du parti.",
+      "competence": "Le parti Nouvelle Énergie.",
+      "precedents": "Aucun précédent vérifié.",
+      "verdict": "faisable",
+      "conditions": [],
+      "fiabilite": "haute"
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Service-Public.fr – CSG sur les revenus d'activité et de remplacement (F2971)",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2971",
+      "consulte_le": "2026-10-28"
+    },
+    {
+      "titre": "La finance pour tous – La CSG (rendement 2024)",
+      "url": "https://www.lafinancepourtous.com/decryptages/finances-publiques/financement-de-la-protection-sociale/csg/",
+      "consulte_le": "2026-10-28"
+    },
+    {
+      "titre": "Ministère de l'Intérieur (DGEF) – Les titres de séjour, chiffres 2025",
+      "url": "https://www.immigration.interieur.gouv.fr/Info-ressources/Etudes-et-statistiques/Statistiques/Essentiel-de-l-immigration/Chiffres-cles",
+      "consulte_le": "2026-10-28"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision 93-325 DC du 13 août 1993 (maîtrise de l'immigration)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/1993/93325DC.htm",
+      "consulte_le": "2026-10-28"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision 2024-6 RIP du 11 avril 2024",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2024/20246RIP.htm",
+      "consulte_le": "2026-10-28"
+    },
+    {
+      "titre": "Assemblée nationale – Résolution T.A. n° 177 (17e législature) appelant à dénoncer l'accord franco-algérien de 1968",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/textes/l17t0177_texte-adopte-seance",
+      "consulte_le": "2026-10-28"
+    },
+    {
+      "titre": "Assemblée nationale – Analyse du scrutin n° 3260 (17e législature)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3260",
+      "consulte_le": "2026-10-28"
+    },
+    {
+      "titre": "Novlaw – La France peut-elle dénoncer unilatéralement l'accord franco-algérien du 27 décembre 1968 ?",
+      "url": "https://novlaw.fr/ressource/la-france-peut-elle-denoncer-unilateralement-laccord-franco-algerien-du-27-decembre-1968",
+      "consulte_le": "2026-10-28"
+    },
+    {
+      "titre": "Service-Public.fr – Pensions de retraite de base : quelle revalorisation au 1er janvier 2026 ?",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17919",
+      "consulte_le": "2026-10-28"
+    },
+    {
+      "titre": "Service des retraites de l'État – La revalorisation de ma retraite (historique des taux)",
+      "url": "https://retraitesdeletat.gouv.fr/retraite/le-paiement-de-ma-retraite/la-revalorisation-de-ma-retraite",
+      "consulte_le": "2026-10-28"
+    },
+    {
+      "titre": "Les Echos – Les retraites seront revalorisées de 0,9 % au 1er janvier",
+      "url": "https://www.lesechos.fr/economie-france/budget-fiscalite/les-retraites-seront-revalorisees-de-09-au-1er-janvier-2205170",
+      "consulte_le": "2026-10-28"
+    },
+    {
+      "titre": "Portail de la fonction publique – DGAFP, nos missions",
+      "url": "https://www.fonction-publique.gouv.fr/la-dgafp/nous-connaitre/nos-missions",
+      "consulte_le": "2026-10-28"
+    },
+    {
+      "titre": "Maire-info – Projet de loi « casseurs-payeurs » au Sénat",
+      "url": "https://www.maire-info.com/",
+      "consulte_le": "2026-10-28"
+    }
+  ],
+  "notes": "Déjà analysés dans d'autres fiches et non repris ici : moratoire sur les nouvelles normes et fin des surtranspositions, mesures sur les mineurs (majorité pénale, excuse de minorité), primaire ouverte de la droite (enjeu politique). Le « grand projet pour l'enfance » contre les violences sexuelles est annoncé mais pas encore détaillé. L'appel à une commission d'enquête sur les effectifs de police n'est pas retenu (l'auteur n'est pas parlementaire). L'impôt résidentiel sur la valeur vénale est évoqué trop vaguement pour être analysé. Transcription non relue, non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-28T14:05:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-28 13:47)"
+}
