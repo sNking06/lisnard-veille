@@ -7,7 +7,13 @@
     "type": "tiktok",
     "video_id": "7701417294123109664"
   },
-  "statut": "degraded",
-  "date": null,
-  "erreur": "[Errno 2] No such file or directory: '/tmp/tmpo569ab3x/7701417294123109664.info.json'"
+  "statut": "ok",
+  "date": "2026-10-27T18:32:30+00:00",
+  "description": "",
+  "duree_s": 28,
+  "vues": 67100,
+  "transcription": {
+    "fichier": "data/transcripts/tiktok-7701417294123109664.txt",
+    "source": "sous-titres automatiques TikTok (non relus)"
+  }
 }
