@@ -1,0 +1,24 @@
+{
+  "id": "2115694273345855820",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-29T06:36:37.000Z",
+  "url": "https://x.com/davidlisnard/status/2115694273345855820",
+  "texte": "Toc toc, on frappe à la porte https://t.co/53dR9Zb84z",
+  "citation": {
+    "id": "2115401889852584055",
+    "texte": "🔴🗣️Patrick Sébastien : “Si je devais voter aujourd’hui, je voterais pour @davidlisnard\" \n\nDonnez votre avis et revivez les débats du jour avec @grm_off, @Guerin_Serge, @NaomiHalll\nautour de @stephdemuru dans #ÀVousDeLeDire\n\nhttps://t.co/m34YEMiGdB https://t.co/7Tu9N2j6YI",
+    "auteur_id": "15658101"
+  },
+  "metriques": {
+    "bookmark_count": 49,
+    "impression_count": 73532,
+    "like_count": 3837,
+    "quote_count": 21,
+    "reply_count": 124,
+    "retweet_count": 298
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
