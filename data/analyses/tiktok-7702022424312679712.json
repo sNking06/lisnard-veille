@@ -1,0 +1,25 @@
+{
+  "id": "7702022424312679712",
+  "date": "2026-10-29T09:40:44+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7702022424312679712",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7702022424312679712"
+  },
+  "resume": "Extrait d'interview (~52 s, émission non précisée). L'auteur rappelle qu'un parrainage n'est pas un soutien mais permet à un candidat d'être dans la compétition ; il juge qu'il aurait été « un déni de démocratie » que Marine Le Pen, Éric Zemmour ou Jean-Luc Mélenchon n'obtiennent pas leurs parrainages (contexte de la présidentielle de 2022). Il ajoute que Jean-Luc Mélenchon a selon lui connu des « dérives anti-républicaines » et que ses propos « cautionnent l'antisémitisme ».",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "c'est le parrainage, c'est pas un soutien",
+    "c'était un déni de démocratie"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : prise de position sur les parrainages et critique d'un adversaire, aucune mesure. Sous-titres automatiques de qualité médiocre ; l'année évoquée et certains mots sont incertains. Les jugements portés sur Jean-Luc Mélenchon sont des opinions de l'auteur, non évaluées ici.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-29T18:05:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-29 17:47)"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-vie",
+  "date": "2026-10-28T10:00:00.000Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-viens-pour-redresser-le-pays/",
+  "statut": "ok",
+  "titre": "David Lisnard sur CNEWS et Europe 1 : « Je ne suis pas candidat pour un poste. Je viens pour redresser le pays »",
+  "integration": {
+    "type": "none",
+    "id": "david-lisnard-sur-cnews-et-europe-1-je-ne-suis-pas-candidat-pour-un-poste-je-vie"
+  },
+  "resume": "Compte rendu, sur le site du mouvement, de l'émission « Objectif Élysée 2027 » (CNews/Europe 1, 27 octobre 2026). Il reprend les mesures présentées : baisse de la CSG sur les revenus d'activité de 9,2 % à 6,6 %, 80 Md€ d'économies la première année puis 200 Md€ d'ici 2032, budgets base zéro et moratoire sur les normes, réorganisation d'environ 700 000 postes publics, statut de fonctionnaire réservé au régalien, autonomie des établissements scolaires et fin du collège unique, majorité pénale à 16 ans, immigration légale limitée à 80 000 entrées par an, dénonciation de l'accord franco-algérien de 1968, impôt résidentiel universel, primaire ouverte à droite et livre sur l'IA.",
+  "base_du_resume": "texte de l'article publié sur unenouvelleenergie.fr",
+  "citations": [
+    "Je ne suis pas candidat pour un poste. Je viens pour redresser le pays.",
+    "Cotiser moins pour gagner plus."
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [
+    {
+      "titre": "Analyse de l'émission complète (carte YouTube ISEmls4A5Bo)",
+      "url": "https://www.youtube.com/watch?v=ISEmls4A5Bo"
+    }
+  ],
+  "notes": "Résumé seul : compte rendu de la même émission que la vidéo YouTube ISEmls4A5Bo, dont la carte analyse déjà les principales mesures (CSG, immigration, accord de 1968, effectifs publics, statut, ministère unique, casseur-payeur, constat d'adhérents). Les autres mesures citées (majorité pénale à 16 ans, autonomie des établissements, dépense publique, capitalisation, impôt local) ont été analysées sur d'autres cartes du site. Chiffres du bilan cannois non vérifiés ici.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-29T18:05:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-29 17:47)"
+}
