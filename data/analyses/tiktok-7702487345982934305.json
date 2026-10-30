@@ -1,0 +1,30 @@
+{
+  "id": "7702487345982934305",
+  "date": "2026-10-30T15:44:51+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7702487345982934305",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7702487345982934305"
+  },
+  "resume": "Courte vidéo (~38 s, sans légende) d'appel au don du sang. L'auteur indique que l'Établissement français du sang a besoin de « 10 000 poches de sang » par jour, souligne l'enjeu de diversité des groupes et du plasma (importé selon lui des États-Unis pour fabriquer des médicaments), dit donner lui-même régulièrement et invite à se renseigner sur les collectes.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "10 000 poches de sang par jour",
+    "donnez, en plus ça fait du bien"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [
+    {
+      "titre": "Établissement français du sang",
+      "url": "https://dondesang.efs.sante.fr/"
+    }
+  ],
+  "notes": "Résumé seul : appel citoyen, aucune mesure. Les chiffres cités (10 000 dons par jour, importations de plasma) ne sont pas revérifiés ici. Sous-titres automatiques.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-10-30T18:00:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-10-30 17:47)"
+}

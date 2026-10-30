@@ -1,0 +1,20 @@
+{
+  "id": "2116094027887992899",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-30T09:05:06.000Z",
+  "url": "https://x.com/davidlisnard/status/2116094027887992899",
+  "texte": "En pleine séance de travail consacrée à l’avenir de Cannes La Bocca Grand Ouest. Les équipes de la Ville de Cannes et de l’Agglomération Cannes Lérins développent ce projet structurant et qui sera un des plus emblématiques en Paca.\n\nPrésentation  précise et compétente des données par @Thomas_ONZON puis des projections par @YannVariLecuyer. Comment mieux lutter contre les inondations en répondant aux besoins de logements, d’activités économiques et en œuvrant à la qualité de vie, tel est le cahier des charges que nous nous sommes donnés.\n\nUne grande partie de l’avenir de notre ville s’écrit ici.\n\nCette réunion permet d’analyser les contraintes, d’identifier les défis à relever et de partager une vision claire des futurs aménagements de ce secteur stratégique.\n\nNotre volonté est simple : anticiper plutôt que subir, programmer plutôt qu’improviser. Donner un cadre clair, prévoir les bons équipements publics et intervenir en subsidiarité de l’action des propriétaires privés.",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 6,
+    "impression_count": 13261,
+    "like_count": 387,
+    "quote_count": 1,
+    "reply_count": 23,
+    "retweet_count": 74
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
