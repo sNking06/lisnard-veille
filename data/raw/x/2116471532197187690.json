@@ -1,0 +1,24 @@
+{
+  "id": "2116471532197187690",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-10-31T10:05:10.000Z",
+  "url": "https://x.com/davidlisnard/status/2116471532197187690",
+  "texte": "Quel délire, encore et toujours. Incapables de baisser les dépenses, certains veulent encore augmenter les prélèvements de l’Etat. \nQuand comprendront-ils que leurs taxes finissent toujours par être payées par les clients ? Que quand on taxe le lait, ce n’est pas la vache qui paie mais le consommateur ?\nQuand cesseront-ils de nous appauvrir ? \nNous ne pouvons pas les laisser continuer. \n#OnArrive",
+  "citation": {
+    "id": "2116188299219849431",
+    "texte": "🚨🇫🇷 FLASH | L'Assemblée nationale a ADOPTÉ un amendement qui prévoit de TAXER les géants pour la consommation des clients. PlayStation, Netflix, Google (YouTube) ou encore Amazon devront PAYER 0,055€ par gigaoctet téléchargé/visionné par le client, avec un plafond à 15% du CA en France ou 2% du CA total. La hausse serait potentiellement répercutée sur le CLIENT ensuite, comme c’est le cas de certaines taxes. \n\nLe projet de loi doit encore être adopté dans son ensemble par l’Assemblée puis le Sénat pour être appliqué, mais des voix se lèvent déjà parmi les députés pour que l’amendement soit refusé.",
+    "auteur_id": "971820228"
+  },
+  "metriques": {
+    "bookmark_count": 143,
+    "impression_count": 168971,
+    "like_count": 10449,
+    "quote_count": 61,
+    "reply_count": 204,
+    "retweet_count": 1859
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
