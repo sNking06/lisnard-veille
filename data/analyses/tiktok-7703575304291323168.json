@@ -1,0 +1,25 @@
+{
+  "id": "7703575304291323168",
+  "date": "2026-11-02T14:06:41+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7703575304291323168",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7703575304291323168"
+  },
+  "resume": "Extrait (~64 s, sans légende, format « vrai ou faux ») sur l'alimentation. À l'affirmation « pour protéger l'environnement, l'État doit pouvoir décider de ce que nous mangeons », l'auteur répond que l'État ne doit « jamais » le faire, jugeant l'idée « orwellienne » et technocratique. Il défend plutôt l'information des citoyens sur la santé et l'environnement, et le « bon sens » (produits de saison), en citant l'exemple de sa grand-mère.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "l'État ne doit jamais décider de ce que nous mangeons",
+    "c'est orwellien"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : prise de position, aucune mesure proposée. L'auteur ne cite pas de texte ou de projet précis visé. Sous-titres automatiques, transcription non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-02T18:05:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-02 17:47)"
+}

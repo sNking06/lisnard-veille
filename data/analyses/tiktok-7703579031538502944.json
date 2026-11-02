@@ -1,0 +1,25 @@
+{
+  "id": "7703579031538502944",
+  "date": "2026-11-02T14:21:08+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7703579031538502944",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7703579031538502944"
+  },
+  "resume": "Extrait (~39 s, sans légende, contexte non précisé) sur sa gestion de Cannes. L'auteur affirme avoir, comme maire, baissé la fiscalité (« 3,6 », unité non précisée dans les sous-titres) et réduit la dette de 84 millions d'euros « au moment où je vous parle », tout en augmentant l'autofinancement, dans une ville qu'il décrit comme ayant un taux de pauvreté supérieur à la moyenne. Il estime qu'il faut des objectifs comptables sans faire une « politique comptable », en motivant les équipes comme dans une entreprise.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "on a baissé la dette de 84.000.000 d'euros",
+    "vous faites surtout pas 1 politique comptable"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : bilan municipal, aucune mesure nationale proposée. Chiffres déclaratifs non revérifiés ici ; le site officiel annonçait mi-octobre −83,5 M€ de dette en fin d'année (carte site et X 2110722392490131623). Le « 3,6 » de baisse de fiscalité n'a pas d'unité claire. Sous-titres automatiques, transcription non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-02T18:05:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-02 17:47)"
+}
