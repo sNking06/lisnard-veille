@@ -1,0 +1,26 @@
+{
+  "id": "7703486213579132193",
+  "date": "2026-11-02T08:21:04+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7703486213579132193",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7703486213579132193"
+  },
+  "resume": "Vidéo (~107 s, sans légende) de début de semaine sur l'économie : l'auteur décrit une inflation élevée pesant sur le pouvoir d'achat, une activité en recul ou stagnante selon les trimestres, une « équation budgétaire impossible » et une agence de notation qui aurait abaissé la perspective de la France. Il estime que le niveau de dépense publique (« 58 % ») et de prélèvements freine la croissance et défend, avec Nouvelle Énergie, une baisse de la dépense pour « cotiser moins » et « gagner plus ».",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "il faut produire plus pour gagner plus",
+    "trop d'impôts tuent l'impôt",
+    "il faut baisser la dépense"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : orientation générale déjà évaluée sur d'autres cartes (baisse des dépenses et des cotisations, voir TikTok 7697652285039529249 et la carte du site Le Crayon du 15/10/2026). Les chiffres cités (trimestres de croissance, 58 % de dépense publique, révision de perspective par une agence de notation) sont oraux, mal restitués par les sous-titres et ne sont pas revérifiés ici.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-02T10:05:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-02 9:47)"
+}

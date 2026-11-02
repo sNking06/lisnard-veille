@@ -1,0 +1,20 @@
+{
+  "id": "2117172571623850480",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-02T08:30:50.000Z",
+  "url": "https://x.com/davidlisnard/status/2117172571623850480",
+  "texte": "Vivement @Nouv_Energie https://t.co/R1Ey1Iauef",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 8,
+    "impression_count": 4372,
+    "like_count": 280,
+    "quote_count": 4,
+    "reply_count": 20,
+    "retweet_count": 72
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
