@@ -1,0 +1,24 @@
+{
+  "id": "7703832009977629984",
+  "date": "2026-11-03T06:42:56+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7703832009977629984",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7703832009977629984"
+  },
+  "resume": "Vidéo (~177 s) sur l'accueil à Cannes des Bus du cœur, une opération de dépistage. Selon la légende, il s'agit de permettre à de nombreuses femmes, « notamment modestes », de bénéficier d'un dépistage des maladies cardiovasculaires et gynécologiques ; l'auteur se dit « fier » que la ville accueille et soit partenaire de l'opération « cette année encore ».",
+  "base_du_resume": "légende de la publication (pas de sous-titres récupérés)",
+  "citations": [
+    "je suis fier que cette année encore nous accueillions et soyons partenaires des Bus du cœur"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : action municipale de santé, aucune mesure nationale proposée. Pas de sous-titres disponibles au moment de la collecte, contenu oral de la vidéo non résumé.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-03T10:05:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-03 09:47)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "7703700991052385569",
+  "date": "2026-11-02T22:14:27+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7703700991052385569",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7703700991052385569"
+  },
+  "resume": "Extrait d'échange (~24 s, sans légende, émission non précisée). L'auteur conteste l'expression « État providence » en demandant « qui est la providence », terme qu'il associe à Dieu et à l'intime. Il décrit un État avec « trois mille cinq cents milliards de dettes » et environ 160 milliards de déficit (le chiffre est hésitant dans les sous-titres), qu'il présente comme 40 % de ses recettes et 5,2 % du PIB, et conclut que « le système il est mort ».",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "qui est la providence",
+    "le système il est mort"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : constat sur les finances publiques, aucune mesure concrète proposée. Chiffres déclaratifs non revérifiés ici ; le montant du déficit est prononcé de façon hésitante (« 100 euh 60 milliards »). Même thème que la carte TikTok 7697652285039529249 (fin de l'État providence). Sous-titres automatiques, transcription non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-03T10:05:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-03 09:47)"
+}
