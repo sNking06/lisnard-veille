@@ -1,0 +1,25 @@
+{
+  "id": "cannes-accueille-la-troisieme-promotion-des-cadets-de-la-police-municipale",
+  "date": "2026-11-03T10:18:45.500Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/cannes-accueille-la-troisieme-promotion-des-cadets-de-la-police-municipale/",
+  "statut": "ok",
+  "titre": "Cannes accueille la troisième promotion des Cadets de la Police municipale",
+  "integration": {
+    "type": "none",
+    "id": "cannes-accueille-la-troisieme-promotion-des-cadets-de-la-police-municipale"
+  },
+  "resume": "Article local : jusqu'au 11 novembre 2026, huit jeunes Cannois sont accueillis à la police municipale de Cannes dans le cadre du deuxième volet du Service national universel (SNU). Ils découvrent le métier (incivisme, uniforme, relations avec les habitants, prévention des risques) et participent aux cérémonies patriotiques. Le dispositif, créé il y a trois ans par la mairie, en est à sa troisième promotion, baptisée « Alexis de Tocqueville ».",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie",
+  "citations": [
+    "vive notre belle jeunesse, vive Cannes !"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Information municipale ; aucune proposition. Le caractère « unique en France » est présenté par le site, non vérifié.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-03T18:10:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-03 17:47)"
+}

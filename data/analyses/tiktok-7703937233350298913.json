@@ -1,0 +1,52 @@
+{
+  "id": "7703937233350298913",
+  "date": "2026-11-03T13:31:10+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7703937233350298913",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7703937233350298913"
+  },
+  "resume": "Extrait (~31 s, sans légende, contexte non précisé) sur la complexité normative. L'auteur estime que lorsque l'État s'applique les règles qu'il impose aux maires et aux chefs d'entreprise, il s'en « exonère », citant la loi sur les Jeux olympiques de Paris et la loi Notre-Dame de Paris : sans ces exceptions, selon lui, Notre-Dame ne serait pas rouverte et les JO « seraient partis ailleurs ». Il propose d'en faire « le droit commun ». Il reproche au président de la République de constater qu'« il faut 5 ans pour faire un poulailler » sans avoir changé les choses.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende ; cadre juridique de la loi Notre-Dame vérifié",
+  "citations": [
+    "faisons de ça le droit commun",
+    "il faut 5 ans pour faire 1 poulailler"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Généraliser au droit commun les dérogations et procédures accélérées accordées aux grands chantiers d'exception (Jeux olympiques de Paris, restauration de Notre-Dame).",
+      "cout": "Non établi ; mesure surtout normative, sans chiffrage dans l'extrait.",
+      "cadre_juridique": "La loi n° 2019-803 du 29 juillet 2019 (Notre-Dame) autorise, « dans la mesure strictement nécessaire » et pour ce seul chantier, des dérogations par ordonnances (art. 38 de la Constitution) en matière d'urbanisme, d'environnement, de voirie et de transport, tout en imposant le respect de la Charte de l'environnement et des engagements européens. Une généralisation passerait par des lois modifiant les codes concernés ; elle resterait encadrée par la Charte de l'environnement (valeur constitutionnelle) et par le droit de l'UE (évaluation environnementale, participation du public, commande publique).",
+      "competence": "Parlement (loi) et Gouvernement (ordonnances, décrets) ; une partie des règles relève du droit de l'UE.",
+      "precedents": "Loi Notre-Dame du 29/07/2019 et loi relative à l'organisation des JO 2024 : dérogations ciblées et temporaires. Généralisation à tous les projets : non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Préciser quelles dérogations seraient généralisées (délais, recours, participation du public, archéologie, commande publique).",
+        "Respect de la Charte de l'environnement et des directives européennes, qui limitent les simplifications possibles.",
+        "Vote de lois, voire de plusieurs textes sectoriels."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Formule générale sans détail sur le périmètre. La citation présidentielle sur le poulailler n'a pas été vérifiée. La justification des JO est formulée au conditionnel par l'auteur."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Notre-Dame de Paris – La loi du 29 juillet 2019 (ministère de la Culture)",
+      "url": "https://notre-dame-de-paris.culture.gouv.fr/fr/la-loi-du-29-juillet-2019",
+      "consulte_le": "2026-11-03"
+    },
+    {
+      "titre": "JSS – La loi d'exception pour la restauration de Notre-Dame de Paris (article 9)",
+      "url": "https://jss.fr/post/La_loi_d%E2%80%99exception_pour_la_restauration_et_la_conservation_de_la_cathedrale_NotreDame_de_Paris__Journees_Juridiques_du_Patrimoine-1801",
+      "consulte_le": "2026-11-03"
+    }
+  ],
+  "notes": "« s'en exonère » restitué à partir de « en exonaire » (sous-titres). Transcription non relue, non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-03T18:10:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-03 17:47)"
+}
