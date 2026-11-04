@@ -1,0 +1,25 @@
+{
+  "id": "7704231797332249888",
+  "date": "2026-11-04T08:34:17+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7704231797332249888",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7704231797332249888"
+  },
+  "resume": "Extrait (~32 s, sans légende, contexte non précisé). L'auteur s'adresse aux « compatriotes d'origine immigrée récente » et les invite à le rejoindre. Il dénonce une « dérive grave extrémiste » d'une partie de la gauche qu'il qualifie de « woke » et de « la déconstruction », qui mettrait selon lui « du poison » dans la tête de la jeunesse et des Français d'origine immigrée. Il ajoute que, pour l'immense majorité, ces personnes sont venues « pour bosser » ou pour échapper à l'oppression, et que la France est « un merveilleux pays » malgré ses défauts.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "rejoignez-nous parce que on va redresser la France",
+    "vous êtes venus pour bosser"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Message politique sans mesure concrète ; aucune proposition à évaluer. « walkist » dans les sous-titres = « woke » (transcription automatique). Transcription non relue, non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-04T10:00:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-04 09:47)"
+}
