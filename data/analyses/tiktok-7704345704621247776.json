@@ -1,0 +1,57 @@
+{
+  "id": "7704345704621247776",
+  "date": "2026-11-04T15:56:15+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7704345704621247776",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7704345704621247776"
+  },
+  "resume": "Extrait (~45 s, sans légende ; même vidéo que le post X du même jour). L'auteur appelle à traiter l'immigration comme « un phénomène social » et à faire prévaloir le droit de la nation à décider qui vient, à quelles conditions et comment on devient français, au nom de l'idéal républicain universaliste qui supposerait intégration et assimilation. Il propose de passer par le référendum, de faire primer le droit national et d'instaurer des quotas d'immigration « pour moins accueillir, mieux accueillir », tout en traitant humainement les arrivants.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "l'idéal républicain nécessite qu'on maîtrise l'immigration",
+    "passer par le référendum"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Instaurer des quotas d'immigration, en passant par le référendum et en faisant prévaloir le droit national sur les jurisprudences nationales et européennes.",
+      "cout": "Non établi.",
+      "cadre_juridique": "Le Conseil constitutionnel admet que le législateur peut restreindre l'entrée et le séjour des étrangers, sous réserve des droits fondamentaux reconnus à tous les résidents (décision 93-325 DC). Un référendum de l'article 11 reste soumis au contrôle du Conseil constitutionnel lorsqu'il est d'initiative partagée (2024-6 RIP : proposition sur les prestations sociales des étrangers jugée non conforme). Faire primer la loi sur les traités suppose de réviser l'article 55 de la Constitution (art. 89) ; le droit de l'Union et la Convention européenne des droits de l'homme resteraient opposables à la France tant qu'elle y est partie.",
+      "competence": "État (Parlement, Congrès ou peuple par référendum) ; Union européenne pour l'asile et les visas.",
+      "precedents": "Non établi pour des quotas globaux en France.",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Révision constitutionnelle (articles 11 et/ou 55).",
+        "Compatibilité avec le droit de l'Union et la Convention européenne des droits de l'homme, ou renégociation de ces engagements.",
+        "Respect des droits fondamentaux des étrangers résidant régulièrement (regroupement familial, asile)."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Proposition énoncée en quelques mots dans un extrait de 45 s ; niveau des quotas et catégories visées non précisés. Une mesure proche (plafond d'immigration légale) est déjà évaluée sur la carte YouTube ISEmls4A5Bo."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Conseil constitutionnel – Décision 93-325 DC du 13 août 1993 (maîtrise de l'immigration)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/1993/93325DC.htm",
+      "consulte_le": "2026-11-04"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision 2024-6 RIP du 11 avril 2024",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2024/20246RIP.htm",
+      "consulte_le": "2026-11-04"
+    },
+    {
+      "titre": "Conseil constitutionnel – Texte intégral de la Constitution du 4 octobre 1958",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-11-04"
+    }
+  ],
+  "notes": "1 proposition évaluée. « l'aprimoté » dans les sous-titres = « la primauté ». Transcription non relue, non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-04T18:10:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-04 17:47)"
+}

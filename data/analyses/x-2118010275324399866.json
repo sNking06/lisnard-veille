@@ -1,0 +1,24 @@
+{
+  "id": "2118010275324399866",
+  "date": "2026-11-04T15:59:35.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2118010275324399866",
+  "statut": "ok",
+  "integration": {
+    "type": "x",
+    "id": "2118010275324399866"
+  },
+  "resume": "Post avec vidéo (45 s) : « Sortons la question de la maîtrise de l'immigration des invectives idéologiques et des anathèmes. #onvalefaire ». La vidéo est la même que la publication TikTok 7704345704621247776, où la proposition (quotas d'immigration via référendum) est évaluée.",
+  "base_du_resume": "texte du post X et durée de la vidéo ; contenu vidéo identique à la carte TikTok du même jour",
+  "citations": [
+    "Sortons la question de la maîtrise de l'immigration des invectives idéologiques et des anathèmes."
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul renvoyant à la carte TikTok 7704345704621247776.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-04T18:10:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-04 17:47)"
+}

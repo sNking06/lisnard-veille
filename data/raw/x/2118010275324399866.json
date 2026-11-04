@@ -1,0 +1,20 @@
+{
+  "id": "2118010275324399866",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-04T15:59:35.000Z",
+  "url": "https://x.com/davidlisnard/status/2118010275324399866",
+  "texte": "Sortons la question de la maîtrise de l’immigration des invectives idéologiques et des anathèmes.\n#onvalefaire https://t.co/jqhWHJ6O4T",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 28,
+    "impression_count": 11880,
+    "like_count": 468,
+    "quote_count": 8,
+    "reply_count": 22,
+    "retweet_count": 92
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "toc-toc-on-arrive-david-lisnard-annonce-plus-de-100-000-adherents-a-nouvelle-ene",
+  "date": "2026-11-04T13:30:17.808Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/toc-toc-on-arrive-david-lisnard-annonce-plus-de-100-000-adherents-a-nouvelle-energie-sur-bfmtv/",
+  "statut": "ok",
+  "integration": {
+    "type": "none",
+    "id": "toc-toc-on-arrive-david-lisnard-annonce-plus-de-100-000-adherents-a-nouvelle-ene"
+  },
+  "titre": "« Toc toc, on arrive ! » : David Lisnard annonce plus de 100 000 adhérents à Nouvelle Énergie sur BFMTV",
+  "resume": "Compte rendu de l'entretien avec Sonia Mabrouk sur BFMTV (vidéo YouTube FPH3rkSPWJA). Annonce de plus de 100 000 adhésions payantes, refus de gouverner avec les macronistes, le RN ou la gauche (« droite indépendante »), défense d'une primaire ouverte. Méthode : gouvernement « commando » resserré pour les 200 premiers jours, ordonnances et session extraordinaire à l'été 2027. Économies de 80 Md€ dont 60 % rendus aux Français (exemple de +200 à 400 € nets par mois pour 2 200 € nets). Sécurité : intervention plus rapide, meilleur équipement, délit de pillage. Immigration maîtrisée et assimilation ; révision des articles 54 et 55 et référendum élargi.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie (compte rendu, non relu face à la vidéo)",
+  "citations": [
+    "Je nommerai immédiatement un gouvernement commando, resserré",
+    "L'État de droit, c'est de protéger celui qui est pillé. Pas le pillard."
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Créer un délit spécifique de pillage pour mieux sanctionner les vols et destructions commis lors d'émeutes.",
+      "cout": "Non établi.",
+      "cadre_juridique": "Relève de la loi (art. 34 de la Constitution). Le Code pénal ne connaît pas d'infraction de « pillage » : ces faits sont poursuivis comme vols aggravés (art. 311-4, en réunion, avec dégradations) ou en bande organisée (art. 311-9). Un projet de loi « casseurs-payeurs » sur la réparation des dommages, déposé au Sénat le 16/09/2026, porte sur la responsabilité civile et non sur une nouvelle infraction.",
+      "competence": "État (Parlement).",
+      "precedents": "Proposition de loi n° 235 (16e législature, 2022) visant à punir l'appropriation du bien d'autrui sans motif légitime, non adoptée à notre connaissance.",
+      "verdict": "faisable",
+      "conditions": [],
+      "fiabilite": "moyenne",
+      "doutes": "Définition et peines envisagées non précisées ; l'apport par rapport aux circonstances aggravantes existantes dépendra de la rédaction (principe de nécessité des peines)."
+    },
+    {
+      "texte": "Interdire les surtranspositions des directives européennes et décréter un moratoire sur les normes jugées inutiles.",
+      "cout": "Non établi.",
+      "cadre_juridique": "La circulaire du Premier ministre du 26 juillet 2017 proscrit déjà en principe toute transposition allant au-delà des directives, sauf choix politique arbitré. Une interdiction pour le législateur exigerait une loi organique ou une révision constitutionnelle, la loi ordinaire ne liant pas le législateur futur.",
+      "competence": "État (Gouvernement pour les règlements, Parlement pour les lois).",
+      "precedents": "Circulaire du 26/07/2017 ; projet de loi portant suppression de surtranspositions (15e législature) ; proposition de loi sénatoriale ppr18-088 sur les surtranspositions.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Par circulaire pour le flux réglementaire (déjà en vigueur).",
+        "Inventaire puis lois de suppression pour le stock.",
+        "Loi organique ou révision constitutionnelle pour contraindre le législateur."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Portée du moratoire non précisée ; un rapport sénatorial relève que les résultats de l'inventaire de 2017-2018 n'avaient pas été publiés."
+    },
+    {
+      "texte": "Modifier les articles 54 et 55 de la Constitution et élargir le champ du référendum pour renforcer la décision nationale face aux traités et jurisprudences, notamment en matière d'immigration.",
+      "cout": "Non établi.",
+      "cadre_juridique": "Révision constitutionnelle (art. 89) : vote des deux assemblées puis référendum ou Congrès. Le recours direct à l'article 11 pour réviser la Constitution est contesté. Même révisée, la Constitution ne délierait pas la France de ses obligations internationales (droit de l'Union, Convention européenne des droits de l'homme), sauf renégociation ou retrait.",
+      "competence": "État (Parlement, Congrès ou peuple par référendum).",
+      "precedents": "Non établi.",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Accord des deux assemblées sur un texte identique (art. 89).",
+        "Risque de contentieux et de manquement devant la CJUE et la Cour européenne des droits de l'homme.",
+        "Alliances avec d'autres États pour faire évoluer les règles européennes, comme évoqué."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Rédaction envisagée des articles 54 et 55 non précisée dans le compte rendu."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Sénat – L'essentiel sur le projet de loi relatif à la réparation des dommages (« casseurs-payeurs »)",
+      "url": "https://www.senat.fr/fileadmin/cru-1792598966/Presse/Documents_pdf/Esssentiel_v1_maintien_ordre.pdf",
+      "consulte_le": "2026-11-04"
+    },
+    {
+      "titre": "Assemblée nationale – Proposition de loi n° 235 (16e législature)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/textes/l16b0235_proposition-loi",
+      "consulte_le": "2026-11-04"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier « Suppression de sur-transpositions de directives » (15e législature)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/suppression_sur-transpositions_directives",
+      "consulte_le": "2026-11-04"
+    },
+    {
+      "titre": "Sénat – Proposition de loi ppr18-088 sur les surtranspositions",
+      "url": "https://www.senat.fr/leg/ppr18-088.html",
+      "consulte_le": "2026-11-04"
+    },
+    {
+      "titre": "Conseil constitutionnel – Texte intégral de la Constitution du 4 octobre 1958",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-11-04"
+    }
+  ],
+  "notes": "3 propositions nouvelles évaluées. Les 80 Md€ d'économies sont déjà évalués sur la carte « Au crayon, l'État providence » ; la primaire ouverte et le gouvernement resserré relèvent de la méthode politique, non évalués.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-04T18:10:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-04 17:47)"
+}

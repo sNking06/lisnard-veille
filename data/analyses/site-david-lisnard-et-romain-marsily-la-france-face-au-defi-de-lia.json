@@ -1,0 +1,26 @@
+{
+  "id": "david-lisnard-et-romain-marsily-la-france-face-au-defi-de-lia",
+  "date": "2026-11-04T13:33:24.744Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/david-lisnard-et-romain-marsily-la-france-face-au-defi-de-lia/",
+  "statut": "ok",
+  "integration": {
+    "type": "none",
+    "id": "david-lisnard-et-romain-marsily-la-france-face-au-defi-de-lia"
+  },
+  "titre": "David Lisnard et Romain Marsily : la France face au défi de l'IA",
+  "resume": "Recension du livre de David Lisnard et Romain Marsily sur l'IA et la robotique, qui s'appuie sur l'encyclique Magnifica humanitas de Léon XIV. Les auteurs mettent en garde contre la dépendance à la machine et le transhumanisme, défendent la subsidiarité contre la technocratie, critiquent une Arcom « hypertrophiée », refusent revenu universel et taxation des robots. Pistes citées : remplacer le principe de précaution par un principe de responsabilité, imposer la réversibilité dans la commande publique, maîtriser les routeurs entre modèles d'IA ; ils saluent l'« Opération Prométhée » (620 Md€ estimés, dont ~130 Md€ publics, selon l'article).",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie (recension)",
+  "citations": [
+    "l’homme n’est pas un brouillon biologique en attente d'amélioration industrielle",
+    "La machine peut beaucoup. Mais elle ne peut pas vouloir à notre place."
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : le remplacement du principe de précaution est déjà évalué sur la carte TikTok 7703975106036469024 ; les autres pistes ne sont pas assez détaillées pour être évaluées. Chiffres de l'Opération Prométhée repris de l'article, non vérifiés.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-04T18:10:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-04 17:47)"
+}
