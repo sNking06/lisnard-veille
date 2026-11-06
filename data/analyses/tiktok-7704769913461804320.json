@@ -1,0 +1,25 @@
+{
+  "id": "7704769913461804320",
+  "date": "2026-11-05T19:22:23+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7704769913461804320",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7704769913461804320"
+  },
+  "resume": "Vidéo face caméra (~27 s, sans légende). L'auteur plaide pour « une compétition » qui éviterait « l'accueil » (probablement l'accueil de la division) au premier tour et les « arrangements de nos tables », jugés non pertinents. Il redit qu'il annonce depuis 2024 la situation actuelle, compare le redressement du pays à celui d'une collectivité ou d'une entreprise (nécessité de cohérence), demande aux autres de ne pas lui nuire jusqu'à l'élection s'ils ne le soutiennent pas, et précise qu'il ne soutiendra pas Édouard Philippe si celui-ci gagnait la primaire, tout en respectant le résultat.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "redresser le pays c'est comme redresser une collectivité ou une entreprise",
+    "je ne soutiendrai pas Édouard Philippe s'il gagnait la primaire mais je respecterai"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "notes": "Résumé seul : positionnement de campagne et stratégie de primaire, déjà traité sur la carte X 2116945769789825376 ; aucune mesure de politique publique évaluable. Les sous-titres (« accueils la division », « arrangements de nos tables ») sont approximatifs et non relus. Transcription non commitée.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-06T09:51:47+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-06 9:47)"
+}
