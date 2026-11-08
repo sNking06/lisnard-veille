@@ -1,0 +1,20 @@
+{
+  "id": "2119124957477118010",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-07T17:48:55.000Z",
+  "url": "https://x.com/davidlisnard/status/2119124957477118010",
+  "texte": "Un nouveau rendez-vous.\n#EnAvantPourLaFrance https://t.co/bDU2SoM8pL",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 36,
+    "impression_count": 21931,
+    "like_count": 910,
+    "quote_count": 13,
+    "reply_count": 49,
+    "retweet_count": 203
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
