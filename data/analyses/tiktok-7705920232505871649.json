@@ -1,0 +1,26 @@
+{
+  "id": "7705920232505871649",
+  "date": "2026-11-08T21:46:14+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7705920232505871649",
+  "integration": {
+    "type": "tiktok",
+    "id": "7705920232505871649"
+  },
+  "resume": "Format « vrai ou faux » (~42 s, sans légende) : « un libéral cohérent devrait supprimer toutes les aides aux entreprises ». L'auteur répond « vrai » sur le principe mais défend une autre voie : selon lui, les aides n'existent que parce que les charges, taxes et contraintes sont trop élevées ; l'État crée alors des aides qui exigent une administration pour les attribuer et les contrôler, ce qui alimente une « spirale » (plus de charges, plus d'aides) et un « capitalisme de connivence » qui bloquerait l'entrée de nouveaux acteurs. Il conclut qu'il faut diminuer les aides aux entreprises et réduire en parallèle les prélèvements et la fiscalité qui pèsent sur elles. Aucun chiffre, calendrier ni mécanisme précis n'est donné.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "une spirale qui augmente la charge qui augmente la nécessité d'aide",
+    "un capitalisme de connivence",
+    "diminuer les aides aux entreprises et […] les prélèvements et les fiscalités sur les entreprises"
+  ],
+  "notes": "Résumé seul : orientation générale (moins d'aides, moins de prélèvements), sans montant ni dispositif à évaluer. Sous-titres automatiques approximatifs (« conivance » lu comme connivence). Transcription gardée en local uniquement.",
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-09T10:05:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-09 9:47)"
+}
