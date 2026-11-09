@@ -1,0 +1,25 @@
+{
+  "id": "7706162392786341152",
+  "date": "2026-11-09T13:25:58+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7706162392786341152",
+  "integration": {
+    "type": "tiktok",
+    "id": "7706162392786341152"
+  },
+  "statut": "ok",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "resume": "Extrait (~36 s, sans légende) : l'auteur affirme que la France n'est pas « condamnée à être en 3e division du monde » et présente son projet en trois axes : libérer l'économie des surcharges et de la bureaucratie, revenir à un ordre public respectueux du bon sens, et porter une ambition scientifique, éducative et culturelle pour recréer l'unité de la nation. Il évoque recentrer l'État sur ses missions. Aucune mesure précise, chiffre ni calendrier.",
+  "citations": [
+    "libérer l'état de tous les charges qu'il ne devrait pas faire",
+    "le recentrer sur ses missions"
+  ],
+  "notes": "Résumé seul : orientation générale sans dispositif à évaluer. Sous-titres automatiques approximatifs. Transcription gardée en local uniquement.",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-09T18:00:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-09 17:47)"
+}

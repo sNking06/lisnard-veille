@@ -1,0 +1,48 @@
+{
+  "id": "7706122542284623137",
+  "date": "2026-11-09T10:51:23+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7706122542284623137",
+  "integration": {
+    "type": "tiktok",
+    "id": "7706122542284623137"
+  },
+  "statut": "ok",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "resume": "Extrait (~26 s, sans légende) : l'auteur annonce, s'il était aux responsabilités, un « gouvernement commando resserré » engageant sa responsabilité sur les 200 premiers jours, des réformes économiques, sociales, éducatives, sécuritaires et institutionnelles par ordonnances et par la loi, un Parlement convoqué en session extraordinaire tout l'été 2027, et un changement de ministres si les réformes ne sont pas engagées au bout de 200 jours.",
+  "citations": [
+    "gouvernement commando resserré",
+    "session extraordinaire",
+    "au bout de 200 jours si les modalités n'ont pas été engagées on changera les ministres"
+  ],
+  "notes": "Les réformes concernées ne sont pas détaillées : seule la méthode (ordonnances, session extraordinaire, échéance de 200 jours) est évaluée. Transcription gardée en local uniquement.",
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Engager les grandes réformes dans les 200 premiers jours par ordonnances et par la loi, avec une session extraordinaire du Parlement à l'été 2027, et remplacer les ministres si les réformes ne sont pas engagées à l'échéance.",
+      "cout": "Non établi.",
+      "cadre_juridique": "L'article 38 de la Constitution permet au Gouvernement de demander au Parlement l'autorisation de légiférer par ordonnances pour un délai limité ; elles sont prises en conseil des ministres après avis du Conseil d'État et deviennent caduques si le projet de loi de ratification n'est pas déposé à la date fixée. L'article 29 prévoit la session extraordinaire à la demande du Premier ministre sur un ordre du jour déterminé, et l'article 30 son ouverture par décret du Président de la République. Selon l'article 8, le Président nomme les ministres sur proposition du Premier ministre et met fin à leurs fonctions.",
+      "competence": "État (Gouvernement, Parlement, Président de la République).",
+      "precedents": "Non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Vote d'une loi d'habilitation par le Parlement (art. 38) : les ordonnances ne sont pas possibles sans majorité qui l'autorise.",
+        "Les réformes institutionnelles ou constitutionnelles annoncées relèvent d'autres procédures (loi organique, révision de l'art. 89, référendum) et ne passent pas par ordonnance.",
+        "Le remplacement des ministres suppose l'accord du Président de la République et du Premier ministre (art. 8) ; la sanction à 200 jours est un engagement politique, sans mécanisme juridique contraignant."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Extrait de 26 s : contenu des réformes, périmètre des ordonnances et mécanisme de sanction non précisés ; les précédents d'habilitation massive n'ont pas été consultés."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Conseil constitutionnel – Texte intégral de la Constitution du 4 octobre 1958 (art. 8, 29, 30, 38)",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-11-09"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-09T18:00:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-09 17:47)"
+}
