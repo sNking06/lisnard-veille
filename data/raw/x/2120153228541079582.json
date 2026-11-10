@@ -1,0 +1,20 @@
+{
+  "id": "2120153228541079582",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-10T13:54:54.000Z",
+  "url": "https://x.com/davidlisnard/status/2120153228541079582",
+  "texte": "Le maximum d’attaques que je reçois viennent de la macronie, d’une partie de ce qui se dit la droite et du RN. Ils ne sont pas obligés certes, mais il paraît que c’est bon signe… Les consignes de la meute hostile sont proportionnelles à notre dynamique. \n\nBon, en répliquant",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 38,
+    "impression_count": 49214,
+    "like_count": 2318,
+    "quote_count": 29,
+    "reply_count": 121,
+    "retweet_count": 389
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

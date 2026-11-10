@@ -1,0 +1,24 @@
+{
+  "id": "2120158786287714760",
+  "date": "2026-11-10T14:16:59+00:00",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2120158786287714760",
+  "integration": {
+    "type": "x",
+    "id": "2120158786287714760"
+  },
+  "resume": "Citation d'un message sur la condamnation par contumace de l'écrivain Kamel Daoud en Algérie : l'auteur regrette que la France ne soutienne pas toujours ses compatriotes artistes, écrivains et journalistes. Prise de position, aucune mesure concrète.",
+  "base_du_resume": "texte de la publication X",
+  "citations": [
+    "de voir la France ne plus soutenir en certaines circonstances nos compatriotes"
+  ],
+  "notes": "Résumé seul : constat et prise de position, aucune proposition à évaluer.",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "statut": "ok",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-10T17:58:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-10 17:47)"
+}

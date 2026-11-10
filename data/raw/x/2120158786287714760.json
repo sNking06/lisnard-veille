@@ -1,0 +1,24 @@
+{
+  "id": "2120158786287714760",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-10T14:16:59.000Z",
+  "url": "https://x.com/davidlisnard/status/2120158786287714760",
+  "texte": "Et qu’il est triste, affligeant, révoltant, de voir la France ne plus soutenir en certaines circonstances nos compatriotes, les artistes et écrivains comme @DaouaKamel , la presse et les journalistes comme\nChristophe Gleize, une certaine idée de la culture et la liberté. https://t.co/6v3e0H9jAT",
+  "citation": {
+    "id": "2120110139512623253",
+    "texte": "Notre ami @daoud_kamel et son épouse, condamnés par contumace à 5 ans de prison ferme par la dictature algérienne. Soutien indéfectible au nom du @CSoutienBS. Une certaine presse en France a relayé le harcèlement du régime d’Alger. #Daoud. @jnbarrot @EmmanuelMacron ?",
+    "auteur_id": "302260519"
+  },
+  "metriques": {
+    "bookmark_count": 8,
+    "impression_count": 15261,
+    "like_count": 593,
+    "quote_count": 4,
+    "reply_count": 18,
+    "retweet_count": 131
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
