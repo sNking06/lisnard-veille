@@ -1,0 +1,24 @@
+{
+  "id": "7706878148754836769",
+  "date": "2026-11-11T11:43:24+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7706878148754836769",
+  "integration": {
+    "type": "tiktok",
+    "id": "7706878148754836769"
+  },
+  "resume": "Vidéo (~49 s) polémique à l'adresse d'un autre responsable politique : l'auteur estime que la conception actuelle de la propriété n'est « plus supportable » et reproche à Jean-Luc Mélenchon de ne pas appliquer dès maintenant ses principes, en évoquant sa propriété privée et un cambriolage de sa résidence secondaire. Il l'invite ironiquement à donner ses propriétés. Aucune mesure concrète n'est proposée ; les faits personnels évoqués ne sont pas vérifiés ici.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "donner vos propriétés à des gens qui sont dans le besoin"
+  ],
+  "notes": "Résumé seul : prise de position polémique, aucune proposition évaluable ; les faits cités sur un tiers ne sont pas établis par cette veille.",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "statut": "ok",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-11T18:00:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-11 17:47)"
+}
