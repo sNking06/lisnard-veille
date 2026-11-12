@@ -1,0 +1,24 @@
+{
+  "id": "2120569111063265768",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-11T17:27:29.000Z",
+  "url": "https://x.com/davidlisnard/status/2120569111063265768",
+  "texte": "Finalement, la France Insoumise est pour la retraite par capitalisation !\n\nAffligeant d’entendre un de ses députés en décrire le mécanisme sans savoir, donc, que ce n’est pas le système actuel et que le système par répartition intégrale qu’il défend n’est pas le bon.\n\nEt cocasse de les voir défendre le principe, sain et si contraire à toute la doctrine de LFI, de la propriété individuelle des cotisations.\n\nCamarades, vive la propriété et vive la liberté ✊",
+  "citation": {
+    "id": "2120524534654865592",
+    "texte": "Je vais exploser mon écran tellement nos députés sont ignares sur des sujets aussi importants. [...] 2 députés LFI en live qui n'ont aucune idée de comment fonctionne le système de retraite ?????!",
+    "auteur_id": "898994539"
+  },
+  "metriques": {
+    "bookmark_count": 620,
+    "impression_count": 237908,
+    "like_count": 8131,
+    "quote_count": 25,
+    "reply_count": 135,
+    "retweet_count": 1221
+  },
+  "type": "citation",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
