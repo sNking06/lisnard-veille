@@ -1,0 +1,13 @@
+{
+  "id": "2120817946196947294",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-12T09:56:15.000Z",
+  "url": "https://x.com/davidlisnard/status/2120817946196947294",
+  "texte": "Info Cannes. ⚠️ Point de situation météo. Montée du Béal en cours (donc secteur Tourrades), pas encore au seuil critique. Mais cela retient notre vigilance. D’autres cours d’eau montent, sans avoir atteint les seuils d’alerte (Frayère, où les travaux d’élargissement que nous [texte tronqué par l'API]",
+  "citation": null,
+  "metriques": {"bookmark_count": 1, "impression_count": 15090, "like_count": 313, "quote_count": 0, "reply_count": 4, "retweet_count": 45},
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
