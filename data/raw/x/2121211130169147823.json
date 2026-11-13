@@ -1,0 +1,24 @@
+{
+  "id": "2121211130169147823",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-13T11:58:38.000Z",
+  "url": "https://x.com/davidlisnard/status/2121211130169147823",
+  "texte": "Pour que l’info soit rigoureusement exacte, il faut juste enlever « anti » devant « fasciste ». https://t.co/Fp1qsUYVAu",
+  "citation": {
+    "id": "2121155215806153170",
+    "texte": "L'assistant parlementaire de Raphaël Arnault placé en garde à vue pour des soupçons de reconstitution du groupe antifasciste la Jeune Garde https://t.co/e497vV3uxV",
+    "auteur_id": "franceinfo"
+  },
+  "metriques": {
+    "bookmark_count": 44,
+    "impression_count": 99618,
+    "like_count": 5715,
+    "quote_count": 30,
+    "reply_count": 108,
+    "retweet_count": 710
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

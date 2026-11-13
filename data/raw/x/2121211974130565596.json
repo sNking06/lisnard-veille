@@ -1,0 +1,20 @@
+{
+  "id": "2121211974130565596",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-13T12:01:59.000Z",
+  "url": "https://x.com/davidlisnard/status/2121211974130565596",
+  "texte": "Mais elle a déjà eu lieu la primaire de la gauche, non ?  https://t.co/izN0kAlMJT",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 28,
+    "impression_count": 102411,
+    "like_count": 2107,
+    "quote_count": 20,
+    "reply_count": 121,
+    "retweet_count": 274
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

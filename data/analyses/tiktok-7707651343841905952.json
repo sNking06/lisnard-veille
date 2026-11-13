@@ -1,0 +1,24 @@
+{
+  "id": "7707651343841905952",
+  "date": "2026-11-13T13:43:50+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7707651343841905952",
+  "integration": {
+    "type": "tiktok",
+    "id": "7707651343841905952"
+  },
+  "resume": "Vidéo (~50 s, sans légende) sur l'écrivain Kamel Daoud, que l'auteur dit à nouveau condamné par contumace en Algérie, après les condamnations de Boualem Sansal (nom approximatif dans les sous-titres) ; il estime qu'« il vaut mieux être franco-algérien en France » et que la relation franco-algérienne ne retrouvera sa vigueur qu'avec un régime respectant la liberté d'expression. Aucune mesure concrète.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "il vaut mieux être franco-algérien en France aujourd'hui qu'en Algérie"
+  ],
+  "notes": "Résumé seul : commentaire de politique étrangère ; la condamnation de Kamel Daoud est affirmée dans la vidéo, non vérifiée (non établi). Sous-titres automatiques approximatifs (noms propres). Transcription gardée en local uniquement.",
+  "statut": "ok",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-13T18:00:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-13 17:47)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": []
+}

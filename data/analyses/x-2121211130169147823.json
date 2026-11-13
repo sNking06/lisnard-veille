@@ -1,0 +1,24 @@
+{
+  "id": "2121211130169147823",
+  "date": "2026-11-13T11:58:38.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2121211130169147823",
+  "integration": {
+    "type": "x",
+    "id": "2121211130169147823"
+  },
+  "resume": "Citation d'un post de franceinfo sur la garde à vue de l'assistant parlementaire de Raphaël Arnault (soupçons de reconstitution de la Jeune Garde, groupe dissous en 2025). L'auteur répond en contestant l'emploi du mot « anti » devant « fasciste » dans la formulation. Prise de position polémique, aucune mesure.",
+  "base_du_resume": "texte du post",
+  "citations": [
+    "il faut juste enlever « anti » devant « fasciste »"
+  ],
+  "notes": "Résumé seul : réaction à une actualité, sans proposition évaluable. Les faits judiciaires cités sont ceux du post cité (franceinfo), non revérifiés ; la neutralité s'applique : seule la portée programmatique (nulle) est évaluée.",
+  "statut": "ok",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-13T18:00:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-13 17:47)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": []
+}

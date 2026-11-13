@@ -1,0 +1,20 @@
+{
+  "id": "2121165292776693874",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-13T08:56:29.000Z",
+  "url": "https://x.com/davidlisnard/status/2121165292776693874",
+  "texte": "Le vendredi 13 novembre 2015, des islamistes assassinaient 130 de nos compatriotes au nom de ce qu'ils étaient : des Français libres, attablés à une terrasse, réunis en concert, vivant simplement leur vie. Jamais nous ne les oublierons.\n\nFace au totalitarisme islamiste, aucune hésitation ni compromission possible, avec eux comme avec ceux qui les ont armés. \n\nL'ennemi, nous ne le connaissons que trop ; à nous de le combattre avec clarté et fermeté sur tous les plans - sécuritaires et culturels - et de défendre résolument ce qu'il cherche à détruire : notre liberté, notre mode de vie, notre République, la France.",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 46,
+    "impression_count": 52936,
+    "like_count": 4344,
+    "quote_count": 24,
+    "reply_count": 72,
+    "retweet_count": 752
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "2121178126650585588",
+  "date": "2026-11-13T09:47:29.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2121178126650585588",
+  "integration": {
+    "type": "x",
+    "id": "2121178126650585588"
+  },
+  "resume": "Message d'information locale : le maire de Cannes alerte les automobilistes d'une « submersion marine très rapide » à La Bocca et annonce la fermeture immédiate du tronçon concerné du boulevard du Midi Louise Moreau. Aucune proposition programmatique.",
+  "base_du_resume": "texte du post",
+  "citations": [
+    "Submersion marine très rapide en cours"
+  ],
+  "notes": "Résumé seul : alerte de sécurité routière municipale, hors sujet programmatique. Les faits (submersion, fermeture) sont ceux déclarés dans le post, non vérifiés par une autre source. Vidéo et photo jointes non analysées.",
+  "statut": "ok",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-13T18:00:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-13 17:47)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": []
+}

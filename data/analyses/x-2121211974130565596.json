@@ -1,0 +1,24 @@
+{
+  "id": "2121211974130565596",
+  "date": "2026-11-13T12:01:59.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2121211974130565596",
+  "integration": {
+    "type": "x",
+    "id": "2121211974130565596"
+  },
+  "resume": "Réponse ironique à un article franceinfo titré « Élisabeth Borne écarte une primaire allant jusqu'à David Lisnard » : l'auteur objecte que la primaire de la gauche « a déjà eu lieu ». Position tactique sur la primaire, aucune mesure évaluable.",
+  "base_du_resume": "texte du post",
+  "citations": [
+    "la primaire de la gauche, non ?"
+  ],
+  "notes": "Résumé seul : stratégie électorale. Contenu de l'article cité non consulté.",
+  "statut": "ok",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-13T18:00:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-13 17:47)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": []
+}

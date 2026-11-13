@@ -1,0 +1,20 @@
+{
+  "id": "2121178126650585588",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-13T09:47:29.000Z",
+  "url": "https://x.com/davidlisnard/status/2121178126650585588",
+  "texte": "Info Cannes. ⚠️ Automobilistes et autres véhicules. Je vous envoie de message en direct depuis la Bocca. Submersion marine très rapide en cours. Nous fermons immédiatement le tronçon concerné du boulevard du Midi Louise Moreau. https://t.co/MPDIjvqLca",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 20,
+    "impression_count": 71101,
+    "like_count": 689,
+    "quote_count": 6,
+    "reply_count": 20,
+    "retweet_count": 63
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
