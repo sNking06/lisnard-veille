@@ -1,0 +1,25 @@
+{
+  "id": "7707973666633485600",
+  "date": "2026-11-14T10:34:38+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7707973666633485600",
+  "integration": {
+    "type": "tiktok",
+    "id": "7707973666633485600"
+  },
+  "resume": "Vidéo (~28 s, sans légende) : l'auteur énonce trois objectifs environnementaux prioritaires — réduire la part humaine du changement climatique et s'y adapter, préserver la biodiversité et les écosystèmes, limiter les particules fines — en demandant que chacun soit évalué par un calcul coût-avantage, et lie ces objectifs à la création de richesse et de croissance. Aucune mesure ni chiffre précis.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "comment on limite les particules fines",
+    "la nécessité scientifique économique de calculer le coût avantage"
+  ],
+  "notes": "Résumé seul : orientations générales sans mesure chiffrée ni calendrier. Transcription gardée en local uniquement.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-14T17:50:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-14 17:47)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "statut": "ok"
+}

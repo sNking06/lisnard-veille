@@ -1,0 +1,22 @@
+{
+  "id": "2121546333068693677",
+  "date": "2026-11-14T10:10:36.000Z",
+  "source": "x",
+  "lien": "https://x.com/davidlisnard/status/2121546333068693677",
+  "integration": {
+    "type": "x",
+    "id": "2121546333068693677"
+  },
+  "resume": "Post limité à un lien vers un article de Tribuca.net : le World Quantum Cannes Festival se tiendra au Palais des Festivals les 17 et 18 novembre (1 200 participants, 220 intervenants et une centaine d'exposants annoncés par l'article). Aucune proposition ni mesure dans le post.",
+  "base_du_resume": "texte du post (lien seul) et aperçu de l'article lié",
+  "citations": [],
+  "notes": "Résumé seul : relais d'un événement local, sans proposition à évaluer.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-14T17:50:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-14 17:47)",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "statut": "ok"
+}
