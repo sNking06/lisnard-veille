@@ -1,0 +1,20 @@
+{
+  "id": "2121956780452556866",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-15T13:21:35.000Z",
+  "url": "https://x.com/davidlisnard/status/2121956780452556866",
+  "texte": "Vous avez certainement vu Hibernatus. https://t.co/JFagDvV04S",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 38,
+    "impression_count": 25094,
+    "like_count": 968,
+    "quote_count": 27,
+    "reply_count": 74,
+    "retweet_count": 268
+  },
+  "type": "lien",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

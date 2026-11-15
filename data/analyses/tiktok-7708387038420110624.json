@@ -1,0 +1,25 @@
+{
+  "id": "7708387038420110624",
+  "date": "2026-11-15T13:18:40+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7708387038420110624",
+  "integration": {
+    "type": "tiktok",
+    "id": "7708387038420110624"
+  },
+  "resume": "Vidéo (~88 s, sans légende) sur le mode « Hibernatus » : un dormeur endormi à l'élection de 2017 se réveillerait presque dix ans plus tard devant un bilan que l'auteur juge négatif — dette (« 400 milliards de plus »), déficit (2,7 % puis « plus de 5 % » du PIB), sécurité (« 65 % d'agressions de plus sur les routes »), éducation (classement Pisa), industrie (« derrière l'Espagne »). Il attribue le problème à un système « hyperbureaucratisé » et appelle à diriger l'État « comme une entreprise », en baissant les dépenses de « 200 milliards » pour « rendre 60 % en pouvoir d'achat ».",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "diriger l'État comme on dirige une entreprise",
+    "baisser les dépenses [...] 200 milliards pour rendre 60 % en pouvoir d'achat"
+  ],
+  "notes": "Résumé seul : la baisse de dépense (~200 Md€, 60 % rendus) est une orientation sans calendrier ni dispositif, déjà traitée sur les cartes TikTok 7697652285039529249 et 7696486194145660192 et YouTube R0W-wEevJB4. Tous les chiffres cités (dette, déficit, agressions, classements) sont déclaratifs et non revérifiés ; sous-titres approximatifs (« Pizza » = Pisa probable). Voir aussi X 2121956780452556866.",
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-15T17:55:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-15 17:47)"
+}
