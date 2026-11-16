@@ -1,0 +1,25 @@
+{
+  "id": "7708734533335633184",
+  "date": "2026-11-16T11:47:11+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7708734533335633184",
+  "integration": {
+    "type": "tiktok",
+    "id": "7708734533335633184"
+  },
+  "resume": "Format « vrai ou faux » (~58 s, sans légende) sur la souveraineté : l'auteur répond qu'être attaché à la souveraineté française ne revient pas forcément à vouloir quitter l'Europe, définit la souveraineté comme le fait que « le dernier décideur » soit le peuple français, estime qu'elle suppose puissance économique, diplomatique et scientifique, et juge que bien des difficultés viennent de la sur-transposition des normes européennes en France plutôt que de l'Europe elle-même. Aucune mesure précise nouvelle.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "le dernier décideur doit être le peuple français",
+    "on surtranspose les normes européennes en France"
+  ],
+  "notes": "Propos de cadrage, sans mesure évaluable ; sous-titres approximatifs. La question de la sur-transposition est traitée sur la carte du site « Toc toc, on arrive ! » (interdiction des surtranspositions). Aucun verdict de faisabilité.",
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-16T17:55:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-16 17:47)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "7708772843223305505",
+  "date": "2026-11-16T14:15:47+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7708772843223305505",
+  "integration": {
+    "type": "tiktok",
+    "id": "7708772843223305505"
+  },
+  "resume": "Extrait (~25 s, sans légende, début de phrase coupé) sur la fiscalité : l'auteur dénonce un « capitalisme de connivence » nourri par des aides et niches, et plaide pour moins de prélèvements sur les entreprises (compétitivité) et sur le travail (pouvoir d'achat sans hausse du coût brut), avec suppression parallèle des aides, ce qu'il dit vouloir faire « à partir du mois de mai prochain ». Aucun chiffre ni calendrier détaillé.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "beaucoup moins de prélèvement sur les entreprises",
+    "supprimer les aides"
+  ],
+  "notes": "Orientation générale sans montant, périmètre ni vecteur juridique ; pas d'analyse par proposition. Thème proche des cartes TikTok 7705920232505871649 et 7697652285039529249 (cette dernière évaluée). Sous-titres approximatifs. Aucun verdict de faisabilité.",
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-16T17:55:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-16 17:47)"
+}
