@@ -1,0 +1,25 @@
+{
+  "id": "7709167588055584033",
+  "date": "2026-11-17T15:47:37+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7709167588055584033",
+  "integration": {
+    "type": "tiktok",
+    "id": "7709167588055584033"
+  },
+  "resume": "Extrait (~25 s, sans légende) sur les retraites : l'auteur affirme que les cotisations actuelles financent les retraités d'aujourd'hui, qualifie la répartition de « pyramide de Ponzi » qui « s'effondre » (baisse de la natalité, entrée plus tardive sur le marché du travail, allongement de la vie) et dit qu'elle sacrifie les jeunes générations. Aucune mesure précise dans cet extrait.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "notes": "Constat et argumentaire, sans proposition évaluable dans l'extrait (suite de la vidéo précédente). Le qualificatif et la thèse d'effondrement sont des affirmations de l'auteur, non vérifiées ici ; sous-titres approximatifs (« pondy »). Aucun verdict de faisabilité.",
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-17T17:50:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-17 17:47)",
+  "citations": [
+    "nos cotisations ne nous appartiennent pas",
+    "elle sacrifie les jeunes générations"
+  ]
+}

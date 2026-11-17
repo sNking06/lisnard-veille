@@ -1,0 +1,53 @@
+{
+  "id": "7709119719122521376",
+  "date": "2026-11-17T12:41:53+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7709119719122521376",
+  "integration": {
+    "type": "tiktok",
+    "id": "7709119719122521376"
+  },
+  "resume": "Extrait (~59 s, sans légende) « vrai ou faux » sur les retraites. L'auteur propose de conserver la répartition (solidarité intergénérationnelle) pour le minimum vieillesse et d'ajouter une part de capitalisation représentant 20 à 30 % des cotisations, en complémentarité. Il affirme que les cotisations « ne nous appartiennent pas » dans la répartition.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "notes": "Une proposition chiffrée (20–30 % des cotisations en capitalisation). Sous-titres approximatifs : le caractère obligatoire de cette part n'est pas explicite dans l'extrait. Les affirmations de l'auteur sur l'équilibre de la répartition ne sont pas évaluées ici. Analyse du vecteur juridique reprise d'analyses précédentes (sources COR consultées le 15/10/2026).",
+  "statut": "ok",
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Orienter 20 à 30 % des cotisations retraite vers une part de capitalisation, en gardant la répartition pour le minimum vieillesse et une complémentarité entre les deux systèmes.",
+      "cout": "Non établi (aucun chiffrage de la transition dans l'extrait). Le COR (séance du 18 déc. 2025) identifie la « double contribution » des actifs comme obstacle majeur et décrit trois voies : double cotisation, mise à contribution des retraités actuels, ou prise en charge par l'État.",
+      "cadre_juridique": "Détournement d'une part des cotisations vers un régime par capitalisation : loi (art. 34 de la Constitution ; lois de financement de la sécurité sociale). Des régimes obligatoires par capitalisation collective existent déjà (RAFP, CAVP, selon le COR).",
+      "competence": "État (Parlement, LFSS) ; partenaires sociaux pour les régimes complémentaires.",
+      "precedents": "COR (note du 12 nov. 2025) : expériences étrangères aux modalités variables. Même thème déjà analysé dans d'autres cartes (site Assises AFER, carte État-providence). Détail par pays : non établi ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Financement de la transition (double cotisation, sous-indexation ou prise en charge budgétaire).",
+        "Précision du périmètre : part obligatoire ou facultative, plafond de revenu concerné (non précisés).",
+        "Montée en charge longue, bénéfices à long terme.",
+        "Vote d'une loi et contrôle constitutionnel."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Sous-titres automatiques ; mesure esquissée en quelques secondes, sans calendrier ni taux de rendement."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "COR – Note de présentation générale, séance plénière du 18 décembre 2025",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-12/Doc_01_Note%20de%20pr%C3%A9sentation%20g%C3%A9n%C3%A9rale.pdf",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "COR – Montée en charge de la capitalisation (12 nov. 2025)",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-11/COR_Transition%20capitalisation_12-11-2025.pdf",
+      "consulte_le": "2026-10-15"
+    }
+  ],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-17T17:50:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-17 17:47)",
+  "citations": [
+    "20 et 30% des cotisations",
+    "la solidarité intergénérationnelle"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "cannes-restaure-leglise-notre-dame-desperance",
+  "date": "2026-11-17T10:06:36.924Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/cannes-restaure-leglise-notre-dame-desperance/",
+  "integration": {
+    "type": "none",
+    "id": "cannes-restaure-leglise-notre-dame-desperance"
+  },
+  "resume": "Travaux de restauration de l'église (XVIIe s., classée MH en 1937) : fermée d'octobre 2026 à juillet 2027, restauration des peintures murales néo-baroques, du portail nord, des lustres et de fresques, remplacement de quatre fenêtres ; orgue prévu en 2027. Rattaché au « Plan églises » (2014), plus de 5 M€ déjà investis selon l'article.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie",
+  "notes": "Information municipale sur un chantier annoncé ; aucune proposition politique. Montant de ce chantier non précisé.",
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-17T17:50:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-17 17:47)",
+  "titre": "Cannes restaure l’église Notre-Dame d’Espérance"
+}

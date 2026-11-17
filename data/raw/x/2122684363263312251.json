@@ -1,0 +1,24 @@
+{
+  "id": "2122684363263312251",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-17T13:32:44.000Z",
+  "url": "https://x.com/davidlisnard/status/2122684363263312251",
+  "texte": "Il fallait bien que le monde entier finisse par reconnaître ce que les Jurassiens savent depuis longtemps ! Filière exemplaire (avec laquelle j’avais travaillé il y a trente ans) et produit de haute qualité.\n\nBravo à nos producteurs de comté. La France est belle, jusque dans ses https://t.co/OoTI2J4VKY",
+  "citation": {
+    "id": "2122646119318684157",
+    "texte": "Cocorico !→https://t.co/GU01CdSkZu https://t.co/5BmFzxDrdZ",
+    "auteur_id": "8350912"
+  },
+  "metriques": {
+    "bookmark_count": 15,
+    "impression_count": 25996,
+    "like_count": 1399,
+    "quote_count": 5,
+    "reply_count": 24,
+    "retweet_count": 162
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
