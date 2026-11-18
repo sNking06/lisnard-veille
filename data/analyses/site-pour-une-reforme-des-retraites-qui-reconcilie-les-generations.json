@@ -1,0 +1,84 @@
+{
+  "id": "pour-une-reforme-des-retraites-qui-reconcilie-les-generations",
+  "date": "2026-11-17T17:43:14.246Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/pour-une-reforme-des-retraites-qui-reconcilie-les-generations/",
+  "statut": "ok",
+  "integration": {
+    "type": "none",
+    "id": "pour-une-reforme-des-retraites-qui-reconcilie-les-generations"
+  },
+  "titre": "« Pour une réforme des retraites qui réconcilie les générations »",
+  "resume": "Tribune sur la réforme des retraites : plaidoyer pour un partage de l'effort entre actifs et retraités sans « procès collectif des retraités » ; économies sur l'ensemble de la dépense publique, convergence public/privé et fin des régimes spéciaux, désindexation certaines années des pensions les plus élevées, retour sur l'abattement fiscal de 10 %, CSG des actifs alignée sur le taux médian des retraités, et étage de capitalisation collective obligatoire dont les modalités de transition seront présentées « bientôt ».",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie",
+  "citations": [
+    "N'organisons pas le procès collectif des retraités.",
+    "Un étage de capitalisation collective obligatoire doit compléter une répartition réformée et une capitalisation libre."
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Instaurer un étage de capitalisation collective obligatoire, en complément d'une répartition réformée et d'une capitalisation libre.",
+      "cout": "Non établi : la publication annonce que les modalités de la transition seront présentées ultérieurement ; le coût de transition (pensions dues pendant la constitution de l'épargne) n'est pas chiffré.",
+      "cadre_juridique": "Nécessiterait une loi (Code de la sécurité sociale). Le principe d'une capitalisation obligatoire n'existe pas aujourd'hui en France hors dispositifs professionnels ; détail juridique non établi ici.",
+      "competence": "Parlement (loi) ; partenaires sociaux pour la gouvernance éventuelle.",
+      "precedents": "Non établi dans cette analyse (des régimes obligatoires par capitalisation existent à l'étranger, non vérifiés ici).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Loi définissant gouvernance, taux et garanties.",
+        "Financement de la période de transition, que l'auteur dit vouloir présenter plus tard.",
+        "Arbitrage sur l'effet sur le pouvoir d'achat des actifs."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Mesure à ce stade sans paramètres (taux, calendrier, gestionnaires) ; faisabilité chiffrée impossible à établir."
+    },
+    {
+      "texte": "Faire converger les règles de retraite public/privé et mettre fin aux régimes spéciaux, en reconnaissant l'usure de certains métiers selon des critères communs.",
+      "cout": "Non établi (non chiffré dans la publication).",
+      "cadre_juridique": "Loi nécessaire ; les droits acquis et le principe de protection de la confiance légitime encadrent la transition.",
+      "competence": "Parlement ; négociation avec les partenaires sociaux.",
+      "precedents": "Réformes antérieures des régimes spéciaux (dont celle de 2023 sur les nouveaux entrants de certains régimes) : détails non vérifiés ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Transition progressive respectant les droits acquis.",
+        "Critères communs de pénibilité définis et acceptés."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Calendrier, périmètre et traitement des droits acquis non précisés."
+    },
+    {
+      "texte": "Désindexer certaines années les pensions les plus élevées et supprimer l'abattement fiscal de 10 % pour les retraités.",
+      "cout": "Non établi (non chiffré dans la publication).",
+      "cadre_juridique": "Mesures relevant de la loi de financement de la sécurité sociale et de la loi de finances ; l'abattement de 10 % est prévu par le Code général des impôts. Les désindexations ont déjà fait l'objet de contrôles du Conseil constitutionnel : détail non vérifié ici.",
+      "competence": "Parlement.",
+      "precedents": "Gels ou sous-indexations ponctuels de pensions décidés par le passé : non vérifiés ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Seuil de « pensions les plus élevées » à définir.",
+        "Respect du cadre constitutionnel (égalité devant les charges publiques)."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "La publication ne donne ni seuil ni montant d'économie attendu."
+    },
+    {
+      "texte": "Aligner le taux de CSG sur l'activité sur le taux médian des retraités (réduction de la CSG des actifs), plutôt que hausser celle des retraités.",
+      "cout": "Non établi : une baisse de CSG sur l'activité réduit les recettes ; compensation non précisée dans la publication.",
+      "cadre_juridique": "Taux fixés par la loi (Code de la sécurité sociale, art. L136-1 et suivants) ; modification par loi de financement.",
+      "competence": "Parlement.",
+      "precedents": "Non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Financement de la baisse de recettes par des économies de dépense.",
+        "Précision du taux cible."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Taux médian des retraités et coût de la mesure non fournis ; la faisabilité dépend entièrement du financement."
+    }
+  ],
+  "sources": [],
+  "notes": "Les chiffres cités par l'auteur (retraites = 24,4 % de la dépense publique, 13,9 % du PIB, plus de 420 Md€/an, dépense publique > 1 700 Md€ en 2025, écart de niveau de vie de ~10 % cité d'après l'Insee) sont rapportés et n'ont pas été vérifiés. D'autres orientations (économies sur agences, subventions, nombre d'agents, allocation sociale unique, restriction de prestations non contributives aux étrangers) ne sont pas évaluées séparément faute de précisions.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-18T09:45:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-18 09:47)"
+}
