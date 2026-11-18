@@ -1,0 +1,20 @@
+{
+  "id": "67yMGmr_pS0",
+  "reseau": "youtube",
+  "compte": "@david_lisnard",
+  "url": "https://www.youtube.com/watch?v=67yMGmr_pS0",
+  "embed": {
+    "type": "youtube",
+    "video_id": "67yMGmr_pS0"
+  },
+  "statut": "ok",
+  "date": "2026-11-18T09:06:43+00:00",
+  "titre": "David Lisnard invité de Bonjour ! sur TF1",
+  "description": "J'étais l'invité de Bonjour! ce matin dans la matinale de TF1 pour répondre aux questions de Bruce Toussaint et Alba Ventura. \n\nSuivez moi sur mes réseaux : \n\nInstagram : https://www.instagram.com/davidlisnard/\nX : https://x.com/davidlisnard\nFacebook : https://www.facebook.com/lisnard.david\nTik Tok : https://www.tiktok.com/@david.lisnard\nLinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/\n\nAdhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion",
+  "duree_s": 546,
+  "vues": 38687,
+  "transcription": {
+    "fichier": "data/transcripts/youtube-67yMGmr_pS0.txt",
+    "source": "sous-titres YouTube automatiques (non relus)"
+  }
+}

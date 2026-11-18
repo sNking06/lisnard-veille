@@ -1,0 +1,98 @@
+{
+  "id": "67yMGmr_pS0",
+  "date": "2026-11-18T09:06:43+00:00",
+  "source": "youtube",
+  "lien": "https://www.youtube.com/watch?v=67yMGmr_pS0",
+  "integration": {
+    "type": "youtube",
+    "id": "67yMGmr_pS0"
+  },
+  "titre": "David Lisnard invité de Bonjour ! sur TF1",
+  "resume": "Passage à « Bonjour ! » (TF1, ~9 min) le 18 novembre 2026. Seules les propositions sont retenues ici : l'auteur annonce une retraite par capitalisation obligatoire plus importante que celle évoquée par une autre candidate, financée par des économies, une réduction d'au moins 12 % des effectifs de l'administration (environ 400 000 postes) avec redéploiement vers le terrain, et la suppression d'agences qui « se contredisent ». Le reste (primaire, AMF, polémiques) n'est pas retenu.",
+  "base_du_resume": "sous-titres YouTube automatiques (non relus) ; propositions concrètes uniquement retenues",
+  "citations": [
+    "une retraite par capitalisation obligatoire bien plus importante",
+    "il y aura 400000 fonctionnaires en moins"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Instaurer une retraite par capitalisation obligatoire « bien plus importante » que celle évoquée par une autre candidate, financée par de « véritables économies » (réduction des dépenses publiques) plutôt que par des transferts entre dispositifs (formation, logement).",
+      "cout": "Non chiffré dans l'interview (taux, montant et financement de la transition non précisés). Le COR (séance du 18 déc. 2025) identifie la « double contribution » des actifs pendant la transition comme principal obstacle.",
+      "cadre_juridique": "Création d'un régime obligatoire par la loi (art. 34 de la Constitution ; lois de financement de la sécurité sociale) ; contrôle constitutionnel de l'obligation d'affiliation. Des régimes obligatoires par capitalisation existent déjà, dont la RAFP pour les fonctionnaires.",
+      "competence": "État (Gouvernement et Parlement, LFSS) ; partenaires sociaux pour les régimes complémentaires.",
+      "precedents": "Même proposition déjà analysée (TikTok 7697298297811242272, site Assises AFER). La RAFP (depuis 2005) est un régime obligatoire en capitalisation, limité aux primes des fonctionnaires. Autres précédents étrangers : non établi ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Financer la transition (double cotisation ou économies budgétaires documentées).",
+        "Fixer le taux, le périmètre et la gestion de l'étage capitalisé, avec garanties pour les bas revenus.",
+        "Vote d'une loi et contrôle constitutionnel.",
+        "Montée en charge longue : bénéfices attendus à long terme."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Proposition esquissée à l'oral, sans calendrier ni taux ; projet retraites annoncé « d'ici quelques semaines ». Sous-titres automatiques."
+    },
+    {
+      "texte": "Réduire d'au moins 12 % les effectifs « potentiels » de l'administration, soit environ 400 000 fonctionnaires en moins, en basculant une partie des agents des tâches administratives vers le terrain (justice, police, soignants), avec un DRH de l'État et des carrières suivies ; l'économie servirait à baisser la dette, protéger les contribuables et augmenter les fonctionnaires.",
+      "cout": "Non établi (économie nette non chiffrée dans l'interview).",
+      "cadre_juridique": "Statut général de la fonction publique (loi) et lois de finances pour les plafonds d'emplois ; l'emploi des titulaires est protégé, la réduction passe donc surtout par le non-remplacement de départs. Collectivités et hôpitaux décident de leurs propres effectifs (libre administration, art. 72 de la Constitution).",
+      "competence": "Gouvernement et Parlement pour l'État ; collectivités et établissements hospitaliers pour leurs agents.",
+      "precedents": "Proposition proche déjà analysée (YouTube ISEmls4A5Bo, site BFMTV/RMC et JDNews) ; la DGAFP se présente déjà comme la « DRH de l'État ». Précédents de réduction d'effectifs (ex. RGPP) : non établi ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Répartition entre fonctions publiques à préciser (l'État ne décide pas seul pour les collectivités).",
+        "Rythme compatible avec les départs à la retraite.",
+        "Définir le périmètre « effectifs potentiels » et les redéploiements vers les missions de terrain."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Le chiffre de 400 000 est cité avec « au moins 12 % » et « effectifs potentiels » ; base de calcul non précisée, chiffres variables selon les interventions."
+    },
+    {
+      "texte": "Supprimer les agences qui « se contredisent » et générer moins de procédure, en réorganisant les pouvoirs publics (« en finir avec le régime des technocrates »).",
+      "cout": "non établi. Repère : la commission d'enquête du Sénat (2025) estime qu'une baisse de 20 % des coûts de fonctionnement support des agences rapporterait environ 540 M€.",
+      "cadre_juridique": "Les organismes créés par la loi ne peuvent être supprimés que par la loi ; ceux créés par décret, par décret (art. 34 et 21 de la Constitution).",
+      "competence": "État (Parlement et Gouvernement).",
+      "precedents": "Proposition proche déjà analysée (site JDNews : suppression de la moitié des agences). Sénat (2025) : 103 agences, 434 opérateurs ; la commission préconise fusions et mutualisations plutôt qu'une suppression massive.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Lister les organismes visés et réaffecter leurs missions.",
+        "Lois de suppression pour les organismes de rang législatif.",
+        "Économies réelles à documenter (bilans mitigés des fusions passées)."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Aucun périmètre ni nombre d'agences précisé dans l'extrait."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "COR – Montée en charge de la capitalisation (12 nov. 2025)",
+      "url": "https://www.cor-retraites.fr/sites/default/files/2025-11/COR_Transition%20capitalisation_12-11-2025.pdf",
+      "consulte_le": "2026-10-15"
+    },
+    {
+      "titre": "RAFP – Retraite additionnelle de la fonction publique (site officiel)",
+      "url": "https://www.rafp.fr/",
+      "consulte_le": "2026-10-17"
+    },
+    {
+      "titre": "DGAFP – nos missions (fonction-publique.gouv.fr)",
+      "url": "https://www.fonction-publique.gouv.fr/la-dgafp/nous-connaitre/nos-missions",
+      "consulte_le": "2026-10-17"
+    },
+    {
+      "titre": "Sénat – Agences de l'État : conclusions de la commission d'enquête",
+      "url": "https://www.senat.fr/actualite/agences-de-letat-les-conclusions-de-la-commission-denquete-5497.html",
+      "consulte_le": "2026-10-12"
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958 (texte en vigueur) – Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "consulte_le": "2026-10-12"
+    }
+  ],
+  "statut": "ok",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-18T17:55:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-18 17:47)"
+}

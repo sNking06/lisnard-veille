@@ -1,0 +1,19 @@
+{
+  "id": "7709541245315468577",
+  "reseau": "tiktok",
+  "compte": "david.lisnard",
+  "url": "https://www.tiktok.com/@david.lisnard/video/7709541245315468577",
+  "embed": {
+    "type": "tiktok",
+    "video_id": "7709541245315468577"
+  },
+  "statut": "ok",
+  "date": "2026-11-18T15:57:35+00:00",
+  "description": "",
+  "duree_s": 51,
+  "vues": 1723,
+  "transcription": {
+    "fichier": "data/transcripts/tiktok-7709541245315468577.txt",
+    "source": "sous-titres automatiques TikTok (non relus)"
+  }
+}
