@@ -1,0 +1,49 @@
+{
+  "id": "je-crois-a-la-competition-pas-a-la-compromission",
+  "date": "2026-11-19T14:10:55.334Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/je-crois-a-la-competition-pas-a-la-compromission/",
+  "statut": "ok",
+  "integration": {
+    "type": "none",
+    "id": "je-crois-a-la-competition-pas-a-la-compromission"
+  },
+  "titre": "« Je crois à la compétition, pas à la compromission » | Nouvelle Énergie",
+  "resume": "Compte rendu d'un entretien : primaire large pour 2027 (« une modalité », pas une fin), réponse aux attaques du RN, retraites (capitalisation obligatoire plus importante, financée par des économies structurelles, projet détaillé annoncé « dans les prochaines semaines »), réduction d'au moins 12 % des effectifs publics (objectif annoncé de 400 000 fonctionnaires en moins) avec redéploiement vers le terrain, candidature à l'AMF, IA et robotique. Seule la proposition d'effectifs est évaluée ici ; la capitalisation reste sans paramètres.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie",
+  "citations": [
+    "Moins de bureaucrates, plus de fonctionnaires de terrain",
+    "La primaire, ce n'est pas une fin, c'est une modalité"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Réduire d'au moins 12 % les effectifs publics potentiels (objectif annoncé : 400 000 fonctionnaires en moins), en redéployant des agents des tâches administratives vers le terrain (justice, police, soignants) et en supprimant des agences aux compétences qui se chevauchent.",
+      "cout": "Non établi : économies attendues non chiffrées dans la publication ; coûts de transition (départs, reconversions, revalorisations évoquées) non précisés.",
+      "cadre_juridique": "Statut général de la fonction publique et lois de finances ; les fonctionnaires titulaires bénéficient de garanties statutaires (suppressions de postes par non-remplacement ou plans de départs). Suppression d'agences : loi ou décret selon leur statut. Détail non établi ici.",
+      "competence": "Gouvernement et Parlement pour l'État ; les effectifs territoriaux (1,99 M d'agents) et hospitaliers (1,24 M) relèvent des collectivités et établissements, donc d'une action indirecte.",
+      "precedents": "Non établi dans cette analyse ; l'auteur évoque une application « ailleurs » (Cannes), non vérifiée ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Précision du périmètre (État seul ou trois versants) : la base de calcul des 12 % et des 400 000 n'est pas explicitée.",
+        "Calendrier et mode de réduction (non-remplacement, départs, redéploiements) respectant le statut.",
+        "Concertation avec les collectivités et hôpitaux si le périmètre les inclut.",
+        "Protection des missions de terrain annoncées (justice, police, santé)."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Les deux chiffres (12 % et 400 000) ne coïncident pas sur la base de l'ensemble de la fonction publique ; périmètre et part de redéploiement non précisés."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Chiffres clés de la fonction publique – Édition 2025 (DGAFP) : 5,80 millions d'agents au 31/12/2023",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/publications/rapport-annuel/cc-2025-web.pdf",
+      "consulte_le": "2026-11-19"
+    }
+  ],
+  "notes": "Seule la mesure chiffrée sur les effectifs est évaluée. Cohérence chiffrée : 400 000 agents représentent environ 6,9 % des 5,80 millions d'agents publics fin 2023 (DGAFP), tandis que « 12 % au moins » correspondrait à environ 700 000 ; l'article précise qu'une partie serait un redéploiement, sans donner la ventilation. Capitalisation, primaire, AMF : pas de mesure évaluable.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-19T17:55:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-19 17:47)"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "7709884205840239905",
+  "date": "2026-11-19T14:08:27+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7709884205840239905",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7709884205840239905"
+  },
+  "resume": "Extrait (~48 s, sans légende) : interrogé sur le nombre de fonctionnaires en moins, l'auteur annonce une réduction d'au moins 12 % des effectifs potentiels, dont une partie par redéploiement vers des missions de terrain, et « quatre-cent-mille fonctionnaires en moins ». Il lie la réorganisation des pouvoirs publics et la suppression d'agences à la baisse des impôts et de la dépense.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "moins de bureaucrates il y aura plus de fonctionnaires de terrain"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Réduire d'au moins 12 % les effectifs potentiels, avec « quatre-cent-mille fonctionnaires en moins » : moins de bureaucrates, plus de fonctionnaires de terrain (justice, police, soignants), et suppression d'agences qui se contredisent.",
+      "cout": "Non établi : économies attendues non chiffrées dans la publication ; coûts de transition (départs, reconversions, revalorisations évoquées) non précisés.",
+      "cadre_juridique": "Statut général de la fonction publique et lois de finances ; les fonctionnaires titulaires bénéficient de garanties statutaires (suppressions de postes par non-remplacement ou plans de départs). Suppression d'agences : loi ou décret selon leur statut. Détail non établi ici.",
+      "competence": "Gouvernement et Parlement pour l'État ; les effectifs territoriaux (1,99 M d'agents) et hospitaliers (1,24 M) relèvent des collectivités et établissements, donc d'une action indirecte.",
+      "precedents": "Non établi dans cette analyse ; l'auteur évoque une application « ailleurs » (Cannes), non vérifiée ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Précision du périmètre (État seul ou trois versants) : la base de calcul des 12 % et des 400 000 n'est pas explicitée.",
+        "Calendrier et mode de réduction (non-remplacement, départs, redéploiements) respectant le statut.",
+        "Concertation avec les collectivités et hôpitaux si le périmètre les inclut.",
+        "Protection des missions de terrain annoncées (justice, police, santé)."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Les deux chiffres (12 % et 400 000) ne coïncident pas sur la base de l'ensemble de la fonction publique ; périmètre et part de redéploiement non précisés."
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Chiffres clés de la fonction publique – Édition 2025 (DGAFP) : 5,80 millions d'agents au 31/12/2023",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/publications/rapport-annuel/cc-2025-web.pdf",
+      "consulte_le": "2026-11-19"
+    }
+  ],
+  "notes": "Même propos que l'entretien publié sur le site le même jour. 400 000 agents ≈ 6,9 % des 5,80 M d'agents publics fin 2023 (DGAFP) alors que 12 % ≈ 700 000 : périmètre non précisé. Sous-titres approximatifs.",
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-19T17:55:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-19 17:47)"
+}

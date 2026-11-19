@@ -1,0 +1,24 @@
+{
+  "id": "2123423736250454334",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-19T14:30:44.000Z",
+  "url": "https://x.com/davidlisnard/status/2123423736250454334",
+  "texte": "Vive la France de ceux qui font. \n#onarrive https://t.co/hn3a4wyHjp",
+  "citation": {
+    "id": "2123370286150041646",
+    "texte": "https://t.co/ogtO2UNfAi",
+    "auteur_id": "1591018377576939521"
+  },
+  "metriques": {
+    "bookmark_count": 1,
+    "impression_count": 13428,
+    "like_count": 584,
+    "quote_count": 0,
+    "reply_count": 11,
+    "retweet_count": 57
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
