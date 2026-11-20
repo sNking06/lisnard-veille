@@ -1,0 +1,24 @@
+{
+  "id": "2123782239511044539",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-20T14:15:18.000Z",
+  "url": "https://x.com/davidlisnard/status/2123782239511044539",
+  "texte": "Félicitations à cette enseignante mais voilà où mène l’impuissance sécuritaire de l’Etat et l’effondrement moral d’une partie de la nation. \n#EnFinir",
+  "citation": {
+    "id": "2123761538397872254",
+    "texte": "🇫🇷👨‍🏫 INSOLITE | Les élèves du lycée Condorcet à Paris ont assisté à un cours de maths en plein hall de la gare Saint-Lazare ce matin en raison des blocages.",
+    "auteur_id": "971820228"
+  },
+  "metriques": {
+    "bookmark_count": 27,
+    "impression_count": 32627,
+    "like_count": 1809,
+    "quote_count": 5,
+    "reply_count": 39,
+    "retweet_count": 222
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
