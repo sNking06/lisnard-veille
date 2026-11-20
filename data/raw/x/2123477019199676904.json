@@ -1,0 +1,20 @@
+{
+  "id": "2123477019199676904",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-19T18:02:28.000Z",
+  "url": "https://x.com/davidlisnard/status/2123477019199676904",
+  "texte": "En direct de Cannes, nous venons de lancer le Campus de l’industrie du spatial, de l’IA et de la quantique, pour relever les grands défis planétaires de la recherche et de l’application.\n\nCe campus réunira étudiants, chercheurs, enseignants et industriels autour d’une ambition",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 30,
+    "impression_count": 37591,
+    "like_count": 1680,
+    "quote_count": 18,
+    "reply_count": 52,
+    "retweet_count": 333
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
