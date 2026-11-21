@@ -1,0 +1,25 @@
+{
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-21T17:50:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-21 17:47)",
+  "id": "7710555089798188320",
+  "date": "2026-11-21T09:31:52+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7710555089798188320",
+  "integration": {
+    "type": "tiktok",
+    "id": "7710555089798188320"
+  },
+  "resume": "Extrait (~102 s, sans légende) sur la primaire de la droite et du centre : David Lisnard dit refuser une alliance avec les macronistes ou avec le RN, et propose de les affronter dans la primaire plutôt que de s'y rallier, l'élimination se faisant « par le vote ».",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "éliminer les macronistes avant le 1er tour",
+    "c'est par le vote"
+  ],
+  "notes": "Position stratégique sur les alliances, sans mesure chiffrée ni calendrier ; analyse de faisabilité non réalisée, aucun verdict. Sous-titres approximatifs."
+}

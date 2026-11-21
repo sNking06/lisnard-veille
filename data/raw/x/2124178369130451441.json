@@ -1,0 +1,20 @@
+{
+  "id": "2124178369130451441",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-21T16:29:23.000Z",
+  "url": "https://x.com/davidlisnard/status/2124178369130451441",
+  "texte": "L’extrême gauche génère toujours de la pauvreté et la suppression des libertés. \n\nLe combat contre Lfi est donc un combat pour le pouvoir d’achat des Français et pour notre démocratie. https://t.co/pYASq6K4WD",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 0,
+    "impression_count": 2967,
+    "like_count": 203,
+    "quote_count": 1,
+    "reply_count": 11,
+    "retweet_count": 44
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
