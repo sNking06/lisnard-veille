@@ -1,0 +1,20 @@
+{
+  "id": "2123836897025815028",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-20T17:52:29.000Z",
+  "url": "https://x.com/davidlisnard/status/2123836897025815028",
+  "texte": "Liberté !",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 30,
+    "impression_count": 52449,
+    "like_count": 2126,
+    "quote_count": 45,
+    "reply_count": 153,
+    "retweet_count": 480
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
