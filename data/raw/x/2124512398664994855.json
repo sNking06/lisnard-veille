@@ -1,0 +1,24 @@
+{
+  "id": "2124512398664994855",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-22T14:36:42.000Z",
+  "url": "https://x.com/davidlisnard/status/2124512398664994855",
+  "texte": "C’est étonnant comme Marine Le Pen est si fébrile alors qu’elle est haute dans les sondages, et comme elle raconte n’importe quoi me concernant : à la fois sur mon parcours politique, sur mon projet, sur tout en fait, jusqu’aux obsèques de Brigitte Bardot où je n’étais pas… https://t.co/ktrXKx8pVk",
+  "citation": {
+    "id": "2124502276333285422",
+    "texte": "🔴 EN DIRECT Marine Le Pen fustige le projet de \"broyer\" le Code du travail de David Lisnard",
+    "auteur_id": "133663801"
+  },
+  "metriques": {
+    "bookmark_count": 68,
+    "impression_count": 71576,
+    "like_count": 2339,
+    "quote_count": 37,
+    "reply_count": 214,
+    "retweet_count": 498
+  },
+  "type": "citation",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}
