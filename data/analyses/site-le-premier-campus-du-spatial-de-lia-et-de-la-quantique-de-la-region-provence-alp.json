@@ -1,0 +1,24 @@
+{
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-23T17:50:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-23 17:47)",
+  "id": "le-premier-campus-du-spatial-de-lia-et-de-la-quantique-de-la-region-provence-alp",
+  "date": "2026-11-23T10:15:38.213Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/le-premier-campus-du-spatial-de-lia-et-de-la-quantique-de-la-region-provence-alpes-cote-dazur-est-lance-par-le-pole-metropolitain-cap-azur-a-cannes/",
+  "titre": "Premier Campus du Spatial, de l'IA et de la Quantique de la région Provence-Alpes-Côte d'Azur lancé à Cannes",
+  "integration": {
+    "type": "none",
+    "id": "le-premier-campus-du-spatial-de-lia-et-de-la-quantique-de-la-region-provence-alp"
+  },
+  "resume": "Annonce par le pôle métropolitain Cap Azur d'un campus à Cannes-La Bocca (site Euroformapole, près de Thales Alenia Space), dès 2027, avec chaire universitaire (80 000 € sur quatre ans) et incubateur de startups. Projet local annoncé, pas de mesure nationale à évaluer.",
+  "base_du_resume": "texte de l'article",
+  "citations": [
+    "80 000 euros sur quatre ans"
+  ]
+}

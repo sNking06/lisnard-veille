@@ -1,0 +1,24 @@
+{
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-23T17:50:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-23 17:47)",
+  "id": "8-jeunes-volontaires-recoivent-le-diplome-de-cadet-de-la-police-municipale-de-ca",
+  "date": "2026-11-23T10:02:10.589Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/8-jeunes-volontaires-recoivent-le-diplome-de-cadet-de-la-police-municipale-de-cannes/",
+  "titre": "8 jeunes volontaires reçoivent le diplôme de Cadet de la Police Municipale de Cannes",
+  "integration": {
+    "type": "none",
+    "id": "8-jeunes-volontaires-recoivent-le-diplome-de-cadet-de-la-police-municipale-de-ca"
+  },
+  "resume": "Bilan d'un dispositif municipal cannois : huit jeunes de 15 à 17 ans diplômés après 84 heures d'immersion dans la Police municipale, avec préparation au concours de gardien-brigadier. Compte rendu d'une action locale existante, pas de proposition nationale.",
+  "base_du_resume": "texte de l'article",
+  "citations": [
+    "84 heures"
+  ]
+}

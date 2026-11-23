@@ -1,0 +1,24 @@
+{
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-23T17:50:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-23 17:47)",
+  "id": "inscription-a-lunesco-le-coup-de-pouce-a-lile-saint-honorat",
+  "date": "2026-11-23T10:05:30.855Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/inscription-a-lunesco-le-coup-de-pouce-a-lile-saint-honorat/",
+  "titre": "Inscription à l'UNESCO : le coup de pouce à l'île Saint-Honorat",
+  "integration": {
+    "type": "none",
+    "id": "inscription-a-lunesco-le-coup-de-pouce-a-lile-saint-honorat"
+  },
+  "resume": "Le conseil municipal de Cannes (16 novembre 2026) a voté l'adhésion à l'Association des biens français du patrimoine mondial (cotisation annuelle de 3 300 €) pour appuyer la candidature de Saint-Honorat à l'UNESCO ; dépôt officiel envisagé en janvier 2027, inscription espérée en 2028. Décision locale, pas de proposition nationale.",
+  "base_du_resume": "texte de l'article",
+  "citations": [
+    "3 300 euros"
+  ]
+}

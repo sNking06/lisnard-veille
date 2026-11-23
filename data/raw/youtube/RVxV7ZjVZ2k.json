@@ -7,7 +7,14 @@
     "type": "youtube",
     "video_id": "RVxV7ZjVZ2k"
   },
-  "statut": "degraded",
-  "date": null,
-  "erreur": "[Errno 2] No such file or directory: '/tmp/tmpqnetcnx9/RVxV7ZjVZ2k.info.json'"
+  "statut": "ok",
+  "date": "2026-11-23T09:20:02+00:00",
+  "titre": "David Lisnard invité dans Le Grand Oral sur BMFTV avec Le Figaro",
+  "description": "Retrouvez mon passage lors du Grand Oral 2027 sur BFMTV. J'y ai présenté mon programme et partagé mon souhait d'organiser une primaire du centre et de la droite. N'hésitez pas à vous abonner pour suivre toutes les actualités de Nouvelle Énergie !\n\nSuivez moi sur mes réseaux : \n\nInstagram : https://www.instagram.com/davidlisnard/\nX : https://x.com/davidlisnard\nFacebook : https://www.facebook.com/lisnard.david\nTik Tok : https://www.tiktok.com/@david.lisnard\nLinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/\n\nAdhérer à Nouvelle Énergie : https://soutenir.unenouvelleenergie.fr/adhesion",
+  "duree_s": 3705,
+  "vues": 40111,
+  "transcription": {
+    "fichier": "data/transcripts/youtube-RVxV7ZjVZ2k.txt",
+    "source": "sous-titres YouTube automatiques (non relus)"
+  }
 }
