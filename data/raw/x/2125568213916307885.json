@@ -1,0 +1,20 @@
+{
+  "id": "2125568213916307885",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-25T12:32:08.000Z",
+  "url": "https://x.com/davidlisnard/status/2125568213916307885",
+  "texte": "Je remercie chaleureusement tous les maires de France pour leur confiance. \nC’est un magnifique résultat qui nous permettra de toujours mieux faire entendre la voix des libertés locales, des réalités du terrain, de l’avenir d’une France du concret et des solutions.\nAu travail.",
+  "citation": null,
+  "metriques": {
+    "bookmark_count": 55,
+    "impression_count": 145940,
+    "like_count": 7250,
+    "quote_count": 137,
+    "reply_count": 412,
+    "retweet_count": 1074
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

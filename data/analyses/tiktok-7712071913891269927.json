@@ -1,0 +1,24 @@
+{
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-25T17:50:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-25 17:47)",
+  "id": "7712071913891269927",
+  "date": "2026-11-25T11:37:55+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7712071913891269927",
+  "integration": {
+    "type": "tiktok",
+    "id": "7712071913891269927"
+  },
+  "resume": "Extrait (~45 s) sur l'école : le compte critique la sectorisation scolaire, qu'il lie à la faible mobilité sociale, et indique vouloir rétablir « l'ascenseur républicain » là où des politiques de choix ont été expérimentées : information des parents, financement public suivant le choix des parents, enseignants au statut contractuel mieux payés. Propositions esquissées, non chiffrées ; pas de verdict à ce stade.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "le financement public suit le choix des parents"
+  ],
+  "notes": "Affirmations sur la mobilité sociale non vérifiées ici ; propositions non détaillées, donc aucun verdict. Sous-titres approximatifs."
+}
