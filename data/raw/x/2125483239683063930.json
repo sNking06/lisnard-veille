@@ -1,0 +1,24 @@
+{
+  "id": "2125483239683063930",
+  "reseau": "x",
+  "compte": "davidlisnard",
+  "date": "2026-11-25T06:54:28.000Z",
+  "url": "https://x.com/davidlisnard/status/2125483239683063930",
+  "texte": "« Chassez le naturiste, il revient au bungalow ». \n\nMerci @Charlie_Hebdo_ \n\n#JeSuisLisnard https://t.co/lqzQZz6iC8",
+  "citation": {
+    "id": "2125273392915845238",
+    "texte": "Lisnard : Et si c'était lui ? \n\nUn numéro spécial « SOS médias » !\n\n👉 Journalistes en 2026 : la chasse est ouverte\n👉 Le RN fera-t-il crever les journaux ? \n👉 Mélenchon : prière d'écouter le prophète !\n\nEn vente ce mercredi ! https://t.co/0zOE3Vhy5R",
+    "auteur_id": "65416867"
+  },
+  "metriques": {
+    "bookmark_count": 21,
+    "impression_count": 50052,
+    "like_count": 1429,
+    "quote_count": 20,
+    "reply_count": 60,
+    "retweet_count": 164
+  },
+  "type": "texte",
+  "statut": "ok",
+  "collecte_par": "Grok Bot (MCP X natif, get_users_posts)"
+}

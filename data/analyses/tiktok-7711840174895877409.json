@@ -1,0 +1,24 @@
+{
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-25T09:50:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-25 09:47)",
+  "id": "7711840174895877409",
+  "date": "2026-11-24T20:38:37+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7711840174895877409",
+  "integration": {
+    "type": "tiktok",
+    "id": "7711840174895877409"
+  },
+  "resume": "Extrait (~25 s) : le compte met en avant une baisse de la dette de 84 millions d'euros en 12 ans à Cannes, une baisse de la fiscalité et des marges de manœuvre créées, puis affirme que ce qui est présenté comme des « efforts » dans le débat national ne sont pas des économies. Bilan communal et critique d'une présentation budgétaire ; aucune mesure nouvelle chiffrée.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "ne sont pas des économies"
+  ],
+  "notes": "Chiffres de bilan cités par le compte, non vérifiés ici ; aucune proposition à évaluer, aucun verdict. Sous-titres approximatifs."
+}
