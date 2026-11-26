@@ -1,0 +1,24 @@
+{
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-26T09:45:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-26 09:47)",
+  "id": "7712235747746598183",
+  "date": "2026-11-25T22:13:38+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7712235747746598183",
+  "integration": {
+    "type": "tiktok",
+    "id": "7712235747746598183"
+  },
+  "resume": "Extrait (~29 s) : le compte évoque l'invitation des présidents de partis de droite et du centre (dont son mouvement Nouvelle Énergie) par le président du Sénat, dit ne pas savoir ce qui en sortira, et affirme vouloir aller jusqu'au bout pour libérer le pays des carcans administratifs, de la surcharge fiscale, d'un système éducatif et de l'insécurité qu'il décrit en difficulté. Position générale, aucune mesure chiffrée.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "aller jusqu'au bout"
+  ],
+  "notes": "Affirmations sur l'état de l'éducation et de la sécurité non vérifiées ici ; aucune proposition précise, aucun verdict. Sous-titres approximatifs."
+}
