@@ -1,0 +1,24 @@
+{
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-26T17:50:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-26 17:47)",
+  "id": "7712458381377801511",
+  "date": "2026-11-26T12:37:38+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7712458381377801511",
+  "integration": {
+    "type": "tiktok",
+    "id": "7712458381377801511"
+  },
+  "resume": "Extrait (~33 s) : le compte plaide pour « dépenser moins pour cotiser moins » et recentrer les moyens publics sur le terrain (soignants, enseignants, policiers, magistrats) plutôt que sur la bureaucratie, via une réorganisation des pouvoirs publics, plus de responsabilités locales et un État recentré sur ses missions. Aucun chiffre ni mesure précise : pas d'analyse de faisabilité possible à ce stade.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "recentrer l'état sur ces missions"
+  ],
+  "notes": "Constat sur la police nationale après 1 h du matin à Cannes non vérifié ici. Aucun verdict. Sous-titres approximatifs."
+}

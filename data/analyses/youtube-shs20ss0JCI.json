@@ -1,0 +1,25 @@
+{
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-26T17:50:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-26 17:47)",
+  "id": "shs20ss0JCI",
+  "date": "2026-11-26T11:11:30+00:00",
+  "source": "youtube",
+  "lien": "https://www.youtube.com/watch?v=shs20ss0JCI",
+  "integration": {
+    "type": "youtube",
+    "id": "shs20ss0JCI"
+  },
+  "resume": "Interview (~17 min) au 20h de France 2 après sa réélection à la tête de l'AMF (72 % cité). Principaux points : il refuse un débat face-à-face avec Édouard Philippe « sans départage » et défend une primaire ; il dit viser une candidature indépendante ; il rappelle vouloir une part de capitalisation obligatoire dans les retraites, un âge légal à 65 ans et un meilleur taux d'emploi des jeunes et des 50-65 ans ; il considère la guerre en Ukraine comme concernant la France sans envoyer de troupes. Les propositions sont énoncées sans chiffrage détaillé ; analyse de faisabilité non réalisée ici.",
+  "base_du_resume": "sous-titres YouTube automatiques (non relus)",
+  "citations": [
+    "part de capitalisation obligatoire",
+    "une guerre sur le sol européen"
+  ],
+  "notes": "Chiffres cités à l'oral (cotisations retraite, 85 milliards d'aide de l'État) non vérifiés ici. Aucun verdict. Sous-titres approximatifs ; transcription gardée en local seulement."
+}

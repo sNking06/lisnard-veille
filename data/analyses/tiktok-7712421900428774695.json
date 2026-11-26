@@ -1,0 +1,24 @@
+{
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-26T17:50:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-26 17:47)",
+  "id": "7712421900428774695",
+  "date": "2026-11-26T10:16:01+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7712421900428774695",
+  "integration": {
+    "type": "tiktok",
+    "id": "7712421900428774695"
+  },
+  "resume": "Extrait (~29 s) : le compte affirme que Marine Le Pen ne ferait pas la réforme de lutte contre la bureaucratie et de dérégulation qu'il appelle de ses vœux, dit combattre le RN comme la gauche et les macronistes, qu'il range dans une même « matrice » étatiste, et veut poser une « rupture ». Position politique générale, aucune mesure chiffrée.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "rupture"
+  ],
+  "notes": "Jugement sur d'autres personnalités politiques : opinion exprimée, non évaluée ici. Aucune proposition précise, aucun verdict. Sous-titres approximatifs."
+}
