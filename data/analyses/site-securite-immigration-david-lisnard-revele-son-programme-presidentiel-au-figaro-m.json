@@ -1,0 +1,116 @@
+{
+  "id": "securite-immigration-david-lisnard-revele-son-programme-presidentiel-au-figaro-m",
+  "date": "2026-11-27T15:11:00.064Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/securite-immigration-david-lisnard-revele-son-programme-presidentiel-au-figaro-magazine/",
+  "statut": "ok",
+  "titre": "Sécurité, immigration… David Lisnard révèle son programme présidentiel au Figaro Magazine",
+  "integration": {
+    "type": "none",
+    "id": "securite-immigration-david-lisnard-revele-son-programme-presidentiel-au-figaro-m"
+  },
+  "resume": "Reprise d'un entretien au Figaro Magazine : après les émeutes du 17 octobre, l'auteur propose un code pénal des mineurs (excuse de minorité réduite, responsabilité pénale à 16 ans), un réseau d'établissements disciplinaires, un délit de pillage, l'accueil de détenus dans des prisons étrangères, des moyens d'intervention plus rapides (drones), la suppression de la carte scolaire, un plafond de titres de séjour sous 100 000 par an avec une « green card », des hubs d'asile à l'étranger, un référendum sur l'immigration et des conditions de visas liées à la reprise de ressortissants.",
+  "base_du_resume": "texte de l'article (reprise d'un entretien) du site Nouvelle Énergie",
+  "citations": [
+    "Il faut réduire l’excuse de minorité",
+    "je compte créer un délit de pillage",
+    "green card"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Réduire l'excuse de minorité à 20 % maximum d'atténuation de la peine (au lieu de 50 %), abaisser l'âge de responsabilité pénale à 16 ans et accélérer les condamnations (code pénal des mineurs).",
+      "cout": "non établi.",
+      "cadre_juridique": "Le droit pénal des mineurs relève du Code de la justice pénale des mineurs. Le Conseil constitutionnel a reconnu (2002) un principe fondamental reconnu par les lois de la République de justice pénale des mineurs (atténuation de responsabilité selon l'âge, juridictions spécialisées) ; la convention internationale des droits de l'enfant et le droit européen sont aussi pertinents. Une atténuation plafonnée à 20 % et un seuil de 16 ans pourraient être contestés au regard de ce principe. Non vérifié ici.",
+      "competence": "Parlement (loi) ; justice (moyens des juridictions pour accélérer).",
+      "precedents": "non établi (proposition de loi citée par l'auteur, non consultée).",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Loi compatible avec le principe constitutionnel de justice des mineurs (à confirmer par le Conseil constitutionnel).",
+        "Moyens supplémentaires pour juger plus vite.",
+        "Ajustement avec les engagements internationaux de la France."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Le sens exact du « seuil de responsabilité » à 16 ans (au lieu du régime actuel de présomption de discernement à 13 ans) n'est pas précisé."
+    },
+    {
+      "texte": "Créer un délit de pillage permettant de réprimer les pillages collectifs tout en respectant l'individualité de la peine.",
+      "cout": "non établi (coût limité a priori ; non chiffré).",
+      "cadre_juridique": "Création d'une infraction par la loi (art. 34 de la Constitution) ; respect des principes de légalité et de nécessité des peines, et de responsabilité personnelle. Les faits de vol en réunion ou de dégradations sont déjà réprimés : valeur ajoutée à démontrer. Non vérifié ici.",
+      "competence": "Parlement.",
+      "precedents": "Proposition d'un magistrat citée par l'auteur ; non consultée.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Définition précise des éléments constitutifs pour respecter la légalité des délits.",
+        "Articulation avec les infractions existantes."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "Rédaction du délit non fournie."
+    },
+    {
+      "texte": "Faire accueillir des détenus dangereux dans les prisons de pays limitrophes (par exemple les Pays-Bas) contre un paiement inférieur à 130 € par place et par jour, en attendant de construire des places en France.",
+      "cout": "Non établi : l'auteur cite 130 € par jour et par place en France (chiffre non vérifié) et un tarif inférieur, sans contrat ni montant.",
+      "cadre_juridique": "Nécessiterait un accord international et une loi sur l'exécution des peines hors du territoire ; garanties relatives aux droits des détenus (CEDH, art. 3 et 8), au contrôle juridictionnel et au droit à la vie familiale. Non vérifié ici.",
+      "competence": "État (traités) ; accord du pays d'accueil.",
+      "precedents": "Des États ont loué des places de prison à l'étranger (par exemple la Belgique et la Norvège auprès des Pays-Bas) ; non vérifié ici.",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Accord bilatéral avec un pays disposant de places disponibles.",
+        "Cadre légal garantissant les droits des détenus et le contrôle d'un juge français.",
+        "Coût effectif démontré comme inférieur à celui d'une place française."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Disponibilité réelle de places dans les pays partenaires non établie."
+    },
+    {
+      "texte": "Élargir l'article 11 de la Constitution pour pouvoir organiser un référendum sur l'immigration (ou, à défaut, passer outre l'avis du Conseil constitutionnel, ou recourir à un nouveau texte constituant).",
+      "cout": "Non applicable / non établi.",
+      "cadre_juridique": "L'article 11 limite actuellement le référendum législatif à certains domaines ; l'élargir exige une révision constitutionnelle (art. 89). Le précédent invoqué est le référendum de 1962 (utilisation de l'article 11 pour réviser la Constitution), dont la régularité a été contestée à l'époque. Le Conseil constitutionnel s'est dit opposé à cette voie selon l'intervieweur. Non vérifié ici.",
+      "competence": "Président de la République, Parlement, peuple (référendum).",
+      "precedents": "Référendum de 1962 (cité par l'auteur) ; autres précédents non établis.",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Révision constitutionnelle régulière (accord des deux assemblées puis référendum ou Congrès), ou nouvelle assemblée constituante.",
+        "Respect des engagements internationaux et du droit de l'UE sur l'asile et le séjour."
+      ],
+      "fiabilite": "moyenne",
+      "doutes": "La voie consistant à « passer outre » le Conseil constitutionnel est juridiquement contestée."
+    },
+    {
+      "texte": "Ramener les titres de séjour légaux sous 100 000 par an et instaurer une « green card » à la française ; rendre non automatiques le titre de séjour et l'acquisition de la nationalité.",
+      "cout": "non établi.",
+      "cadre_juridique": "Le droit des étrangers relève de la loi (CESEDA, Code civil) ; limites constitutionnelles et conventionnelles (droit à la vie familiale, droit d'asile, droit de l'UE). Des quotas stricts ont été censurés ou encadrés par le passé : non vérifié ici. Chiffres cités par l'auteur (380 000 titres, 500 000 entrées légales, 13 % de motifs professionnels) non vérifiés.",
+      "competence": "État (loi) ; UE pour l'asile et les visas.",
+      "precedents": "non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Loi définissant la « green card » et les critères.",
+        "Compatibilité avec le droit au regroupement familial et le droit d'asile.",
+        "Cible chiffrée et calendrier non précisés."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Pas de précision sur la réduction du regroupement familial (87 % cité des titres) ni sur l'articulation avec le droit de l'UE."
+    },
+    {
+      "texte": "Créer des hubs de traitement des demandes d'asile et des centres de rétention à l'étranger, à titre d'essai.",
+      "cout": "non établi.",
+      "cadre_juridique": "Le droit de l'UE (procédures d'asile) et la CEDH (examen individuel, non-refoulement) encadrent fortement le traitement hors du territoire. Non vérifié ici.",
+      "competence": "État ; UE ; pays tiers d'accueil.",
+      "precedents": "L'auteur cite des essais en Allemagne, Autriche, Pays-Bas, Danemark ; des dispositifs comparables (Royaume-Uni–Rwanda, Italie–Albanie) ont connu des blocages judiciaires, de mémoire et non vérifiés ici.",
+      "verdict": "difficilement_faisable",
+      "conditions": [
+        "Accord avec des pays tiers et conformité au droit de l'UE.",
+        "Garanties d'accès au juge et à l'avocat.",
+        "Évaluation préalable de l'essai."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Aucun détail sur les pays partenaires."
+    }
+  ],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-27T17:55:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-27 17:47, sans recherche web)",
+  "notes": "Aucune source externe consultée pour cette analyse (pas de recherche web) : les éléments juridiques sont des repères généraux à vérifier ; les chiffres cités par l'auteur sont rapportés, non vérifiés. Établissements disciplinaires, drones, visas/Algérie, carte scolaire (cartée via QyRCC9dCZ9s) non recartés individuellement ; les formulations de l'auteur sur l'immigration ne sont pas évaluées sur le fond, seule leur faisabilité l'est."
+}

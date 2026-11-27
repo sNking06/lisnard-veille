@@ -1,0 +1,72 @@
+{
+  "id": "je-suis-pour-un-etat-fort-la-ou-il-est-necessaire",
+  "date": "2026-11-27T13:40:05.001Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/je-suis-pour-un-etat-fort-la-ou-il-est-necessaire/",
+  "statut": "ok",
+  "titre": "« Je suis pour un État fort là où il est nécessaire »",
+  "integration": {
+    "type": "none",
+    "id": "je-suis-pour-un-etat-fort-la-ou-il-est-necessaire"
+  },
+  "resume": "Compte rendu d'un entretien à l'ouverture du Congrès des maires : l'auteur dit vouloir un « État fort là où il est nécessaire », recentré sur sécurité, justice, santé et éducation, et détaille la réorganisation de 720 000 postes administratifs sur cinq ans, un contrat de travail unique, une réforme des retraites (répartition + capitalisation, âge légal à 65 ans), la fin de l'automaticité du droit du sol, une primaire ouverte de la droite et du centre et sa position vis-à-vis du RN.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie",
+  "citations": [
+    "Je suis pour un État fort là où il est nécessaire.",
+    "Il n'y a pas de fatalité à ce qu'on dépense plus d'argent qu'ailleurs"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Réorganiser environ 720 000 postes administratifs sur cinq ans : en réaffecter 300 000 vers des missions de terrain et en supprimer environ 400 000, grâce à la simplification des procédures.",
+      "cout": "non établi : économies annoncées sans chiffrage dans l'article ; effectifs cités non vérifiés ici.",
+      "cadre_juridique": "Les agents titulaires bénéficient de garanties statutaires (pas de licenciement pour suppression de poste ; reclassement, mobilité) ; la mesure relève de la loi (statut) et des lois de finances. Collectivités : libre administration (art. 72 de la Constitution) limitant ce que l'État peut imposer. Non vérifié ici.",
+      "competence": "État pour la fonction publique d'État ; collectivités et hôpitaux pour leurs propres agents.",
+      "precedents": "non établi.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Atteindre la baisse par départs non remplacés et mobilité plutôt que licenciements, sur le calendrier annoncé.",
+        "Loi précisant les périmètres (État, collectivités, hôpitaux).",
+        "Simplification effective des procédures avant les suppressions."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Définition de « postes administratifs » et répartition entre versants non fournies."
+    },
+    {
+      "texte": "Remplacer les contrats actuels par un contrat de travail unique dans lequel les salariés acquièrent progressivement des droits selon l'ancienneté.",
+      "cout": "non établi.",
+      "cadre_juridique": "Réforme du Code du travail par la loi ; compatibilité avec la convention n° 158 de l'OIT sur le licenciement (invoquée dans des litiges sur des contrats à droits progressifs antérieurs : à vérifier) et avec les exigences constitutionnelles sur le droit à l'emploi. Non vérifié ici.",
+      "competence": "État (loi) ; partenaires sociaux pour la concertation.",
+      "precedents": "Contrat nouvelles embauches (2005) et contrat première embauche (2006) en France : leur sort (requalification en justice, abandon) est rappelé de mémoire, non vérifié ici. L'auteur cite la Suisse et les Pays-Bas comme exemples de réglementations plus légères.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Loi définissant la progressivité des droits et les motifs de rupture.",
+        "Compatibilité avec le droit international du travail et le droit de l'UE.",
+        "Concertation avec les partenaires sociaux."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Paramètres (durées, droits par palier) non précisés."
+    },
+    {
+      "texte": "Créer progressivement un système mixte répartition/capitalisation (équivalent d'un point de PIB par an consacré à la transition, 25 à 30 % de capitalisation à terme) et, pour le système actuel, un âge légal de 65 ans avec 43,5 années de cotisation et un meilleur taux d'emploi des seniors.",
+      "cout": "non établi : l'article annonce une conférence de presse pour détailler le financement ; le coût d'un point de PIB par an n'est pas sourcé ici.",
+      "cadre_juridique": "Loi (Code de la sécurité sociale, loi de financement). Un âge légal et une durée de cotisation sont des paramètres déjà modifiés par la loi ; l'état actuel du droit n'a pas été vérifié ici.",
+      "competence": "Parlement ; partenaires sociaux.",
+      "precedents": "Voir les cartes du site déjà publiées sur la capitalisation obligatoire ; précédents étrangers non vérifiés ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Financement de la transition précisé.",
+        "Loi définissant gouvernance, garanties et droits acquis.",
+        "Négociation avec les partenaires sociaux."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Modalités annoncées comme à venir ; faisabilité chiffrée impossible à établir."
+    }
+  ],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-27T17:55:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-27 17:47, sans recherche web)",
+  "notes": "Aucune source externe consultée pour cette analyse (pas de recherche web) : les éléments juridiques sont des repères généraux à vérifier ; les chiffres cités par l'auteur sont rapportés, non vérifiés. Fin de l'automaticité du droit du sol et primaire non cartées ici (énoncé sans précision)."
+}

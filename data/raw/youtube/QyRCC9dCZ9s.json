@@ -1,0 +1,20 @@
+{
+  "id": "QyRCC9dCZ9s",
+  "reseau": "youtube",
+  "compte": "@david_lisnard",
+  "url": "https://www.youtube.com/watch?v=QyRCC9dCZ9s",
+  "embed": {
+    "type": "youtube",
+    "video_id": "QyRCC9dCZ9s"
+  },
+  "statut": "ok",
+  "date": "2026-11-27T14:01:01+00:00",
+  "titre": "David Lisnard invité de France Inter face à Benjamin Duhamel",
+  "description": "David Lisnard était l'invité de Benjamin Duhamel sur France Inter à 7h50 ce jeudi 26 novembre. \n\nSuivez moi sur mes réseaux 👇\n\nInstagram : https://www.instagram.com/davidlisnard/\nX : https://x.com/davidlisnard\nFacebook : https://www.facebook.com/lisnard.david\nTik Tok : https://www.tiktok.com/@david.lisnard\nLinkedIn : https://www.linkedin.com/in/david-lisnard-9b064917/\n\nAdhérer à Nouvelle Énergie 👉: https://soutenir.unenouvelleenergie.fr/adhesion",
+  "duree_s": 665,
+  "vues": 5273,
+  "transcription": {
+    "fichier": "data/transcripts/youtube-QyRCC9dCZ9s.txt",
+    "source": "sous-titres YouTube automatiques (non relus)"
+  }
+}

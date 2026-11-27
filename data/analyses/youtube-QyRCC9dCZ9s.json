@@ -1,0 +1,57 @@
+{
+  "id": "QyRCC9dCZ9s",
+  "date": "2026-11-27T14:01:01+00:00",
+  "source": "youtube",
+  "lien": "https://www.youtube.com/watch?v=QyRCC9dCZ9s",
+  "statut": "ok",
+  "titre": "David Lisnard invité de France Inter face à Benjamin Duhamel",
+  "integration": {
+    "type": "youtube",
+    "id": "QyRCC9dCZ9s"
+  },
+  "resume": "Entretien (~11 min) sur France Inter (26/11). Positionnement : l'invité dit oui à des débats « avec un vote, une primaire », refuse de se prononcer sur un second tour Philippe–Le Pen pour préserver une alternative aux deux extrêmes, et défend une compétition avant le premier tour. Sur l'éducation, il propose la suppression de la carte scolaire avec financement public suivant le choix des parents et un statut contractuel des enseignants. Les autres échanges (sondages, relations avec le RN, Éric Zemmour, vote de 2022) ne contiennent pas de mesure.",
+  "base_du_resume": "sous-titres YouTube automatiques (non relus) ; transcription gardée en local seulement",
+  "citations": [
+    "le financement public suive le choix des parents",
+    "je dis oui à tous les débats avec un vote, une primaire"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Supprimer la carte scolaire (au moins en milieu urbain) et faire suivre le financement public par le choix des parents, avec le mérite comme critère d'admission.",
+      "cout": "non établi : aucun chiffrage dans l'entretien ; le coût dépendrait du mécanisme (bon scolaire, forfait par élève, transport, places disponibles).",
+      "cadre_juridique": "La sectorisation relève du Code de l'éducation et de textes réglementaires : sa suppression peut en partie se faire par décret/arrêtés. Un financement public suivant l'élève vers des établissements privés ou autonomes toucherait aux principes de liberté de l'enseignement et de laïcité (cadre constitutionnel à vérifier) et au régime des contrats d'association. Non vérifié ici.",
+      "competence": "État (loi/règlement), communes, départements et régions pour les bâtiments ; échelon exact non établi.",
+      "precedents": "L'auteur cite l'Estonie, des pays scandinaves et des cantons suisses ; non vérifiés ici. Assouplissements de la carte scolaire en France (2007) : non vérifiés ici.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Définir le critère de « mérite » et les règles d'affectation lorsque les places sont limitées, dans le respect du principe d'égalité.",
+        "Mécanisme de financement et de contrôle des établissements précisé par la loi.",
+        "Capacités d'accueil et transport pour éviter des « déserts éducatifs » évoqués par l'intervieweur."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Le mécanisme n'est pas détaillé dans l'entretien ; les effets sur la mixité sociale cités par l'auteur ne sont pas établis ici."
+    },
+    {
+      "texte": "Créer un corps unique d'enseignants contractuels (à terme moins de fonctionnaires dans l'Éducation nationale), la rémunération d'un contractuel étant, selon l'auteur, supérieure d'environ 20 %.",
+      "cout": "non établi : le surcoût de +20 % de rémunération est une affirmation orale non sourcée ; la masse salariale concernée n'est pas fournie.",
+      "cadre_juridique": "Les emplois permanents de l'État sont en principe occupés par des fonctionnaires recrutés par concours, avec dérogations légales (contrats) : passage à un corps de contractuels nécessiterait une loi (statut général de la fonction publique). Droits acquis des titulaires à respecter. Non vérifié ici.",
+      "competence": "État (Parlement, ministère de l'Éducation nationale).",
+      "precedents": "non établi (l'auteur dit que cela « se fait partout dans le monde » sans citer de pays).",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Loi réformant le statut des enseignants, avec transition pour les titulaires.",
+        "Financement de la revalorisation annoncée.",
+        "Dispositif d'affectation pour garantir la présence d'enseignants dans les établissements difficiles."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Intitulé « corps unique de contractuels » repris de l'intervieweur ; le détail du dispositif n'est pas donné."
+    }
+  ],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-27T17:55:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-27 17:47, sans recherche web)",
+  "notes": "Aucune source externe consultée pour cette analyse (pas de recherche web) : les éléments juridiques sont des repères généraux à vérifier ; les chiffres cités par l'auteur sont rapportés, non vérifiés. Propositions de la primaire non cartées (processus politique, non une mesure publique)."
+}

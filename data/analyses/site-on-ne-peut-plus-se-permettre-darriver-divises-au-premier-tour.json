@@ -1,0 +1,53 @@
+{
+  "id": "on-ne-peut-plus-se-permettre-darriver-divises-au-premier-tour",
+  "date": "2026-11-27T13:41:36.635Z",
+  "source": "site",
+  "lien": "https://www.unenouvelleenergie.fr/on-ne-peut-plus-se-permettre-darriver-divises-au-premier-tour/",
+  "statut": "ok",
+  "titre": "« On ne peut plus se permettre d'arriver divisés au premier tour »",
+  "integration": {
+    "type": "none",
+    "id": "on-ne-peut-plus-se-permettre-darriver-divises-au-premier-tour"
+  },
+  "resume": "Compte rendu d'un entretien après la réélection de l'auteur à la tête de l'AMF (plus de 72 % cités) : il défend un débat suivi d'un vote (primaire) pour éviter la division au premier tour, annonce un gouvernement d'environ quinze ministres autour de trois priorités (prospérité, ordre et sécurité, ambition éducative), plaide pour recentrer l'État et réduire la bureaucratie, propose de généraliser le régime de la loi Notre-Dame de Paris et réécrire le Code du travail, et rappelle sa proposition de système de retraites mêlant répartition et capitalisation obligatoire (âge légal 65 ans), déjà cartée.",
+  "base_du_resume": "texte de l'article du site Nouvelle Énergie",
+  "citations": [
+    "On ne redresse pas un pays avec une mesure.",
+    "Il faut dépenser moins pour cotiser moins, pour gagner plus"
+  ],
+  "analyse_realisee": true,
+  "propositions": [
+    {
+      "texte": "Former un gouvernement resserré d'environ quinze ministres, avec un grand ministère du Savoir (éducation et culture) et une obligation de résultats.",
+      "cout": "Non établi (pas de chiffrage ; économie éventuelle de structure non démontrée).",
+      "cadre_juridique": "Constitution, art. 8 : le président nomme les ministres sur proposition du Premier ministre ; la taille et les attributions relèvent de décrets d'organisation. Une « obligation de résultats » n'a pas de traduction juridique contraignante précisée. Non vérifié ici.",
+      "competence": "Président de la République et Premier ministre.",
+      "precedents": "non établi.",
+      "verdict": "faisable",
+      "conditions": [],
+      "fiabilite": "moyenne",
+      "doutes": "La mesure dépend d'équilibres politiques ; le contenu de l'« obligation de résultats » n'est pas défini."
+    },
+    {
+      "texte": "Généraliser au droit commun les simplifications juridiques de la loi Notre-Dame de Paris (et, plus largement, réécrire le Code du travail pour des règles moins nombreuses mais protectrices).",
+      "cout": "non établi : « économies » annoncées sans chiffre.",
+      "cadre_juridique": "Les dérogations ont été adoptées par loi pour un chantier précis (loi de 2019 sur Notre-Dame ; régime des Jeux olympiques 2024). Leur généralisation se heurterait au droit de l'UE (marchés publics, évaluation environnementale) et au droit de l'environnement ; contrôle du Conseil constitutionnel possible. Non vérifié ici.",
+      "competence": "État (loi) ; UE pour les directives ; collectivités pour l'application.",
+      "precedents": "Régimes dérogatoires français Notre-Dame et JO (cités par l'auteur) ; allègements comparables à l'étranger (Allemagne, Pays-Bas, Suisse) cités sans source.",
+      "verdict": "faisable_sous_conditions",
+      "conditions": [
+        "Distinguer les dérogations compatibles avec le droit de l'UE et celles qui ne le sont pas.",
+        "Maintenir les normes de protection des personnes et de l'environnement, que l'auteur dit vouloir préserver.",
+        "Réécriture législative étalée dans le temps."
+      ],
+      "fiabilite": "faible",
+      "doutes": "Périmètre exact des règles généralisées non précisé."
+    }
+  ],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-27T17:55:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-27 17:47, sans recherche web)",
+  "notes": "Aucune source externe consultée pour cette analyse (pas de recherche web) : les éléments juridiques sont des repères généraux à vérifier ; les chiffres cités par l'auteur sont rapportés, non vérifiés. Retraites et primaire non recartées ici (voir cartes du site/YouTube)."
+}
