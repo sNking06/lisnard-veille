@@ -1,0 +1,13 @@
+{
+  "id": "S_W3du0Oo_c",
+  "reseau": "youtube",
+  "compte": "@david_lisnard",
+  "url": "https://www.youtube.com/watch?v=S_W3du0Oo_c",
+  "embed": {
+    "type": "youtube",
+    "video_id": "S_W3du0Oo_c"
+  },
+  "statut": "degraded",
+  "date": null,
+  "erreur": "[Errno 2] No such file or directory: '/tmp/tmpep85wd3i/S_W3du0Oo_c.info.json'"
+}
