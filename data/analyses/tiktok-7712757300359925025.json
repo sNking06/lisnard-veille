@@ -1,0 +1,24 @@
+{
+  "statut": "ok",
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-27T09:50:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-27 09:47)",
+  "id": "7712757300359925025",
+  "date": "2026-11-27T07:57:36+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7712757300359925025",
+  "integration": {
+    "type": "tiktok",
+    "id": "7712757300359925025"
+  },
+  "resume": "Extrait (~22 s) : en réponse à une question sur Édouard Philippe, le compte exprime un désaccord sur sa capacité à trancher et dit vouloir faire gagner son projet « pour libérer notre pays », en espérant des soutiens de tous horizons, y compris du RN. Prise de position politique, aucune proposition de politique publique : pas d'analyse de faisabilité.",
+  "base_du_resume": "sous-titres automatiques TikTok (non relus), pas de légende",
+  "citations": [
+    "faire gagner mon projet"
+  ],
+  "notes": "Propos sur un tiers non vérifiés ici. Aucun verdict. Sous-titres approximatifs."
+}
