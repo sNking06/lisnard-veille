@@ -1,0 +1,24 @@
+{
+  "id": "7712936307663637793",
+  "date": "2026-11-27T19:32:09+00:00",
+  "source": "tiktok",
+  "lien": "https://www.tiktok.com/@david.lisnard/video/7712936307663637793",
+  "statut": "ok",
+  "integration": {
+    "type": "tiktok",
+    "id": "7712936307663637793"
+  },
+  "resume": "Vidéo courte (~35 s) sur les retraites : l'auteur affirme que le système actuel fait porter le coût aux générations futures, rappelle qu'il défend depuis des années une part de capitalisation obligatoire en parallèle d'une part de répartition, et cite un montant de 85 milliards d'euros ajoutés par l'État aux cotisations. La mesure n'est qu'esquissée (pas de taux, de calendrier ni de mode de transition) ; le chiffre cité n'est pas sourcé dans la vidéo et n'a pas été vérifié ici (non établi).",
+  "base_du_resume": "transcription automatique (non relue)",
+  "citations": [
+    "une part de capitalisation obligatoire parallèlement une part de répartition"
+  ],
+  "analyse_realisee": false,
+  "propositions": [],
+  "sources": [],
+  "analyse_ia": true,
+  "avertissement": "Analyse générée par IA, peut contenir des erreurs.",
+  "genere_le": "2026-11-28T09:45:00+01:00",
+  "genere_par": "Grok Bot (routine Veille Lisnard 2026-11-28 09:47, sans recherche web)",
+  "notes": "Proposition évoquée sans détail ; pas d'analyse de faisabilité à ce stade."
+}
